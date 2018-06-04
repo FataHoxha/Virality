@@ -11,12 +11,7 @@ import matplotlib as mpl
 from sklearn.cluster import KMeans
 from sklearn.manifold import MDS
 from sklearn.metrics.pairwise import cosine_similarity
-from sklearn.metrics.pairwise import pairwise_distances_argmin_min
-from sklearn.metrics.pairwise import pairwise_distances
 from sklearn.manifold import TSNE
-from scipy.spatial import distance
-from sklearn.metrics import  pairwise 
-from scipy.sparse import vstack
 nlp = spacy.load('en_core_web_lg')
 jfile = json.load(open('output/comments_out.json'))
 from pandas import *
@@ -117,13 +112,10 @@ def cluster_comments(matrix_comment, nb_of_clusters, matrix_caption):
 	#print "clusters:", clusters
 	
 	centers = kmeans.cluster_centers_
-	#print "centers:",centers
-	
 	labels=kmeans.labels_
 	
 	prediction=kmeans.predict(matrix_caption)
-	print "inertia", kmeans.inertia_
-	#print "prediction", prediction
+	print "prediction", prediction
 
 	return dict(clusters),labels, centers, prediction
 	
@@ -135,43 +127,30 @@ def k_mean_distance(data, cx, cy, i_centroid, cluster_labels):
 
 
 def plot_cluster(matrix_comment,labels,predicted_label, centers,img_id, matrix_caption, caption):
+
 	
-	
-	# append comment-caption-centers in same matrix -> than pass it do dim reduction
-	plot_matrix = []
-	matrix_comment=np.array(matrix_comment)
-	comm_num_rows, comm_num_cols = matrix_comment.shape
-	
-	matrix_caption=np.array(matrix_caption)
-	cap_num_rows, cap_num_cols = matrix_caption.shape
-	
-	centers=np.array(centers)
-	center_num_rows, center_num_cols = centers.shape
-	
-	plot_matrix=vstack((matrix_comment,matrix_caption,centers))
-	print "plot_matrix new dimension ->", plot_matrix.shape
 	
 	# convert two components as we're plotting points in a two-dimensional plane
 	# "precomputed" because we provide a distance matrix
 	# we will also specify `random_state` so the plot is reproducible.
-	
-	mds_model = TSNE(n_components=2,perplexity=40.0,metric='euclidean', random_state=1)
-	dist_comm = 1 - cosine_similarity(plot_matrix)
-	plot_matrix_embedded =mds_model.fit_transform(dist_comm)
-	a= (np.array(plot_matrix_embedded)).shape
+
 	
 	
+	mds_model = TSNE(n_components=2, random_state=1,n_iter=1000)
+	dist_comm = 1 - cosine_similarity(matrix_comment)
+	comm_embedded =mds_model.fit_transform(dist_comm)
+	
+	scatter_x=comm_embedded[:, 0]
+	scatter_y=comm_embedded[:, 1]
+	
+
 	
 	cdict = {0: 'red', 1: 'blue', 2: 'green', 3:'dodgerblue', 4:'purple',5: 'orchid', 6: 'darkcyan', 7: 'pink', 8: 'yellow', 9: 'turquoise', 10: 'darkviolet',11:'orange'}
-	scatter_x=plot_matrix_embedded[:comm_num_rows, 0]
-	scatter_y=plot_matrix_embedded[:comm_num_rows, 1]
-	
-	"""
 	fig, ax = plt.subplots()
 	
 	for l in np.unique(labels):
 		ix = np.where(labels == l)
-		ax.scatter(scatter_x, scatter_y, c = cdict[l], label = l, s = 50)
+		ax.scatter(scatter_x[ix], scatter_y[ix], c = cdict[l], label = l, s = 50)
 	ax.legend()
 
 	#plot the caption value
@@ -182,42 +161,25 @@ def plot_cluster(matrix_comment,labels,predicted_label, centers,img_id, matrix_c
 	
 	scatter_x1=cap_embedded[:, 0]
 	scatter_y1=cap_embedded[:, 1]
-	"""
 	caption = caption.split()
-	label_color = [cdict[l] for l in labels]
-	plt.scatter(scatter_x, scatter_y, c=label_color)
+
 	for i, caption in enumerate(caption_list):
 		c=predicted_label[i]
-		#plt.text(plot_matrix_embedded[54:59, 0],plot_matrix_embedded[54:59, 1], caption_list[i],color=cdict[c], size=14)
-		center_num_rows=comm_num_rows+cap_num_rows
-		print center_num_rows
-		plt.scatter(plot_matrix_embedded[comm_num_rows:center_num_rows, 0],plot_matrix_embedded[comm_num_rows:center_num_rows, 1],  s=70, color=cdict[c], marker='+')
-		#plt.scatter(scatter_x, scatter_y, s=10, c=cdict[c], alpha=0.5)
-		
-		plt.scatter(plot_matrix_embedded[center_num_rows:, 0],plot_matrix_embedded[center_num_rows:, 1], color='black', s=100, alpha=0.5)
+		plt.text(scatter_x1[i], scatter_y1[i], caption_list[i],color=cdict[c], size=14)
+		plt.scatter(scatter_x1[i], scatter_y1[i],  s=110, color=cdict[c], marker='+')
 		
 	#plot the centroid
+	dist_centr = 1 - cosine_similarity(centers)
+	transformed_centroids =mds_model.fit_transform(dist_centr)
+	plt.scatter(transformed_centroids[:, 0], transformed_centroids[:, 1],color='black', s=110, alpha=0.5)
 	
 	
-	
-	
-	
-	#plt.savefig(str(img_id) + '.png')
-	plt.show()
+	plt.savefig(str(img_id) + '.png')
+	#plt.show()
 
-def row_norms(X, squared=False):
-    """Row-wise (squared) Euclidean norm of X.
-    Equivalent to np.sqrt((X * X).sum(axis=1)), but also supports sparse
-    matrices and does not create an X.shape-sized temporary.
-    Performs no input validation.
-    """
-    norms = np.einsum('ij,ij->i', X, X)
-
-    if not squared:
-        np.sqrt(norms, norms)
-    return norms
-
-        
+def k_mean_distance(data, cx, cy, i_centroid, cluster_labels):
+        distances = [np.sqrt((x-cx)**2+(y-cy)**2) for (x, y) in data[cluster_labels == i_centroid]]
+        return distances
 """clusters=km.fit_predict(data2D)
 centroids = km.cluster_centers_
 
@@ -226,15 +188,7 @@ for i, (cx, cy) in enumerate(centroids):
     mean_distance = k_mean_distance(data2D, cx, cy, i, clusters)
     distances.append(mean_distance)
 
-print(distances)
-dists = []
-for row in matr:
-    dists.append(scipy.spatial.distance.cosine(matr[0,:], row))
-    
-def k_mean_distance(data, cx, cy, i_centroid, cluster_labels):
-        distances = [np.sqrt((x-cx)**2+(y-cy)**2) for (x, y) in data[cluster_labels == i_centroid]]
-        return distances
-"""
+print(distances)"""
 
 if __name__ == "__main__":
 
@@ -252,48 +206,37 @@ if __name__ == "__main__":
 		
 		#print "Caption --- ", caption
 		caption_clean=clean_text(caption)
-		print "Caption cleaned --- ", caption_clean
+		#print "Caption cleaned --- ", caption_clean
 		
 	
 		#convert commetn text in a matrix similarity
 		matrix_comment = comment_to_matrix(comment_clean)
-		matrix_comm=np.array(matrix_comment)
-		print "matrix comment dim", matrix_comm.shape
-		#print DataFrame(matrix_comm)
-		#print "------------------------------------------end comment------------------------------" 
+		X=np.array(matrix_comment)
+		print "matrix comment dim", X.shape
+		print DataFrame(X)
+		print "------------------------------------------end comment------------------------------"
 		matrix_caption = caption_to_matrix(caption_clean, comment_clean)
-		#precompute squared norms of data points
-		
-		matrix_cap= np.array(matrix_caption)
-		print "matrix caption", matrix_cap.shape
-		#print DataFrame(matrix_cap)
-
-		#print "------------------------------------------end caption------------------------------" 
+		Y= np.array(matrix_caption)
+		print "matrix caption", Y.shape
+		print DataFrame(Y)
+		print "------------------------------------------end caption------------------------------"
 	
 		#print and plot clusters
 		nclusters= 5
 		clusters, labels, centers, predicted_label = cluster_comments(matrix_comment, nclusters, matrix_caption)
-		print "matrix centroid ", centers.shape
-		#print DataFrame(centers)
-		#print "------------------------------------------end centroid------------------------------"
-		labels_cap, mindist_caption = pairwise_distances_argmin_min(X=matrix_caption, Y=centers, metric='euclidean', metric_kwargs={'squared': False})
-		#print "mindist_caption"
-		#print mindist_caption
-		dist_caption = pairwise_distances(X=matrix_caption, Y=centers, metric='euclidean')
-		#print "dist_caption"
-		#print dist_caption
-		print "------------------------------------------caption - centroid------------------------------"
-		labels_comm, mindist_comment = pairwise_distances_argmin_min(X=matrix_comment, Y=centers, metric='euclidean', metric_kwargs={'squared': True})
-		#print "mindist_comment"
-		#print mindist_comment
-		dist_comment = pairwise_distances(X=matrix_comment, Y=centers, metric='euclidean')
-		#print "dist_comment"
-		#print dist_comment
-		print "------------------------------------------comment - centroid------------------------------"
-
-
+		#print "matrix centroid ", centers.shape
+		print DataFrame(centers)
+		print "------------------------------------------end centroid------------------------------"
+		
+		"""	
+		print "value returned from the cluster_comments function:"
+		print "clusters", clusters
+		print "comment labels", labels
+		print "centers", centers
+		print "predicted_label", predicted_label 
+		"""
 		caption_list = caption_clean.split()
-	
+		
 		for cluster in range(nclusters):
 			print "cluster ",cluster,":"
 			for j, caption in enumerate(caption_list):
@@ -311,27 +254,6 @@ if __name__ == "__main__":
 						print "comment word",sent,": ", text
 					counter+=1
 	
-		#closest, _ = pairwise_distances_argmin_min(centers, matrix_caption)
-		#print closest
-
-		#word near to the centroid
-		#order_centroids=centers.argsort()[:, ::-1]
-		#print order_centroids
-		
-		#for cluster in range(nclusters):
-			#print "cluster ",cluster,":"
-			#5 most common word
-		#	for ind in order_centroids[cluster, :8]: 
-		#		text=None
-		#		counter=0
-				#print "ind", ind
-		#		for word in comment_clean.split():
-		#			text=word
-		#			if (counter==ind):
-		#				print "comment word",ind,": ", text
-		#			counter+=1
-					
-				#rint(' %s' % vocab_frame.ix[terms[ind].split(' ')].values.tolist()[0][0].encode('utf-8', 'ignore'))
 		plot_cluster(matrix_comment, labels,predicted_label, centers, img_id, matrix_caption, caption_clean)
-		#print "--------------------------------------------------
-		
+		#print "--------------------------------------------------"""
+                            
