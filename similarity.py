@@ -114,127 +114,84 @@ def cluster_comments(matrix_comment, nb_of_clusters, matrix_caption):
 	clusters = collections.defaultdict(list)
 	for i, label in enumerate(kmeans.labels_):
 		clusters[label].append(i)
-	#print "clusters:", clusters
 	
 	centers = kmeans.cluster_centers_
-	#print "centers:",centers
-	
-	labels=kmeans.labels_
-	
+	labels=kmeans.labels_	
 	prediction=kmeans.predict(matrix_caption)
-	print "inertia", kmeans.inertia_
-	#print "prediction", prediction
 
 	return dict(clusters),labels, centers, prediction
 	
 	
-def k_mean_distance(data, cx, cy, i_centroid, cluster_labels):
-	distances = [np.sqrt((x-cx)**2+(y-cy)**2) for (x, y) in data[cluster_labels == i_centroid]]
-	return distances
-	
-
 
 def plot_cluster(matrix_comment,labels,predicted_label, centers,img_id, matrix_caption, caption):
+	cdict = {0: 'red', 1: 'blue', 2: 'green', 3:'dodgerblue', 4:'purple',5: 'orchid', 6: 'darkcyan', 7: 'pink', 8: 'yellow', 9: 'turquoise', 10: 'darkviolet',11:'orange'}
 	
+	"""
+	-->1) Prepare the matrix to be plotted = comment+caption+cluster
 	
-	# append comment-caption-centers in same matrix -> than pass it do dim reduction
+		append comment-caption-centers in same matrix -> than pass it do dim reduction
+		save num column&row -> use them as range to plot matrix content
+	"""
 	plot_matrix = []
+	#matrix comment converted to np array, col&row saved
 	matrix_comment=np.array(matrix_comment)
 	comm_num_rows, comm_num_cols = matrix_comment.shape
 	
+	#matrix caption converted to np array, col&row saved
 	matrix_caption=np.array(matrix_caption)
 	cap_num_rows, cap_num_cols = matrix_caption.shape
 	
 	centers=np.array(centers)
 	center_num_rows, center_num_cols = centers.shape
-	
+	#stack of 3 matrix
 	plot_matrix=vstack((matrix_comment,matrix_caption,centers))
-	print "plot_matrix new dimension ->", plot_matrix.shape
-	
-	# convert two components as we're plotting points in a two-dimensional plane
-	# "precomputed" because we provide a distance matrix
-	# we will also specify `random_state` so the plot is reproducible.
-	
-	mds_model = TSNE(n_components=2,perplexity=40.0,metric='euclidean', random_state=1)
-	dist_comm = 1 - cosine_similarity(plot_matrix)
-	plot_matrix_embedded =mds_model.fit_transform(dist_comm)
-	a= (np.array(plot_matrix_embedded)).shape
-	
-	
-	
-	cdict = {0: 'red', 1: 'blue', 2: 'green', 3:'dodgerblue', 4:'purple',5: 'orchid', 6: 'darkcyan', 7: 'pink', 8: 'yellow', 9: 'turquoise', 10: 'darkviolet',11:'orange'}
-	scatter_x=plot_matrix_embedded[:comm_num_rows, 0]
-	scatter_y=plot_matrix_embedded[:comm_num_rows, 1]
 	
 	"""
-	fig, ax = plt.subplots()
+	-->2) dim reduction of the matrix to be plotted -> 2D
 	
+		dim reduction on the whole matrix in a 2D as we're plotting points in a two-dimensional plane
+		t-sne used to apply dim reduction
+	"""
+	tsne_model = TSNE(n_components=2,perplexity=40.0, learning_rate=400.0, metric='euclidean', random_state=1)
+	dense_mat= plot_matrix.toarray()
+	plot_matrix_embedded =tsne_model.fit_transform(dense_mat)
+	
+	"""
+	-->3) Start plotting all the component of the matrix and put correct range
+	"""
+	#prepare scatter plot for comment
+	scatter_comm_x= plot_matrix_embedded[:comm_num_rows, 0]
+	scatter_comm_y= plot_matrix_embedded[:comm_num_rows, 1]
+	
+	#prepare scatter plot for caption
+	cap_range_max=comm_num_rows+cap_num_rows
+	scatter_cap_x= plot_matrix_embedded[comm_num_rows:cap_range_max, 0]
+	scatter_cap_y= plot_matrix_embedded[comm_num_rows:cap_range_max, 1]
+	
+	#prepare scatter plot for centroids
+
+	scatter_cent_x= plot_matrix_embedded[cap_range_max:, 0]
+	scatter_cent_y= plot_matrix_embedded[cap_range_max:, 1]
+	
+
+	
+	#plot COMMENT 
+	fig, ax = plt.subplots()
 	for l in np.unique(labels):
 		ix = np.where(labels == l)
-		ax.scatter(scatter_x, scatter_y, c = cdict[l], label = l, s = 50)
+		ax.scatter(scatter_comm_x[ix], scatter_comm_y[ix], c = cdict[l], label = l, s = 50)
 	ax.legend()
-
-	#plot the caption value
-	#add label in x,y position with the label as the film title
-	
-	dist_cap = 1 - cosine_similarity(matrix_caption)
-	cap_embedded =mds_model.fit_transform(dist_cap)
-	
-	scatter_x1=cap_embedded[:, 0]
-	scatter_y1=cap_embedded[:, 1]
-	"""
+	#plot CENTROIDS
+	plt.scatter(scatter_cent_x,scatter_cent_y, color='black', s=100, alpha=0.7)
+	#plot CAPTION with text
 	caption = caption.split()
-	label_color = [cdict[l] for l in labels]
-	plt.scatter(scatter_x, scatter_y, c=label_color)
 	for i, caption in enumerate(caption_list):
 		c=predicted_label[i]
-		#plt.text(plot_matrix_embedded[54:59, 0],plot_matrix_embedded[54:59, 1], caption_list[i],color=cdict[c], size=14)
-		center_num_rows=comm_num_rows+cap_num_rows
-		print center_num_rows
-		plt.scatter(plot_matrix_embedded[comm_num_rows:center_num_rows, 0],plot_matrix_embedded[comm_num_rows:center_num_rows, 1],  s=70, color=cdict[c], marker='+')
-		#plt.scatter(scatter_x, scatter_y, s=10, c=cdict[c], alpha=0.5)
-		
-		plt.scatter(plot_matrix_embedded[center_num_rows:, 0],plot_matrix_embedded[center_num_rows:, 1], color='black', s=100, alpha=0.5)
-		
-	#plot the centroid
-	
-	
-	
-	
+		plt.scatter(scatter_cap_x[i],scatter_cap_y[i],  s=110, color=cdict[c], marker='+')
+		plt.text(scatter_cap_x[i],scatter_cap_y[i], caption_list[i], color=cdict[c], size=14)
 	
 	#plt.savefig(str(img_id) + '.png')
 	plt.show()
-
-def row_norms(X, squared=False):
-    """Row-wise (squared) Euclidean norm of X.
-    Equivalent to np.sqrt((X * X).sum(axis=1)), but also supports sparse
-    matrices and does not create an X.shape-sized temporary.
-    Performs no input validation.
-    """
-    norms = np.einsum('ij,ij->i', X, X)
-
-    if not squared:
-        np.sqrt(norms, norms)
-    return norms
-
-        
-"""clusters=km.fit_predict(data2D)
-centroids = km.cluster_centers_
-
-distances = []
-for i, (cx, cy) in enumerate(centroids):
-    mean_distance = k_mean_distance(data2D, cx, cy, i, clusters)
-    distances.append(mean_distance)
-
-print(distances)
-dists = []
-for row in matr:
-    dists.append(scipy.spatial.distance.cosine(matr[0,:], row))
-    
-def k_mean_distance(data, cx, cy, i_centroid, cluster_labels):
-        distances = [np.sqrt((x-cx)**2+(y-cy)**2) for (x, y) in data[cluster_labels == i_centroid]]
-        return distances
-"""
 
 if __name__ == "__main__":
 
