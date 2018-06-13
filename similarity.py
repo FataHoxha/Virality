@@ -7,6 +7,7 @@ from matplotlib import cbook
 from gensim.models import word2vec
 import matplotlib.pyplot as plt
 import matplotlib as mpl
+from matplotlib.patches import Circle
 from sklearn.cluster import KMeans
 from sklearn.manifold import MDS
 from sklearn.metrics.pairwise import cosine_similarity
@@ -17,7 +18,7 @@ from scipy.spatial import distance
 from sklearn.metrics import  pairwise 
 from scipy.sparse import vstack
 nlp = spacy.load('en_core_web_lg')
-jfile = json.load(open('output/comments_out.json'))
+jfile = json.load(open('output/comment_caption.json'))
 from pandas import *
 
 #workaround beacuse in this model they have no stop words
@@ -172,16 +173,38 @@ def plot_cluster(matrix_comment,labels,predicted_label, centers,img_id, matrix_c
 	scatter_cent_x= plot_matrix_embedded[cap_range_max:, 0]
 	scatter_cent_y= plot_matrix_embedded[cap_range_max:, 1]
 	
-
-	
 	#plot COMMENT 
 	fig, ax = plt.subplots()
 	for l in np.unique(labels):
 		ix = np.where(labels == l)
-		ax.scatter(scatter_comm_x[ix], scatter_comm_y[ix], c = cdict[l], label = l, s = 50)
+		#ax.scatter(scatter_comm_x[ix], scatter_comm_y[ix], c = cdict[l], label = l, s = 50)
+		print "ix:", ix
+		print "scatter_inner comm_x"
+		print DataFrame(scatter_comm_x[ix])
+
+		print "scatter_inner comm_y"
+		print DataFrame(scatter_comm_y[ix])
+		print ""
+		
+		i=scatter_comm_x[ix]
+		avg_comm_x= sum(i) / float(len(i))
+		print "avg x", avg_comm_x
+		
+		j=scatter_comm_y[ix]
+		avg_comm_y= sum(j) / float(len(j))
+		print "avg y", avg_comm_y
+		print""
+		
+		print "scatter_inner center_x"
+		print scatter_cent_x[l]
+		print "scatter_inner center_y"
+		print scatter_cent_y[l]
+		#ax.scatter(scatter_cent_x[l],scatter_cent_y[l], c = cdict[l], s=100, alpha=0.7)
+		circle = Circle((scatter_cent_x[l],scatter_cent_y[l]), 0.98)
+		ax.add_artist(circle)
 	ax.legend()
 	#plot CENTROIDS
-	plt.scatter(scatter_cent_x,scatter_cent_y, color='black', s=100, alpha=0.7)
+	#plt.scatter(scatter_cent_x,scatter_cent_y, color='black', s=100, alpha=0.7)
 	#plot CAPTION with text
 	caption = caption.split()
 	for i, caption in enumerate(caption_list):
@@ -320,6 +343,7 @@ if __name__ == "__main__":
 					if (counter==ind):
 						print "comment word",ind,": ", text
 					counter+=1"""
-		#plot_cluster(matrix_comment, labels,predicted_label, centers, img_id, matrix_caption, caption_clean)
+		
+		plot_cluster(matrix_comment, labels,predicted_label, centers, img_id, matrix_caption, caption_clean)
 		#print "--------------------------------------------------
 		
