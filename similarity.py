@@ -3,7 +3,6 @@ import spacy
 import collections
 import numpy as np
 import re
-from data_cursor import DataCursor
 from matplotlib import cbook
 from gensim.models import word2vec
 import matplotlib.pyplot as plt
@@ -190,7 +189,7 @@ def plot_cluster(matrix_comment,labels,predicted_label, centers,img_id, matrix_c
 		plt.scatter(scatter_cap_x[i],scatter_cap_y[i],  s=110, color=cdict[c], marker='+')
 		plt.text(scatter_cap_x[i],scatter_cap_y[i], caption_list[i], color=cdict[c], size=14)
 	
-	#plt.savefig(str(img_id) + '.png')
+	plt.savefig(str(img_id) + '.png')
 	plt.show()
 
 if __name__ == "__main__":
@@ -288,6 +287,7 @@ if __name__ == "__main__":
 
 		#comment word near to the centroid
 		order_centroids=centers.argsort()[:, ::-1]
+		print order_centroids
 
 		print "----------------------------------5word-> TOPIC OUTPUT----------------------------------" 
 		print ""
@@ -319,7 +319,7 @@ if __name__ == "__main__":
 					text=word
 					if (counter==ind):
 						print "comment word",ind,": ", text
-					counter+=1
-		plot_cluster(matrix_comment, labels,predicted_label, centers, img_id, matrix_caption, caption_clean)"""
+					counter+=1"""
+		#plot_cluster(matrix_comment, labels,predicted_label, centers, img_id, matrix_caption, caption_clean)
 		#print "--------------------------------------------------
 		

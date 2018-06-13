@@ -3,13 +3,13 @@ import spacy
 
 from spacy.lang.en import English
 nlp = English()
-json_comment_name='100612175927429294541.json'
-caption = json.load(open('caption.json'))
+json_comment_name='input_json/10061217592742929454new.json'
+caption = json.load(open('input_json/caption.json'))
 comment = json.load(open(json_comment_name))
 obj={}
 data=[]
 counter_total_elemt=0
-with open('output/comments_out.json','w') as jfile:
+with open('output/comment_caption.json','w') as jfile:
 	#jfile.write('{"gresults":[')
 	for img_caption in caption['results']:
 		counter_total_elemt+=1

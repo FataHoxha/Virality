@@ -14,7 +14,7 @@ def cleanhtml(raw_html):
   cleanr = re.compile('<.*?>')
   cleantext = re.sub(cleanr, '', raw_html)
   return cleantext
-jfile='100612175927429294541.json'
+jfile='input_json/10061217592742929454new.json'
 #import json and the comment part
 with open(jfile, 'r') as file:
 	comment = json.load(file)
@@ -52,8 +52,9 @@ with open(jfile, 'r') as file:
 		
 			#remove the punctation
 			text = re.sub(r'[^\w\s]',' ',text)
-			
-			text = str(text).replace('\t', ' ').replace('\n', '');
+			text = str(text).replace('\t', ' ').replace('\n', '')
+			#remove digits
+			text = re.sub("\d+", "", text)
 			#put everything in lowercase
 			text = text.lower()
 			#remove the double space
