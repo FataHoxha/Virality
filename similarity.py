@@ -3,8 +3,8 @@ import spacy
 import collections
 import numpy as np
 import re
+import statistics
 from matplotlib import cbook
-from gensim.models import word2vec
 import matplotlib.pyplot as plt
 import matplotlib as mpl
 from matplotlib.patches import Circle
@@ -14,8 +14,8 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.metrics.pairwise import pairwise_distances_argmin_min
 from sklearn.metrics.pairwise import pairwise_distances
 from sklearn.manifold import TSNE
-from scipy.spatial import distance
 from sklearn.metrics import  pairwise 
+from scipy.spatial import distance
 from scipy.sparse import vstack
 nlp = spacy.load('en_core_web_lg')
 jfile = json.load(open('output/comment_caption.json'))
@@ -173,38 +173,43 @@ def plot_cluster(matrix_comment,labels,predicted_label, centers,img_id, matrix_c
 	scatter_cent_x= plot_matrix_embedded[cap_range_max:, 0]
 	scatter_cent_y= plot_matrix_embedded[cap_range_max:, 1]
 	
+
 	#plot COMMENT 
 	fig, ax = plt.subplots()
 	for l in np.unique(labels):
+		dist_comm_cent1=[]
+		dist_comm_cent=[]
 		ix = np.where(labels == l)
-		#ax.scatter(scatter_comm_x[ix], scatter_comm_y[ix], c = cdict[l], label = l, s = 50)
+		ax.scatter(scatter_comm_x[ix], scatter_comm_y[ix], c = cdict[l], label = l, s = 50)
 		print "ix:", ix
 		print "scatter_inner comm_x"
 		print DataFrame(scatter_comm_x[ix])
-
+		
 		print "scatter_inner comm_y"
 		print DataFrame(scatter_comm_y[ix])
 		print ""
+		x_comm=scatter_comm_x[ix]	
+		y_comm=scatter_comm_y[ix]
+		for i,j in zip(x_comm, y_comm):
+			print i	, j
+			
+			x_cent=scatter_cent_x[l]
+			y_cent=scatter_cent_y[l]
 		
-		i=scatter_comm_x[ix]
-		avg_comm_x= sum(i) / float(len(i))
-		print "avg x", avg_comm_x
+			a = np.array((i, j))
+			b = np.array((x_cent, y_cent))
 		
-		j=scatter_comm_y[ix]
-		avg_comm_y= sum(j) / float(len(j))
-		print "avg y", avg_comm_y
-		print""
-		
-		print "scatter_inner center_x"
-		print scatter_cent_x[l]
-		print "scatter_inner center_y"
-		print scatter_cent_y[l]
-		#ax.scatter(scatter_cent_x[l],scatter_cent_y[l], c = cdict[l], s=100, alpha=0.7)
-		circle = Circle((scatter_cent_x[l],scatter_cent_y[l]), 0.98)
+			dist_comm_cent = np.linalg.norm(a-b)
+			dist_comm_cent1.append(dist_comm_cent)
+		print "dist", dist_comm_cent1
+		mean=sum(dist_comm_cent1) / float(len(dist_comm_cent1))
+		median=statistics.median(dist_comm_cent1)
+		ax.scatter(scatter_cent_x[l],scatter_cent_y[l], c = cdict[l], s=100, alpha=0.8)
+		circle = Circle((scatter_cent_x[l],scatter_cent_y[l]), mean, color = cdict[l], alpha=0.3)
 		ax.add_artist(circle)
 	ax.legend()
 	#plot CENTROIDS
-	#plt.scatter(scatter_cent_x,scatter_cent_y, color='black', s=100, alpha=0.7)
+	plt.scatter(scatter_cent_x,scatter_cent_y, color='black', s=100, alpha=0.7)
 	#plot CAPTION with text
 	caption = caption.split()
 	for i, caption in enumerate(caption_list):
@@ -212,7 +217,7 @@ def plot_cluster(matrix_comment,labels,predicted_label, centers,img_id, matrix_c
 		plt.scatter(scatter_cap_x[i],scatter_cap_y[i],  s=110, color=cdict[c], marker='+')
 		plt.text(scatter_cap_x[i],scatter_cap_y[i], caption_list[i], color=cdict[c], size=14)
 	
-	plt.savefig(str(img_id) + '.png')
+	plt.savefig('mean'+str(img_id) + '.png')
 	plt.show()
 
 if __name__ == "__main__":
