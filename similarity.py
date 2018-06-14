@@ -124,7 +124,7 @@ def cluster_comments(matrix_comment, nb_of_clusters, matrix_caption):
 	
 
 def plot_cluster(matrix_comment,labels,predicted_label, centers,img_id, matrix_caption, caption):
-	cdict = {0: 'red', 1: 'blue', 2: 'green', 3:'dodgerblue', 4:'purple',5: 'orchid', 6: 'darkcyan', 7: 'pink', 8: 'yellow', 9: 'turquoise', 10: 'darkviolet',11:'orange'}
+	cdict = {0: 'red', 1: 'blue', 2: 'green', 3:'dodgerblue', 4:'purple',5: 'orchid', 6: 'skyblue', 7: 'pink', 8: 'yellow', 9: 'turquoise', 10: 'violet',11:'orange',12: 'aliceblue', 13:'antiquewhite', 14:'aqua', 15:'aquamarine', 16:'azure', 17:'beige', 18:'bisque', 19:'black', 20:'blanchedalmond', 21:'teal', 22:'blueviolet', 23:'brown', 24:'burlywood', 25:'cadetblue', 26:'chartreuse', 27:'chocolate', 28:'coral', 29:'cornflowerblue', 30:'cornsilk', 31:'crimson', 32:'cyan', 33:'darkblue', 34:'darkcyan',35:'darkgoldenrod', 36:'darkgray', 37:'darkgreen', 38:'darkkhaki', 39:'darkmagenta', 40:'darkolivegreen', 41:'darkorange', 42:'darkorchid', 43:'darkred', 44:'darksalmon', 45:'darkseagreen', 46:'darkslateblue', 47:'darkslategray', 48:'darkturquoise', 49:'darkviolet', 50:'deeppink', 51:'deepskyblue', 52:'dimgray', 53:'oldlace'}
 	
 	"""
 	-->1) Prepare the matrix to be plotted = comment+caption+cluster
@@ -177,35 +177,25 @@ def plot_cluster(matrix_comment,labels,predicted_label, centers,img_id, matrix_c
 	#plot COMMENT 
 	fig, ax = plt.subplots()
 	for l in np.unique(labels):
-		dist_comm_cent1=[]
 		dist_comm_cent=[]
 		ix = np.where(labels == l)
 		ax.scatter(scatter_comm_x[ix], scatter_comm_y[ix], c = cdict[l], label = l, s = 50)
-		print "ix:", ix
-		print "scatter_inner comm_x"
-		print DataFrame(scatter_comm_x[ix])
-		
-		print "scatter_inner comm_y"
-		print DataFrame(scatter_comm_y[ix])
-		print ""
+
 		x_comm=scatter_comm_x[ix]	
 		y_comm=scatter_comm_y[ix]
 		for i,j in zip(x_comm, y_comm):
-			print i	, j
-			
 			x_cent=scatter_cent_x[l]
 			y_cent=scatter_cent_y[l]
 		
 			a = np.array((i, j))
 			b = np.array((x_cent, y_cent))
 		
-			dist_comm_cent = np.linalg.norm(a-b)
-			dist_comm_cent1.append(dist_comm_cent)
-		print "dist", dist_comm_cent1
-		mean=sum(dist_comm_cent1) / float(len(dist_comm_cent1))
-		median=statistics.median(dist_comm_cent1)
+			dist = np.linalg.norm(a-b)
+			dist_comm_cent.append(dist)
+		mean=sum(dist_comm_cent) / float(len(dist_comm_cent))
+		median=statistics.median(dist_comm_cent)
 		ax.scatter(scatter_cent_x[l],scatter_cent_y[l], c = cdict[l], s=100, alpha=0.8)
-		circle = Circle((scatter_cent_x[l],scatter_cent_y[l]), mean, color = cdict[l], alpha=0.3)
+		circle = Circle((scatter_cent_x[l],scatter_cent_y[l]), median, color = cdict[l], alpha=0.3)
 		ax.add_artist(circle)
 	ax.legend()
 	#plot CENTROIDS
@@ -217,7 +207,7 @@ def plot_cluster(matrix_comment,labels,predicted_label, centers,img_id, matrix_c
 		plt.scatter(scatter_cap_x[i],scatter_cap_y[i],  s=110, color=cdict[c], marker='+')
 		plt.text(scatter_cap_x[i],scatter_cap_y[i], caption_list[i], color=cdict[c], size=14)
 	
-	plt.savefig('mean'+str(img_id) + '.png')
+	plt.savefig('median'+str(img_id) + '.png')
 	plt.show()
 
 if __name__ == "__main__":
@@ -229,20 +219,22 @@ if __name__ == "__main__":
 		print "Image id ---> ", img_id
 		caption = get_caption(img_id)
 		comment = get_comment(img_id)
+		
 		print "---------------------------------- COMMENT----------------------------------" 
 		print "Comment ---> "
 		print comment
 		comment_clean=clean_text(comment)
+		
 		print "Comment cleaned ---> "
 		print comment_clean
 		print ""
 		print "---------------------------------- CAPTION----------------------------------" 
 		print "Caption ---> "
-		print caption
+		print caption 
 		caption_clean=clean_text(caption)
 		print "Caption cleaned ---> "
 		print caption_clean
-		print ""
+		print 
 		
 	
 		#convert commetn text in a matrix similarity
@@ -260,95 +252,95 @@ if __name__ == "__main__":
 
 		#print "------------------------------------------end caption------------------------------" 
 	
-		#print and plot clusters
-		nclusters= 5
-		clusters, labels, centers, predicted_label = cluster_comments(matrix_comment, nclusters, matrix_caption)
-		#print "matrix centroid ", centers.shape
-		#print DataFrame(centers)
-		#print "------------------------------------------end centroid------------------------------"
-		labels_cap, mindist_caption = pairwise_distances_argmin_min(X=matrix_caption, Y=centers, metric='euclidean', metric_kwargs={'squared': False})
-		#print "mindist_caption"
-		#print mindist_caption
-		dist_caption = pairwise_distances(X=matrix_caption, Y=centers, metric='euclidean')
-		print "euclideian distance caption-centroid"
-		print dist_caption
-		#print "------------------------------------------caption - centroid------------------------------"
-		labels_comm, mindist_comment = pairwise_distances_argmin_min(X=matrix_comment, Y=centers, metric='euclidean', metric_kwargs={'squared': True})
-		#print "mindist_comment"
-		#print mindist_comment
-		dist_comment = pairwise_distances(X=matrix_comment, Y=centers, metric='euclidean')
-		print "euclideian distance comment-centroid"
-		print dist_comment
-		#print "------------------------------------------comment - centroid------------------------------"
-
-		print "---------------------------------- CLUSTER OUTPUT----------------------------------"
-		print ""
-		caption_list = caption_clean.split()
+		#print and plot clusters 
+		#k= 15% of the length of the length of the document comments"""
+		nclusters=0
+		comment_length= len(comment_clean.split())
+		print "comment length", comment_length	
+		if comment_length> 400:
+			nclusters= int((5 * comment_length) / 100.0)
+		else:
+			nclusters= int((10 * comment_length) / 100.0)
+		print "nclusters", nclusters
+		if nclusters >= 2:
+			clusters, labels, centers, predicted_label = cluster_comments(matrix_comment, nclusters, matrix_caption)
+			#print "matrix centroid ", centers.shape
+			#print DataFrame(centers)
+			#print "------------------------------------------end centroid------------------------------"
+			labels_cap, mindist_caption = pairwise_distances_argmin_min(X=matrix_caption, Y=centers, metric='euclidean', metric_kwargs={'squared': False})
+			#print "mindist_caption"
+			#print mindist_caption
+			dist_caption = pairwise_distances(X=matrix_caption, Y=centers, metric='euclidean')
+			print "euclideian distance caption-centroid"
+			print dist_caption
+			#print "------------------------------------------caption - centroid------------------------------"
+			labels_comm, mindist_comment = pairwise_distances_argmin_min(X=matrix_comment, Y=centers, metric='euclidean', metric_kwargs={'squared': True})
+			#print "mindist_comment"
+			#print mindist_comment
+			dist_comment = pairwise_distances(X=matrix_comment, Y=centers, metric='euclidean')
+			"""
+			print "euclideian distance comment-centroid"
+			print dist_comment
+			#print "------------------------------------------comment - centroid------------------------------"
+			"""
+			print "---------------------------------- CLUSTER OUTPUT----------------------------------"
+			print ""
+			caption_list = caption_clean.split()
 	
-		for cluster in range(nclusters):
+			for cluster in range(nclusters):
 			
-			print "cluster ",cluster,":"
-			for j, caption in enumerate(caption_list):
+				print "cluster ",cluster,":"
+				for j, caption in enumerate(caption_list):
 				
-				predicted_cluster = predicted_label[j] 
-				if (cluster==predicted_cluster):
-					print "caption word:", caption," - cluster:", predicted_label[j] , " - distance: ", min(dist_caption[j])
-			dist =0	
-			count=0
-			for i,sent in enumerate(clusters[cluster]):
-				counter=0
-				text=None
+					predicted_cluster = predicted_label[j] 
+					if (cluster==predicted_cluster):
+						print "caption word:", caption," - cluster:", predicted_label[j] , " - distance: ", min(dist_caption[j])
+				dist = []
+				dist_intern=0
+				count=0
+				for i,sent in enumerate(clusters[cluster]):
+					counter=0
+					text=None
 				
 				
-				for word in comment_clean.split():
-					text=word
-					if (counter==sent):
-						print "comment word: ",sent," : ", text, " - distance: ", dist_comment[sent][cluster]
-						dist+=dist_comment[sent][cluster]
-						count+=1
-					counter+=1
-			#print "dist totale:", (dist), count
-			avg = (dist/count)
-			print "avg ", avg
-		closest, _ = pairwise_distances_argmin_min(centers, matrix_caption)
+					for word in comment_clean.split():
+						text=word
+						if (counter==sent):
+							print "comment word: ",sent," : ", text, " - distance: ", dist_comment[sent][cluster]
+							dist_intern=dist_comment[sent][cluster]
+							dist.append(dist_intern)
+							count+=1
+						counter+=1
+				#print "dist totale:", (dist), count
+				#avg = (dist/count)
+				median=statistics.median(dist)
+				print "median-->", median
+			closest, _ = pairwise_distances_argmin_min(centers, matrix_caption)
 
 
-		#comment word near to the centroid
-		order_centroids=centers.argsort()[:, ::-1]
-		print order_centroids
+			#comment word near to the centroid
+			order_centroids=centers.argsort()[:, ::-1]
 
-		print "----------------------------------5word-> TOPIC OUTPUT----------------------------------" 
-		print ""
-		for cluster in range(nclusters):
+			print "----------------------------------5word-> TOPIC OUTPUT----------------------------------" 
+			print ""
+			for cluster in range(nclusters):
 			
-			print "cluster ",cluster,":"
-			#5 most common word
-			for ind in order_centroids[cluster, :5]: 
-				text=None
-				counter=0
+				print "cluster ",cluster,":"
+				#5 most common word
+				for ind in order_centroids[cluster, :5]: 
+					text=None
+					counter=0
 				
-				for word in comment_clean.split():
-					text=word
+					for word in comment_clean.split():
+						text=word
 					
-					if (counter==ind):
-						print "comment word: ",ind,": ", text, " - distance: ", dist_comment[ind][cluster]	
-					counter+=1
+						if (counter==ind):
+							print "comment word: ",ind,": ", text, " - distance: ", dist_comment[ind][cluster]	
+						counter+=1
 			
-		"""
-		print "------------------- word ranked based on the distance from the centroid --------------------------" 
-		print ""
-		for cluster in range(nclusters):
-			print "cluster ",cluster,":"
-			#5 most common word
-			for ind in order_centroids[cluster, :]: 
-				text=None
-				counter=0
-				for word in comment_clean.split():
-					text=word
-					if (counter==ind):
-						print "comment word",ind,": ", text
-					counter+=1"""
 		
-		plot_cluster(matrix_comment, labels,predicted_label, centers, img_id, matrix_caption, caption_clean)
+			plot_cluster(matrix_comment, labels,predicted_label, centers, img_id, matrix_caption, caption_clean)
+		else:
+			print "number of cluster <2, not enough words in the comment"
 		#print "--------------------------------------------------
 		
