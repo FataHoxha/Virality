@@ -207,11 +207,11 @@ def plot_cluster(matrix_comment,labels,predicted_label, centers,img_id, matrix_c
 		plt.scatter(scatter_cap_x[i],scatter_cap_y[i],  s=110, color=cdict[c], marker='+')
 		plt.text(scatter_cap_x[i],scatter_cap_y[i], caption_list[i], color=cdict[c], size=14)
 	
-	plt.savefig('median'+str(img_id) + '.png')
+	plt.savefig('median_'+str(img_id) + '.png')
 	plt.show()
 
 if __name__ == "__main__":
-
+	
 	#get caption
 	#clean caption
 	for post in jfile['results']:
@@ -220,17 +220,17 @@ if __name__ == "__main__":
 		caption = get_caption(img_id)
 		comment = get_comment(img_id)
 		
-		print "---------------------------------- COMMENT----------------------------------" 
-		print "Comment ---> "
-		print comment
+		#print "---------------------------------- COMMENT----------------------------------" 
+		#print "Comment ---> "
+		#print comment
 		comment_clean=clean_text(comment)
 		
-		print "Comment cleaned ---> "
-		print comment_clean
-		print ""
-		print "---------------------------------- CAPTION----------------------------------" 
-		print "Caption ---> "
-		print caption 
+		#print "Comment cleaned ---> "
+		#print comment_clean
+		#print ""
+		#print "---------------------------------- CAPTION----------------------------------" 
+		#print "Caption ---> "
+		#print caption 
 		caption_clean=clean_text(caption)
 		print "Caption cleaned ---> "
 		print caption_clean
@@ -241,8 +241,11 @@ if __name__ == "__main__":
 		matrix_comment = comment_to_matrix(comment_clean)
 		matrix_comm=np.array(matrix_comment)
 		#print "matrix comment dim", matrix_comm.shape
+		
 		#print DataFrame(matrix_comm)
+		
 		#print "------------------------------------------end comment------------------------------" 
+		
 		matrix_caption = caption_to_matrix(caption_clean, comment_clean)
 		#precompute squared norms of data points
 		
@@ -256,23 +259,20 @@ if __name__ == "__main__":
 		#k= 15% of the length of the length of the document comments"""
 		nclusters=0
 		comment_length= len(comment_clean.split())
-		print "comment length", comment_length	
+		#print "comment length", comment_length	
 		if comment_length> 400:
 			nclusters= int((5 * comment_length) / 100.0)
 		else:
 			nclusters= int((10 * comment_length) / 100.0)
-		print "nclusters", nclusters
+		#print "nclusters", nclusters
 		if nclusters >= 2:
 			clusters, labels, centers, predicted_label = cluster_comments(matrix_comment, nclusters, matrix_caption)
-			#print "matrix centroid ", centers.shape
-			#print DataFrame(centers)
-			#print "------------------------------------------end centroid------------------------------"
+
 			labels_cap, mindist_caption = pairwise_distances_argmin_min(X=matrix_caption, Y=centers, metric='euclidean', metric_kwargs={'squared': False})
 			#print "mindist_caption"
 			#print mindist_caption
 			dist_caption = pairwise_distances(X=matrix_caption, Y=centers, metric='euclidean')
-			print "euclideian distance caption-centroid"
-			print dist_caption
+			
 			#print "------------------------------------------caption - centroid------------------------------"
 			labels_comm, mindist_comment = pairwise_distances_argmin_min(X=matrix_comment, Y=centers, metric='euclidean', metric_kwargs={'squared': True})
 			#print "mindist_comment"
@@ -281,12 +281,12 @@ if __name__ == "__main__":
 			"""
 			print "euclideian distance comment-centroid"
 			print dist_comment
-			#print "------------------------------------------comment - centroid------------------------------"
+			#print "---------------------------------comment - centroid------------------------------"
 			"""
-			print "---------------------------------- CLUSTER OUTPUT----------------------------------"
-			print ""
+
 			caption_list = caption_clean.split()
-	
+			#list median distance comment - centroid
+			median_dist = []
 			for cluster in range(nclusters):
 			
 				print "cluster ",cluster,":"
@@ -294,52 +294,80 @@ if __name__ == "__main__":
 				
 					predicted_cluster = predicted_label[j] 
 					if (cluster==predicted_cluster):
-						print "caption word:", caption," - cluster:", predicted_label[j] , " - distance: ", min(dist_caption[j])
+						print "caption:", caption," - cluster:", predicted_label[j] , " - distance: ", min(dist_caption[j])
 				dist = []
 				dist_intern=0
 				count=0
+				comm_sim=[]
 				for i,sent in enumerate(clusters[cluster]):
 					counter=0
 					text=None
-				
-				
 					for word in comment_clean.split():
 						text=word
+						
 						if (counter==sent):
-							print "comment word: ",sent," : ", text, " - distance: ", dist_comment[sent][cluster]
+							print "comment: ",sent," : ", text, " - distance: ", dist_comment[sent][cluster]
 							dist_intern=dist_comment[sent][cluster]
 							dist.append(dist_intern)
+
+							if (text not in (comm_sim)):
+								comm_sim.append(text)
+						
 							count+=1
+						prev_text=text
 						counter+=1
+				
+				print "comm_sim: ", comm_sim
+				s=' '.join(comm_sim)
+				print "s: ", s
+				comm_sim_matrix= comment_to_matrix(s)
+				comm_sim_matrix=np.array(comm_sim_matrix)
+				print "comm sim matrix: "
+				print comm_sim_matrix
 				#print "dist totale:", (dist), count
 				#avg = (dist/count)
 				median=statistics.median(dist)
-				print "median-->", median
+				median_dist.append(median)
+				#print "median-->", median
+			
+			print "median dist", median_dist
+			#print "euclideian distance caption-centroid"
+			#print dist_caption
+			
+			for i, caption in enumerate(dist_caption):
+				#print "caption", i ,caption
+				#print "median dist"
+				#print median_dist
+				index=0
+				for cap, m_dist in zip(caption, median_dist):
+					
+					#print "cap",cap , "m_dist", m_dist
+					if (cap<=m_dist):
+						print "caption",i, "inside the median of cluster:",index, "caption:", cap,"median:", m_dist
+					
+					index+=1
+						
 			closest, _ = pairwise_distances_argmin_min(centers, matrix_caption)
 
-
+			"""
 			#comment word near to the centroid
 			order_centroids=centers.argsort()[:, ::-1]
-
-			print "----------------------------------5word-> TOPIC OUTPUT----------------------------------" 
+			print "------------------------5word-> TOPIC OUTPUT-------------------------------" 
 			print ""
 			for cluster in range(nclusters):
-			
 				print "cluster ",cluster,":"
 				#5 most common word
 				for ind in order_centroids[cluster, :5]: 
 					text=None
 					counter=0
-				
 					for word in comment_clean.split():
 						text=word
-					
 						if (counter==ind):
 							print "comment word: ",ind,": ", text, " - distance: ", dist_comment[ind][cluster]	
 						counter+=1
-			
+			"""
 		
-			plot_cluster(matrix_comment, labels,predicted_label, centers, img_id, matrix_caption, caption_clean)
+			#plot_cluster(matrix_comment, labels,predicted_label, centers, img_id, matrix_caption, caption_clean) 
 		else:
 			print "number of cluster <2, not enough words in the comment"
 		#print "--------------------------------------------------
