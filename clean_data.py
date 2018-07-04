@@ -14,7 +14,7 @@ def cleanhtml(raw_html):
   cleanr = re.compile('<.*?>')
   cleantext = re.sub(cleanr, '', raw_html)
   return cleantext
-jfile='input_json/10061217592742929454new.json'
+jfile='input_json/100243859631724702467.json'
 #import json and the comment part
 with open(jfile, 'r') as file:
 	comment = json.load(file)
@@ -22,7 +22,6 @@ with open(jfile, 'r') as file:
 		print img_comment['id']
 		for text_comment in img_comment['comments']:
 			text = text_comment['text']
-		
 			#remove the html code
 			text=cleanhtml(text)
 		
@@ -33,6 +32,8 @@ with open(jfile, 'r') as file:
 			text = re.sub(r'&amp', " ", text)
 			text = re.sub(r'\u3000'," ", text)
 			text = re.sub(r'\u00a0', " ", text)
+			text = re.sub(r'http\S+', '', text)
+			text = re.sub(r'http', '', text)
 			#principal contracted form in english
 			text = re.sub(r'don t', "do not", text)
 			text = re.sub(r'aren t', "are not", text)
@@ -48,6 +49,7 @@ with open(jfile, 'r') as file:
 			text = re.sub(r'couldn t', "could not", text)
 			text = re.sub(r' s ', " is ", text)
 			text = re.sub(r' m ', " am ", text)
+			text = re.sub(r' #', " ", text)
 			
 		
 			#remove the punctation

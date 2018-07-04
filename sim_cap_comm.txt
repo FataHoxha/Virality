@@ -1,0 +1,119 @@
+Image id --->  105237212888595777019.5623686485610185730
+	
+group people stand large building 
+  0		1	   2	 3		4
+cluster  0 :
+median--> 1.00187420752
+
+caption: group  - cluster: 0  - distance:  0.719230363344
+comment:  1  :  stinking  - distance:  1.02633051023
+comment:  9  :  trey  - distance:  1.11769296697
+comment:  19  :  engaging  - distance:  1.04210483994
+comment:  21  :  engagement  - distance:  1.00187420752
+comment:  22  :  hangout  - distance:  1.0236973175
+comment:  24  :  don  - distance:  1.00661672656
+comment:  32  :  christian  - distance:  0.815830070248
+comment:  36  :  rainy  - distance:  0.952297852451
+comment:  37  :  umbrella  - distance:  0.889477787018
+comment:  47  :  dance  - distance:  0.911212420738
+comment:  48  :  angel  - distance:  0.92831462045
+comment:  50  :  apropos  - distance:  1.20944393977
+comment:  51  :  cathedral  - distance:  0.994249442853
+
+comm_sim_matrix:  group
+[[-0.03711253  0.03736051  0.30905434  0.25153938  0.2803683   0.10309252
+   0.25552952  0.06460195  0.29223412  0.32561642  0.1739822  -0.02542451
+   0.10230564]]
+ 
+cluster  1 :
+median--> 0.63962379883
+
+caption: people  - cluster: 1  - distance:  0.741658894229
+comment:  0  :  pretty  - distance:  0.542041487195
+comment:  2  :  cool  - distance:  0.607994468852
+comment:  3  :  awesome  - distance:  0.803207482221
+comment:  5  :  want  - distance:  0.609291274177
+comment:  23  :  awesome  - distance:  0.803207482221
+comment:  25  :  forget  - distance:  0.669956323482
+comment:  27  :  long  - distance:  0.805074478831
+comment:  41  :  let  - distance:  0.713267000575
+comment:  42  :  people  - distance:  0.741658894229
+comment:  44  :  nice  - distance:  0.58672501741
+comment:  45  :  look  - distance:  0.515573263484
+comment:  46  :  like  - distance:  0.461676196299
+comm_sim_matrix:  people
+[[0.47354013 0.40775412 0.3900798  0.64930314 0.57658046 0.49305871
+  0.56673634 1.         0.4055334  0.50926656 0.62852293]]
+ 
+ 
+cluster  2 :
+median--> 0.942028515905
+
+comment:  16  :  amalia  - distance:  0.948706678817
+comment:  17  :  angellinni  - distance:  0.942028515905
+comment:  33  :  sternal  - distance:  0.842999565086
+list is empty
+
+cluster  3 :
+median--> 0.879028006762
+
+caption: stand  - cluster: 3  - distance:  0.683408544619
+caption: large  - cluster: 3  - distance:  0.629277418528
+caption: building  - cluster: 3  - distance:  0.603898262617
+
+comment:  4  :  picture  - distance:  0.946557160374
+comment:  7  :  original  - distance:  0.94754931579
+comment:  11  :  comparison  - distance:  1.12551099533
+comment:  12  :  steady  - distance:  0.861436801892
+comment:  13  :  hand  - distance:  0.824386940185
+comment:  14  :  face  - distance:  0.835247391343
+comment:  15  :  blurry  - distance:  1.05649146509
+comment:  20  :  quality  - distance:  0.8935464114
+comment:  26  :  circle  - distance:  0.864509602124
+comment:  28  :  shutter  - distance:  1.21460859103
+comment:  29  :  open  - distance:  1.01943725372
+comment:  34  :  open  - distance:  1.01943725372
+comment:  35  :  second  - distance:  0.780453140444
+comment:  38  :  small  - distance:  0.750155914326
+comment:  39  :  tough  - distance:  0.975424638665
+comment:  40  :  camera  - distance:  0.818040537789
+comment:  43  :  fire  - distance:  0.850448441213
+comment:  49  :  light  - distance:  0.712279245561
+
+comm_sim_matrix:  stand
+[[0.37347436 0.24024804 0.24201615 0.3595619  0.56246567 0.4879541
+  0.13728559 0.2961803  0.36085847 0.15957658 0.43481436 0.28595847
+  0.4081265  0.45234895 0.35231513 0.36600462 0.42268062]]
+ 
+comm_sim_matrix:  large
+[[0.3874612  0.2961375  0.2810984  0.30987644 0.4465208  0.3685378
+  0.19299126 0.36529478 0.35345435 0.1830903  0.48427656 0.28950483
+  0.8343904  0.29950163 0.27593756 0.32396522 0.3879898 ]]
+ 
+comm_sim_matrix:  building
+[[0.26441234 0.3303738  0.16767412 0.2669166  0.28841877 0.25402364
+  0.06995187 0.3066244  0.24885806 0.1514382  0.44235048 0.29972586
+  0.4354706  0.25276184 0.19356954 0.4800841  0.33006305]]
+ 
+
+
+cluster  4 :
+median--> 0.660729801297
+
+comment:  6  :  comment  - distance:  0.570053962402
+comment:  8  :  post  - distance:  0.517161251
+comment:  10  :  comment  - distance:  0.570053962402
+comment:  18  :  google  - distance:  0.971049777382
+comment:  30  :  thank  - distance:  0.751405640192
+comment:  31  :  thank  - distance:  0.751405640192
+list is empty
+
+
+caption 0 inside the median of cluster: 0 caption: 0.719230363344 median: 1.00187420752
+caption 0 inside the median of cluster: 3 caption: 0.809833726977 median: 0.879028006762
+caption 2 inside the median of cluster: 3 caption: 0.683408544619 median: 0.879028006762
+caption 3 inside the median of cluster: 3 caption: 0.629277418528 median: 0.879028006762
+caption 4 inside the median of cluster: 0 caption: 0.876885704777 median: 1.00187420752
+caption 4 inside the median of cluster: 3 caption: 0.603898262617 median: 0.879028006762
+
+
