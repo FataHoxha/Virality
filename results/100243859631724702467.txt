@@ -1,0 +1,1506 @@
+
+100243859631724702467.5971294733620274114
+a cell phone is sitting on a table 
+
+not enught word in comment
+
+100243859631724702467.6155287016282830066
+a plane flying in the air with a sky background 
+
+not enught word in comment
+
+100243859631724702467.5878585024590387026
+a close up of a clock on a table 
+
+not enught word in comment
+
+100243859631724702467.6144952284544806898
+a woman is holding a cell phone in her hand 
+
+not enught word in comment
+
+100243859631724702467.6112267351635522402
+a large clock on a pole on a city street 
+
+not enught word in comment
+
+100243859631724702467.6135366504867675490
+a close up of a person on a motorcycle 
+
+not enught word in comment
+
+100243859631724702467.6012164032106652754
+a close up of a bunch of broccoli 
+
+matrix comment dim (51, 51)
+
+
+cluster  0 :
+comment:  para
+comment:  como
+comment:  es
+comment:  la
+comment:  en
+comment:  en
+comment:  en
+
+
+cluster  1 :
+CAPTION: close
+CAPTION: broccoli
+comment:  rise
+comment:  wo
+comment:  rise
+comment:  nyc
+comment:  vent
+comment:  ad
+close 	0.27678508
+broccoli 	0.11154593
+
+
+cluster  2 :
+CAPTION: bunch
+comment:  mother
+comment:  special
+comment:  pink
+comment:  mother
+comment:  gift
+comment:  priceless
+comment:  love
+comment:  refreshing
+comment:  elegant
+comment:  nice
+comment:  flower
+comment:  love
+comment:  sis
+comment:  sooo
+bunch 	0.30243737
+
+
+cluster  3 :
+comment:  yo
+comment:  bella
+comment:  rosa
+comment:  otra
+comment:  rosa
+comment:  madre
+comment:  hermosa
+comment:  tica
+comment:  bea
+comment:  feliz
+comment:  dia
+comment:  madres
+comment:  merci
+
+
+cluster  4 :
+comment:  piaget
+comment:  ld
+comment:  engrave
+comment:  piaget
+comment:  pict
+comment:  senyanegash
+comment:  enigm
+comment:  ltez
+comment:  inolvidable
+comment:  vegez
+comment:  tif
+
+100243859631724702467.5939834340598744930
+a large clock on the side of a wall 
+
+not enught word in comment
+
+100243859631724702467.6034433474745483346
+a person holding a kite in the air 
+
+not enught word in comment
+
+100243859631724702467.6015891355136721970
+a group of people standing in a room 
+
+not enught word in comment
+
+100243859631724702467.6041029415222783634
+a close up of a parking meter on a street 
+
+matrix comment dim (20, 20)
+
+
+cluster  0 :
+CAPTION: close
+CAPTION: street
+comment:  high
+comment:  love
+comment:  watch
+comment:  prefer
+comment:  classic
+comment:  design
+comment:  yellow
+comment:  gold
+comment:  diamond
+comment:  smart
+comment:  hot
+comment:  piece
+close 	0.27892235
+street 	0.25220683
+
+
+cluster  1 :
+CAPTION: parking
+CAPTION: meter
+comment:  letey
+comment:  piaget
+comment:  bb
+comment:  piaget
+comment:  mm
+comment:  tstand
+comment:  exq
+comment:  isitely
+parking 	-0.0101328634191
+meter 	0.0459580132738
+
+100243859631724702467.6022947878052491026
+a close up of a plate of food with a fork 
+
+matrix comment dim (130, 130)
+
+
+cluster  0 :
+comment:  sagde
+comment:  totalt
+comment:  sikkert
+comment:  tilbage
+comment:  wao
+
+
+cluster  1 :
+comment:  tro
+comment:  sa
+comment:  ne
+comment:  tr
+comment:  je
+comment:  voi
+comment:  ma
+comment:  tre
+comment:  tr
+comment:  je
+comment:  il
+comment:  temps
+comment:  il
+comment:  te
+comment:  sa
+comment:  tr
+
+
+cluster  2 :
+comment:  nice
+comment:  nice
+comment:  wow
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  love
+comment:  nice
+comment:  nice
+comment:  wow
+comment:  good
+comment:  nice
+comment:  love
+comment:  nice
+comment:  good
+
+
+cluster  3 :
+comment:  diamond
+comment:  gold
+comment:  ring
+comment:  ring
+comment:  diamond
+comment:  ring
+
+
+cluster  4 :
+comment:  simplement
+comment:  doigts
+comment:  droit
+comment:  doigt
+comment:  charmant
+comment:  offrir
+comment:  tir
+comment:  avait
+comment:  crise
+comment:  aimerais
+comment:  essayer
+
+
+cluster  5 :
+comment:  femme
+comment:  jolie
+comment:  femme
+comment:  cher
+comment:  jolie
+comment:  belle
+comment:  femme
+comment:  joli
+comment:  jolie
+comment:  belle
+
+
+cluster  6 :
+comment:  bea
+comment:  hav
+comment:  vera
+comment:  www
+comment:  sm
+comment:  kt
+comment:  prince
+comment:  bella
+comment:  nb
+comment:  der
+comment:  min
+comment:  mmm
+
+
+cluster  7 :
+comment:  est
+comment:  cette
+comment:  bien
+comment:  dans
+comment:  les
+comment:  elle
+comment:  mon
+comment:  est
+comment:  mon
+comment:  elle
+comment:  est
+comment:  bien
+comment:  fait
+comment:  mon
+comment:  est
+comment:  bien
+
+
+cluster  8 :
+comment:  tif
+comment:  waaaaaaaaaw
+comment:  splendide
+comment:  jadore
+comment:  nimporte
+comment:  qel
+comment:  manifiq
+comment:  bijo
+comment:  solitair
+comment:  jadore
+comment:  manifiq
+
+
+cluster  9 :
+comment:  det
+comment:  jo
+comment:  jo
+comment:  li
+comment:  po
+comment:  po
+comment:  jo
+comment:  det
+comment:  er
+comment:  kom
+
+
+cluster  10 :
+CAPTION: close
+CAPTION: plate
+CAPTION: food
+CAPTION: fork
+comment:  wish
+comment:  bag
+comment:  color
+comment:  bag
+comment:  imagine
+comment:  tire
+comment:  bag
+comment:  bag
+close 	0.26792765
+plate 	0.2811894
+food 	0.30498126
+fork 	0.2401239
+
+
+cluster  11 :
+comment:  la
+comment:  en
+comment:  de
+comment:  des
+comment:  la
+comment:  la
+
+
+cluster  12 :
+comment:  magnifiq
+comment:  magnifiq
+comment:  magnifiq
+comment:  magnifiq
+
+100243859631724702467.5886783401136786738
+a bunch of flowers that are in a vase 
+
+not enught word in comment
+
+100243859631724702467.5965693801940850738
+a man is standing in front of a computer 
+
+not enught word in comment
+
+100243859631724702467.6166831389667855666
+a close up of a clock on a wall 
+
+not enught word in comment
+
+100243859631724702467.5927894714849136418
+a close up of a clock on a table 
+
+not enught word in comment
+
+100243859631724702467.5887825307668021730
+a pair of scissors on a wooden table 
+
+not enught word in comment
+
+100243859631724702467.5787624400846620866
+a collage of pictures with a clock and a lamp 
+
+not enught word in comment
+
+100243859631724702467.5892968428778971602
+a person is standing in front of a computer 
+
+not enught word in comment
+
+100243859631724702467.6264082886860423042
+a red and white bird sitting on a branch 
+
+not enught word in comment
+
+100243859631724702467.5979063609877640354
+a close up of a tooth brush in a cup 
+
+matrix comment dim (22, 22)
+
+
+cluster  0 :
+CAPTION: close
+CAPTION: brush
+CAPTION: cup
+comment:  nice
+comment:  nice
+comment:  thing
+comment:  nice
+comment:  elegant
+comment:  love
+comment:  perfect
+comment:  gift
+comment:  lover
+comment:  design
+comment:  appreciate
+comment:  sexy
+close 	0.36427268
+brush 	0.24371386
+cup 	0.2223232
+
+
+cluster  1 :
+CAPTION: tooth
+comment:  aime
+comment:  yeaaaaaaaaaaaaaaaaaaah
+comment:  wooow
+comment:  bea
+comment:  tif
+comment:  woow
+comment:  woooow
+comment:  yo
+comment:  bea
+comment:  tif
+tooth 	-0.00693446542136
+
+100243859631724702467.6182914881733126418
+a clock on a pole with a sky background 
+
+not enught word in comment
+
+100243859631724702467.6115321281377209298
+a couple of birds are flying in the sky 
+
+not enught word in comment
+
+100243859631724702467.6106359139918233826
+a clock on the side of a building 
+
+not enught word in comment
+
+100243859631724702467.6086391509358649394
+a man is holding a cell phone in his hand 
+
+not enught word in comment
+
+100243859631724702467.6082622942585931746
+a close up of a street sign with a sky background 
+
+matrix comment dim (19, 19)
+number of cluster <2, not enough words in the comment
+
+100243859631724702467.6119398856389573282
+a woman holding a cell phone in her hand 
+
+matrix comment dim (18, 18)
+number of cluster <2, not enough words in the comment
+
+100243859631724702467.6187370761344586434
+a woman holding a cell phone in her hand 
+
+not enught word in comment
+
+100243859631724702467.6104951480090076114
+a close up of a street sign with a sky background 
+
+not enught word in comment
+
+100243859631724702467.5792405812677447970
+a red and white table with a red and white vase 
+
+not enught word in comment
+
+100243859631724702467.5938836670839192338
+a close up of a clock on a wall 
+
+not enught word in comment
+
+100243859631724702467.5936753403543308642
+a close up of a clock on a table 
+
+not enught word in comment
+
+100243859631724702467.6179086585414920178
+a close up of a plane flying in the sky 
+
+not enught word in comment
+
+100243859631724702467.5786859432662658850
+a close up of a vase with a flower in it 
+
+matrix comment dim (43, 43)
+
+
+cluster  0 :
+comment:  piaget
+comment:  tiq
+comment:  piaget
+comment:  piaget
+
+
+cluster  1 :
+comment:  nice
+comment:  dear
+comment:  thank
+comment:  yo
+comment:  yo
+comment:  watch
+comment:  feel
+comment:  thank
+comment:  yo
+comment:  wow
+comment:  wish
+comment:  want
+
+
+cluster  2 :
+CAPTION: vase
+comment:  jasmine
+comment:  llock
+comment:  prod
+comment:  ct
+comment:  excl
+comment:  sivity
+comment:  ff
+comment:  bo
+comment:  jan
+comment:  ary
+comment:  abo
+comment:  jewellery
+comment:  st
+comment:  nn
+comment:  ch
+vase 	0.0803233098239
+
+
+cluster  3 :
+CAPTION: close
+CAPTION: flower
+comment:  interest
+comment:  piece
+comment:  present
+comment:  available
+comment:  year
+comment:  free
+comment:  visit
+comment:  receive
+comment:  information
+comment:  piece
+comment:  team
+comment:  elegant
+close 	0.32908645
+flower 	0.2088397
+
+100243859631724702467.5950182644511958674
+a large clock on a wall with a clock in the background 
+
+matrix comment dim (43, 43)
+
+
+cluster  0 :
+CAPTION: large
+CAPTION: clock
+CAPTION: wall
+CAPTION: clock
+CAPTION: background
+comment:  sercontent
+comment:  gfwiv
+comment:  oaaynrwcdir
+comment:  dpccmygpql
+comment:  rlhtfozanavjjjx
+comment:  nbf
+comment:  kmlr
+comment:  sercontent
+comment:  mpamzzpegecahh
+comment:  mbqxixmigiqogmldjhhfyvqldrw
+comment:  sqkykkx
+comment:  sercontent
+comment:  ldpcwtfniaggthykyly
+comment:  ibg
+comment:  wfgc
+comment:  pomiqqhcqlpomjilmkiyqntamcgtjkz
+comment:  sercontent
+comment:  bxzbs
+comment:  whaadhjvtmmnmifso
+comment:  xpctxjbygralqbacsi
+comment:  qypwxdjyzswzyzewa
+comment:  hyftho
+large 	-0.0102098140527
+clock 	-1.79007818753e-05
+wall 	-0.0100396877493
+clock 	-1.79007818753e-05
+background 	-0.0112790936096
+
+
+cluster  1 :
+comment:  com
+comment:  com
+comment:  com
+comment:  com
+comment:  com
+comment:  com
+
+
+cluster  2 :
+comment:  lh
+comment:  lh
+comment:  sle
+comment:  lh
+comment:  lh
+comment:  pl
+comment:  pl
+
+
+cluster  3 :
+comment:  google
+comment:  google
+comment:  google
+comment:  google
+comment:  google
+comment:  google
+comment:  post
+comment:  google
+
+100243859631724702467.6169869103228314754
+a red and white plane flying in the sky 
+
+not enught word in comment
+
+100243859631724702467.6029622087692655394
+a close up of a person holding a pair of scissors 
+
+not enught word in comment
+
+100243859631724702467.6038456049181410258
+a person is holding a tennis racket in their hand 
+
+not enught word in comment
+
+100243859631724702467.5991699492334721202
+a clock on the side of a building 
+
+not enught word in comment
+
+100243859631724702467.5935746960334682466
+a close up of a clock on a table 
+
+not enught word in comment
+
+100243859631724702467.5886287072499135810
+a woman is holding a red umbrella in a park 
+
+not enught word in comment
+
+100243859631724702467.6107145664930577234
+a clock on a pole with a sky background 
+
+not enught word in comment
+
+100243859631724702467.5956140731792000434
+a man riding a snowboard down a snow covered slope 
+
+not enught word in comment
+
+100243859631724702467.6049936319124831426
+a woman is holding a cell phone in her hand 
+
+not enught word in comment
+
+100243859631724702467.6122763797838057298
+a man is flying a kite in the sky 
+
+not enught word in comment
+
+100243859631724702467.6075998703439992162
+two clocks on a wall with a clock 
+
+not enught word in comment
+
+100243859631724702467.6059302497811332866
+a woman is holding a cell phone in her hand 
+
+not enught word in comment
+
+100243859631724702467.5901937440605726994
+a red and white umbrella is on a table 
+
+matrix comment dim (20, 20)
+
+
+cluster  0 :
+comment:  nice
+comment:  nice
+comment:  ok
+comment:  yes
+comment:  ty
+comment:  omg
+comment:  want
+
+
+cluster  1 :
+CAPTION: red
+CAPTION: white
+CAPTION: umbrella
+CAPTION: table
+comment:  wt
+comment:  bea
+comment:  tif
+comment:  ring
+comment:  woooow
+comment:  chery
+comment:  reqd
+comment:  lololololololo
+comment:  perb
+comment:  bea
+comment:  mtkdsh
+comment:  ano
+comment:  pi
+red 	0.0643632348913
+white 	0.0623370337372
+umbrella 	0.0263910979176
+table 	0.0428745068896
+
+100243859631724702467.6101539121742461026
+two clocks on the wall of a building 
+
+not enught word in comment
+
+100243859631724702467.5735347935201378386
+a close up of a red and white bowl of food 
+
+matrix comment dim (31, 31)
+
+
+cluster  0 :
+CAPTION: food
+comment:  nice
+comment:  wow
+comment:  wat
+comment:  talkin
+comment:  think
+comment:  like
+comment:  wow
+food 	0.26102108
+
+
+cluster  1 :
+comment:  macht
+comment:  rst
+comment:  zitronenlimonade
+comment:  bo
+comment:  wiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiinnnnnnnnnnnnnnnne
+comment:  bea
+comment:  tif
+comment:  platin
+comment:  corktail
+comment:  embellish
+comment:  beryl
+comment:  precio
+
+
+cluster  2 :
+CAPTION: close
+CAPTION: red
+CAPTION: white
+CAPTION: bowl
+comment:  silver
+comment:  ring
+comment:  diamond
+comment:  large
+comment:  stone
+comment:  green
+comment:  stone
+comment:  cocktail
+comment:  ring
+comment:  match
+comment:  fine
+comment:  stone
+close 	0.27863157
+red 	0.42408398
+white 	0.42102695
+bowl 	0.3136815
+
+100243859631724702467.6163076591287991378
+a man flying through the air while riding a skateboard 
+
+not enught word in comment
+
+100243859631724702467.6007597110619009570
+a white and blue bird sitting on top of a bird 
+
+not enught word in comment
+
+100243859631724702467.6142415914476754370
+a woman holding a cell phone in her hand 
+
+not enught word in comment
+
+100243859631724702467.6131911616192353762
+a black and white photo of a pair of scissors 
+
+not enught word in comment
+
+100243859631724702467.5976177565706768306
+a man is flying a kite in the sky 
+
+matrix comment dim (21, 21)
+
+
+cluster  0 :
+comment:  thnk
+comment:  bt
+comment:  wl
+comment:  hv
+comment:  ths
+comment:  wl
+
+
+cluster  1 :
+CAPTION: man
+CAPTION: fly
+CAPTION: kite
+CAPTION: sky
+comment:  know
+comment:  nice
+comment:  wholesale
+comment:  wonderf
+comment:  prefect
+comment:  valentine
+comment:  simple
+comment:  look
+comment:  bea
+comment:  tif
+comment:  spnd
+comment:  valentin
+comment:  day
+comment:  alne
+comment:  wow
+man 	0.2105784107
+fly 	0.143968076321
+kite 	0.104997692257
+sky 	0.168754120078
+
+100243859631724702467.5883828065164458450
+a woman is holding a cake with candles 
+
+not enught word in comment
+
+100243859631724702467.6047441848590561666
+a close up of a person wearing a tie 
+
+not enught word in comment
+
+100243859631724702467.6148764113434936594
+a sign that says UNK UNK UNK on it 
+
+not enught word in comment
+
+100243859631724702467.5947645771269111362
+a black and white photo of a fire hydrant 
+
+not enught word in comment
+
+100243859631724702467.6062927959052572866
+a woman is holding a cell phone in her hand 
+
+not enught word in comment
+
+100243859631724702467.6063410757056622562
+a man is holding a cell phone in his hand 
+
+not enught word in comment
+
+100243859631724702467.5978380340111784962
+a close up of a white and black clock 
+
+not enught word in comment
+
+100243859631724702467.6002405293497491394
+a white plate with a piece of meat and a fork 
+
+matrix comment dim (73, 73)
+
+
+cluster  0 :
+comment:  bo
+comment:  bo
+comment:  fo
+comment:  nd
+comment:  www
+comment:  com
+comment:  bo
+
+
+cluster  1 :
+comment:  good
+comment:  want
+comment:  like
+comment:  wow
+comment:  want
+comment:  pretty
+comment:  bet
+comment:  lot
+comment:  amazing
+comment:  nice
+comment:  want
+comment:  big
+comment:  amazing
+
+
+cluster  2 :
+comment:  laelah
+comment:  mohm
+comment:  rsol
+comment:  sanfak
+comment:  esthe
+comment:  mber
+comment:  thisr
+comment:  tiiiiiif
+comment:  dynamici
+comment:  gorgeo
+comment:  kyptonite
+
+
+cluster  3 :
+comment:  ela
+comment:  allah
+comment:  allah
+comment:  wah
+comment:  git
+comment:  nat
+comment:  necklace
+comment:  yo
+comment:  yo
+comment:  es
+comment:  gh
+comment:  nas
+comment:  bea
+comment:  wooo
+comment:  hehe
+comment:  ch
+
+
+cluster  4 :
+comment:  benar
+comment:  benar
+comment:  cantik
+comment:  khand
+comment:  tiq
+comment:  tiq
+comment:  tiq
+comment:  woooooooow
+comment:  wooooow
+
+
+cluster  5 :
+comment:  piaget
+comment:  piaget
+comment:  piaget
+
+
+cluster  6 :
+CAPTION: white
+CAPTION: plate
+CAPTION: piece
+CAPTION: meat
+CAPTION: fork
+comment:  exceptional
+comment:  invite
+comment:  contact
+comment:  close
+comment:  team
+comment:  gladly
+comment:  help
+comment:  list
+comment:  reference
+comment:  regard
+comment:  team
+comment:  ring
+comment:  cost
+comment:  cost
+white 	0.18959613
+plate 	0.20056398
+piece 	0.23838882
+meat 	0.17105314
+fork 	0.14277264
+
+100243859631724702467.6130442184953830194
+a couple of small birds sitting on top of a white plate 
+
+not enught word in comment
+
+100243859631724702467.5956140991385609698
+a picture of a vase with flowers in it 
+
+not enught word in comment
+
+100243859631724702467.5918981161337920882
+a street scene with cars and a traffic light 
+
+not enught word in comment
+
+100243859631724702467.5938715261092138098
+a close up of a clock on a table 
+
+not enught word in comment
+
+100243859631724702467.5943889798178663346
+a computer keyboard sitting on top of a table 
+
+not enught word in comment
+
+100243859631724702467.6071189294467000946
+a man in a suit and tie standing in front of a wall 
+
+not enught word in comment
+
+100243859631724702467.6013646663457549666
+a young woman wearing a hat and a tie 
+
+matrix comment dim (15, 15)
+number of cluster <2, not enough words in the comment
+
+100243859631724702467.5979523706918726866
+a white and black clock on a white surface 
+
+not enught word in comment
+
+100243859631724702467.6091949743999479106
+a man is holding a cell phone in his hand 
+
+not enught word in comment
+
+100243859631724702467.5995732128884358674
+a group of people riding on the backs of horses 
+
+not enught word in comment
+
+100243859631724702467.5830999017394320002
+three clocks on a wall with a clock 
+
+matrix comment dim (69, 69)
+
+
+cluster  0 :
+CAPTION: clock
+CAPTION: wall
+CAPTION: clock
+comment:  hot
+comment:  boring
+comment:  model
+comment:  dear
+comment:  thank
+comment:  interest
+comment:  invite
+comment:  information
+comment:  follow
+comment:  link
+comment:  order
+comment:  receive
+comment:  desire
+comment:  information
+comment:  self
+comment:  wind
+comment:  self
+comment:  wind
+comment:  phase
+comment:  indicator
+comment:  hand
+comment:  wo
+comment:  team
+comment:  like
+comment:  middle
+comment:  nice
+clock 	0.20359086
+wall 	0.23615967
+clock 	0.20359086
+
+
+cluster  1 :
+comment:  victor
+comment:  kama
+comment:  prod
+comment:  ct
+comment:  req
+comment:  est
+comment:  feat
+comment:  mp
+comment:  gapiaget
+comment:  mp
+comment:  gapiaget
+comment:  rbillon
+comment:  mp
+comment:  gathank
+comment:  wnt
+
+
+cluster  2 :
+comment:  pink
+comment:  gold
+comment:  white
+comment:  gold
+comment:  diamond
+comment:  moon
+comment:  pink
+comment:  gold
+
+
+cluster  3 :
+comment:  yo
+comment:  yo
+comment:  yo
+comment:  se
+comment:  nd
+comment:  yo
+comment:  wow
+
+
+cluster  4 :
+comment:  watch
+comment:  watch
+comment:  watch
+comment:  watch
+comment:  watch
+comment:  watch
+
+
+cluster  5 :
+comment:  piaget
+comment:  verne
+comment:  chronograph
+comment:  flyback
+comment:  verne
+comment:  verne
+comment:  piaget
+
+100243859631724702467.6037074751199697554
+a pair of scissors on a wooden table 
+
+not enught word in comment
+
+100243859631724702467.6084112942061871442
+a man is holding a cell phone in his hand 
+
+not enught word in comment
+
+100243859631724702467.5894447870095526482
+a close up of a bunch of green bananas 
+
+not enught word in comment
+
+100243859631724702467.5987316320244038962
+a clock is on the wall with a UNK 
+
+matrix comment dim (28, 28)
+
+
+cluster  0 :
+CAPTION: clock
+CAPTION: wall
+CAPTION: unk
+comment:  like
+comment:  piaget
+comment:  triple
+comment:  corona
+comment:  palm
+comment:  beach
+comment:  ijeoma
+comment:  eze
+comment:  want
+comment:  amazing
+clock 	0.150567728281
+wall 	0.189680889621
+unk 	-0.0162007927895
+
+
+cluster  1 :
+comment:  na
+comment:  vez
+comment:  mas
+comment:  toca
+comment:  darle
+comment:  las
+comment:  gracias
+comment:  la
+comment:  empresa
+comment:  el
+comment:  al
+comment:  nos
+comment:  presenta
+comment:  reloj
+comment:  deportivo
+comment:  de
+comment:  en
+comment:  gracias
+
+100243859631724702467.5787601544352027090
+a white plate topped with a cake and a fork 
+
+matrix comment dim (19, 19)
+number of cluster <2, not enough words in the comment
+
+100243859631724702467.5911890466303345058
+a clock on a wall with a UNK on it 
+
+not enught word in comment
+
+100243859631724702467.5784248180731410754
+a white vase with a bunch of flowers in it 
+
+matrix comment dim (34, 34)
+
+
+cluster  0 :
+CAPTION: vase
+comment:  erfan
+comment:  mirsadeghi
+comment:  excl
+comment:  sivity
+comment:  bo
+comment:  tiq
+comment:  jan
+comment:  ary
+comment:  abo
+comment:  yo
+comment:  la
+comment:  bea
+comment:  tif
+comment:  ch
+vase 	0.0279486860548
+
+
+cluster  1 :
+CAPTION: white
+CAPTION: bunch
+CAPTION: flower
+comment:  dear
+comment:  ring
+comment:  present
+comment:  available
+comment:  year
+comment:  feel
+comment:  free
+comment:  visit
+comment:  website
+comment:  receive
+comment:  information
+comment:  piece
+comment:  thank
+comment:  team
+comment:  nice
+comment:  elegant
+comment:  amazing
+white 	0.24084677
+bunch 	0.277354
+flower 	0.22852507
+
+
+cluster  2 :
+comment:  piaget
+comment:  piaget
+comment:  piaget
+
+100243859631724702467.5792804768294072290
+a white and blue cake with a red and white frosting and a red UNK 
+
+matrix comment dim (30, 30)
+
+
+cluster  0 :
+CAPTION: unk
+comment:  niq
+comment:  hai
+comment:  smith
+comment:  mohammed
+comment:  basheer
+comment:  thekkedath
+comment:  bea
+comment:  tif
+comment:  woooooow
+unk 	0.126504566107
+
+
+cluster  1 :
+comment:  plz
+comment:  yo
+comment:  friend
+comment:  nice
+comment:  love
+comment:  love
+comment:  nice
+comment:  oh
+comment:  yo
+comment:  love
+comment:  nice
+comment:  dear
+comment:  fantastic
+comment:  yes
+
+
+cluster  2 :
+CAPTION: white
+CAPTION: blue
+CAPTION: cake
+CAPTION: red
+CAPTION: white
+CAPTION: frosting
+CAPTION: red
+comment:  face
+comment:  book
+comment:  add
+comment:  list
+comment:  color
+comment:  color
+comment:  color
+white 	0.41901508
+blue 	0.42583686
+cake 	0.28430575
+red 	0.4162531
+white 	0.41901508
+frosting 	0.2460608
+red 	0.4162531
+
+100243859631724702467.6046254172308313938
+a clock on the side of a building 
+
+not enught word in comment
+
+100243859631724702467.6078626963342996498
+a person is holding a surfboard in the water 
+
+not enught word in comment
+
+100243859631724702467.6122282335501655266
+a close up of a traffic light with a large building in the background 
+
+not enught word in comment
+
+100243859631724702467.5950977439583469330
+a cell phone is sitting on a shelf 
+
+not enught word in comment
+
+100243859631724702467.5830648461938063906
+a large clock on a wall in a room 
+
+not enught word in comment
+
+100243859631724702467.6043725781301152002
+a man riding a skateboard on a ramp 
+
+not enught word in comment
+
+100243859631724702467.6147878735517781970
+a man is standing on a beach holding a surfboard 
+
+not enught word in comment
+
+100243859631724702467.5957992176652489154
+a person is standing in the rain with an umbrella 
+
+not enught word in comment
+
+100243859631724702467.6055589477938141490
+a clock on the side of a building 
+
+not enught word in comment
+
+100243859631724702467.6169810220877000802
+a woman holding a cell phone in her hand 
+
+not enught word in comment
+
+100243859631724702467.5883102823659351058
+a close up of a bunch of bananas 
+
+not enught word in comment
+
+100243859631724702467.5906808776593370962
+a plate of food with a fork on a table 
+
+matrix comment dim (37, 37)
+
+
+cluster  0 :
+CAPTION: fork
+comment:  waw
+comment:  thnxx
+comment:  tti
+comment:  colo
+comment:  lt
+comment:  likeee
+comment:  anillo
+comment:  deberia
+comment:  traer
+comment:  manita
+comment:  lolololo
+comment:  bea
+comment:  tif
+comment:  iero
+comment:  ig
+comment:  enviarmelo
+comment:  nyccxxx
+fork 	-0.0160676842994
+
+
+cluster  1 :
+CAPTION: plate
+CAPTION: food
+CAPTION: table
+comment:  nice
+comment:  nice
+comment:  green
+comment:  love
+comment:  price
+comment:  nice
+comment:  nice
+comment:  classy
+comment:  hi
+comment:  nice
+comment:  nice
+plate 	0.25354978
+food 	0.31410053
+table 	0.28595692
+
+
+cluster  2 :
+comment:  es
+comment:  hermoso
+comment:  como
+comment:  el
+comment:  en
+comment:  mi
+comment:  al
+comment:  por
+comment:  favor
+
+100243859631724702467.6065995616626916082
+a woman holding a cell phone in her hand 
+
+not enught word in comment
+
+100243859631724702467.6114895934772355698
+a man flying through the air while riding a surfboard 
+
+not enught word in comment
+
+100243859631724702467.6149098288415833890
+a close up of a fire hydrant on a street 
+
+not enught word in comment
+
+100243859631724702467.6005378160300738674
+a white plate topped with a piece of broccoli 
+
+matrix comment dim (27, 27)
+
+
+cluster  0 :
+CAPTION: white
+CAPTION: piece
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  omg
+comment:  love
+comment:  love
+comment:  wow
+comment:  pretty
+comment:  mean
+comment:  hello
+comment:  today
+comment:  sh
+comment:  xx
+comment:  nice
+comment:  yo
+white 	0.30812198
+piece 	0.3115582
+
+
+cluster  1 :
+CAPTION: plate
+CAPTION: broccoli
+comment:  hokit
+comment:  wooooooooow
+comment:  nicee
+comment:  wonderf
+comment:  waooooo
+comment:  lt
+comment:  emerald
+comment:  tef
+comment:  ktir
+comment:  helw
+comment:  flory
+plate 	-0.016658381305
+broccoli 	0.028459569778
+
+100243859631724702467.6021010026912399490
+a close up of a bunch of stuffed animals 
+
+not enught word in comment
+
+100243859631724702467.5938359314313329874
+a large clock with a UNK on top 
+
+not enught word in comment

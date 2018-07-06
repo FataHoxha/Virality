@@ -1,0 +1,32 @@
+
+Image id --->  101373961279443806744.5656965061305986450
+Caption cleaned --->  view mountain range mountain range 
+mountain -- 0.385207256675
+mountain -- 0.385207256675
+view -- 0.645718416997
+range -- 0.32022613
+range -- 0.32022613
+
+Image id --->  101373961279443806744.5981772380401160226
+Caption cleaned --->  large bird fly snow 
+bird -- 0.369013916169
+snow -- 0.4493378
+fly -- 0.26847908
+large -- 0.481795666739
+
+Image id --->  101373961279443806744.5661395120446335522
+Caption cleaned --->  man fly air rid snowboard 
+man -- 0.37517154
+fly -- 0.23515013
+rid -- 0.24377674
+snowboard -- 0.13118187
+air -- 0.3088757
+
+Image id --->  101373961279443806744.5685298298113387666
+Caption cleaned --->  large body water bird 
+bird -- 0.2728329
+body -- 0.412325914949
+large -- 0.42847303
+water -- 0.830803291003
+
+Image id --->  101373961279443806744.5953594622689343650

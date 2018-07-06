@@ -1,0 +1,889 @@
+
+100091697767366769792.5812197168626636482
+a plate of food and a bowl of soup 
+
+matrix comment dim (63, 63)
+plate 	0.28425077
+food 	0.693006592137
+bowl 	0.37725383
+soup 	0.5973242
+
+100091697767366769792.5818928979099497234
+a plate of food with broccoli and meat 
+
+matrix comment dim (102, 102)
+plate 	0.24261068
+food 	0.481369436781
+meat 	0.39319766
+broccoli 	0.6697123
+
+100091697767366769792.5812929704363473922
+a plate of food that includes meat and vegetables 
+
+matrix comment dim (63, 63)
+plate 	0.19027224
+include 	0.088076815
+food 	0.581940092824
+meat 	0.5501839
+vegetable 	0.55310297
+
+100091697767366769792.5805886784476364546
+a bowl of food with a fork and knife 
+
+matrix comment dim (40, 40)
+bowl 	0.40604225
+food 	0.3848574
+fork 	0.24748488
+knife 	0.2268393
+
+100091697767366769792.5789640119230536738
+a glass of wine sitting on top of a table 
+
+matrix comment dim (20, 20)
+glass 	0.26548305
+sit 	0.40639415
+table 	0.24160488
+wine 	0.4072155
+
+100091697767366769792.5822956726070619010
+a piece of cake on a plate with a fork 
+
+matrix comment dim (39, 39)
+piece 	0.3230874
+cake 	0.547115004725
+plate 	0.28146237
+fork 	-6.18330927359e-05
+
+100091697767366769792.5834823730747290562
+a plate with a hot dog and fries 
+
+matrix comment dim (67, 67)
+plate 	0.25843492
+fry 	0.651382926106
+hot 	0.3178703
+dog 	0.27349278
+
+100091697767366769792.5811940117853994898
+a glass of wine sitting on top of a table 
+
+matrix comment dim (27, 27)
+glass 	0.2639212
+wine 	0.28862208
+sit 	0.4047533
+table 	0.26545152
+
+100091697767366769792.5798068901407821266
+a white plate topped with a piece of cake 
+
+matrix comment dim (31, 31)
+plate 	0.32379648
+cake 	0.53122425
+white 	0.34634098
+piece 	0.3428519
+
+100091697767366769792.5792146817563746658
+a white plate topped with a sandwich and a salad 
+
+matrix comment dim (37, 37)
+white 	0.31153166
+plate 	0.2564615
+sandwich 	0.4822603
+salad 	0.58706886
+
+100091697767366769792.5802154709068681442
+a plate of food that includes broccoli and meat 
+
+matrix comment dim (35, 35)
+plate 	0.20784484
+food 	0.492246860372
+include 	0.14492968
+broccoli 	0.30575493
+meat 	0.4055325
+
+100091697767366769792.5820722434130258418
+a plate of food with meat and vegetables 
+
+matrix comment dim (24, 24)
+plate 	0.24485728
+food 	0.440960305432
+meat 	0.38803014
+vegetable 	0.338255962564
+
+100091697767366769792.5787315401575707346
+a bowl of food that is on a table 
+
+matrix comment dim (159, 159)
+bowl 	0.35813072
+food 	0.597183430896
+table 	0.18984114
+
+100091697767366769792.5832552741945203762
+a plate of food with a fork on a table 
+
+matrix comment dim (101, 101)
+plate 	0.2733285
+fork 	0.20802985
+table 	0.25625947
+food 	0.5281513
+
+100091697767366769792.5837921185050087282
+a man is preparing food in a kitchen 
+
+matrix comment dim (182, 182)
+prepare 	0.38557553
+food 	0.469239217229
+kitchen 	0.19777071
+man 	0.716466810022
+
+100091697767366769792.5828935252158691042
+a slice of pizza sitting on top of a white plate 
+
+matrix comment dim (46, 46)
+sit 	0.4320763
+white 	0.30923235
+slice 	0.39121577
+pizza 	0.5423358
+plate 	0.0763329022395
+
+100091697767366769792.5828862155225585474
+a bowl of soup and a bowl of soup on a table 
+
+matrix comment dim (71, 71)
+bowl 	0.4670892
+soup 	0.72522229751
+bowl 	0.4670892
+soup 	0.72522229751
+table 	0.23628007
+
+100091697767366769792.5813722369223478626
+a bowl of soup and a bowl of soup 
+
+matrix comment dim (36, 36)
+bowl 	0.38959205
+soup 	0.58966905
+bowl 	0.38959205
+soup 	0.58966905
+
+100091697767366769792.5787692624193008802
+a plate of food that includes broccoli and meat 
+
+matrix comment dim (49, 49)
+broccoli 	0.65668875
+meat 	0.62027687
+plate 	0.20016228
+food 	0.28436574
+include 	0.15188357
+
+100091697767366769792.5812201949310669810
+a plate with a sandwich and a salad 
+
+matrix comment dim (240, 240)
+plate 	0.24082486
+sandwich 	0.54311526
+salad 	0.6131413
+
+100091697767366769792.5838658185733959090
+a group of people standing in a field with a kite 
+
+not enught word in comment
+
+100091697767366769792.5788762773226147730
+a close up of a plate of food on a table 
+
+matrix comment dim (124, 124)
+close 	0.32987452
+table 	0.26658478
+food 	0.630976371467
+plate 	0.15291563
+
+100091697767366769792.5788019411570398418
+a bowl of cereal and a banana on a table 
+
+matrix comment dim (189, 189)
+bowl 	0.28436452
+cereal 	0.33453283
+table 	0.18811576
+banana 	0.5526563
+
+100091697767366769792.5796169657336012610
+a piece of cake on a plate with a fork 
+
+matrix comment dim (117, 117)
+cake 	0.56174195
+plate 	0.2097317
+fork 	0.1529058
+piece 	0.2789554
+
+100091697767366769792.5828613214303639730
+a white plate topped with meat and vegetables 
+
+matrix comment dim (92, 92)
+meat 	0.692559478538
+vegetable 	0.5725861
+white 	0.2668068
+plate 	0.21413541
+
+100091697767366769792.5833091931004931106
+a man and a woman standing next to each other 
+
+matrix comment dim (28, 28)
+man 	0.32849103851
+woman 	0.244077743164
+stand 	0.276127712136
+
+100091697767366769792.5814419111964151810
+a sandwich with meat and cheese on a plate 
+
+matrix comment dim (161, 161)
+plate 	0.22708789
+sandwich 	0.5387804
+meat 	0.6186453
+cheese 	0.61349016
+
+100091697767366769792.5788060936698421586
+a plate of food with a fork and knife 
+
+matrix comment dim (54, 54)
+food 	0.566918310523
+plate 	0.21469791
+fork 	0.17031915
+knife 	0.19171585
+
+100091697767366769792.5837795414348546498
+a bowl of soup and a bowl of soup on a table 
+
+matrix comment dim (55, 55)
+soup 	0.5549699
+soup 	0.5549699
+bowl 	0.2428163
+bowl 	0.2428163
+table 	0.23839404
+
+100091697767366769792.5799525982784336050
+a person sitting in a chair with a stuffed animal 
+
+matrix comment dim (82, 82)
+chair 	0.187434
+animal 	0.22243182
+person 	0.44761568
+sit 	0.4701512
+stuff 	0.5111237
+
+100091697767366769792.5802645579657748162
+a couple of people that are sitting at a table 
+
+matrix comment dim (116, 116)
+people 	0.660664090985
+table 	0.29949996
+couple 	0.42310995
+sit 	0.40560776
+
+100091697767366769792.5833354804015505218
+a plate of food that is on a table 
+
+matrix comment dim (58, 58)
+plate 	0.32483828
+food 	0.5538713
+table 	0.22993657
+
+100091697767366769792.5817846658588448242
+a piece of cake on a plate with a fork 
+
+matrix comment dim (161, 161)
+plate 	0.23534247
+cake 	0.7098541
+piece 	0.3353754
+fork 	0.14185664
+
+100091697767366769792.5820413249072466610
+a plate with a hot dog and fries 
+
+matrix comment dim (40, 40)
+plate 	0.1901024
+dog 	0.21649198
+fry 	0.21608807
+hot 	0.4699169
+
+100091697767366769792.5790234564140106354
+a white plate topped with a bunch of fruit 
+
+matrix comment dim (87, 87)
+bunch 	0.34358662
+white 	0.3623213
+plate 	0.26064166
+fruit 	0.460473837597
+
+100091697767366769792.5815589107101459842
+a man and a woman standing in front of a table 
+
+matrix comment dim (107, 107)
+man 	0.36989608
+stand 	0.424998359038
+woman 	0.2872346
+table 	0.2633372
+
+100091697767366769792.5793195419250516338
+a plate of food on a table 
+
+matrix comment dim (57, 57)
+plate 	0.18509072
+table 	0.2395317
+food 	0.5886692
+
+110333316274703220914.5820361426520953858
+a plate with a sandwich and a cup of coffee 
+
+matrix comment dim (39, 39)
+plate 	0.20661776
+sandwich 	0.33057207
+cup 	0.25454304
+coffee 	0.30082917
+
+100091697767366769792.5833462996509920514
+a group of people standing in a field 
+
+matrix comment dim (33, 33)
+people 	0.550414
+group 	0.24052364
+stand 	0.37896025
+field 	0.26458704
+
+100091697767366769792.5814537698770496578
+a man in a suit and tie standing in front of a microphone 
+
+matrix comment dim (207, 207)
+man 	0.38493237
+tie 	0.23347996
+microphone 	0.1943628
+suit 	0.26176336
+standing 	0.3209817
+
+100091697767366769792.5821230075202676882
+a glass of wine sitting on top of a table 
+
+matrix comment dim (83, 83)
+table 	0.20319726
+glass 	0.45563236
+wine 	0.618862186487
+sit 	0.46079725
+
+100091697767366769792.5838918969845581682
+a bunch of different types of food on a table 
+
+matrix comment dim (53, 53)
+bunch 	0.32062313
+different 	0.331693
+type 	0.2536531
+food 	0.35374898
+table 	0.28635138
+
+100091697767366769792.5838225288223215682
+a close up of a pair of scissors on a table 
+
+matrix comment dim (17, 17)
+number of cluster <2, not enough words in the comment
+
+100091697767366769792.5819285965171761762
+a plate with a piece of cake and a fork 
+
+matrix comment dim (101, 101)
+plate 	0.21509637
+fork 	0.16867936
+cake 	0.734676727882
+piece 	0.266438
+
+100091697767366769792.5796214032578548898
+a bowl of cereal and a banana on a table 
+
+matrix comment dim (100, 100)
+bowl 	0.4164255
+cereal 	0.49177212
+banana 	0.5067097
+table 	0.28026333
+
+100091697767366769792.5833725906095582354
+two bowls of food on a table 
+
+matrix comment dim (89, 89)
+bowl 	0.466973399123
+table 	0.2286976
+food 	0.70873811841
+
+100091697767366769792.5835565891960413762
+a white plate topped with a sandwich and a salad 
+
+matrix comment dim (65, 65)
+sandwich 	0.5201668
+salad 	0.601209
+white 	0.14747132
+plate 	0.13314277
+
+100091697767366769792.5815991136804978210
+a group of people standing in a room 
+
+not enught word in comment
+
+100091697767366769792.5808066569984416738
+a tray of food with a fork and knife 
+
+matrix comment dim (104, 104)
+tray 	0.09029877
+food 	0.3030223
+fork 	0.16933249
+knife 	0.18969062
+
+100091697767366769792.5827366509955426242
+a plate with a sandwich and french fries 
+
+matrix comment dim (86, 86)
+sandwich 	0.53959566
+plate 	0.19680454
+french 	0.22239265
+fry 	0.16949244
+
+100091697767366769792.5814746925271717378
+a kitchen with a lot of different types of appliances 
+
+matrix comment dim (16, 16)
+number of cluster <2, not enough words in the comment
+
+100091697767366769792.5833014689535527714
+a bowl of cereal and a banana on a table 
+
+matrix comment dim (141, 141)
+table 	0.2145439
+banana 	0.623989568037
+bowl 	0.31059763
+cereal 	0.30070964
+
+100091697767366769792.5841105132895150978
+a group of people standing in front of a bus 
+
+matrix comment dim (65, 65)
+people 	0.616442384198
+group 	0.20888852
+stand 	0.34506342
+bus 	0.11445953
+
+100091697767366769792.5839323234480497362
+a plate of food on a table 
+
+matrix comment dim (41, 41)
+food 	0.5113788889
+plate 	0.1582379
+table 	0.18635206
+
+100091697767366769792.5831174671341022050
+a close up of a piece of cake on a plate 
+
+matrix comment dim (253, 253)
+close 	0.39402664
+piece 	0.34984273
+cake 	0.829181838036
+plate 	0.27651992
+
+100091697767366769792.5830834684235597554
+a slice of pizza sitting on top of a white plate 
+
+matrix comment dim (90, 90)
+sit 	0.49131468
+slice 	0.42608413
+pizza 	0.55469835
+white 	0.27898145
+plate 	0.19389197
+
+100091697767366769792.5829628524980189922
+a plate of food and a drink on a table 
+
+matrix comment dim (24, 24)
+plate 	0.27688995
+food 	0.3508501
+drink 	0.3072942
+table 	0.18411504
+
+100091697767366769792.5828236914979069234
+a glass of wine sitting on top of a table 
+
+matrix comment dim (37, 37)
+sit 	0.38441712
+table 	0.24802703
+glass 	0.30881894
+wine 	0.30179408
+
+100091697767366769792.5824806954845442834
+a white plate topped with a meat and broccoli 
+
+matrix comment dim (116, 116)
+white 	0.22792383
+plate 	0.1695646
+meat 	0.621014948686
+broccoli 	0.53401047
+
+100091697767366769792.5837873463806646530
+a bowl of food with a spoon on a table 
+
+matrix comment dim (26, 26)
+bowl 	0.325262767263
+food 	0.408417693339
+spoon 	0.28199798
+table 	0.27463102
+
+100091697767366769792.5840716408899972290
+a plate of food on a table 
+
+matrix comment dim (78, 78)
+food 	0.66402648886
+plate 	0.22580549
+table 	0.27739602
+
+100091697767366769792.5830370627625484066
+a plate of food with meat and broccoli 
+
+matrix comment dim (63, 63)
+plate 	0.114344135
+food 	0.48119524
+meat 	0.5627856
+broccoli 	0.5889509
+
+100091697767366769792.5836308054422229346
+a plate of food with a sandwich and fries 
+
+matrix comment dim (25, 25)
+food 	0.3568925
+plate 	0.0704623777419
+sandwich 	0.216391420923
+fry 	0.169616728788
+
+100091697767366769792.5830788101495563138
+a close up of a pizza on a plate 
+
+matrix comment dim (93, 93)
+close 	0.2682943
+plate 	0.13802347
+pizza 	0.5484768
+
+100091697767366769792.5830717020007263922
+a man and woman standing in front of a wall 
+
+matrix comment dim (56, 56)
+woman 	0.2926668
+stand 	0.29944968
+wall 	0.1868661
+man 	0.42626023
+
+100091697767366769792.5823327876998837938
+a pizza sitting on top of a metal pan 
+
+matrix comment dim (84, 84)
+pizza 	0.4189534
+pan 	0.32246563
+sit 	0.4420985
+metal 	0.00649509727955
+
+100091697767366769792.5839740576903809202
+a pizza sitting on top of a white plate 
+
+matrix comment dim (53, 53)
+pizza 	0.496452876008
+sit 	0.38622716
+white 	0.23298693
+plate 	0.24348328
+
+100091697767366769792.5788811504781537746
+a plate of food with meat and vegetables 
+
+matrix comment dim (680, 680)
+food 	0.572162095308
+meat 	0.5814372
+vegetable 	0.53509814
+plate 	0.18584158
+
+100091697767366769792.5824897114923304674
+a man and a woman sitting at a table 
+
+not enught word in comment
+
+100091697767366769792.5805821513605338546
+a woman is sitting in a chair with a cell phone 
+
+matrix comment dim (70, 70)
+woman 	0.2872921
+sit 	0.34075654
+chair 	0.1269935
+cell 	0.22800604
+phone 	0.2153252
+
+100091697767366769792.5835210254613785778
+a bowl of food with a spoon on a table 
+
+matrix comment dim (93, 93)
+bowl 	0.44719225
+food 	0.5324615
+spoon 	0.44881368
+table 	0.27000785
+
+100091697767366769792.5839276724013242370
+a slice of pizza on a white plate 
+
+matrix comment dim (100, 100)
+white 	0.25652137
+plate 	0.19973342
+slice 	0.3923684
+pizza 	0.5383137
+
+100091697767366769792.5818248571262732802
+a plate of food and a cup of coffee 
+
+matrix comment dim (63, 63)
+food 	0.572189765672
+cup 	0.44083908
+coffee 	0.5221085
+plate 	0.09167546
+
+100091697767366769792.5822995409809596994
+a bowl of food with a spoon in it 
+
+matrix comment dim (38, 38)
+bowl 	0.38518077
+food 	0.38531953
+spoon 	0.37048882
+
+100091697767366769792.5817498641962137842
+a group of people sitting on a bench with their cell phones 
+
+matrix comment dim (43, 43)
+group 	0.21537776
+bench 	0.14206725
+cell 	0.12615833
+phone 	0.13418145
+people 	0.53528816
+sit 	0.4435181
+
+100091697767366769792.5831070791937056386
+a plate of food that includes meat and vegetables 
+
+matrix comment dim (99, 99)
+food 	0.683169080151
+include 	-0.0709303021431
+plate 	0.2986401
+meat 	0.56543547
+vegetable 	0.52605885
+
+100091697767366769792.5802896387005956034
+a slice of pizza sitting on top of a white plate 
+
+matrix comment dim (255, 255)
+slice 	0.454965
+pizza 	0.5677001
+sit 	0.29691955
+white 	0.23805268
+plate 	0.15460786
+
+100091697767366769792.5804319463597755330
+a man in a suit and tie is holding a camera 
+
+matrix comment dim (59, 59)
+man 	0.481929293046
+suit 	0.21325961
+camera 	0.407323831862
+tie 	0.244945
+hold 	0.4786068
+
+100091697767366769792.5831446774374847602
+two hot dogs with mustard and ketchup on a plate 
+
+matrix comment dim (121, 121)
+dog 	0.30853054
+hot 	0.40207323
+mustard 	0.62889904
+ketchup 	0.558441
+plate 	0.288601
+
+100091697767366769792.5806998509211453090
+a piece of cake on a plate with a fork 
+
+matrix comment dim (57, 57)
+piece 	0.1801107
+plate 	0.2210619
+fork 	0.15193878
+cake 	0.4629561
+
+100091697767366769792.5838120172526661042
+a piece of cake on a plate with a fork 
+
+matrix comment dim (758, 758)
+fork 	0.11243821
+cake 	0.795175653696
+piece 	0.25454527
+plate 	0.25705278
+
+100091697767366769792.5838165319606408098
+a bowl of food with a spoon in it 
+
+matrix comment dim (129, 129)
+food 	0.60501844
+bowl 	0.30330226
+spoon 	0.28063202
+
+100091697767366769792.5813015901336766034
+a plate of food that includes meat and broccoli 
+
+matrix comment dim (126, 126)
+food 	0.447540048924
+meat 	0.46486583
+broccoli 	0.4122714
+plate 	0.26764116
+include 	0.16686986
+
+100091697767366769792.5821482693937353538
+a piece of bread is on a cutting board 
+
+matrix comment dim (68, 68)
+piece 	0.30566707
+cutting 	0.24151368
+board 	0.22658317
+bread 	0.5736354
+
+100091697767366769792.5838534557439395618
+a plate of food with meat and vegetables 
+
+matrix comment dim (160, 160)
+plate 	0.247669839515
+vegetable 	0.46476626
+food 	0.5319833
+meat 	0.5140844
+
+100091697767366769792.5829947613036760386
+a pizza sitting on top of a white plate 
+
+matrix comment dim (92, 92)
+pizza 	0.55307424
+sit 	0.31631443
+white 	0.25805527
+plate 	0.1881176
+
+100091697767366769792.5836354476811749346
+a hot dog with mustard and ketchup on a plate 
+
+matrix comment dim (49, 49)
+mustard 	0.34588027
+ketchup 	0.37559196
+plate 	0.27923885
+hot 	0.24778852
+dog 	0.23429638
+
+100091697767366769792.5840877414093110322
+a man and woman standing in front of a bus 
+
+matrix comment dim (28, 28)
+man 	0.39191893
+woman 	0.3409993
+stand 	0.37485254
+bus 	0.13581337
+
+100091697767366769792.5835983293161539634
+a plate of food with a fork on a table 
+
+matrix comment dim (39, 39)
+plate 	0.0951368909861
+fork 	0.0951159460736
+table 	0.0711985788574
+food 	0.5518516
+
+100091697767366769792.5823698866867800866
+a plate with a sandwich and a salad 
+
+matrix comment dim (89, 89)
+plate 	0.17976105
+sandwich 	0.52322835
+salad 	0.5922012
+
+100091697767366769792.5835689514531295970
+a man and a woman standing in front of a plate of food 
+
+matrix comment dim (35, 35)
+man 	0.43988124
+woman 	0.3041721
+stand 	0.33903345
+plate 	0.20444573
+food 	0.24256267
+
+100091697767366769792.5829365679696734898
+a group of people standing in a room 
+
+matrix comment dim (87, 87)
+people 	0.46408436
+stand 	0.40860218
+group 	0.24468349
+room 	0.2436608
+
+100091697767366769792.5812535342582582338
+a plate of food with a fork and a spoon 
+
+matrix comment dim (94, 94)
+plate 	0.17733806
+fork 	0.17595236
+spoon 	0.46883938
+food 	0.3535784
+
+100091697767366769792.5794708718894722082
+a bowl of food with a spoon in it 
+
+matrix comment dim (63, 63)
+bowl 	0.27099675
+spoon 	0.3222979
+food 	0.39909714
+
+100091697767366769792.5840380027595532690
+a plate of food with meat and vegetables 
+
+matrix comment dim (135, 135)
+food 	0.578041951571
+meat 	0.5253756
+vegetable 	0.5858133
+plate 	0.3064921
+
+100091697767366769792.5814846926868520802
+a close up of a piece of cake on a plate 
+
+matrix comment dim (84, 84)
+plate 	0.24271446
+close 	0.44621563
+piece 	0.38254362
+cake 	0.5741923
+
+100091697767366769792.5828515230578249890
+a bowl of soup with carrots and a spoon 
+
+matrix comment dim (48, 48)
+spoon 	0.0446161481086
+soup 	0.5797276
+carrot 	0.5029852
+bowl 	0.24891056
+
+100091697767366769792.5827479396879137682
+a man and a woman standing in front of a mirror 
+
+matrix comment dim (107, 107)
+mirror 	0.23971225
+woman 	0.387281096899
+stand 	0.3415922
+man 	0.39793816
+
+100091697767366769792.5840436418347726418
+a plate with a sandwich and a salad 
+
+matrix comment dim (66, 66)
+plate 	0.2258187
+sandwich 	0.674698926508
+salad 	0.6502115
+
+100091697767366769792.5812223064814377394
+a table topped with lots of different types of food 
+
+matrix comment dim (83, 83)
+food 	0.449584576819
+table 	0.24653618
+type 	0.26625186
+lot 	0.538034606725
+different 	0.46408302

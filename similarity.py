@@ -18,7 +18,7 @@ from sklearn.metrics import  pairwise
 from scipy.spatial import distance
 from scipy.sparse import vstack
 nlp = spacy.load('en_core_web_lg')
-jfile = json.load(open('output/comm_cap_100243859631724702467.json'))
+jfile = json.load(open('output/comm_cap_100091697767366769792.json'))
 from pandas import *
 
 #workaround beacuse in this model they have no stop words
@@ -218,7 +218,7 @@ if __name__ == "__main__":
 	for post in jfile['results']:
 		img_id=post['id']
 		print ""
-		print "Image id ---> ", img_id
+		print img_id
 		caption = get_caption(img_id)
 		comment = get_comment(img_id)
 		
@@ -227,17 +227,15 @@ if __name__ == "__main__":
 		#print comment
 		comment_clean=clean_text(comment)
 		
-		print "Comment cleaned ---> "
-		print comment_clean
+		#print "Comment cleaned ---> "
+		#print comment_clean
 		#print ""
 		#print "---------------------------------- CAPTION----------------------------------" 
 		#print "Caption ---> "
-		#print caption 
+		print caption, "\n"
 		caption_clean=clean_text(caption)
-		print "Caption cleaned ---> "
-		print caption_clean
-		print 
-		
+		#print "Caption cleaned ---> ", caption_clean
+	
 		if (len(comment_clean.split())>=15):
 			
 			#convert commetn text in a matrix similarity
@@ -292,12 +290,14 @@ if __name__ == "__main__":
 				median_dist = []
 				for cluster in range(nclusters):
 					cap_sim=[]
-					print "cluster ",cluster,":"
+					#print "\n"
+					#print "cluster ",cluster,":"
 					for j, caption in enumerate(caption_list):
 				
 						predicted_cluster = predicted_label[j] 
 						if (cluster==predicted_cluster):
-							print "caption:", caption," - cluster:", predicted_label[j] , " - distance: ", min(dist_caption[j])
+							#print "caption:", caption," - cluster:", predicted_label[j] , " - distance: ", min(dist_caption[j])
+							#print "CAPTION:", caption #," - cluster:", predicted_label[j] , " - distance: ", min(dist_caption[j])
 							cap_sim.append(caption)
 					dist = []
 					dist_intern=0
@@ -311,7 +311,8 @@ if __name__ == "__main__":
 							text=word
 						
 							if (counter==sent):
-								print "comment: ",sent," : ", text, " - distance: ", dist_comment[sent][cluster]
+								#print "comment: ",sent," : ", text, " - distance: ", dist_comment[sent][cluster]
+								#print "comment: ", text
 								#print matrix_comm[sent]
 								dist_intern=dist_comment[sent][cluster]
 								dist.append(dist_intern)
@@ -324,28 +325,26 @@ if __name__ == "__main__":
 							prev_text=text
 							counter+=1
 				
-					print cap_sim
+					#print cap_sim
 					s=' '.join(comm_sim)
-					if not cap_sim:
-						print "list is empty"
-					else:
+					if cap_sim:
 						for i in cap_sim:
 							comm_sim_matrix= caption_to_matrix(i,s)
 							comm_sim_matrix=np.array(comm_sim_matrix)
-							print "comm_sim_matrix: ", i
-							print comm_sim_matrix
-							print "mean", np.mean(comm_sim_matrix)
-							print " "
+							print i,"\t", np.mean(comm_sim_matrix)
+							#print comm_sim_matrix
+							#print "mean", np.mean(comm_sim_matrix)
+							#print " "
 					#print "dist totale:", (dist), count
 					#avg = (dist/count)
 					median=statistics.median(dist)
 					median_dist.append(median)
-					print "median-->", median
-					print ""
+					#print "median-->", median
+					#print ""
 				#print "median dist", median_dist
 				#print "euclideian distance caption-centroid"
 				#print dist_caption
-			
+				"""
 				for i, caption in enumerate(dist_caption):
 					#print "caption", i ,caption
 					#print "median dist"
@@ -361,11 +360,11 @@ if __name__ == "__main__":
 						
 				closest, _ = pairwise_distances_argmin_min(centers, matrix_caption)
 
-				"""
+				
 				#comment word near to the centroid
 				order_centroids=centers.argsort()[:, ::-1]
 				print "------------------------5word-> TOPIC OUTPUT-------------------------------" 
-				print ""
+				
 				for cluster in range(nclusters):
 					print "cluster ",cluster,":"
 					#5 most common word
@@ -385,5 +384,5 @@ if __name__ == "__main__":
 			#print "--------------------------------------------------
 		
 		else:
-			print "not enught word in comment0000000000000000"
+			print "not enught word in comment"
 		

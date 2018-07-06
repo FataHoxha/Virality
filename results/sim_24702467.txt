@@ -1,0 +1,451 @@
+
+Image id --->  100243859631724702467.5971294733620274114
+Caption cleaned --->  cell phone sit table 
+not enught word in comment
+
+Image id --->  100243859631724702467.6155287016282830066
+Caption cleaned --->  plane fly air sky background 
+not enught word in comment
+
+Image id --->  100243859631724702467.5878585024590387026
+Caption cleaned --->  close clock table 
+not enught word in comment
+
+Image id --->  100243859631724702467.6144952284544806898
+Caption cleaned --->  woman hold cell phone hand 
+not enught word in comment
+
+Image id --->  100243859631724702467.6112267351635522402
+Caption cleaned --->  large clock pole city street 
+not enught word in comment
+
+Image id --->  100243859631724702467.6135366504867675490
+Caption cleaned --->  close person motorcycle 
+not enught word in comment
+
+Image id --->  100243859631724702467.6012164032106652754
+Caption cleaned --->  close bunch broccoli 
+close -- 0.25451168
+broccoli -- 0.11337638
+bunch -- 0.3199694
+
+Image id --->  100243859631724702467.5939834340598744930
+Caption cleaned --->  large clock wall 
+not enught word in comment
+
+Image id --->  100243859631724702467.6034433474745483346
+Caption cleaned --->  person hold kite air 
+not enught word in comment
+
+Image id --->  100243859631724702467.6015891355136721970
+Caption cleaned --->  group people stand room 
+not enught word in comment
+
+Image id --->  100243859631724702467.6041029415222783634
+Caption cleaned --->  close parking meter street 
+close -- 0.27892235
+street -- 0.25220683
+parking -- -0.0101328634191
+meter -- 0.0459580132738
+
+Image id --->  100243859631724702467.6022947878052491026
+Caption cleaned --->  close plate food fork 
+close -- 0.21098591
+plate -- 0.31670216
+food -- 0.31076968
+fork -- 0.25851533
+
+Image id --->  100243859631724702467.5886783401136786738
+Caption cleaned --->  bunch flower vase 
+not enught word in comment
+
+Image id --->  100243859631724702467.5965693801940850738
+Caption cleaned --->  man stand computer 
+not enught word in comment
+
+Image id --->  100243859631724702467.6166831389667855666
+Caption cleaned --->  close clock wall 
+not enught word in comment
+
+Image id --->  100243859631724702467.5927894714849136418
+Caption cleaned --->  close clock table 
+not enught word in comment
+
+Image id --->  100243859631724702467.5887825307668021730
+Caption cleaned --->  pair scissor wooden table 
+not enught word in comment
+
+Image id --->  100243859631724702467.5787624400846620866
+Caption cleaned --->  collage picture clock lamp 
+not enught word in comment
+
+Image id --->  100243859631724702467.5892968428778971602
+Caption cleaned --->  person stand computer 
+not enught word in comment
+
+Image id --->  100243859631724702467.6264082886860423042
+Caption cleaned --->  red white bird sit branch 
+not enught word in comment
+
+Image id --->  100243859631724702467.5979063609877640354
+Caption cleaned --->  close tooth brush cup 
+close -- 0.36427268
+brush -- 0.24371386
+cup -- 0.2223232
+tooth -- -0.00693446542136
+
+Image id --->  100243859631724702467.6182914881733126418
+Caption cleaned --->  clock pole sky background 
+not enught word in comment
+
+Image id --->  100243859631724702467.6115321281377209298
+Caption cleaned --->  couple bird fly sky 
+not enught word in comment
+
+Image id --->  100243859631724702467.6106359139918233826
+Caption cleaned --->  clock building 
+not enught word in comment
+
+Image id --->  100243859631724702467.6086391509358649394
+Caption cleaned --->  man hold cell phone hand 
+not enught word in comment
+
+Image id --->  100243859631724702467.6082622942585931746
+Caption cleaned --->  close street sign sky background 
+number of cluster <2, not enough words in the comment
+
+Image id --->  100243859631724702467.6119398856389573282
+Caption cleaned --->  woman hold cell phone hand 
+number of cluster <2, not enough words in the comment
+
+Image id --->  100243859631724702467.6187370761344586434
+Caption cleaned --->  woman hold cell phone hand 
+not enught word in comment
+
+Image id --->  100243859631724702467.6104951480090076114
+Caption cleaned --->  close street sign sky background 
+not enught word in comment
+
+Image id --->  100243859631724702467.5792405812677447970
+Caption cleaned --->  red white table red white vase 
+not enught word in comment
+
+Image id --->  100243859631724702467.5938836670839192338
+Caption cleaned --->  close clock wall 
+not enught word in comment
+
+Image id --->  100243859631724702467.5936753403543308642
+Caption cleaned --->  close clock table 
+not enught word in comment
+
+Image id --->  100243859631724702467.6179086585414920178
+Caption cleaned --->  close plane fly sky 
+not enught word in comment
+
+Image id --->  100243859631724702467.5786859432662658850
+Caption cleaned --->  close vase flower 
+vase -- 0.0611386034372
+close -- 0.34008378
+flower -- 0.22380061
+
+Image id --->  100243859631724702467.5950182644511958674
+Caption cleaned --->  large clock wall clock background 
+large -- -0.0114642634243
+clock -- 0.0042764159292
+wall -- -0.00203120730817
+clock -- 0.0042764159292
+background -- -0.0239963975549
+
+Image id --->  100243859631724702467.6169869103228314754
+Caption cleaned --->  red white plane fly sky 
+not enught word in comment
+
+Image id --->  100243859631724702467.6029622087692655394
+Caption cleaned --->  close person hold pair scissor 
+not enught word in comment
+
+Image id --->  100243859631724702467.6038456049181410258
+Caption cleaned --->  person hold tennis racket hand 
+not enught word in comment
+
+Image id --->  100243859631724702467.5991699492334721202
+Caption cleaned --->  clock building 
+not enught word in comment
+
+Image id --->  100243859631724702467.5935746960334682466
+Caption cleaned --->  close clock table 
+not enught word in comment
+
+Image id --->  100243859631724702467.5886287072499135810
+Caption cleaned --->  woman hold red umbrella park 
+not enught word in comment
+
+Image id --->  100243859631724702467.6107145664930577234
+Caption cleaned --->  clock pole sky background 
+not enught word in comment
+
+Image id --->  100243859631724702467.5956140731792000434
+Caption cleaned --->  man rid snowboard snow cover slope 
+not enught word in comment
+
+Image id --->  100243859631724702467.6049936319124831426
+Caption cleaned --->  woman hold cell phone hand 
+not enught word in comment
+
+Image id --->  100243859631724702467.6122763797838057298
+Caption cleaned --->  man fly kite sky 
+not enught word in comment
+
+Image id --->  100243859631724702467.6075998703439992162
+Caption cleaned --->  clock wall clock 
+not enught word in comment
+
+Image id --->  100243859631724702467.6059302497811332866
+Caption cleaned --->  woman hold cell phone hand 
+not enught word in comment
+
+Image id --->  100243859631724702467.5901937440605726994
+Caption cleaned --->  red white umbrella table 
+red -- 0.0643632348913
+white -- 0.0623370337372
+umbrella -- 0.0263910979176
+table -- 0.0428745068896
+
+Image id --->  100243859631724702467.6101539121742461026
+Caption cleaned --->  clock wall building 
+not enught word in comment
+
+Image id --->  100243859631724702467.5735347935201378386
+Caption cleaned --->  close red white bowl food 
+close -- 0.27863157
+red -- 0.42408398
+white -- 0.42102695
+bowl -- 0.3136815
+food -- 0.26102108
+
+Image id --->  100243859631724702467.6163076591287991378
+Caption cleaned --->  man fly air rid skateboard 
+not enught word in comment
+
+Image id --->  100243859631724702467.6007597110619009570
+Caption cleaned --->  white blue bird sit bird 
+not enught word in comment
+
+Image id --->  100243859631724702467.6142415914476754370
+Caption cleaned --->  woman hold cell phone hand 
+not enught word in comment
+
+Image id --->  100243859631724702467.6131911616192353762
+Caption cleaned --->  black white photo pair scissor 
+not enught word in comment
+
+Image id --->  100243859631724702467.5976177565706768306
+Caption cleaned --->  man fly kite sky 
+man -- 0.219122445344
+fly -- 0.151619770232
+kite -- 0.106684349743
+sky -- 0.171929141141
+
+Image id --->  100243859631724702467.5883828065164458450
+Caption cleaned --->  woman hold cake candle 
+not enught word in comment
+
+Image id --->  100243859631724702467.6047441848590561666
+Caption cleaned --->  close person wear tie 
+not enught word in comment
+
+Image id --->  100243859631724702467.6148764113434936594
+Caption cleaned --->  sign unk unk unk 
+not enught word in comment
+
+Image id --->  100243859631724702467.5947645771269111362
+Caption cleaned --->  black white photo fire hydrant 
+not enught word in comment
+
+Image id --->  100243859631724702467.6062927959052572866
+Caption cleaned --->  woman hold cell phone hand 
+not enught word in comment
+
+Image id --->  100243859631724702467.6063410757056622562
+Caption cleaned --->  man hold cell phone hand 
+not enught word in comment
+
+Image id --->  100243859631724702467.5978380340111784962
+Caption cleaned --->  close white black clock 
+not enught word in comment
+
+Image id --->  100243859631724702467.6002405293497491394
+Caption cleaned --->  white plate piece meat fork 
+plate -- 0.18228272
+piece -- 0.22798213
+meat -- 0.16996868
+white -- 0.25454742
+fork -- 0.12014004
+
+Image id --->  100243859631724702467.6130442184953830194
+Caption cleaned --->  couple small bird sit white plate 
+not enught word in comment
+
+Image id --->  100243859631724702467.5956140991385609698
+Caption cleaned --->  picture vase flower 
+not enught word in comment
+
+Image id --->  100243859631724702467.5918981161337920882
+Caption cleaned --->  street scene car traffic light 
+not enught word in comment
+
+Image id --->  100243859631724702467.5938715261092138098
+Caption cleaned --->  close clock table 
+not enught word in comment
+
+Image id --->  100243859631724702467.5943889798178663346
+Caption cleaned --->  computer keyboard sit table 
+not enught word in comment
+
+Image id --->  100243859631724702467.6071189294467000946
+Caption cleaned --->  man suit tie standing wall 
+not enught word in comment
+
+Image id --->  100243859631724702467.6013646663457549666
+Caption cleaned --->  young woman wear hat tie 
+number of cluster <2, not enough words in the comment
+
+Image id --->  100243859631724702467.5979523706918726866
+Caption cleaned --->  white black clock white surface 
+not enught word in comment
+
+Image id --->  100243859631724702467.6091949743999479106
+Caption cleaned --->  man hold cell phone hand 
+not enught word in comment
+
+Image id --->  100243859631724702467.5995732128884358674
+Caption cleaned --->  group people rid horse 
+not enught word in comment
+
+Image id --->  100243859631724702467.5830999017394320002
+Caption cleaned --->  clock wall clock 
+clock -- 0.20359086
+wall -- 0.23615967
+clock -- 0.20359086
+
+Image id --->  100243859631724702467.6037074751199697554
+Caption cleaned --->  pair scissor wooden table 
+not enught word in comment
+
+Image id --->  100243859631724702467.6084112942061871442
+Caption cleaned --->  man hold cell phone hand 
+not enught word in comment
+
+Image id --->  100243859631724702467.5894447870095526482
+Caption cleaned --->  close bunch green banana 
+not enught word in comment
+
+Image id --->  100243859631724702467.5987316320244038962
+Caption cleaned --->  clock wall unk 
+clock -- 0.150567728281
+wall -- 0.189680889621
+unk -- -0.0162007927895
+
+Image id --->  100243859631724702467.5787601544352027090
+Caption cleaned --->  white plate cake fork 
+number of cluster <2, not enough words in the comment
+
+Image id --->  100243859631724702467.5911890466303345058
+Caption cleaned --->  clock wall unk 
+not enught word in comment
+
+Image id --->  100243859631724702467.5784248180731410754
+Caption cleaned --->  white vase bunch flower 
+white -- 0.24084677
+bunch -- 0.277354
+flower -- 0.22852507
+vase -- 0.0279486860548
+
+Image id --->  100243859631724702467.5792804768294072290
+Caption cleaned --->  white blue cake red white frosting red unk 
+unk -- 0.126504566107
+white -- 0.41901508
+blue -- 0.42583686
+cake -- 0.28430575
+red -- 0.4162531
+white -- 0.41901508
+frosting -- 0.2460608
+red -- 0.4162531
+
+Image id --->  100243859631724702467.6046254172308313938
+Caption cleaned --->  clock building 
+not enught word in comment
+
+Image id --->  100243859631724702467.6078626963342996498
+Caption cleaned --->  person hold surfboard water 
+not enught word in comment
+
+Image id --->  100243859631724702467.6122282335501655266
+Caption cleaned --->  close traffic light large building background 
+not enught word in comment
+
+Image id --->  100243859631724702467.5950977439583469330
+Caption cleaned --->  cell phone sit shelf 
+not enught word in comment
+
+Image id --->  100243859631724702467.5830648461938063906
+Caption cleaned --->  large clock wall room 
+not enught word in comment
+
+Image id --->  100243859631724702467.6043725781301152002
+Caption cleaned --->  man rid skateboard ramp 
+not enught word in comment
+
+Image id --->  100243859631724702467.6147878735517781970
+Caption cleaned --->  man stand beach hold surfboard 
+not enught word in comment
+
+Image id --->  100243859631724702467.5957992176652489154
+Caption cleaned --->  person stand rain umbrella 
+not enught word in comment
+
+Image id --->  100243859631724702467.6055589477938141490
+Caption cleaned --->  clock building 
+not enught word in comment
+
+Image id --->  100243859631724702467.6169810220877000802
+Caption cleaned --->  woman hold cell phone hand 
+not enught word in comment
+
+Image id --->  100243859631724702467.5883102823659351058
+Caption cleaned --->  close bunch banana 
+not enught word in comment
+
+Image id --->  100243859631724702467.5906808776593370962
+Caption cleaned --->  plate food fork table 
+plate -- 0.25354978
+food -- 0.31410053
+table -- 0.28595692
+fork -- -0.0160676842994
+
+Image id --->  100243859631724702467.6065995616626916082
+Caption cleaned --->  woman hold cell phone hand 
+not enught word in comment
+
+Image id --->  100243859631724702467.6114895934772355698
+Caption cleaned --->  man fly air rid surfboard 
+not enught word in comment
+
+Image id --->  100243859631724702467.6149098288415833890
+Caption cleaned --->  close fire hydrant street 
+not enught word in comment
+
+Image id --->  100243859631724702467.6005378160300738674
+Caption cleaned --->  white plate piece broccoli 
+plate -- -0.016658381305
+broccoli -- 0.028459569778
+white -- 0.30812198
+piece -- 0.3115582
+
+Image id --->  100243859631724702467.6021010026912399490
+Caption cleaned --->  close bunch stuff animal 
+not enught word in comment
+
+Image id --->  100243859631724702467.5938359314313329874
+Caption cleaned --->  large clock unk 
+not enught word in comment

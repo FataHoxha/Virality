@@ -14,7 +14,7 @@ def cleanhtml(raw_html):
   cleanr = re.compile('<.*?>')
   cleantext = re.sub(cleanr, '', raw_html)
   return cleantext
-jfile='input_json/100243859631724702467.json'
+jfile='input_json/100091697767366769792.json'
 #import json and the comment part
 with open(jfile, 'r') as file:
 	comment = json.load(file)

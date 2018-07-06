@@ -1,0 +1,2012 @@
+
+100300281975626912157.6044813752948330402
+a man in a suit and tie standing next to a woman 
+
+matrix comment dim (267, 267)
+
+
+cluster  0 :
+comment:  nebel
+comment:  renan
+comment:  tabitha
+comment:  assbackwards
+comment:  sorriso
+comment:  maior
+comment:  genio
+comment:  matematica
+
+
+cluster  1 :
+CAPTION: woman
+comment:  movie
+comment:  baby
+comment:  bear
+comment:  ago
+comment:  eye
+comment:  street
+comment:  photo
+comment:  shoot
+comment:  shot
+comment:  old
+comment:  spot
+comment:  half
+comment:  teenage
+comment:  favorite
+comment:  walk
+comment:  wild
+woman 	0.37387395
+
+
+cluster  2 :
+comment:  congratulation
+comment:  iowa
+comment:  pa
+comment:  puerto
+comment:  rico
+comment:  jane
+comment:  jew
+comment:  elizabeth
+comment:  albert
+comment:  foto
+
+
+cluster  3 :
+comment:  thing
+comment:  time
+comment:  mean
+comment:  little
+comment:  like
+comment:  wonder
+comment:  idea
+comment:  bother
+comment:  look
+comment:  time
+comment:  way
+comment:  right
+comment:  right
+comment:  wrong
+comment:  time
+comment:  seriously
+comment:  lot
+comment:  good
+comment:  need
+comment:  talk
+comment:  ask
+comment:  probably
+comment:  mean
+comment:  time
+comment:  look
+comment:  like
+comment:  believe
+comment:  want
+comment:  people
+comment:  sure
+comment:  sure
+
+
+cluster  4 :
+comment:  lenovo
+comment:  spotify
+comment:  iq
+comment:  einstein
+comment:  edison
+comment:  lenovo
+comment:  aston
+comment:  einstein
+comment:  einstein
+
+
+cluster  5 :
+comment:  haha
+comment:  lol
+comment:  hehe
+comment:  hey
+comment:  hehe
+comment:  lol
+comment:  ur
+comment:  ur
+
+
+cluster  6 :
+comment:  relativity
+comment:  degree
+comment:  equation
+comment:  root
+comment:  math
+comment:  equation
+comment:  math
+comment:  formula
+comment:  physics
+
+
+cluster  7 :
+comment:  ashton
+comment:  ashton
+comment:  ashton
+comment:  ashton
+comment:  ashton
+comment:  kutcher
+comment:  ashton
+comment:  ashton
+comment:  kutcher
+
+
+cluster  8 :
+comment:  exitoooo
+comment:  uilliam
+comment:  kutecher
+comment:  jegouzo
+comment:  voneman
+comment:  duperow
+comment:  bcc
+comment:  vandenbout
+comment:  loveyour
+comment:  lculo
+comment:  rsrsrsr
+comment:  encantasssssssss
+comment:  whatz
+
+
+cluster  9 :
+comment:  effect
+comment:  product
+comment:  contemporary
+comment:  genuine
+comment:  general
+comment:  basic
+comment:  universal
+comment:  creation
+comment:  research
+comment:  energy
+comment:  philosophy
+comment:  role
+comment:  create
+
+
+cluster  10 :
+CAPTION: suit
+CAPTION: tie
+comment:  screw
+comment:  travel
+comment:  suit
+comment:  line
+comment:  square
+comment:  speed
+comment:  mechanic
+comment:  light
+comment:  stylish
+comment:  suit
+comment:  master
+comment:  square
+comment:  app
+comment:  original
+comment:  phone
+comment:  computer
+comment:  cell
+comment:  phone
+comment:  match
+suit 	0.329342387224
+tie 	0.24712849
+
+
+cluster  11 :
+comment:  welcome
+comment:  comment
+comment:  write
+comment:  day
+comment:  post
+comment:  today
+comment:  invite
+comment:  comment
+comment:  today
+comment:  quote
+comment:  job
+
+
+cluster  12 :
+comment:  damn
+comment:  funny
+comment:  crazy
+comment:  guy
+comment:  funny
+comment:  yes
+comment:  funny
+comment:  funny
+comment:  crazy
+
+
+cluster  13 :
+comment:  desde
+comment:  poder
+comment:  simples
+comment:  lolll
+comment:  quem
+comment:  acha
+comment:  voce
+comment:  ging
+
+
+cluster  14 :
+comment:  xoxo
+comment:  hahahaha
+comment:  luv
+comment:  rofl
+
+
+cluster  15 :
+comment:  nonsense
+comment:  wise
+comment:  sound
+comment:  polite
+comment:  neat
+comment:  genius
+comment:  smart
+comment:  smart
+comment:  creative
+comment:  intelligent
+
+
+cluster  16 :
+comment:  ha
+comment:  ha
+comment:  ha
+
+
+cluster  17 :
+comment:  mi
+comment:  lo
+comment:  ve
+comment:  nd
+comment:  ve
+comment:  de
+comment:  um
+comment:  que
+comment:  ve
+comment:  que
+comment:  um
+comment:  da
+
+
+cluster  18 :
+comment:  butterfly
+comment:  relish
+comment:  rhyme
+comment:  verse
+comment:  nod
+comment:  ploy
+comment:  sincerity
+comment:  cheese
+comment:  astute
+comment:  tongue
+comment:  witch
+
+
+cluster  19 :
+comment:  billion
+comment:  billion
+comment:  miniscule
+comment:  temporal
+comment:  probe
+comment:  vibration
+comment:  realisation
+comment:  accord
+comment:  snapshot
+comment:  frequency
+comment:  commercialization
+
+
+cluster  20 :
+CAPTION: man
+comment:  man
+comment:  man
+comment:  trick
+comment:  man
+comment:  stick
+comment:  smile
+man 	0.698124289513
+
+
+cluster  21 :
+CAPTION: stand
+comment:  learn
+comment:  new
+comment:  keeping
+comment:  deal
+comment:  prove
+comment:  bring
+comment:  stand
+comment:  use
+comment:  able
+comment:  reality
+comment:  help
+comment:  reality
+comment:  change
+comment:  stand
+stand 	0.494454243353
+
+
+cluster  22 :
+comment:  didn
+comment:  don
+comment:  kiss
+comment:  nerd
+comment:  sir
+comment:  wit
+comment:  hi
+
+
+cluster  23 :
+comment:  gen
+comment:  gen
+comment:  nexus
+
+
+cluster  24 :
+comment:  love
+comment:  thank
+comment:  love
+comment:  thanks
+comment:  love
+comment:  awesome
+comment:  cool
+comment:  nice
+
+
+cluster  25 :
+comment:  ad
+comment:  commercial
+comment:  public
+comment:  public
+comment:  commercial
+
+100300281975626912157.6044282334951484018
+a man in a suit and tie is wearing a tie 
+
+matrix comment dim (199, 199)
+
+
+cluster  0 :
+comment:  cognizance
+comment:  certaine
+comment:  searcher
+
+
+cluster  1 :
+comment:  right
+comment:  certainly
+comment:  come
+comment:  time
+comment:  ask
+comment:  remember
+comment:  know
+comment:  look
+comment:  tell
+comment:  look
+comment:  way
+comment:  understand
+comment:  hard
+comment:  hope
+comment:  like
+comment:  like
+comment:  able
+comment:  let
+comment:  actually
+comment:  time
+comment:  like
+comment:  like
+comment:  hell
+comment:  big
+comment:  mind
+comment:  let
+comment:  look
+comment:  mean
+comment:  obvious
+comment:  need
+
+
+cluster  2 :
+CAPTION: suit
+CAPTION: wear
+comment:  watch
+comment:  half
+comment:  meet
+comment:  stay
+comment:  shake
+comment:  hand
+comment:  hide
+comment:  smile
+comment:  sign
+comment:  normally
+comment:  course
+comment:  year
+comment:  hand
+comment:  hit
+comment:  eye
+comment:  previous
+comment:  open
+comment:  universe
+comment:  smart
+comment:  dead
+comment:  straight
+suit 	0.27266496
+wear 	0.29170904
+
+
+cluster  3 :
+comment:  bonne
+comment:  te
+comment:  mon
+comment:  des
+comment:  et
+comment:  je
+comment:  suis
+comment:  que
+comment:  vous
+comment:  bien
+comment:  le
+comment:  merci
+comment:  tre
+comment:  ce
+comment:  que
+comment:  vous
+comment:  tes
+comment:  magnifique
+
+
+cluster  4 :
+CAPTION: tie
+CAPTION: tie
+comment:  bend
+comment:  tie
+comment:  shoe
+comment:  circle
+comment:  fly
+comment:  butterfly
+comment:  sting
+comment:  butterfly
+comment:  sting
+comment:  circle
+comment:  wing
+comment:  wing
+tie 	0.375642970204
+tie 	0.375642970204
+
+
+cluster  5 :
+comment:  muhammad
+comment:  ali
+comment:  muhammad
+comment:  ali
+comment:  andrea
+comment:  ali
+
+
+cluster  6 :
+comment:  post
+comment:  comment
+comment:  post
+comment:  post
+comment:  post
+comment:  comment
+comment:  post
+
+
+cluster  7 :
+comment:  ashton
+comment:  ashton
+comment:  kutcher
+comment:  ashton
+comment:  kutcher
+comment:  ashton
+comment:  kutcher
+
+
+cluster  8 :
+comment:  bro
+comment:  oh
+comment:  gosh
+comment:  ur
+comment:  hello
+comment:  hey
+comment:  google
+comment:  thank
+
+
+cluster  9 :
+comment:  hotel
+comment:  hotel
+comment:  helper
+comment:  communication
+comment:  minimize
+comment:  float
+comment:  plus
+comment:  clay
+comment:  release
+
+
+cluster  10 :
+comment:  religion
+comment:  ignore
+comment:  respond
+comment:  message
+comment:  regard
+comment:  respond
+comment:  speak
+comment:  owe
+comment:  disrespect
+
+
+cluster  11 :
+comment:  great
+comment:  awesome
+comment:  great
+comment:  beautiful
+comment:  cool
+comment:  great
+comment:  great
+comment:  amazing
+comment:  great
+comment:  awesome
+comment:  good
+
+
+cluster  12 :
+comment:  aliit
+comment:  elavtor
+comment:  pamphlet
+comment:  amenbest
+comment:  beeyour
+comment:  perece
+comment:  byskov
+comment:  vandenbout
+comment:  lenovo
+comment:  flly
+
+
+cluster  13 :
+CAPTION: man
+comment:  man
+comment:  man
+comment:  man
+comment:  man
+comment:  man
+man 	1.0
+
+
+cluster  14 :
+comment:  boxer
+comment:  legend
+comment:  handsome
+comment:  fighter
+comment:  famous
+comment:  sportsman
+comment:  champ
+comment:  champ
+comment:  producer
+
+
+cluster  15 :
+comment:  adn
+comment:  adn
+comment:  parkinson
+comment:  vega
+comment:  todo
+comment:  ter
+comment:  sen
+comment:  ele
+comment:  looong
+comment:  det
+
+
+cluster  16 :
+comment:  iwa
+comment:  ailes
+comment:  allez
+comment:  recevoir
+comment:  leal
+comment:  homem
+comment:  deve
+comment:  imagina
+comment:  ulf
+
+
+cluster  17 :
+comment:  friend
+comment:  true
+comment:  true
+comment:  world
+comment:  world
+comment:  true
+comment:  true
+comment:  word
+
+
+cluster  18 :
+comment:  rob
+comment:  christopher
+comment:  david
+comment:  wisconsin
+comment:  elizabeth
+comment:  superman
+comment:  angel
+
+100300281975626912157.6065355949727928258
+a man and a dog on a motorcycle 
+
+matrix comment dim (87, 87)
+
+
+cluster  0 :
+comment:  wtf
+comment:  ya
+comment:  wow
+comment:  lol
+comment:  oh
+comment:  hmm
+comment:  kinda
+comment:  lol
+comment:  wow
+comment:  hmm
+comment:  lol
+comment:  omg
+comment:  lol
+comment:  lol
+comment:  hmmmm
+comment:  lol
+comment:  wut
+comment:  sooooo
+comment:  wow
+
+
+cluster  1 :
+comment:  merle
+comment:  sable
+comment:  sheltie
+comment:  collie
+comment:  sheltie
+comment:  doghouse
+
+
+cluster  2 :
+CAPTION: dog
+comment:  dog
+comment:  dog
+comment:  dog
+comment:  dog
+comment:  dog
+dog 	1.0
+
+
+cluster  3 :
+CAPTION: man
+comment:  cute
+comment:  little
+comment:  face
+comment:  enjoy
+comment:  love
+comment:  wish
+comment:  cute
+comment:  nice
+comment:  beautiful
+comment:  like
+comment:  adorable
+comment:  wonder
+comment:  kid
+comment:  pretty
+comment:  right
+comment:  talk
+comment:  right
+comment:  adorable
+comment:  look
+man 	0.41487178
+
+
+cluster  4 :
+comment:  lindo
+comment:  um
+comment:  familia
+comment:  feliz
+comment:  que
+comment:  que
+comment:  que
+comment:  lindo
+
+
+cluster  5 :
+CAPTION: motorcycle
+comment:  free
+comment:  ride
+comment:  walk
+comment:  bob
+comment:  home
+comment:  backyard
+comment:  chain
+comment:  birth
+comment:  child
+comment:  lover
+comment:  special
+comment:  treatment
+comment:  break
+comment:  spoiled
+motorcycle 	0.21784766
+
+
+cluster  6 :
+comment:  woa
+comment:  eeeeeee
+comment:  lindos
+comment:  lindos
+comment:  perros
+comment:  hummmmm
+
+
+cluster  7 :
+comment:  ashton
+comment:  lindosss
+comment:  ess
+comment:  amei
+comment:  selfie
+comment:  js
+comment:  congratulation
+comment:  lt
+comment:  dana
+comment:  sl
+
+100300281975626912157.6059433369594468722
+a group of people standing around each other 
+
+matrix comment dim (47, 47)
+
+
+cluster  0 :
+CAPTION: group
+comment:  twin
+comment:  sis
+comment:  luv
+comment:  ipad
+comment:  sleep
+comment:  camera
+comment:  factory
+comment:  twin
+comment:  brother
+comment:  wtf
+comment:  young
+comment:  brother
+comment:  twin
+group 	0.15122849
+
+
+cluster  1 :
+comment:  eslogan
+comment:  te
+comment:  amor
+comment:  mariel
+comment:  bayserenata
+comment:  hoy
+comment:  ala
+comment:  noche
+comment:  vienes
+
+
+cluster  2 :
+comment:  demi
+comment:  moore
+comment:  ashton
+comment:  michael
+comment:  steve
+comment:  ashton
+comment:  kutcher
+
+
+cluster  3 :
+CAPTION: people
+CAPTION: stand
+comment:  nice
+comment:  let
+comment:  know
+comment:  time
+comment:  need
+comment:  forget
+comment:  use
+comment:  seriously
+comment:  love
+comment:  leave
+comment:  like
+comment:  look
+comment:  lol
+comment:  ur
+comment:  big
+comment:  fan
+comment:  job
+comment:  cool
+people 	0.4913305
+stand 	0.43543664
+
+100300281975626912157.6050166678632722786
+a pair of shoes on a skateboard 
+
+matrix comment dim (106, 106)
+
+
+cluster  0 :
+CAPTION: pair
+CAPTION: shoe
+comment:  lead
+comment:  water
+comment:  dress
+comment:  dog
+comment:  eat
+comment:  carpet
+comment:  aunt
+comment:  knit
+comment:  sweater
+comment:  shop
+comment:  catch
+comment:  cold
+comment:  christmas
+comment:  early
+comment:  skin
+comment:  bite
+comment:  short
+pair 	0.25206578
+shoe 	0.26585078
+
+
+cluster  1 :
+CAPTION: skateboard
+comment:  tje
+comment:  chiwawa
+comment:  vaccum
+comment:  mangas
+comment:  dd
+comment:  ff
+comment:  zz
+comment:  leuk
+comment:  hoor
+comment:  sheen
+comment:  italy
+skateboard 	0.07584396
+
+
+cluster  2 :
+comment:  hey
+comment:  funny
+comment:  lol
+comment:  wtf
+comment:  stupid
+comment:  funny
+comment:  lik
+comment:  omg
+comment:  lol
+comment:  lol
+comment:  lol
+comment:  hey
+comment:  lol
+
+
+cluster  3 :
+comment:  sua
+comment:  kkkk
+comment:  tenho
+comment:  pavor
+comment:  cavolo
+comment:  saluto
+comment:  ela
+comment:  apesar
+comment:  medo
+comment:  sou
+comment:  elas
+
+
+cluster  4 :
+comment:  fofinha
+comment:  roupinha
+comment:  kkkkkkkkkkkk
+comment:  rsrsrsr
+comment:  dorlene
+comment:  thrifty
+comment:  nickel
+comment:  sobrou
+comment:  jejejejeje
+comment:  cwddd
+comment:  icebucketchallenge
+comment:  viajou
+comment:  horrivel
+comment:  nossaaaaaas
+comment:  lindissima
+comment:  facinada
+
+
+cluster  5 :
+comment:  jajaja
+comment:  jaja
+comment:  hahahahaha
+comment:  jajajaja
+
+
+cluster  6 :
+comment:  snake
+comment:  snake
+comment:  snake
+comment:  snake
+comment:  cobra
+comment:  snake
+comment:  snake
+
+
+cluster  7 :
+comment:  like
+comment:  like
+comment:  real
+comment:  need
+comment:  good
+comment:  hope
+comment:  come
+comment:  want
+comment:  like
+comment:  come
+comment:  love
+comment:  way
+comment:  way
+comment:  nice
+
+
+cluster  8 :
+comment:  ashton
+comment:  ashton
+comment:  ashton
+comment:  ashton
+comment:  charlie
+
+
+cluster  9 :
+comment:  que
+comment:  com
+comment:  de
+comment:  boa
+comment:  un
+comment:  de
+comment:  ter
+comment:  por
+
+100300281975626912157.6070577927505551298
+a book shelf filled with lots of books 
+
+matrix comment dim (115, 115)
+
+
+cluster  0 :
+CAPTION: book
+CAPTION: shelf
+CAPTION: book
+comment:  store
+comment:  brush
+comment:  tooth
+comment:  drain
+comment:  combination
+comment:  white
+comment:  piece
+comment:  bust
+comment:  burn
+comment:  hunt
+comment:  absorb
+comment:  carpet
+comment:  pet
+comment:  bedding
+comment:  rental
+comment:  video
+comment:  winter
+comment:  elderly
+comment:  yr
+comment:  parent
+comment:  house
+comment:  rock
+book 	0.17862087
+shelf 	0.22264142
+book 	0.17862087
+
+
+cluster  1 :
+comment:  guess
+comment:  wanna
+comment:  mean
+comment:  sad
+comment:  think
+comment:  think
+comment:  cool
+comment:  forget
+comment:  yes
+comment:  thank
+comment:  love
+comment:  kid
+
+
+cluster  2 :
+comment:  poof
+comment:  bye
+comment:  lololol
+comment:  ahhh
+comment:  buh
+comment:  bye
+comment:  hahahahaha
+comment:  hahha
+comment:  hahahahahaha
+
+
+cluster  3 :
+comment:  antacid
+comment:  adz
+comment:  vinager
+comment:  deodorizer
+comment:  blockbusterfail
+comment:  noice
+comment:  mediamedic
+
+
+cluster  4 :
+comment:  lol
+comment:  haha
+comment:  lmao
+comment:  lol
+comment:  yeah
+comment:  ya
+comment:  haha
+comment:  lol
+comment:  lol
+comment:  hahaha
+comment:  lol
+comment:  lol
+
+
+cluster  5 :
+CAPTION: lot
+comment:  point
+comment:  long
+comment:  time
+comment:  good
+comment:  day
+comment:  long
+comment:  good
+comment:  try
+comment:  time
+comment:  right
+comment:  hard
+lot 	0.53313303
+
+
+cluster  6 :
+comment:  bake
+comment:  soda
+comment:  vinegar
+comment:  sprinkle
+comment:  pot
+comment:  bake
+comment:  soda
+comment:  bake
+comment:  liquid
+comment:  baking
+comment:  soda
+
+
+cluster  7 :
+comment:  blockbuster
+comment:  movie
+comment:  blockbuster
+comment:  blockbuster
+comment:  blockbuster
+
+
+cluster  8 :
+CAPTION: fill
+comment:  correctly
+comment:  clean
+comment:  conversation
+comment:  add
+comment:  use
+comment:  use
+comment:  etc
+comment:  replace
+comment:  longer
+comment:  throw
+comment:  convince
+comment:  person
+comment:  change
+comment:  share
+comment:  old
+comment:  find
+fill 	0.3840441
+
+
+cluster  9 :
+comment:  jewerly
+comment:  brian
+comment:  ashton
+comment:  kutcher
+comment:  italy
+comment:  alabama
+comment:  ashton
+
+
+cluster  10 :
+comment:  expire
+comment:  heartburn
+comment:  expire
+
+100300281975626912157.6044594102668909586
+a woman is standing in front of a window 
+
+matrix comment dim (161, 161)
+
+
+cluster  0 :
+CAPTION: stand
+comment:  year
+comment:  start
+comment:  ready
+comment:  future
+comment:  best
+comment:  money
+comment:  past
+comment:  fall
+comment:  use
+comment:  past
+comment:  half
+comment:  country
+comment:  world
+comment:  fear
+stand 	0.4074316
+
+
+cluster  1 :
+comment:  encanta
+comment:  gran
+comment:  onde
+comment:  vai
+comment:  amor
+comment:  de
+comment:  uma
+comment:  que
+comment:  lindas
+comment:  lindo
+
+
+cluster  2 :
+comment:  crazy
+comment:  sweet
+comment:  lady
+comment:  kid
+comment:  love
+comment:  man
+comment:  nice
+comment:  love
+comment:  man
+comment:  awesome
+
+
+cluster  3 :
+comment:  grandma
+comment:  grandma
+comment:  granny
+comment:  grandma
+comment:  wife
+comment:  granny
+comment:  grandma
+comment:  granny
+comment:  granny
+comment:  grandma
+comment:  grandma
+
+
+cluster  4 :
+comment:  giggle
+comment:  ha
+comment:  ha
+comment:  aight
+comment:  sig
+comment:  sis
+
+
+cluster  5 :
+comment:  kkkkkkkkkkkkkk
+comment:  anneanneler
+comment:  cennetten
+comment:  annemizdir
+comment:  secutity
+comment:  kevlar
+comment:  sauer
+comment:  coitadinha
+comment:  kmememe
+comment:  emebb
+comment:  djvssjshkehejspsbksnsd
+comment:  jajajaa
+comment:  kkkkkkkkkkk
+comment:  whererobbery
+
+
+cluster  6 :
+comment:  wo
+comment:  mess
+comment:  look
+comment:  expect
+comment:  look
+comment:  remind
+comment:  moment
+comment:  happen
+comment:  try
+comment:  stop
+comment:  good
+comment:  mess
+comment:  mean
+comment:  happen
+comment:  time
+comment:  great
+comment:  agree
+comment:  especially
+comment:  happen
+comment:  shame
+
+
+cluster  7 :
+comment:  jaaaaa
+comment:  jaaaaa
+comment:  jaaaa
+comment:  jaaaa
+comment:  gelen
+comment:  ikinci
+comment:  loveeeeee
+comment:  hdw
+comment:  comico
+
+
+cluster  8 :
+comment:  alright
+comment:  lol
+comment:  haha
+comment:  lol
+comment:  huh
+comment:  hahaha
+comment:  haha
+comment:  haha
+comment:  lol
+comment:  lol
+comment:  lol
+comment:  haha
+comment:  sorry
+comment:  lol
+
+
+cluster  9 :
+CAPTION: woman
+comment:  fine
+comment:  post
+comment:  don
+comment:  photo
+comment:  post
+comment:  rock
+comment:  baby
+comment:  job
+comment:  picture
+comment:  clip
+comment:  watch
+comment:  epic
+comment:  old
+comment:  young
+woman 	0.3439967
+
+
+cluster  10 :
+comment:  ashton
+comment:  kutcher
+comment:  ashton
+comment:  ashton
+comment:  kutcher
+
+
+cluster  11 :
+comment:  hhihmhujk
+comment:  hhihmhujk
+comment:  hhihmhujk
+
+
+cluster  12 :
+comment:  geriatric
+comment:  warrior
+comment:  bouncer
+comment:  elderly
+comment:  bodyguard
+comment:  dvd
+comment:  vest
+
+
+cluster  13 :
+CAPTION: window
+comment:  disappear
+comment:  toss
+comment:  bait
+comment:  offer
+comment:  crack
+comment:  security
+comment:  detail
+comment:  gig
+comment:  guard
+comment:  shadow
+comment:  wall
+comment:  left
+comment:  murder
+window 	0.27875483
+
+
+cluster  14 :
+comment:  super
+comment:  super
+comment:  super
+
+
+cluster  15 :
+comment:  funny
+comment:  funny
+comment:  funny
+comment:  funny
+comment:  funny
+comment:  funny
+comment:  funny
+comment:  cute
+
+100300281975626912157.6045333651645749010
+a bottle of wine sitting on top of a table 
+
+matrix comment dim (321, 321)
+
+
+cluster  0 :
+comment:  saucer
+comment:  saucer
+comment:  saucer
+
+
+cluster  1 :
+comment:  look
+comment:  totally
+comment:  love
+comment:  love
+comment:  yes
+comment:  stuff
+comment:  look
+comment:  pretty
+comment:  seriously
+
+
+cluster  2 :
+comment:  flip
+comment:  flip
+comment:  upside
+comment:  upside
+comment:  flip
+comment:  flip
+comment:  flip
+
+
+cluster  3 :
+comment:  inez
+comment:  ronen
+comment:  dinheiro
+comment:  copo
+comment:  ainda
+comment:  cheio
+comment:  mentira
+comment:  wartburg
+comment:  hodgkinson
+comment:  illia
+
+
+cluster  4 :
+comment:  nope
+comment:  hmm
+comment:  heheh
+comment:  nope
+comment:  hahahaha
+comment:  hahaha
+comment:  hehehe
+comment:  lmfao
+comment:  lmao
+comment:  lmao
+
+
+cluster  5 :
+comment:  star
+comment:  magician
+comment:  dam
+comment:  hurricane
+comment:  rabbit
+comment:  prank
+comment:  ash
+comment:  waiter
+comment:  caption
+comment:  uk
+comment:  pound
+
+
+cluster  6 :
+comment:  wet
+comment:  milk
+comment:  milk
+comment:  spill
+comment:  dry
+comment:  soak
+comment:  remove
+comment:  waste
+comment:  soak
+comment:  water
+comment:  waste
+comment:  clean
+
+
+cluster  7 :
+comment:  necessarily
+comment:  spend
+comment:  deal
+comment:  problem
+comment:  care
+comment:  problem
+comment:  deal
+comment:  deal
+
+
+cluster  8 :
+comment:  vengosh
+comment:  tipl
+comment:  seminary
+comment:  auckbaraullee
+comment:  notake
+comment:  bitcoin
+comment:  tramendous
+comment:  aaaaaawwwww
+comment:  harharharharhar
+comment:  indeedy
+
+
+cluster  9 :
+comment:  craig
+comment:  david
+comment:  ford
+comment:  linda
+comment:  ut
+comment:  katrina
+comment:  kilt
+comment:  jacob
+comment:  thi
+
+
+cluster  10 :
+comment:  right
+comment:  expect
+comment:  expect
+comment:  try
+comment:  time
+comment:  try
+comment:  time
+comment:  difficult
+comment:  people
+comment:  lot
+comment:  people
+comment:  need
+comment:  worry
+comment:  hard
+
+
+cluster  11 :
+comment:  laundering
+comment:  launder
+comment:  launder
+comment:  launder
+
+
+cluster  12 :
+comment:  oh
+comment:  yep
+comment:  lol
+comment:  wow
+comment:  lol
+comment:  oh
+comment:  lol
+comment:  lol
+comment:  lol
+comment:  lol
+comment:  lol
+comment:  wow
+comment:  haha
+comment:  lol
+comment:  lol
+comment:  ya
+
+
+cluster  13 :
+comment:  let
+comment:  good
+comment:  mean
+comment:  think
+comment:  know
+comment:  probably
+comment:  good
+comment:  good
+comment:  way
+comment:  forget
+comment:  think
+comment:  mean
+comment:  bad
+comment:  sure
+comment:  going
+comment:  thing
+comment:  suppose
+comment:  probably
+comment:  suppose
+comment:  like
+comment:  like
+comment:  know
+comment:  good
+comment:  know
+comment:  like
+comment:  bad
+comment:  thing
+comment:  know
+comment:  guess
+
+
+cluster  14 :
+CAPTION: bottle
+comment:  cup
+comment:  plate
+comment:  glass
+comment:  cup
+comment:  glass
+comment:  plate
+comment:  glass
+comment:  glass
+comment:  plate
+comment:  cup
+comment:  glass
+comment:  plate
+bottle 	0.50765914
+
+
+cluster  15 :
+comment:  bill
+comment:  bill
+comment:  bill
+comment:  bill
+comment:  bill
+
+
+cluster  16 :
+comment:  tip
+comment:  tip
+comment:  tip
+comment:  tip
+comment:  tip
+comment:  tip
+comment:  tip
+
+
+cluster  17 :
+comment:  old
+comment:  day
+comment:  trick
+comment:  big
+comment:  man
+comment:  real
+comment:  big
+comment:  big
+comment:  walk
+comment:  poor
+comment:  mess
+
+
+cluster  18 :
+CAPTION: wine
+CAPTION: table
+comment:  counter
+comment:  set
+comment:  dinner
+comment:  table
+comment:  lift
+comment:  wall
+comment:  large
+comment:  flat
+comment:  surface
+comment:  art
+comment:  slide
+comment:  bar
+comment:  stylish
+comment:  counter
+comment:  sink
+wine 	0.27696902
+table 	0.42910938561
+
+
+cluster  19 :
+comment:  solve
+comment:  rule
+comment:  family
+comment:  challenge
+comment:  solve
+comment:  challenge
+comment:  share
+comment:  form
+comment:  count
+
+
+cluster  20 :
+CAPTION: sit
+comment:  away
+comment:  turn
+comment:  break
+comment:  turn
+comment:  hold
+comment:  turn
+comment:  turn
+comment:  away
+sit 	0.54235405
+
+
+cluster  21 :
+comment:  damn
+comment:  mad
+comment:  funny
+comment:  silly
+comment:  suck
+comment:  fuck
+comment:  lil
+comment:  sad
+comment:  funny
+comment:  funny
+comment:  pissed
+comment:  sad
+comment:  hell
+comment:  funny
+comment:  dumb
+comment:  joke
+
+
+cluster  22 :
+comment:  cool
+comment:  cool
+comment:  cool
+comment:  cool
+comment:  nice
+comment:  nice
+comment:  cool
+comment:  cool
+comment:  cool
+comment:  cool
+comment:  cool
+comment:  nice
+
+
+cluster  23 :
+comment:  money
+comment:  money
+comment:  money
+comment:  money
+comment:  money
+comment:  money
+comment:  money
+comment:  money
+comment:  money
+
+
+cluster  24 :
+comment:  cutie
+comment:  ha
+comment:  ha
+comment:  tis
+comment:  hi
+comment:  um
+comment:  mr
+comment:  ha
+comment:  pic
+
+
+cluster  25 :
+comment:  de
+comment:  agua
+comment:  que
+comment:  la
+
+
+cluster  26 :
+comment:  parent
+comment:  poisoning
+comment:  overnight
+comment:  parent
+comment:  service
+comment:  server
+comment:  descent
+comment:  singular
+comment:  mobile
+comment:  homeless
+comment:  currency
+comment:  rake
+comment:  worker
+
+
+cluster  27 :
+comment:  kutcher
+comment:  bowen
+comment:  ashton
+comment:  ashton
+comment:  ashton
+
+
+cluster  28 :
+comment:  great
+comment:  beautiful
+comment:  wonderful
+comment:  amazing
+
+
+cluster  29 :
+comment:  use
+comment:  use
+comment:  example
+comment:  different
+comment:  use
+comment:  actual
+
+
+cluster  30 :
+comment:  perfectly
+comment:  easy
+comment:  simple
+comment:  easy
+comment:  easily
+comment:  easy
+comment:  easy
+
+
+cluster  31 :
+comment:  comment
+comment:  daddy
+comment:  steal
+comment:  brother
+comment:  dare
+comment:  piss
+comment:  genius
+comment:  thank
+comment:  rude
+comment:  useless
+comment:  sigh
+comment:  disagree
+comment:  didn
+comment:  don
+comment:  don
+comment:  deserve
+comment:  dare
+
+100300281975626912157.6070946628771330642
+a laptop computer sitting on top of a table 
+
+matrix comment dim (168, 168)
+
+
+cluster  0 :
+comment:  week
+comment:  day
+comment:  day
+comment:  year
+comment:  day
+comment:  day
+
+
+cluster  1 :
+comment:  fianc
+comment:  grasias
+comment:  thermself
+comment:  paperless
+comment:  harharharharhar
+comment:  ndkw
+comment:  xava
+comment:  waouuu
+comment:  akunamatada
+
+
+cluster  2 :
+CAPTION: sit
+comment:  true
+comment:  people
+comment:  use
+comment:  true
+comment:  use
+comment:  come
+comment:  sort
+comment:  bring
+comment:  hand
+comment:  difficult
+comment:  turn
+comment:  absolutely
+comment:  find
+comment:  bring
+comment:  lot
+comment:  course
+comment:  find
+comment:  interesting
+comment:  right
+sit 	0.4307662
+
+
+cluster  3 :
+CAPTION: laptop
+CAPTION: computer
+CAPTION: table
+comment:  boot
+comment:  phone
+comment:  server
+comment:  fold
+comment:  tip
+comment:  wood
+comment:  furniture
+comment:  link
+comment:  instruction
+comment:  fold
+comment:  notebook
+comment:  envelope
+comment:  laundry
+comment:  pocket
+comment:  memory
+comment:  pocket
+comment:  pocket
+comment:  laundry
+laptop 	0.31159738
+computer 	0.31163335
+table 	0.3111628
+
+
+cluster  4 :
+comment:  mate
+comment:  wow
+comment:  fucking
+comment:  asshole
+comment:  sooo
+comment:  lol
+comment:  hello
+comment:  ya
+comment:  cuz
+comment:  hi
+comment:  hey
+
+
+cluster  5 :
+comment:  ashton
+comment:  ashton
+comment:  kutcher
+comment:  ashton
+
+
+cluster  6 :
+comment:  daughter
+comment:  daughter
+comment:  kid
+comment:  child
+comment:  man
+comment:  old
+comment:  old
+comment:  son
+comment:  girl
+comment:  friend
+comment:  kid
+comment:  girl
+
+
+cluster  7 :
+comment:  lose
+comment:  lose
+comment:  lose
+comment:  lose
+comment:  lose
+
+
+cluster  8 :
+comment:  write
+comment:  agree
+comment:  send
+comment:  share
+comment:  agree
+comment:  write
+comment:  check
+comment:  read
+comment:  read
+comment:  write
+
+
+cluster  9 :
+comment:  ty
+comment:  marine
+comment:  snail
+comment:  merry
+comment:  christmas
+comment:  lisa
+comment:  ann
+comment:  fri
+comment:  jr
+comment:  seattle
+comment:  laura
+
+
+cluster  10 :
+comment:  letter
+comment:  mail
+comment:  letter
+comment:  paper
+comment:  letter
+comment:  paper
+comment:  letter
+
+
+cluster  11 :
+comment:  idea
+comment:  love
+comment:  remember
+comment:  miss
+comment:  sure
+comment:  love
+comment:  stuff
+comment:  mind
+comment:  good
+comment:  suppose
+comment:  love
+comment:  way
+comment:  good
+comment:  little
+comment:  think
+comment:  let
+comment:  remember
+comment:  like
+comment:  love
+comment:  sure
+comment:  tell
+comment:  suppose
+comment:  like
+
+
+cluster  12 :
+comment:  cool
+comment:  cool
+comment:  cool
+comment:  nice
+comment:  cool
+comment:  nice
+comment:  cool
+
+
+cluster  13 :
+comment:  amigo
+comment:  mariel
+comment:  buenas
+comment:  noches
+comment:  cmnt
+comment:  wery
+comment:  salam
+comment:  hansom
+
+
+cluster  14 :
+comment:  note
+comment:  note
+comment:  note
+comment:  note
+comment:  note
+
+
+cluster  15 :
+comment:  art
+comment:  camp
+comment:  family
+comment:  art
+comment:  entertain
+comment:  school
+comment:  art
+comment:  tree
+comment:  cut
+comment:  lunch
+comment:  high
+comment:  high
+comment:  school

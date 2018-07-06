@@ -1,0 +1,12865 @@
+
+100091697767366769792.5812197168626636482
+a plate of food and a bowl of soup 
+
+matrix comment dim (63, 63)
+
+
+cluster  0 :
+comment:  sure
+comment:  look
+comment:  new
+comment:  want
+comment:  know
+comment:  find
+comment:  love
+comment:  answer
+comment:  question
+comment:  ask
+comment:  away
+comment:  idea
+comment:  look
+comment:  picture
+comment:  look
+comment:  great
+comment:  great
+comment:  try
+comment:  look
+comment:  good
+
+
+cluster  1 :
+comment:  est
+comment:  bom
+comment:  aspeto
+comment:  sabine
+comment:  alexander
+comment:  yummmmmmmmy
+comment:  resipe
+comment:  millicent
+comment:  matthews
+comment:  november
+
+
+cluster  2 :
+CAPTION: plate
+CAPTION: food
+CAPTION: bowl
+CAPTION: soup
+comment:  hungry
+comment:  food
+comment:  food
+comment:  kitchen
+comment:  cornbread
+comment:  stuffing
+comment:  shrimp
+comment:  ham
+comment:  food
+comment:  mouth
+comment:  water
+plate 	0.2869872
+food 	0.573877952316
+bowl 	0.38285634
+soup 	0.51831824
+
+
+cluster  3 :
+comment:  wow
+comment:  wow
+comment:  hey
+comment:  thank
+comment:  ve
+comment:  thank
+comment:  omg
+
+
+cluster  4 :
+comment:  yummy
+comment:  sweet
+comment:  cake
+comment:  sweet
+comment:  yummy
+comment:  recipe
+comment:  tasty
+comment:  recipe
+
+
+cluster  5 :
+comment:  com
+comment:  member
+comment:  network
+comment:  network
+comment:  issue
+comment:  network
+comment:  magazine
+
+100091697767366769792.5818928979099497234
+a plate of food with broccoli and meat 
+
+matrix comment dim (102, 102)
+
+
+cluster  0 :
+CAPTION: plate
+CAPTION: food
+CAPTION: meat
+comment:  healthy
+comment:  food
+comment:  healthy
+comment:  warm
+comment:  food
+comment:  healthy
+comment:  fresh
+comment:  lunch
+plate 	0.28092408
+food 	0.653943814337
+meat 	0.5048599
+
+
+cluster  1 :
+comment:  tipi
+comment:  freddo
+comment:  mangiare
+comment:  riesce
+comment:  mangia
+comment:  taglia
+comment:  mezzo
+comment:  puzza
+comment:  chyba
+
+
+cluster  2 :
+comment:  pero
+comment:  non
+comment:  ho
+comment:  mai
+comment:  la
+comment:  va
+comment:  chi
+comment:  il
+comment:  si
+comment:  lo
+comment:  lo
+comment:  ma
+comment:  al
+
+
+cluster  3 :
+comment:  good
+comment:  post
+comment:  stuff
+comment:  need
+comment:  right
+comment:  look
+comment:  good
+comment:  need
+comment:  look
+comment:  great
+comment:  definitely
+comment:  try
+comment:  cut
+comment:  good
+comment:  heaven
+comment:  oh
+comment:  favorite
+comment:  nice
+comment:  guess
+comment:  ill
+comment:  build
+comment:  look
+comment:  good
+
+
+cluster  4 :
+CAPTION: broccoli
+comment:  healty
+comment:  fresco
+comment:  radicchio
+comment:  refrigerate
+comment:  beet
+comment:  salad
+comment:  beet
+comment:  beet
+comment:  arugula
+comment:  salad
+broccoli 	0.54605085
+
+
+cluster  5 :
+comment:  provata
+comment:  spicchio
+comment:  protegge
+comment:  raffreddore
+comment:  rukola
+comment:  zdrowa
+
+
+cluster  6 :
+comment:  io
+comment:  amo
+comment:  quasi
+comment:  di
+comment:  che
+comment:  tanto
+comment:  bene
+comment:  tanto
+comment:  uno
+comment:  di
+comment:  dal
+
+
+cluster  7 :
+comment:  insalata
+comment:  aglio
+comment:  aglio
+
+
+cluster  8 :
+comment:  hm
+comment:  hm
+comment:  hm
+comment:  jest
+comment:  jest
+
+
+cluster  9 :
+comment:  tutti
+comment:  buon
+comment:  giorno
+comment:  tutti
+comment:  tutti
+comment:  questa
+comment:  voglio
+comment:  provare
+comment:  adesso
+comment:  puo
+comment:  quindi
+comment:  mentre
+comment:  anche
+comment:  ragazzi
+
+100091697767366769792.5812929704363473922
+a plate of food that includes meat and vegetables 
+
+matrix comment dim (63, 63)
+
+
+cluster  0 :
+CAPTION: plate
+CAPTION: vegetable
+comment:  parsnip
+comment:  carrot
+comment:  root
+comment:  thanksgiving
+comment:  glazed
+comment:  parsnip
+comment:  carrot
+plate 	0.2146913
+vegetable 	0.46994358
+
+
+cluster  1 :
+comment:  think
+comment:  nice
+comment:  look
+comment:  good
+comment:  good
+comment:  look
+comment:  like
+comment:  good
+comment:  look
+comment:  look
+comment:  good
+comment:  look
+comment:  nice
+comment:  look
+comment:  look
+comment:  try
+comment:  far
+comment:  good
+
+
+cluster  2 :
+CAPTION: include
+comment:  bikinn
+comment:  laper
+comment:  aj
+comment:  tuhh
+comment:  harismita
+comment:  hari
+comment:  lk
+comment:  rawn
+comment:  racker
+include 	-0.0989780467418
+
+
+cluster  3 :
+comment:  worse
+comment:  ok
+comment:  hahah
+comment:  sexy
+comment:  tht
+comment:  lol
+comment:  sooo
+comment:  god
+comment:  indian
+comment:  add
+comment:  win
+comment:  wait
+comment:  wow
+
+
+cluster  4 :
+comment:  mmmmm
+comment:  yummmm
+comment:  mmmm
+comment:  mmmm
+comment:  yumm
+comment:  yumm
+comment:  yum
+
+
+cluster  5 :
+CAPTION: food
+CAPTION: meat
+comment:  delicious
+comment:  food
+comment:  veggie
+comment:  healthy
+comment:  healthy
+comment:  taste
+comment:  tasty
+comment:  delicious
+comment:  dish
+food 	0.625093228287
+meat 	0.5590544
+
+100091697767366769792.5805886784476364546
+a bowl of food with a fork and knife 
+
+matrix comment dim (40, 40)
+
+
+cluster  0 :
+comment:  delicious
+comment:  yummy
+comment:  yummy
+comment:  yum
+comment:  yum
+comment:  taste
+comment:  delicious
+comment:  yummy
+
+
+cluster  1 :
+comment:  healty
+comment:  hemmmmm
+comment:  yummmy
+comment:  ma
+comment:  nyuuuusss
+comment:  maknyus
+comment:  banget
+comment:  tuch
+comment:  pura
+comment:  delicia
+comment:  mkn
+comment:  itu
+comment:  nmy
+comment:  apa
+
+
+cluster  2 :
+CAPTION: bowl
+CAPTION: food
+CAPTION: fork
+CAPTION: knife
+comment:  leftover
+comment:  butternut
+comment:  squash
+comment:  thanksgiving
+comment:  salad
+bowl 	0.40604225
+food 	0.3848574
+fork 	0.24748488
+knife 	0.2268393
+
+
+cluster  3 :
+comment:  know
+comment:  look
+comment:  wish
+comment:  right
+comment:  look
+comment:  great
+comment:  better
+comment:  like
+comment:  look
+comment:  wow
+comment:  maybe
+comment:  yes
+comment:  maybe
+
+100091697767366769792.5789640119230536738
+a glass of wine sitting on top of a table 
+
+matrix comment dim (20, 20)
+
+
+cluster  0 :
+CAPTION: glass
+CAPTION: sit
+CAPTION: table
+comment:  good
+comment:  mmm
+comment:  let
+comment:  drink
+comment:  love
+comment:  hear
+comment:  perfect
+comment:  french
+comment:  recommend
+glass 	0.26548305
+sit 	0.40639415
+table 	0.24160488
+
+
+cluster  1 :
+CAPTION: wine
+comment:  fish
+comment:  bake
+comment:  salmon
+comment:  bread
+comment:  dip
+comment:  sauce
+comment:  olive
+comment:  oil
+comment:  balsamic
+comment:  vinegar
+comment:  spice
+wine 	0.4072155
+
+100091697767366769792.5822956726070619010
+a piece of cake on a plate with a fork 
+
+matrix comment dim (39, 39)
+
+
+cluster  0 :
+comment:  yup
+comment:  yup
+comment:  looooove
+comment:  woow
+comment:  luv
+comment:  wow
+comment:  hmm
+comment:  mmmmm
+comment:  mmmmm
+comment:  luv
+comment:  omg
+comment:  soooo
+
+
+cluster  1 :
+CAPTION: piece
+CAPTION: cake
+CAPTION: plate
+comment:  cherry
+comment:  love
+comment:  love
+comment:  cupcake
+comment:  scrumptious
+comment:  cup
+comment:  cake
+comment:  love
+comment:  delicious
+comment:  look
+comment:  yummy
+comment:  look
+comment:  good
+comment:  yummy
+comment:  like
+comment:  cup
+comment:  cake
+comment:  yummy
+piece 	0.3230874
+cake 	0.547115004725
+plate 	0.28146237
+
+
+cluster  2 :
+CAPTION: fork
+comment:  ooooooh
+comment:  dap
+comment:  nye
+comment:  sedap
+comment:  luvvvv
+comment:  mignon
+comment:  wooooow
+comment:  ami
+comment:  ami
+fork 	-6.18330927359e-05
+
+100091697767366769792.5834823730747290562
+a plate with a hot dog and fries 
+
+matrix comment dim (67, 67)
+
+
+cluster  0 :
+comment:  lol
+comment:  love
+comment:  love
+comment:  use
+comment:  want
+comment:  try
+comment:  lot
+comment:  good
+comment:  look
+comment:  good
+comment:  sound
+comment:  yeah
+comment:  let
+comment:  cool
+comment:  look
+comment:  look
+comment:  love
+comment:  look
+comment:  good
+comment:  know
+comment:  look
+comment:  look
+comment:  great
+
+
+cluster  1 :
+CAPTION: fry
+comment:  steak
+comment:  seasoning
+comment:  steak
+comment:  fry
+comment:  steak
+comment:  fry
+comment:  bake
+comment:  potato
+comment:  meat
+comment:  loaf
+fry 	0.651382926106
+
+
+cluster  2 :
+comment:  poteto
+comment:  laik
+comment:  evoo
+comment:  yummmmmyyyy
+comment:  lookng
+comment:  network
+
+
+cluster  3 :
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  delicious
+comment:  yummy
+comment:  delicious
+comment:  yummy
+comment:  delicious
+comment:  yummy
+
+
+cluster  4 :
+CAPTION: plate
+CAPTION: dog
+comment:  yam
+comment:  yam
+comment:  peel
+comment:  griddle
+comment:  parsley
+comment:  flake
+comment:  nutrition
+comment:  peel
+comment:  bobby
+comment:  oven
+comment:  olive
+comment:  oil
+plate 	0.25843492
+dog 	0.15792678
+
+
+cluster  5 :
+CAPTION: hot
+comment:  yum
+comment:  yum
+comment:  mmm
+comment:  hungry
+comment:  mmmmmm
+comment:  awsome
+comment:  yup
+hot 	0.33247128
+
+100091697767366769792.5811940117853994898
+a glass of wine sitting on top of a table 
+
+matrix comment dim (27, 27)
+
+
+cluster  0 :
+CAPTION: glass
+CAPTION: wine
+CAPTION: sit
+CAPTION: table
+comment:  good
+comment:  wow
+comment:  look
+comment:  great
+comment:  nice
+comment:  plan
+comment:  lovely
+comment:  thank
+comment:  cool
+comment:  send
+comment:  look
+comment:  tasty
+comment:  cool
+comment:  expect
+comment:  fine
+comment:  long
+comment:  live
+comment:  good
+comment:  wish
+comment:  enjoy
+comment:  life
+comment:  moment
+comment:  nice
+glass 	0.2639212
+wine 	0.28862208
+sit 	0.4047533
+table 	0.26545152
+
+
+cluster  1 :
+comment:  devine
+comment:  annie
+comment:  vicotorie
+comment:  dua
+
+100091697767366769792.5798068901407821266
+a white plate topped with a piece of cake 
+
+matrix comment dim (31, 31)
+
+
+cluster  0 :
+CAPTION: plate
+CAPTION: cake
+comment:  tasty
+comment:  sauce
+comment:  pita
+comment:  bread
+comment:  dish
+comment:  yummy
+comment:  delicious
+comment:  pork
+comment:  pork
+comment:  yum
+plate 	0.32379648
+cake 	0.53122425
+
+
+cluster  1 :
+comment:  oooooooooooo
+comment:  oooooh
+comment:  yyyyyyyyuuuuuuuummmmmm
+comment:  wowwww
+comment:  recpi
+
+
+cluster  2 :
+CAPTION: white
+CAPTION: piece
+comment:  look
+comment:  hot
+comment:  gorgeous
+comment:  ooh
+comment:  like
+comment:  love
+comment:  pull
+comment:  mouth
+comment:  water
+comment:  look
+comment:  amazing
+comment:  wrong
+comment:  pull
+comment:  like
+comment:  omg
+comment:  love
+white 	0.34634098
+piece 	0.3428519
+
+100091697767366769792.5792146817563746658
+a white plate topped with a sandwich and a salad 
+
+matrix comment dim (37, 37)
+
+
+cluster  0 :
+CAPTION: plate
+CAPTION: sandwich
+CAPTION: salad
+comment:  mmmm
+comment:  lasagna
+comment:  ragu
+comment:  parmigiano
+comment:  truffle
+comment:  dish
+comment:  yummy
+comment:  lasagna
+comment:  ricotta
+comment:  cheese
+comment:  provolone
+comment:  fresh
+comment:  tomato
+comment:  parmigiano
+comment:  parmesan
+comment:  delicious
+plate 	0.2564615
+sandwich 	0.4822603
+salad 	0.58706886
+
+
+cluster  1 :
+CAPTION: white
+comment:  like
+comment:  interesting
+comment:  look
+comment:  good
+comment:  good
+comment:  good
+comment:  love
+comment:  hmm
+comment:  great
+comment:  comment
+comment:  look
+white 	0.31153166
+
+
+cluster  2 :
+comment:  besciamella
+comment:  stinkin
+comment:  minus
+comment:  ki
+comment:  fominha
+comment:  ki
+comment:  mi
+comment:  deu
+comment:  looook
+comment:  yammy
+
+100091697767366769792.5802154709068681442
+a plate of food that includes broccoli and meat 
+
+matrix comment dim (35, 35)
+
+
+cluster  0 :
+comment:  funny
+comment:  like
+comment:  cool
+comment:  bad
+comment:  like
+comment:  love
+comment:  awesome
+comment:  look
+comment:  nice
+comment:  wanna
+comment:  try
+comment:  nice
+comment:  funny
+comment:  idea
+comment:  look
+comment:  great
+comment:  love
+comment:  like
+
+
+cluster  1 :
+comment:  ziasta
+comment:  mastovito
+comment:  eksrra
+comment:  jajaajajja
+comment:  crative
+comment:  niic
+comment:  piic
+comment:  inivative
+comment:  cheeseball
+comment:  furby
+
+
+cluster  2 :
+CAPTION: plate
+CAPTION: food
+CAPTION: include
+CAPTION: broccoli
+CAPTION: meat
+comment:  eat
+comment:  chocolate
+comment:  spider
+comment:  eat
+comment:  lov
+comment:  creative
+comment:  food
+plate 	0.20784484
+food 	0.492246860372
+include 	0.14492968
+broccoli 	0.30575493
+meat 	0.4055325
+
+100091697767366769792.5820722434130258418
+a plate of food with meat and vegetables 
+
+matrix comment dim (24, 24)
+
+
+cluster  0 :
+CAPTION: plate
+CAPTION: food
+CAPTION: meat
+CAPTION: vegetable
+comment:  recipe
+comment:  yum
+comment:  vegetable
+comment:  taste
+comment:  bad
+comment:  yes
+comment:  food
+comment:  look
+comment:  super
+comment:  good
+comment:  look
+comment:  yummy
+comment:  yummy
+comment:  like
+comment:  tasty
+comment:  follow
+comment:  blue
+comment:  link
+plate 	0.24485728
+food 	0.440960305432
+meat 	0.38803014
+vegetable 	0.338255962564
+
+
+cluster  1 :
+comment:  yummmy
+comment:  network
+comment:  ubber
+comment:  wuuuuaaaaaooooooo
+comment:  encantar
+comment:  comerlo
+
+100091697767366769792.5787315401575707346
+a bowl of food that is on a table 
+
+matrix comment dim (159, 159)
+
+
+cluster  0 :
+CAPTION: food
+comment:  dinner
+comment:  food
+comment:  food
+comment:  eat
+comment:  delicious
+comment:  food
+comment:  cook
+food 	0.783589482307
+
+
+cluster  1 :
+comment:  nummy
+comment:  nummy
+comment:  blech
+comment:  ewwww
+
+
+cluster  2 :
+CAPTION: table
+comment:  network
+comment:  list
+comment:  exist
+comment:  link
+comment:  advert
+comment:  bomb
+comment:  refuse
+comment:  box
+comment:  box
+comment:  ve
+comment:  confirm
+comment:  tv
+comment:  specifically
+comment:  box
+table 	0.24859942
+
+
+cluster  3 :
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  nice
+comment:  good
+comment:  kind
+comment:  good
+comment:  pretty
+comment:  good
+comment:  pretty
+
+
+cluster  4 :
+comment:  recipe
+comment:  recipe
+comment:  cheese
+comment:  potato
+comment:  cheese
+comment:  cheese
+comment:  cheese
+comment:  cheese
+comment:  cheese
+comment:  bread
+comment:  cheese
+comment:  recipe
+comment:  potato
+comment:  potato
+comment:  potato
+comment:  homemade
+comment:  cheese
+
+
+cluster  5 :
+comment:  real
+comment:  actually
+comment:  end
+comment:  need
+comment:  sure
+comment:  right
+comment:  learn
+comment:  come
+comment:  want
+comment:  time
+comment:  try
+comment:  time
+comment:  want
+comment:  right
+comment:  try
+comment:  come
+comment:  right
+
+
+cluster  6 :
+CAPTION: bowl
+comment:  scratch
+comment:  thick
+comment:  creamy
+comment:  brown
+comment:  italian
+comment:  crumb
+comment:  mash
+comment:  mash
+comment:  boxed
+bowl 	0.34894177
+
+
+cluster  7 :
+comment:  tonight
+comment:  family
+comment:  add
+comment:  crappy
+comment:  bunch
+comment:  today
+comment:  excuse
+comment:  new
+comment:  haven
+comment:  age
+comment:  comfort
+comment:  year
+comment:  ago
+comment:  rich
+comment:  share
+comment:  weekend
+comment:  sweetheart
+comment:  usually
+comment:  today
+comment:  beat
+comment:  day
+
+
+cluster  8 :
+comment:  bib
+comment:  scalloped
+comment:  laura
+comment:  barreiro
+comment:  delicousness
+comment:  alton
+comment:  lt
+comment:  ooooooohhhhhhh
+comment:  juan
+comment:  yommi
+comment:  yummylicious
+
+
+cluster  9 :
+comment:  love
+comment:  love
+comment:  favorite
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  awesome
+
+
+cluster  10 :
+comment:  mmmm
+comment:  yum
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yum
+comment:  yum
+
+
+cluster  11 :
+comment:  look
+comment:  look
+comment:  like
+comment:  look
+comment:  look
+comment:  like
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+
+
+cluster  12 :
+comment:  thank
+comment:  omg
+comment:  ugh
+comment:  omg
+comment:  soooo
+comment:  thank
+comment:  thank
+comment:  hahaha
+
+
+cluster  13 :
+comment:  neeeeed
+comment:  gooda
+comment:  wanty
+comment:  camilo
+comment:  florez
+
+
+cluster  14 :
+comment:  mac
+comment:  mac
+comment:  mac
+comment:  mac
+comment:  mac
+comment:  mac
+comment:  mac
+
+100091697767366769792.5832552741945203762
+a plate of food with a fork on a table 
+
+matrix comment dim (101, 101)
+
+
+cluster  0 :
+comment:  hungry
+comment:  shit
+comment:  haha
+comment:  erm
+comment:  super
+comment:  soooo
+comment:  omg
+comment:  smell
+comment:  ugh
+
+
+cluster  1 :
+CAPTION: plate
+CAPTION: fork
+CAPTION: table
+comment:  cast
+comment:  iron
+comment:  mix
+comment:  till
+comment:  golden
+comment:  song
+comment:  create
+comment:  body
+comment:  send
+comment:  reply
+comment:  message
+comment:  box
+comment:  illegal
+comment:  texture
+comment:  second
+comment:  burn
+comment:  passion
+plate 	0.22770908
+fork 	0.16554855
+table 	0.235001
+
+
+cluster  2 :
+comment:  yummy
+comment:  delicious
+comment:  yummy
+comment:  delicious
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  taste
+comment:  eat
+comment:  delicious
+comment:  delicious
+
+
+cluster  3 :
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  nice
+comment:  good
+
+
+cluster  4 :
+comment:  mmmmmmmm
+comment:  mmmmmm
+comment:  kfc
+comment:  ilove
+
+
+cluster  5 :
+comment:  mac
+comment:  mac
+comment:  mac
+comment:  mac
+
+
+cluster  6 :
+comment:  try
+comment:  look
+comment:  look
+comment:  lot
+comment:  love
+comment:  love
+comment:  time
+comment:  think
+comment:  like
+comment:  way
+comment:  remind
+comment:  easy
+comment:  wish
+comment:  look
+comment:  love
+comment:  look
+comment:  like
+comment:  want
+comment:  right
+comment:  simply
+comment:  want
+comment:  look
+
+
+cluster  7 :
+comment:  bale
+comment:  hndi
+comment:  cheeeeeesee
+comment:  flum
+comment:  que
+comment:  rico
+comment:  se
+comment:  vee
+comment:  grandson
+comment:  lalacious
+
+
+cluster  8 :
+CAPTION: food
+comment:  skillet
+comment:  dish
+comment:  cheese
+comment:  dish
+comment:  yum
+comment:  cheese
+comment:  homemade
+comment:  cheese
+comment:  cheese
+comment:  yum
+comment:  lunch
+comment:  snack
+food 	0.4829547
+
+
+cluster  9 :
+comment:  htc
+comment:  lte
+comment:  smartphone
+comment:  italy
+
+100091697767366769792.5837921185050087282
+a man is preparing food in a kitchen 
+
+matrix comment dim (182, 182)
+
+
+cluster  0 :
+comment:  hine
+comment:  hine
+comment:  hine
+comment:  hine
+
+
+cluster  1 :
+comment:  use
+comment:  use
+comment:  use
+comment:  easy
+comment:  add
+comment:  add
+
+
+cluster  2 :
+comment:  seriously
+comment:  think
+comment:  suppose
+comment:  think
+comment:  think
+comment:  think
+comment:  think
+comment:  know
+comment:  mean
+comment:  think
+comment:  think
+comment:  suppose
+comment:  suppose
+comment:  think
+comment:  forget
+comment:  know
+
+
+cluster  3 :
+comment:  blender
+comment:  mixer
+comment:  meatloaf
+comment:  processor
+comment:  blender
+comment:  brownie
+comment:  flour
+comment:  flour
+comment:  batter
+
+
+cluster  4 :
+CAPTION: man
+comment:  thank
+comment:  don
+comment:  alive
+comment:  don
+comment:  man
+comment:  couldn
+comment:  god
+comment:  angry
+comment:  blow
+comment:  man
+comment:  man
+comment:  funny
+comment:  dead
+man 	0.563059492753
+
+
+cluster  5 :
+comment:  raspy
+comment:  turd
+comment:  ooops
+comment:  ewe
+comment:  booger
+comment:  booger
+
+
+cluster  6 :
+comment:  trust
+comment:  stop
+comment:  hard
+comment:  hand
+comment:  fall
+comment:  inside
+comment:  break
+comment:  apart
+comment:  trust
+comment:  people
+comment:  wait
+comment:  absolutely
+comment:  ask
+comment:  lose
+comment:  ready
+comment:  stop
+comment:  fall
+
+
+cluster  7 :
+comment:  luv
+comment:  beyonce
+comment:  rachel
+comment:  ward
+comment:  superbowl
+comment:  belle
+comment:  da
+comment:  rachel
+comment:  rachel
+
+
+cluster  8 :
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+
+
+cluster  9 :
+CAPTION: prepare
+CAPTION: kitchen
+comment:  sync
+comment:  washing
+comment:  machine
+comment:  sock
+comment:  ring
+comment:  response
+comment:  fitting
+comment:  million
+comment:  team
+comment:  plug
+comment:  line
+comment:  dash
+comment:  elbow
+comment:  grip
+comment:  expression
+comment:  enlighten
+prepare 	0.16690303
+kitchen 	0.20160595
+
+
+cluster  10 :
+comment:  mix
+comment:  mix
+comment:  mix
+comment:  mix
+comment:  mix
+comment:  blend
+comment:  mix
+
+
+cluster  11 :
+comment:  lip
+comment:  clean
+comment:  wear
+comment:  tight
+comment:  outfit
+comment:  dance
+comment:  yellow
+comment:  shirt
+comment:  stink
+comment:  dog
+comment:  fly
+comment:  nose
+comment:  chin
+comment:  eye
+comment:  light
+comment:  super
+comment:  baby
+
+
+cluster  12 :
+comment:  oh
+comment:  hell
+comment:  oh
+comment:  guy
+comment:  lol
+comment:  oh
+comment:  forgot
+comment:  hell
+comment:  hell
+
+
+cluster  13 :
+comment:  geve
+comment:  est
+comment:  vrie
+comment:  mi
+comment:  chfe
+comment:  caption
+comment:  shyttt
+
+
+cluster  14 :
+comment:  like
+comment:  like
+comment:  stuff
+comment:  right
+comment:  way
+comment:  sure
+comment:  way
+comment:  right
+comment:  need
+comment:  like
+comment:  like
+comment:  like
+comment:  want
+comment:  like
+comment:  like
+comment:  like
+
+
+cluster  15 :
+comment:  hines
+comment:  carnie
+comment:  hines
+comment:  carnie
+comment:  oooooooo
+comment:  jajajaj
+
+
+cluster  16 :
+comment:  bowl
+comment:  salt
+comment:  bowl
+comment:  bowl
+
+
+cluster  17 :
+CAPTION: food
+comment:  food
+comment:  cook
+comment:  bake
+comment:  cake
+comment:  chocolate
+comment:  taste
+comment:  egg
+comment:  egg
+comment:  chicken
+comment:  egg
+food 	0.540135467052
+
+100091697767366769792.5828935252158691042
+a slice of pizza sitting on top of a white plate 
+
+matrix comment dim (46, 46)
+
+
+cluster  0 :
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+
+
+cluster  1 :
+CAPTION: plate
+comment:  hzhzhzhzhz
+comment:  miami
+comment:  ago
+comment:  bc
+comment:  runny
+comment:  tan
+comment:  delicioso
+comment:  quiero
+comment:  comer
+comment:  saturday
+comment:  wenaknya
+plate 	0.0763329022395
+
+
+cluster  2 :
+CAPTION: sit
+CAPTION: white
+comment:  huh
+comment:  good
+comment:  stuff
+comment:  good
+comment:  like
+comment:  good
+comment:  long
+comment:  time
+comment:  think
+comment:  wrong
+comment:  come
+comment:  incredibly
+comment:  amazing
+comment:  ya
+comment:  like
+comment:  good
+sit 	0.4320763
+white 	0.30923235
+
+
+cluster  3 :
+CAPTION: slice
+CAPTION: pizza
+comment:  food
+comment:  veggie
+comment:  lasagna
+comment:  yummy
+comment:  delish
+comment:  lasagna
+comment:  lunch
+comment:  scrumptious
+comment:  delicious
+comment:  yum
+comment:  mmmmm
+comment:  yummy
+slice 	0.39121577
+pizza 	0.5423358
+
+100091697767366769792.5828862155225585474
+a bowl of soup and a bowl of soup on a table 
+
+matrix comment dim (71, 71)
+
+
+cluster  0 :
+CAPTION: table
+comment:  clear
+comment:  cafe
+comment:  favorite
+comment:  makeover
+comment:  load
+comment:  grandmother
+comment:  scratch
+comment:  hungry
+comment:  beutiful
+comment:  sound
+comment:  locally
+table 	0.22959647
+
+
+cluster  1 :
+CAPTION: bowl
+CAPTION: soup
+CAPTION: bowl
+CAPTION: soup
+comment:  chicken
+comment:  soup
+comment:  chicken
+comment:  yum
+comment:  turkey
+comment:  chop
+comment:  veggie
+comment:  chicken
+comment:  delicious
+comment:  yummy
+comment:  delicious
+comment:  delish
+comment:  chicken
+comment:  soup
+comment:  chicken
+comment:  dish
+comment:  delish
+bowl 	0.43785533
+soup 	0.695027987747
+bowl 	0.43785533
+soup 	0.695027987747
+
+
+cluster  2 :
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+
+
+cluster  3 :
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  different
+comment:  nice
+comment:  good
+comment:  want
+comment:  way
+comment:  good
+comment:  great
+
+
+cluster  4 :
+comment:  adriatico
+comment:  malate
+comment:  ngon
+comment:  nyami
+comment:  manyosss
+
+
+cluster  5 :
+comment:  manila
+comment:  oy
+comment:  qua
+comment:  ye
+comment:  que
+comment:  rico
+comment:  se
+comment:  ve
+comment:  salivate
+
+
+cluster  6 :
+comment:  broccoli
+comment:  dumpling
+comment:  meatloaf
+comment:  sauteed
+comment:  dumpling
+comment:  dumpling
+comment:  dumpling
+comment:  broth
+
+100091697767366769792.5813722369223478626
+a bowl of soup and a bowl of soup 
+
+matrix comment dim (36, 36)
+
+
+cluster  0 :
+comment:  lookzzz
+comment:  lt
+comment:  wowwwwwww
+comment:  yummmm
+comment:  mmmmmm
+comment:  yummmm
+comment:  emm
+comment:  yummi
+
+
+cluster  1 :
+CAPTION: bowl
+CAPTION: soup
+CAPTION: bowl
+CAPTION: soup
+comment:  dish
+comment:  yummy
+comment:  delicious
+comment:  yum
+comment:  yummy
+comment:  delicious
+comment:  taste
+comment:  yummy
+comment:  fruit
+comment:  fruit
+comment:  taste
+comment:  yummy
+comment:  delicious
+comment:  yum
+comment:  delicious
+bowl 	0.38959205
+soup 	0.58966905
+bowl 	0.38959205
+soup 	0.58966905
+
+
+cluster  2 :
+comment:  look
+comment:  wow
+comment:  look
+comment:  surely
+comment:  love
+comment:  ok
+comment:  like
+comment:  look
+comment:  look
+comment:  awesome
+comment:  look
+comment:  cool
+comment:  look
+
+100091697767366769792.5787692624193008802
+a plate of food that includes broccoli and meat 
+
+matrix comment dim (49, 49)
+
+
+cluster  0 :
+comment:  para
+comment:  dieta
+comment:  gusto
+comment:  la
+comment:  de
+comment:  aguacate
+comment:  con
+comment:  naranja
+comment:  sabe
+comment:  bien
+comment:  wooow
+comment:  que
+comment:  rico
+comment:  fue
+comment:  naranja
+comment:  pi
+comment:  pollo
+comment:  cebolla
+comment:  pi
+comment:  que
+comment:  rico
+
+
+cluster  1 :
+CAPTION: broccoli
+CAPTION: meat
+comment:  bacon
+comment:  chicken
+comment:  avocado
+comment:  bacon
+comment:  bacon
+comment:  avocado
+comment:  bacon
+comment:  mushroom
+comment:  onion
+comment:  chicken
+broccoli 	0.65668875
+meat 	0.62027687
+
+
+cluster  2 :
+CAPTION: plate
+CAPTION: food
+CAPTION: include
+comment:  totally
+comment:  agree
+comment:  good
+comment:  love
+comment:  yay
+comment:  fork
+comment:  favorite
+comment:  ingredient
+comment:  agree
+comment:  drool
+comment:  type
+comment:  exquisite
+plate 	0.20819907
+food 	0.31551436
+include 	0.1818424
+
+
+cluster  3 :
+comment:  esquisito
+comment:  lovlyyyyy
+comment:  combinaci
+comment:  acelgas
+comment:  champi
+comment:  fileteada
+
+100091697767366769792.5812201949310669810
+a plate with a sandwich and a salad 
+
+matrix comment dim (240, 240)
+
+
+cluster  0 :
+comment:  parkey
+comment:  lickerish
+comment:  lapar
+comment:  yammk
+comment:  waooooooooo
+comment:  siegienczuk
+comment:  semira
+comment:  yummmyy
+comment:  ngiler
+comment:  juliann
+
+
+cluster  1 :
+comment:  real
+comment:  find
+comment:  right
+comment:  time
+comment:  lot
+comment:  want
+comment:  mention
+comment:  think
+comment:  come
+comment:  need
+comment:  little
+comment:  try
+comment:  turn
+comment:  like
+comment:  like
+comment:  look
+comment:  look
+comment:  couple
+comment:  actually
+comment:  want
+comment:  want
+comment:  easy
+comment:  look
+comment:  need
+comment:  turn
+comment:  sure
+comment:  sure
+comment:  try
+comment:  big
+comment:  idea
+
+
+cluster  2 :
+CAPTION: sandwich
+CAPTION: salad
+comment:  butter
+comment:  fridge
+comment:  stuffing
+comment:  oven
+comment:  butter
+comment:  fry
+comment:  oven
+comment:  roast
+comment:  oven
+comment:  fry
+comment:  gravy
+comment:  pan
+comment:  gravy
+sandwich 	0.49951348
+salad 	0.53876156
+
+
+cluster  3 :
+comment:  article
+comment:  valuable
+comment:  estate
+comment:  feature
+comment:  accommodate
+comment:  detail
+comment:  accommodate
+comment:  ensure
+comment:  safety
+comment:  foremost
+
+
+cluster  4 :
+comment:  ohhhhhh
+comment:  owh
+comment:  hmmmmmmm
+comment:  yummmy
+
+
+cluster  5 :
+comment:  mix
+comment:  thanksgiving
+comment:  golden
+comment:  brown
+comment:  golden
+comment:  brown
+comment:  brown
+comment:  thanksgiving
+comment:  bird
+comment:  bird
+comment:  pound
+comment:  dripping
+
+
+cluster  6 :
+comment:  wow
+comment:  ok
+comment:  god
+comment:  everytime
+comment:  oh
+comment:  god
+comment:  hmmm
+comment:  god
+comment:  hmm
+
+
+cluster  7 :
+comment:  dry
+comment:  rub
+comment:  dry
+comment:  moist
+comment:  dry
+comment:  rub
+comment:  warm
+comment:  moist
+comment:  dry
+
+
+cluster  8 :
+comment:  good
+comment:  good
+comment:  fantastic
+comment:  good
+comment:  awesome
+comment:  nice
+comment:  awesome
+comment:  love
+comment:  perfect
+comment:  good
+comment:  good
+comment:  good
+comment:  amazing
+comment:  great
+comment:  nice
+comment:  good
+comment:  fantastic
+
+
+cluster  9 :
+comment:  dao
+comment:  bom
+comment:  dao
+comment:  goreng
+comment:  eso
+
+
+cluster  10 :
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+
+
+cluster  11 :
+comment:  turkey
+comment:  turkey
+comment:  turkey
+comment:  turkey
+comment:  turkey
+comment:  turkey
+comment:  turkey
+comment:  turkey
+comment:  turkey
+comment:  turkey
+comment:  turkey
+comment:  turkey
+comment:  turkey
+comment:  turkey
+comment:  turkey
+
+
+cluster  12 :
+comment:  duan
+comment:  duan
+comment:  duan
+comment:  bebek
+comment:  rawn
+comment:  racker
+comment:  reith
+comment:  enak
+comment:  swartz
+
+
+cluster  13 :
+comment:  tequila
+comment:  tequila
+comment:  tang
+
+
+cluster  14 :
+comment:  que
+comment:  butterball
+comment:  aaron
+comment:  sanchez
+comment:  angie
+comment:  que
+comment:  rico
+comment:  tammy
+comment:  pounder
+comment:  valerie
+
+
+cluster  15 :
+comment:  skin
+comment:  sound
+comment:  touch
+comment:  cut
+comment:  skin
+comment:  skin
+comment:  deep
+comment:  beauty
+
+
+cluster  16 :
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  sad
+comment:  miss
+
+
+cluster  17 :
+CAPTION: plate
+comment:  mouse
+comment:  hunger
+comment:  separately
+comment:  massage
+comment:  rotate
+comment:  adjust
+comment:  temp
+comment:  outdoors
+comment:  bone
+comment:  substitute
+comment:  enrich
+comment:  stock
+plate 	0.22977811
+
+
+cluster  18 :
+comment:  live
+comment:  match
+comment:  chat
+comment:  join
+comment:  live
+comment:  year
+comment:  family
+comment:  arrive
+comment:  hour
+comment:  minute
+comment:  minute
+comment:  hour
+
+
+cluster  19 :
+comment:  recipe
+comment:  cook
+comment:  cook
+comment:  cook
+comment:  recipe
+comment:  cook
+comment:  cooking
+comment:  cooking
+comment:  chicken
+
+
+cluster  20 :
+comment:  brine
+comment:  brine
+comment:  brine
+comment:  brine
+comment:  rotisserie
+comment:  rotisserie
+comment:  brine
+
+
+cluster  21 :
+comment:  hungry
+comment:  eat
+comment:  dinner
+comment:  hungry
+
+
+cluster  22 :
+comment:  use
+comment:  check
+comment:  save
+comment:  send
+comment:  question
+comment:  post
+comment:  buy
+comment:  use
+comment:  help
+comment:  share
+comment:  add
+comment:  advice
+comment:  question
+comment:  question
+comment:  special
+
+
+cluster  23 :
+comment:  mmmm
+comment:  mmmmmm
+comment:  mmmmmm
+comment:  mmmmm
+comment:  mmm
+
+100091697767366769792.5838658185733959090
+a group of people standing in a field with a kite 
+
+not enught word in comment
+
+100091697767366769792.5788762773226147730
+a close up of a plate of food on a table 
+
+matrix comment dim (124, 124)
+
+
+cluster  0 :
+comment:  zippo
+comment:  misrepresent
+comment:  kerri
+comment:  karvetski
+comment:  deelish
+comment:  pinwheel
+comment:  lanche
+comment:  gostoso
+comment:  aumentar
+comment:  moderar
+
+
+cluster  1 :
+comment:  thing
+comment:  like
+comment:  know
+comment:  want
+comment:  love
+comment:  good
+comment:  like
+comment:  want
+comment:  love
+comment:  love
+comment:  want
+comment:  way
+comment:  definitely
+comment:  especially
+comment:  think
+comment:  good
+comment:  definitely
+comment:  good
+comment:  good
+
+
+cluster  2 :
+comment:  egg
+comment:  yogurt
+comment:  cream
+comment:  cheese
+comment:  cream
+comment:  cheese
+comment:  nutritional
+comment:  carb
+comment:  supper
+comment:  recipe
+comment:  deli
+
+
+cluster  3 :
+CAPTION: plate
+comment:  overweight
+comment:  spiral
+comment:  test
+comment:  value
+comment:  process
+comment:  diabetic
+comment:  mislead
+comment:  parent
+comment:  title
+comment:  hour
+comment:  ve
+comment:  guideline
+comment:  learner
+comment:  test
+plate 	0.15338095
+
+
+cluster  4 :
+CAPTION: close
+CAPTION: table
+comment:  white
+comment:  roll
+comment:  send
+comment:  mum
+comment:  wrap
+comment:  share
+comment:  agree
+comment:  creative
+comment:  child
+comment:  ago
+comment:  fall
+comment:  add
+comment:  eager
+comment:  feed
+comment:  open
+comment:  suggestion
+close 	0.32100278
+table 	0.24979827
+
+
+cluster  5 :
+comment:  delicious
+comment:  delicious
+comment:  taste
+comment:  yummy
+comment:  delicious
+comment:  taste
+comment:  yummy
+comment:  yummy
+comment:  delish
+comment:  delicious
+
+
+cluster  6 :
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  fun
+comment:  nice
+
+
+cluster  7 :
+comment:  yumm
+comment:  hoo
+
+
+cluster  8 :
+comment:  damn
+comment:  wanna
+comment:  sooo
+comment:  wow
+comment:  wanna
+comment:  hmmm
+comment:  cute
+comment:  kid
+comment:  wow
+comment:  wow
+comment:  wanna
+comment:  ya
+
+
+cluster  9 :
+CAPTION: food
+comment:  hungry
+comment:  healthy
+comment:  healthy
+comment:  food
+comment:  healthy
+comment:  hungry
+comment:  eat
+comment:  hungry
+food 	0.630976371467
+
+
+cluster  10 :
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+
+
+cluster  11 :
+comment:  muito
+comment:  mais
+comment:  pode
+comment:  massa
+comment:  sangue
+comment:  tem
+comment:  que
+
+100091697767366769792.5788019411570398418
+a bowl of cereal and a banana on a table 
+
+matrix comment dim (189, 189)
+
+
+cluster  0 :
+comment:  nog
+comment:  nog
+comment:  nog
+comment:  nog
+comment:  nog
+comment:  nog
+
+
+cluster  1 :
+comment:  right
+comment:  surprisingly
+comment:  right
+comment:  need
+comment:  yes
+comment:  perfectly
+comment:  nice
+comment:  great
+comment:  like
+comment:  making
+comment:  amazing
+comment:  yes
+comment:  favorite
+comment:  good
+comment:  good
+comment:  good
+comment:  especially
+comment:  like
+comment:  actually
+comment:  place
+comment:  moment
+comment:  people
+comment:  love
+
+
+cluster  2 :
+comment:  ale
+comment:  bourbon
+comment:  vodka
+comment:  rum
+comment:  bourbon
+comment:  rum
+comment:  whiskey
+comment:  ale
+comment:  eggnog
+
+
+cluster  3 :
+comment:  milburn
+comment:  multiseasonal
+comment:  iaaa
+comment:  shapiro
+comment:  limonata
+comment:  ghiacciata
+comment:  de
+comment:  drandy
+
+
+cluster  4 :
+comment:  dark
+comment:  cold
+comment:  cold
+comment:  warm
+comment:  warm
+
+
+cluster  5 :
+comment:  egg
+comment:  egg
+comment:  egg
+comment:  egg
+comment:  egg
+comment:  egg
+
+
+cluster  6 :
+CAPTION: table
+comment:  specialty
+comment:  reference
+comment:  key
+comment:  family
+comment:  traditional
+comment:  polish
+comment:  lover
+comment:  acceptable
+comment:  add
+comment:  uh
+comment:  worth
+comment:  appear
+comment:  sound
+comment:  local
+comment:  drum
+comment:  roll
+comment:  bubble
+comment:  picture
+comment:  anytime
+comment:  non
+table 	0.24739154
+
+
+cluster  7 :
+comment:  hot
+comment:  hot
+comment:  hot
+comment:  hot
+comment:  hot
+comment:  hot
+comment:  hot
+comment:  hot
+comment:  hot
+comment:  hot
+
+
+cluster  8 :
+comment:  pumpkin
+comment:  pumpkin
+comment:  pumpkin
+comment:  pumpkin
+comment:  pumpkin
+comment:  pumpkin
+
+
+cluster  9 :
+comment:  orchard
+comment:  clove
+comment:  coco
+comment:  wort
+comment:  orchard
+comment:  taro
+comment:  slush
+comment:  tapioca
+comment:  coco
+comment:  daiquiri
+comment:  toddy
+
+
+cluster  10 :
+comment:  octoberfest
+comment:  whatev
+comment:  moca
+comment:  maw
+comment:  heineken
+comment:  joshua
+comment:  uhm
+comment:  oktoberfest
+comment:  paula
+comment:  deen
+comment:  cidar
+
+
+cluster  11 :
+comment:  apple
+comment:  apple
+comment:  apple
+comment:  apple
+comment:  apple
+comment:  apple
+comment:  apple
+comment:  apple
+
+
+cluster  12 :
+comment:  cider
+comment:  cider
+comment:  cider
+comment:  cider
+comment:  cider
+comment:  cider
+comment:  cider
+comment:  cider
+
+
+cluster  13 :
+CAPTION: banana
+comment:  homemade
+comment:  spice
+comment:  cocoa
+comment:  caramel
+comment:  spice
+comment:  spice
+comment:  honey
+comment:  lemon
+comment:  cocoa
+comment:  sweet
+comment:  cream
+comment:  chocolate
+comment:  spiced
+comment:  homemade
+comment:  strawberry
+comment:  spice
+banana 	0.5526563
+
+
+cluster  14 :
+comment:  brew
+comment:  beverage
+comment:  drink
+comment:  sip
+comment:  beverage
+comment:  tea
+comment:  coffee
+comment:  beer
+comment:  tea
+comment:  wine
+comment:  tea
+comment:  coffee
+comment:  alcoholic
+comment:  alcoholic
+comment:  wine
+
+
+cluster  15 :
+comment:  cafe
+comment:  chai
+comment:  starbucks
+comment:  latte
+comment:  iced
+comment:  chai
+comment:  latte
+comment:  starbucks
+comment:  chai
+comment:  latte
+comment:  latte
+
+
+cluster  16 :
+CAPTION: bowl
+CAPTION: cereal
+comment:  yum
+comment:  yum
+comment:  buttered
+comment:  indulgent
+comment:  fave
+comment:  marshmallow
+comment:  mint
+comment:  mmm
+comment:  ditto
+bowl 	0.26930356
+cereal 	0.31123257
+
+
+cluster  17 :
+comment:  fall
+comment:  fall
+comment:  winter
+comment:  fall
+comment:  winter
+comment:  fall
+comment:  winter
+
+100091697767366769792.5796169657336012610
+a piece of cake on a plate with a fork 
+
+matrix comment dim (117, 117)
+
+
+cluster  0 :
+comment:  oh
+comment:  gosh
+comment:  lol
+comment:  yeah
+comment:  ok
+comment:  wanna
+comment:  oh
+comment:  ah
+comment:  oh
+comment:  dunno
+comment:  ok
+comment:  yea
+comment:  yea
+comment:  ok
+comment:  rofl
+
+
+cluster  1 :
+comment:  waffle
+comment:  waffle
+comment:  waffle
+comment:  waffle
+comment:  waffle
+comment:  waffle
+comment:  waffle
+comment:  waffle
+comment:  waffle
+comment:  waffle
+comment:  waffle
+comment:  waffle
+comment:  waffle
+comment:  waffle
+comment:  waffle
+comment:  waffle
+comment:  waffle
+comment:  waffle
+comment:  waffle
+comment:  waffle
+
+
+cluster  2 :
+comment:  waffelz
+comment:  mi
+comment:  doc
+comment:  panfle
+comment:  lt
+comment:  pancak
+comment:  bravoo
+comment:  uuuuuuuuuuuuuuuuuuuuuuuu
+
+
+cluster  3 :
+CAPTION: cake
+comment:  syrup
+comment:  butter
+comment:  leftover
+comment:  peanut
+comment:  butter
+comment:  jelly
+comment:  lunch
+comment:  hot
+comment:  chocolate
+comment:  sauce
+comment:  crepe
+comment:  chocolate
+comment:  food
+comment:  sweet
+comment:  savory
+cake 	0.556657
+
+
+cluster  4 :
+comment:  hard
+comment:  love
+comment:  little
+comment:  good
+comment:  great
+comment:  definitely
+comment:  good
+comment:  good
+comment:  wonderful
+comment:  good
+comment:  nice
+comment:  great
+comment:  good
+
+
+cluster  5 :
+comment:  pancake
+comment:  pancake
+comment:  pancake
+comment:  pancake
+comment:  pancake
+comment:  pancake
+comment:  pancake
+comment:  pancake
+comment:  pancake
+comment:  pancake
+comment:  pancake
+
+
+cluster  6 :
+comment:  piace
+comment:  tanto
+comment:  tanto
+comment:  buono
+comment:  woow
+comment:  hummm
+comment:  emmmm
+comment:  uhhhm
+
+
+cluster  7 :
+CAPTION: plate
+CAPTION: fork
+comment:  pocket
+comment:  bliss
+comment:  chip
+comment:  crispness
+comment:  belgium
+plate 	0.2097317
+fork 	0.1529058
+
+
+cluster  8 :
+comment:  yum
+comment:  yummy
+comment:  yum
+comment:  mmmmmm
+comment:  yum
+comment:  yum
+
+
+cluster  9 :
+CAPTION: piece
+comment:  choose
+comment:  hold
+comment:  choose
+comment:  option
+comment:  decide
+comment:  favourite
+comment:  usually
+comment:  prefer
+piece 	0.2789554
+
+
+cluster  10 :
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+
+100091697767366769792.5828613214303639730
+a white plate topped with meat and vegetables 
+
+matrix comment dim (92, 92)
+
+
+cluster  0 :
+comment:  wuiiiihhh
+comment:  hyperbole
+comment:  delisius
+comment:  yawk
+comment:  yammiiiiii
+
+
+cluster  1 :
+comment:  definitely
+comment:  hope
+comment:  good
+comment:  look
+comment:  good
+comment:  feel
+comment:  way
+comment:  sure
+comment:  look
+comment:  rest
+comment:  like
+comment:  look
+comment:  real
+comment:  good
+comment:  little
+comment:  time
+comment:  look
+comment:  good
+comment:  instead
+comment:  look
+comment:  bit
+comment:  try
+
+
+cluster  2 :
+CAPTION: white
+CAPTION: plate
+comment:  pound
+comment:  smart
+comment:  protein
+comment:  king
+comment:  rare
+comment:  trust
+comment:  destroy
+comment:  heat
+comment:  nasty
+comment:  green
+comment:  dodgy
+white 	0.27311212
+plate 	0.20353718
+
+
+cluster  3 :
+comment:  yum
+comment:  yum
+comment:  yummy
+comment:  yummy
+comment:  delish
+comment:  appetizing
+comment:  delish
+comment:  delicious
+comment:  yummy
+
+
+cluster  4 :
+CAPTION: meat
+CAPTION: vegetable
+comment:  meat
+comment:  cook
+comment:  food
+comment:  meal
+comment:  ingredient
+comment:  healthy
+comment:  eat
+comment:  meal
+comment:  meat
+comment:  food
+comment:  dish
+comment:  meat
+comment:  fish
+comment:  veggie
+comment:  sauce
+meat 	0.67541367809
+vegetable 	0.57119197
+
+
+cluster  5 :
+comment:  tss
+comment:  kimberly
+comment:  yack
+comment:  mau
+comment:  donk
+comment:  dag
+comment:  babi
+comment:  rico
+comment:  rico
+comment:  woh
+comment:  yack
+
+
+cluster  6 :
+comment:  oh
+comment:  haha
+comment:  oh
+comment:  yea
+comment:  yes
+comment:  ok
+comment:  sorry
+comment:  hmmm
+
+
+cluster  7 :
+comment:  ew
+comment:  hmmmmmm
+comment:  yummmm
+comment:  mmmh
+
+
+cluster  8 :
+comment:  weekly
+comment:  list
+comment:  shopping
+comment:  list
+comment:  class
+comment:  resume
+comment:  source
+
+100091697767366769792.5833091931004931106
+a man and a woman standing next to each other 
+
+matrix comment dim (28, 28)
+
+
+cluster  0 :
+CAPTION: man
+CAPTION: woman
+CAPTION: stand
+comment:  amazing
+comment:  cool
+comment:  espantapajaro
+comment:  ls
+comment:  pin
+comment:  tail
+comment:  scarecrow
+comment:  sir
+comment:  hansome
+comment:  man
+comment:  cool
+comment:  puppet
+comment:  watch
+comment:  right
+man 	0.32849103851
+woman 	0.244077743164
+stand 	0.276127712136
+
+
+cluster  1 :
+comment:  ese
+comment:  se
+comment:  parece
+comment:  nu
+comment:  se
+comment:  que
+comment:  vive
+comment:  por
+comment:  mi
+comment:  casa
+comment:  hasta
+comment:  se
+comment:  viste
+comment:  igual
+
+100091697767366769792.5814419111964151810
+a sandwich with meat and cheese on a plate 
+
+matrix comment dim (161, 161)
+
+
+cluster  0 :
+CAPTION: sandwich
+CAPTION: meat
+CAPTION: cheese
+comment:  leftover
+comment:  turkey
+comment:  fry
+comment:  sour
+comment:  sauce
+comment:  turkey
+comment:  chicken
+comment:  vegetable
+comment:  food
+sandwich 	0.5387804
+meat 	0.6186453
+cheese 	0.61349016
+
+
+cluster  1 :
+comment:  teu
+comment:  broo
+comment:  sund
+comment:  teu
+comment:  bae
+comment:  ari
+
+
+cluster  2 :
+CAPTION: plate
+comment:  kill
+comment:  nasty
+comment:  sound
+comment:  lay
+comment:  mouth
+comment:  water
+comment:  meet
+comment:  deep
+comment:  heaven
+comment:  today
+comment:  spring
+comment:  roll
+plate 	0.2349348
+
+
+cluster  3 :
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  delicious
+comment:  yummy
+comment:  tasty
+comment:  delicious
+comment:  delicious
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  delicious
+comment:  tasty
+comment:  tasty
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  tasty
+comment:  delicious
+
+
+cluster  4 :
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+
+
+cluster  5 :
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  great
+comment:  good
+comment:  great
+comment:  good
+comment:  good
+comment:  good
+
+
+cluster  6 :
+comment:  yes
+comment:  sorry
+comment:  lol
+comment:  thank
+comment:  wow
+comment:  wow
+comment:  hmm
+comment:  wow
+comment:  hmmm
+comment:  wow
+
+
+cluster  7 :
+comment:  lumphia
+comment:  wowowowo
+comment:  yammmmm
+comment:  yammmmm
+comment:  http
+comment:  fxyvu
+comment:  soolicious
+comment:  yammmme
+comment:  wuuuyummy
+comment:  maenya
+comment:  jiga
+comment:  geus
+comment:  ngasaan
+comment:  yanto
+comment:  mauuuuu
+comment:  dilishez
+comment:  bnyak
+comment:  yumy
+comment:  yumy
+comment:  sedappppppppp
+comment:  bukkad
+comment:  alwayzzzzz
+
+
+cluster  8 :
+comment:  ummmm
+comment:  wooow
+comment:  ow
+comment:  woooo
+comment:  woooow
+comment:  lah
+comment:  kak
+comment:  salam
+comment:  waw
+comment:  yang
+comment:  abt
+
+
+cluster  9 :
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+
+
+cluster  10 :
+comment:  pasti
+comment:  itu
+comment:  enak
+comment:  malam
+comment:  kenal
+comment:  bilang
+
+
+cluster  11 :
+comment:  mummy
+comment:  flabby
+comment:  tummy
+comment:  yam
+comment:  yam
+
+
+cluster  12 :
+comment:  sweet
+comment:  eat
+comment:  taste
+comment:  hungry
+comment:  sweet
+comment:  sweet
+comment:  fresh
+
+
+cluster  13 :
+comment:  rico
+comment:  como
+comment:  se
+comment:  hace
+comment:  eso
+comment:  como
+
+
+cluster  14 :
+comment:  ngeunah
+comment:  ngeunah
+
+
+cluster  15 :
+comment:  need
+comment:  easy
+comment:  want
+comment:  want
+comment:  want
+comment:  absolutely
+comment:  especially
+comment:  lot
+comment:  big
+comment:  talk
+
+100091697767366769792.5788060936698421586
+a plate of food with a fork and knife 
+
+matrix comment dim (54, 54)
+
+
+cluster  0 :
+CAPTION: plate
+CAPTION: fork
+CAPTION: knife
+comment:  water
+comment:  weekend
+comment:  magnificent
+comment:  mouth
+comment:  water
+comment:  similar
+comment:  someday
+comment:  chip
+comment:  touch
+comment:  ve
+comment:  jones
+comment:  level
+plate 	0.21469791
+fork 	0.17031915
+knife 	0.19171585
+
+
+cluster  1 :
+comment:  look
+comment:  worth
+comment:  try
+comment:  bad
+comment:  look
+comment:  good
+comment:  thinking
+comment:  like
+comment:  wrong
+comment:  nice
+comment:  yes
+comment:  stuff
+comment:  lately
+comment:  great
+comment:  way
+comment:  enjoy
+comment:  thanks
+comment:  awesome
+comment:  stuff
+
+
+cluster  2 :
+comment:  que
+comment:  rico
+comment:  que
+comment:  rico
+comment:  muito
+comment:  este
+comment:  tipo
+comment:  de
+
+
+cluster  3 :
+CAPTION: food
+comment:  tasty
+comment:  yummy
+comment:  recipe
+comment:  pork
+comment:  food
+comment:  cook
+comment:  yummy
+comment:  pork
+comment:  pork
+comment:  chop
+food 	0.566918310523
+
+
+cluster  4 :
+comment:  yumy
+comment:  yumy
+comment:  pice
+comment:  aprecio
+comment:  iguaria
+
+100091697767366769792.5837795414348546498
+a bowl of soup and a bowl of soup on a table 
+
+matrix comment dim (55, 55)
+
+
+cluster  0 :
+comment:  look
+comment:  pretty
+comment:  good
+comment:  right
+comment:  like
+comment:  good
+comment:  look
+comment:  look
+comment:  great
+comment:  look
+comment:  good
+comment:  look
+comment:  good
+comment:  look
+comment:  good
+comment:  bad
+comment:  like
+
+
+cluster  1 :
+CAPTION: bowl
+CAPTION: bowl
+CAPTION: table
+comment:  learn
+comment:  stick
+comment:  regular
+comment:  rare
+comment:  filling
+comment:  sound
+comment:  allergic
+comment:  finally
+comment:  incentive
+comment:  close
+comment:  bite
+comment:  size
+comment:  baby
+bowl 	0.2428163
+bowl 	0.2428163
+table 	0.23839404
+
+
+cluster  2 :
+comment:  dillisue
+comment:  ssoooooooo
+comment:  cest
+comment:  bon
+comment:  ou
+comment:  pas
+comment:  ruth
+
+
+cluster  3 :
+CAPTION: soup
+CAPTION: soup
+comment:  oatmeal
+comment:  breakfast
+comment:  delicious
+comment:  yummy
+comment:  delicious
+comment:  banana
+comment:  eat
+comment:  oatmeal
+comment:  chocolate
+comment:  yummy
+comment:  coffee
+comment:  oatmeal
+comment:  cookie
+comment:  banana
+soup 	0.5549699
+soup 	0.5549699
+
+
+cluster  4 :
+comment:  omg
+comment:  ooo
+comment:  sooooooooo
+comment:  gooood
+
+100091697767366769792.5799525982784336050
+a person sitting in a chair with a stuffed animal 
+
+matrix comment dim (82, 82)
+
+
+cluster  0 :
+CAPTION: chair
+CAPTION: animal
+comment:  drive
+comment:  dive
+comment:  network
+comment:  focus
+comment:  ridiculous
+comment:  angry
+comment:  room
+comment:  excessive
+comment:  explanation
+comment:  draw
+comment:  pause
+comment:  declare
+comment:  sell
+comment:  child
+comment:  actual
+comment:  feature
+comment:  daytime
+comment:  presume
+comment:  target
+comment:  home
+comment:  spouse
+comment:  travel
+comment:  etc
+comment:  prime
+comment:  blanket
+comment:  cover
+chair 	0.18745913
+animal 	0.22668767
+
+
+cluster  1 :
+comment:  kassidy
+comment:  kalka
+comment:  kassidy
+
+
+cluster  2 :
+comment:  peanut
+comment:  cracker
+comment:  jack
+comment:  confessional
+comment:  loser
+comment:  jason
+comment:  flashy
+comment:  eater
+comment:  snarky
+comment:  peanut
+
+
+cluster  3 :
+CAPTION: person
+CAPTION: sit
+CAPTION: stuff
+comment:  sick
+comment:  look
+comment:  like
+comment:  miss
+comment:  day
+comment:  actually
+comment:  long
+comment:  day
+comment:  thought
+comment:  stay
+comment:  time
+comment:  wish
+comment:  pull
+comment:  day
+comment:  agree
+comment:  know
+comment:  look
+comment:  like
+person 	0.45097473
+sit 	0.47668484
+stuff 	0.509843
+
+
+cluster  4 :
+comment:  alton
+comment:  matador
+comment:  julia
+comment:  el
+comment:  juarez
+comment:  ddd
+comment:  alton
+comment:  el
+comment:  juarez
+comment:  trevor
+
+
+cluster  5 :
+comment:  dinner
+comment:  food
+comment:  chef
+comment:  cook
+comment:  cook
+comment:  dish
+comment:  cooking
+
+
+cluster  6 :
+comment:  ehret
+comment:  schadt
+comment:  ehret
+
+
+cluster  7 :
+comment:  competition
+comment:  competition
+comment:  contestant
+comment:  winner
+comment:  competition
+
+100091697767366769792.5802645579657748162
+a couple of people that are sitting at a table 
+
+matrix comment dim (116, 116)
+
+
+cluster  0 :
+comment:  contestant
+comment:  contestant
+comment:  episode
+
+
+cluster  1 :
+CAPTION: table
+comment:  space
+comment:  regular
+comment:  care
+comment:  normal
+comment:  head
+comment:  suffer
+comment:  end
+comment:  head
+comment:  solid
+comment:  normal
+comment:  check
+comment:  weekend
+table 	0.28998616
+
+
+cluster  2 :
+comment:  food
+comment:  eat
+comment:  eat
+comment:  food
+comment:  food
+comment:  eat
+comment:  eat
+comment:  food
+comment:  eat
+
+
+cluster  3 :
+CAPTION: people
+comment:  like
+comment:  like
+comment:  like
+comment:  people
+comment:  simply
+comment:  people
+comment:  let
+comment:  way
+comment:  think
+comment:  let
+comment:  way
+comment:  bad
+comment:  lot
+comment:  people
+comment:  good
+comment:  place
+people 	0.680263355374
+
+
+cluster  4 :
+comment:  chopping
+comment:  utensil
+comment:  restuarant
+comment:  earmark
+comment:  stag
+comment:  jesse
+comment:  philly
+comment:  peasant
+
+
+cluster  5 :
+comment:  primadonna
+comment:  guanciale
+comment:  porchetta
+comment:  di
+comment:  testa
+comment:  coppa
+comment:  di
+comment:  testa
+comment:  souse
+
+
+cluster  6 :
+CAPTION: couple
+CAPTION: sit
+comment:  honestly
+comment:  dislike
+comment:  personally
+comment:  fancy
+comment:  luck
+comment:  enjoy
+comment:  appreciate
+comment:  enjoy
+comment:  bullshit
+comment:  fear
+comment:  pretty
+comment:  cool
+comment:  weird
+comment:  cool
+comment:  dude
+comment:  love
+comment:  watch
+comment:  anymore
+comment:  crap
+couple 	0.4087546
+sit 	0.41083416
+
+
+cluster  7 :
+comment:  arrogance
+comment:  judge
+comment:  distrust
+comment:  judgement
+comment:  judge
+comment:  creativity
+comment:  courage
+comment:  mental
+
+
+cluster  8 :
+comment:  network
+comment:  aspire
+comment:  block
+comment:  credential
+comment:  component
+comment:  cable
+
+
+cluster  9 :
+comment:  chef
+comment:  recipe
+comment:  cook
+comment:  pig
+comment:  vomit
+comment:  pig
+comment:  roast
+comment:  pig
+
+
+cluster  10 :
+comment:  opportunity
+comment:  provide
+comment:  prove
+comment:  continually
+comment:  utilize
+comment:  success
+comment:  position
+comment:  major
+comment:  involve
+comment:  competition
+comment:  result
+comment:  increase
+comment:  dramatic
+comment:  value
+comment:  demonstrate
+comment:  compete
+comment:  complete
+comment:  factor
+
+100091697767366769792.5833354804015505218
+a plate of food that is on a table 
+
+matrix comment dim (58, 58)
+
+
+cluster  0 :
+comment:  enak
+comment:  tuhh
+comment:  sarrrraaaapppp
+comment:  nonstick
+comment:  hunngryyy
+comment:  jocelyn
+comment:  wew
+comment:  ap
+comment:  favs
+comment:  mau
+comment:  donk
+
+
+cluster  1 :
+CAPTION: plate
+CAPTION: table
+comment:  weekend
+comment:  healthy
+comment:  finish
+comment:  day
+comment:  add
+comment:  week
+comment:  plan
+comment:  spray
+comment:  teach
+comment:  experienced
+comment:  tutor
+comment:  bear
+comment:  irresistible
+comment:  home
+plate 	0.17885579
+table 	0.222356
+
+
+cluster  2 :
+comment:  yummmy
+comment:  mmmmmmmm
+comment:  mmmmmmm
+comment:  mmmmmmmmm
+comment:  yummmy
+comment:  yum
+comment:  mmmmmmmmm
+comment:  yum
+comment:  yumm
+
+
+cluster  3 :
+comment:  damn
+comment:  great
+comment:  look
+comment:  yes
+comment:  like
+comment:  good
+comment:  cool
+comment:  stop
+comment:  want
+comment:  know
+comment:  hurry
+comment:  learn
+comment:  bet
+comment:  know
+comment:  try
+
+
+cluster  4 :
+CAPTION: food
+comment:  hot
+comment:  dinner
+comment:  delicious
+comment:  dish
+comment:  meal
+comment:  cooking
+comment:  cook
+comment:  cook
+comment:  dinner
+food 	0.5836605
+
+100091697767366769792.5817846658588448242
+a piece of cake on a plate with a fork 
+
+matrix comment dim (161, 161)
+
+
+cluster  0 :
+comment:  category
+comment:  gain
+comment:  pro
+comment:  field
+comment:  date
+comment:  date
+comment:  field
+
+
+cluster  1 :
+comment:  know
+comment:  kind
+comment:  want
+comment:  want
+comment:  come
+comment:  come
+comment:  want
+comment:  try
+comment:  think
+comment:  want
+comment:  right
+comment:  try
+comment:  probably
+
+
+cluster  2 :
+comment:  yorkshire
+comment:  morgan
+comment:  que
+comment:  rico
+comment:  un
+comment:  ne
+comment:  ve
+comment:  que
+
+
+cluster  3 :
+CAPTION: cake
+comment:  pudding
+comment:  pudding
+comment:  chocolate
+comment:  bread
+comment:  pudding
+comment:  chocolate
+comment:  bread
+comment:  pudding
+comment:  pudding
+comment:  sauce
+comment:  pudding
+comment:  bread
+comment:  butter
+comment:  pudding
+cake 	0.7098541
+
+
+cluster  4 :
+comment:  yummeh
+comment:  yummmmmmmmmim
+comment:  pengeeeennnttt
+comment:  mghee
+comment:  hahahahahahahahahahahahahahahahhhhhhhhhhhhhhhhhhhhhhhaaaaaaaaaaaaaaaaaaaaaaaaa
+comment:  yummmmmmyyyy
+comment:  oooccchhhhh
+comment:  enyakkkkkk
+comment:  transcendent
+comment:  smacznego
+comment:  nyammmy
+comment:  yummiiii
+comment:  lb
+comment:  trocito
+comment:  bkin
+comment:  perut
+comment:  lapar
+comment:  ricooooooooooooooooooooooooooooooooooooo
+comment:  noooooooooooooooooooooooooooooooooooooooooooooooooooo
+comment:  saltana
+
+
+cluster  5 :
+comment:  okay
+comment:  hmm
+comment:  uh
+comment:  tht
+comment:  oh
+comment:  yeah
+comment:  wow
+comment:  hmm
+comment:  ok
+comment:  wow
+
+
+cluster  6 :
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+
+
+cluster  7 :
+comment:  good
+comment:  good
+comment:  good
+comment:  nice
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  nice
+comment:  amazing
+comment:  nice
+comment:  good
+comment:  nice
+
+
+cluster  8 :
+comment:  hhmmmm
+comment:  emmm
+comment:  jd
+comment:  pum
+comment:  yummi
+comment:  gk
+comment:  enak
+
+
+cluster  9 :
+CAPTION: plate
+CAPTION: fork
+comment:  watering
+comment:  sticky
+comment:  sticky
+comment:  drink
+comment:  apple
+comment:  fruit
+comment:  substitute
+comment:  mix
+comment:  peel
+comment:  apple
+plate 	0.23534247
+fork 	0.23491135
+
+
+cluster  10 :
+comment:  spongy
+comment:  brioche
+
+
+cluster  11 :
+CAPTION: piece
+comment:  question
+comment:  favorite
+comment:  white
+comment:  hungry
+comment:  sound
+comment:  instead
+comment:  ordinary
+comment:  picture
+comment:  dark
+comment:  simple
+comment:  expensive
+comment:  care
+comment:  favor
+comment:  perfect
+comment:  sound
+comment:  hate
+comment:  fine
+comment:  day
+comment:  fan
+comment:  usually
+piece 	0.34043
+
+
+cluster  12 :
+comment:  hmmmmm
+comment:  yumm
+comment:  ummmm
+comment:  ummmmm
+
+
+cluster  13 :
+comment:  yummy
+comment:  eat
+comment:  delicious
+comment:  yummy
+comment:  delicious
+comment:  mmm
+comment:  sweet
+comment:  yum
+
+
+cluster  14 :
+comment:  diabete
+comment:  hoooooooo
+comment:  waaahhhh
+comment:  rumpa
+comment:  jame
+comment:  jame
+
+
+cluster  15 :
+comment:  raspberry
+comment:  toffee
+comment:  toffee
+comment:  caramel
+comment:  rum
+comment:  rum
+comment:  caramel
+comment:  raisin
+comment:  cinnamon
+
+100091697767366769792.5820413249072466610
+a plate with a hot dog and fries 
+
+matrix comment dim (40, 40)
+
+
+cluster  0 :
+comment:  good
+comment:  look
+comment:  try
+comment:  amazing
+comment:  wanna
+comment:  look
+comment:  good
+comment:  wow
+comment:  love
+comment:  like
+comment:  shame
+comment:  look
+
+
+cluster  1 :
+comment:  testy
+comment:  lt
+comment:  mutilate
+comment:  dios
+comment:  se
+comment:  buen
+comment:  simo
+
+
+cluster  2 :
+CAPTION: plate
+CAPTION: dog
+CAPTION: fry
+comment:  sharing
+comment:  list
+comment:  night
+comment:  brisket
+comment:  kitchen
+comment:  list
+comment:  brisket
+comment:  horribly
+comment:  cut
+comment:  whomever
+comment:  ve
+plate 	0.1901024
+dog 	0.21649198
+fry 	0.21608807
+
+
+cluster  3 :
+CAPTION: hot
+comment:  food
+comment:  taste
+comment:  yummy
+comment:  yummy
+comment:  mmm
+comment:  yummy
+comment:  spicy
+comment:  food
+comment:  yummy
+comment:  delicious
+hot 	0.4699169
+
+100091697767366769792.5790234564140106354
+a white plate topped with a bunch of fruit 
+
+matrix comment dim (87, 87)
+
+
+cluster  0 :
+comment:  lunch
+comment:  soup
+comment:  vegetarian
+comment:  food
+comment:  lunch
+comment:  sandwich
+comment:  sandwich
+comment:  yummy
+comment:  delicious
+comment:  bread
+comment:  sandwich
+
+
+cluster  1 :
+CAPTION: bunch
+comment:  completely
+comment:  ask
+comment:  break
+comment:  use
+comment:  use
+comment:  work
+comment:  place
+comment:  safe
+comment:  spot
+comment:  work
+comment:  find
+comment:  fill
+comment:  quiet
+comment:  talk
+comment:  year
+comment:  old
+comment:  man
+comment:  live
+bunch 	0.35620508
+
+
+cluster  2 :
+comment:  minestrone
+comment:  lunchbox
+comment:  philly
+comment:  tripple
+comment:  decker
+
+
+cluster  3 :
+CAPTION: white
+CAPTION: plate
+CAPTION: fruit
+comment:  orange
+comment:  apple
+comment:  nifty
+comment:  pop
+comment:  serve
+comment:  appealing
+comment:  piece
+comment:  wrap
+comment:  mouth
+comment:  fruit
+white 	0.34624207
+plate 	0.27482384
+fruit 	0.417961463332
+
+
+cluster  4 :
+comment:  right
+comment:  big
+comment:  lot
+comment:  like
+comment:  look
+comment:  pretty
+comment:  hope
+comment:  wonder
+comment:  hell
+comment:  way
+comment:  like
+comment:  great
+comment:  love
+comment:  look
+comment:  good
+comment:  know
+comment:  good
+comment:  love
+comment:  look
+comment:  need
+comment:  big
+
+
+cluster  5 :
+comment:  alex
+comment:  amaze
+comment:  yeah
+comment:  ah
+comment:  yup
+comment:  hello
+comment:  wow
+comment:  esp
+
+
+cluster  6 :
+comment:  kid
+comment:  kid
+comment:  kid
+comment:  kid
+comment:  mom
+comment:  kid
+
+
+cluster  7 :
+comment:  fundraiser
+comment:  seller
+comment:  lighting
+comment:  article
+comment:  url
+comment:  url
+comment:  page
+comment:  error
+
+100091697767366769792.5815589107101459842
+a man and a woman standing in front of a table 
+
+matrix comment dim (107, 107)
+
+
+cluster  0 :
+comment:  chairman
+comment:  alton
+comment:  councilman
+comment:  zakarian
+comment:  bromance
+comment:  patricia
+comment:  lavery
+comment:  geoffrey
+comment:  zakarian
+comment:  stooge
+comment:  graciousness
+comment:  assholish
+
+
+cluster  1 :
+comment:  lol
+comment:  awesome
+comment:  awesome
+comment:  great
+comment:  thank
+comment:  ridiculous
+comment:  cry
+comment:  nice
+comment:  friend
+comment:  tired
+
+
+cluster  2 :
+CAPTION: table
+comment:  instruction
+comment:  prohibit
+comment:  separate
+comment:  include
+comment:  series
+comment:  competition
+comment:  competitive
+table 	0.22232437
+
+
+cluster  3 :
+comment:  cook
+comment:  chef
+comment:  chef
+comment:  dish
+comment:  chef
+comment:  cook
+comment:  cook
+comment:  chef
+comment:  chef
+comment:  chef
+
+
+cluster  4 :
+comment:  judge
+comment:  contestant
+comment:  judge
+comment:  judge
+comment:  contestant
+
+
+cluster  5 :
+comment:  ask
+comment:  want
+comment:  think
+comment:  point
+comment:  need
+comment:  think
+comment:  actually
+comment:  yes
+comment:  right
+comment:  like
+comment:  like
+comment:  like
+comment:  think
+comment:  way
+comment:  seriously
+comment:  know
+comment:  anymore
+comment:  people
+comment:  little
+
+
+cluster  6 :
+CAPTION: man
+CAPTION: woman
+CAPTION: stand
+comment:  reality
+comment:  real
+comment:  home
+comment:  watch
+comment:  huge
+comment:  fit
+comment:  throw
+comment:  game
+comment:  stand
+comment:  care
+comment:  cut
+comment:  kill
+comment:  attitude
+comment:  real
+comment:  style
+comment:  send
+comment:  home
+man 	0.3666957
+woman 	0.32519507
+stand 	0.405464805224
+
+
+cluster  7 :
+comment:  plate
+comment:  chop
+comment:  plating
+comment:  iron
+comment:  iron
+comment:  iron
+
+
+cluster  8 :
+comment:  clarify
+comment:  rule
+comment:  notice
+comment:  clarify
+comment:  rule
+comment:  rule
+comment:  correct
+comment:  rule
+
+
+cluster  9 :
+comment:  insider
+comment:  humor
+comment:  gutsy
+comment:  bravo
+comment:  heartfelt
+comment:  episode
+comment:  totaly
+comment:  disrespect
+comment:  intensity
+comment:  sacred
+comment:  tv
+comment:  throat
+comment:  humility
+
+100091697767366769792.5793195419250516338
+a plate of food on a table 
+
+matrix comment dim (57, 57)
+
+
+cluster  0 :
+comment:  start
+comment:  want
+comment:  like
+comment:  wow
+comment:  look
+comment:  kinda
+comment:  stuff
+comment:  lol
+comment:  feel
+comment:  like
+comment:  think
+comment:  different
+comment:  like
+
+
+cluster  1 :
+comment:  yumi
+comment:  ummmph
+comment:  wooooooow
+comment:  yomi
+comment:  yomi
+comment:  pretender
+comment:  delicioso
+comment:  yammmmmmmmm
+comment:  mujhe
+comment:  chahiye
+comment:  yuuuuuummmmmmyyyyy
+
+
+cluster  2 :
+CAPTION: food
+comment:  hungry
+comment:  meal
+comment:  leftover
+comment:  hungry
+comment:  hungry
+comment:  eat
+comment:  chicken
+comment:  chicken
+comment:  tasty
+comment:  meat
+food 	0.5886692
+
+
+cluster  3 :
+CAPTION: plate
+CAPTION: table
+comment:  south
+comment:  plan
+comment:  year
+comment:  year
+comment:  lovely
+comment:  thanksgiving
+comment:  early
+comment:  celebrate
+comment:  paradise
+comment:  apple
+comment:  morning
+comment:  traditional
+comment:  family
+comment:  size
+comment:  menu
+comment:  send
+plate 	0.18509072
+table 	0.2395317
+
+
+cluster  4 :
+comment:  oooo
+comment:  dis
+comment:  mmmmmmm
+comment:  luv
+comment:  kfc
+comment:  hum
+comment:  hum
+
+110333316274703220914.5820361426520953858
+a plate with a sandwich and a cup of coffee 
+
+matrix comment dim (39, 39)
+
+
+cluster  0 :
+comment:  look
+comment:  good
+comment:  wonder
+comment:  good
+comment:  look
+comment:  like
+comment:  damn
+comment:  eat
+comment:  like
+comment:  agree
+comment:  probably
+comment:  thing
+comment:  lol
+comment:  wow
+comment:  come
+comment:  eat
+comment:  lol
+
+
+cluster  1 :
+CAPTION: plate
+CAPTION: sandwich
+CAPTION: cup
+CAPTION: coffee
+comment:  buncha
+comment:  fatty
+comment:  food
+comment:  spam
+comment:  potato
+comment:  pie
+comment:  boss
+comment:  hall
+comment:  appeal
+comment:  ve
+comment:  yummy
+comment:  school
+comment:  hour
+comment:  ago
+comment:  tasty
+comment:  pot
+comment:  pie
+plate 	0.20661776
+sandwich 	0.33057207
+cup 	0.25454304
+coffee 	0.30082917
+
+
+cluster  2 :
+comment:  hobbit
+comment:  hobbit
+comment:  tonia
+comment:  addison
+comment:  hobbit
+
+100091697767366769792.5833462996509920514
+a group of people standing in a field 
+
+matrix comment dim (33, 33)
+
+
+cluster  0 :
+CAPTION: people
+CAPTION: stand
+comment:  awesome
+comment:  intend
+comment:  sound
+comment:  mean
+comment:  hear
+comment:  know
+comment:  certain
+comment:  actually
+comment:  different
+comment:  far
+comment:  right
+people 	0.54050165
+stand 	0.43693542
+
+
+cluster  1 :
+comment:  celebrity
+comment:  hollywood
+comment:  celebrity
+comment:  celebrity
+comment:  celebrity
+
+
+cluster  2 :
+CAPTION: group
+CAPTION: field
+comment:  win
+comment:  challenge
+comment:  bread
+comment:  arm
+comment:  pit
+comment:  table
+comment:  prepare
+comment:  kid
+comment:  watch
+comment:  night
+comment:  circle
+comment:  hang
+comment:  base
+comment:  skill
+comment:  level
+comment:  cook
+comment:  home
+group 	0.24054867
+field 	0.26726887
+
+100091697767366769792.5814537698770496578
+a man in a suit and tie standing in front of a microphone 
+
+matrix comment dim (207, 207)
+
+
+cluster  0 :
+comment:  liter
+comment:  cola
+comment:  liter
+comment:  cola
+comment:  breast
+comment:  acid
+comment:  explosion
+comment:  powder
+comment:  stove
+
+
+cluster  1 :
+comment:  better
+comment:  like
+comment:  good
+comment:  good
+comment:  good
+comment:  like
+comment:  think
+comment:  good
+comment:  bad
+comment:  idea
+comment:  good
+comment:  interesting
+comment:  like
+comment:  good
+comment:  good
+comment:  good
+comment:  like
+comment:  think
+comment:  good
+
+
+cluster  2 :
+comment:  jaffa
+comment:  kurang
+comment:  cabe
+comment:  biber
+comment:  greenspan
+comment:  shenanigan
+comment:  mog
+comment:  arg
+comment:  ikan
+comment:  laut
+comment:  asam
+
+
+cluster  3 :
+comment:  gay
+comment:  porn
+comment:  ve
+comment:  ant
+comment:  bull
+comment:  horrendous
+comment:  vile
+comment:  fart
+comment:  ew
+comment:  troll
+comment:  sneeze
+comment:  amazement
+comment:  bull
+comment:  bobby
+comment:  bud
+comment:  rip
+comment:  repulsive
+
+
+cluster  4 :
+CAPTION: man
+comment:  funny
+comment:  painful
+comment:  hurt
+comment:  cry
+comment:  pain
+comment:  annoying
+comment:  cry
+comment:  mad
+comment:  disgusting
+man 	0.37696776
+
+
+cluster  5 :
+comment:  warm
+comment:  mix
+comment:  water
+comment:  burn
+comment:  water
+comment:  burn
+comment:  freeze
+
+
+cluster  6 :
+comment:  taste
+comment:  food
+comment:  flavor
+comment:  food
+comment:  food
+comment:  food
+comment:  taste
+comment:  flavor
+comment:  taste
+comment:  taste
+comment:  flavor
+
+
+cluster  7 :
+comment:  haha
+comment:  haha
+comment:  wow
+comment:  oh
+comment:  oh
+comment:  wow
+comment:  ahhh
+comment:  oh
+comment:  luv
+comment:  haha
+comment:  oh
+comment:  gosh
+comment:  luv
+comment:  lol
+comment:  haha
+comment:  ugh
+comment:  oh
+
+
+cluster  8 :
+comment:  dish
+comment:  onion
+comment:  onion
+comment:  milk
+comment:  dish
+comment:  salt
+comment:  chili
+comment:  spicy
+comment:  lemon
+comment:  juice
+comment:  onion
+
+
+cluster  9 :
+comment:  audition
+comment:  bathroom
+comment:  producer
+comment:  theme
+comment:  cuisine
+comment:  chef
+comment:  culinary
+comment:  masterpiece
+
+
+cluster  10 :
+comment:  somebody
+comment:  tell
+comment:  stay
+comment:  stay
+comment:  need
+comment:  hold
+comment:  need
+comment:  feel
+comment:  feel
+comment:  wish
+comment:  want
+comment:  leave
+comment:  want
+comment:  exactly
+comment:  tell
+comment:  need
+
+
+cluster  11 :
+comment:  grasshopper
+comment:  testicle
+comment:  guano
+comment:  everclear
+comment:  garam
+comment:  napkin
+comment:  brussels
+comment:  sprout
+comment:  politic
+comment:  slurp
+comment:  hotdog
+comment:  flay
+
+
+cluster  12 :
+comment:  ha
+comment:  ha
+comment:  justin
+comment:  ha
+comment:  ha
+
+
+cluster  13 :
+comment:  modernist
+comment:  flaaaaayyyyyyyyy
+comment:  donnatella
+comment:  zaraz
+comment:  wytrzymam
+comment:  darat
+
+
+cluster  14 :
+comment:  cat
+comment:  baby
+comment:  squeeze
+comment:  bite
+comment:  hungry
+comment:  eat
+comment:  swallow
+comment:  dog
+comment:  mouth
+comment:  grab
+comment:  eat
+comment:  poop
+comment:  bite
+
+
+cluster  15 :
+comment:  love
+comment:  love
+comment:  love
+comment:  amazing
+
+
+cluster  16 :
+comment:  vise
+comment:  sama
+comment:  nie
+comment:  pu
+comment:  ci
+comment:  ka
+comment:  di
+comment:  di
+
+
+cluster  17 :
+CAPTION: suit
+CAPTION: standing
+comment:  decision
+comment:  birth
+comment:  vote
+comment:  construct
+comment:  general
+comment:  news
+comment:  act
+comment:  human
+comment:  judge
+comment:  insist
+comment:  job
+comment:  brain
+suit 	0.25999877
+standing 	0.30122572
+
+
+cluster  18 :
+CAPTION: tie
+CAPTION: microphone
+comment:  reel
+comment:  bat
+comment:  ball
+comment:  grip
+comment:  switch
+comment:  ring
+tie 	0.32297507
+microphone 	0.26691493
+
+
+cluster  19 :
+comment:  pleeease
+comment:  yeahhhh
+comment:  ughh
+comment:  ijust
+comment:  ohhhhhh
+comment:  wowww
+
+100091697767366769792.5821230075202676882
+a glass of wine sitting on top of a table 
+
+matrix comment dim (83, 83)
+
+
+cluster  0 :
+comment:  salut
+comment:  alcolic
+comment:  del
+comment:  cia
+comment:  waw
+comment:  christma
+comment:  sylvaner
+comment:  nog
+comment:  sparlk
+comment:  acholoic
+
+
+cluster  1 :
+CAPTION: glass
+comment:  red
+comment:  irresistible
+comment:  red
+comment:  white
+comment:  blue
+comment:  charming
+glass 	0.37066033
+
+
+cluster  2 :
+comment:  sparkle
+comment:  sparkle
+comment:  sparkle
+comment:  sparkle
+comment:  sparkle
+comment:  sparkle
+comment:  sparkle
+comment:  sparkle
+comment:  sparkle
+comment:  sparkle
+comment:  sparkle
+comment:  sparkle
+comment:  sparkle
+
+
+cluster  3 :
+CAPTION: sit
+comment:  yes
+comment:  good
+comment:  choice
+comment:  love
+comment:  like
+comment:  note
+comment:  want
+comment:  talk
+comment:  try
+comment:  like
+comment:  work
+comment:  right
+comment:  prefer
+comment:  thank
+comment:  sound
+comment:  good
+sit 	0.4363188
+
+
+cluster  4 :
+comment:  yummy
+comment:  hey
+comment:  fyi
+comment:  yeah
+comment:  yummy
+comment:  hmmm
+comment:  hahahaha
+comment:  dang
+
+
+cluster  5 :
+comment:  beaujolais
+comment:  nouveaux
+comment:  loire
+comment:  franc
+comment:  chenin
+comment:  beaujolais
+comment:  alsace
+comment:  gewurztraminer
+
+
+cluster  6 :
+CAPTION: wine
+comment:  champagne
+comment:  turkey
+comment:  wine
+comment:  beer
+comment:  drink
+comment:  wine
+comment:  bottle
+comment:  bottle
+comment:  taste
+comment:  vinegar
+comment:  water
+comment:  egg
+comment:  beer
+wine 	0.618862186487
+
+
+cluster  7 :
+CAPTION: table
+comment:  carving
+comment:  cab
+comment:  base
+comment:  community
+comment:  dedicate
+comment:  spirit
+comment:  join
+comment:  community
+comment:  non
+table 	0.20002459
+
+100091697767366769792.5838918969845581682
+a bunch of different types of food on a table 
+
+matrix comment dim (53, 53)
+
+
+cluster  0 :
+comment:  look
+comment:  cool
+comment:  nice
+comment:  awesome
+comment:  cool
+comment:  love
+comment:  like
+comment:  want
+comment:  nice
+comment:  great
+comment:  love
+comment:  idea
+
+
+cluster  1 :
+comment:  foorball
+comment:  cupcak
+comment:  ijjur
+comment:  kijue
+comment:  ohuim
+comment:  eiinu
+comment:  ejfjfll
+comment:  einhyej
+comment:  coloringi
+comment:  yummyyyyyyy
+comment:  uus
+comment:  adjustable
+
+
+cluster  2 :
+comment:  super
+comment:  cute
+comment:  soo
+comment:  cute
+comment:  cute
+comment:  cute
+comment:  yummy
+comment:  hmm
+comment:  wow
+comment:  lol
+comment:  cute
+
+
+cluster  3 :
+comment:  woww
+comment:  iie
+comment:  que
+comment:  lindo
+comment:  magnifique
+comment:  donot
+comment:  gud
+comment:  jud
+
+
+cluster  4 :
+CAPTION: bunch
+CAPTION: different
+CAPTION: type
+CAPTION: food
+CAPTION: table
+comment:  time
+comment:  bowl
+comment:  cupcake
+comment:  cake
+comment:  football
+comment:  fan
+comment:  creative
+comment:  vivid
+comment:  eat
+comment:  simple
+bunch 	0.32062313
+different 	0.331693
+type 	0.2536531
+food 	0.35374898
+table 	0.28635138
+
+100091697767366769792.5838225288223215682
+a close up of a pair of scissors on a table 
+
+matrix comment dim (17, 17)
+number of cluster <2, not enough words in the comment
+
+100091697767366769792.5819285965171761762
+a plate with a piece of cake and a fork 
+
+matrix comment dim (101, 101)
+
+
+cluster  0 :
+CAPTION: cake
+comment:  pie
+comment:  cheesecake
+comment:  pumpkin
+comment:  bread
+comment:  pie
+comment:  cake
+comment:  cake
+comment:  fudge
+comment:  chocolate
+comment:  fudge
+comment:  chocolate
+comment:  cake
+comment:  cookie
+comment:  cake
+comment:  chocolate
+comment:  fudge
+comment:  cake
+comment:  yummy
+comment:  cookie
+comment:  recipe
+comment:  butter
+cake 	0.77502868289
+
+
+cluster  1 :
+comment:  ny
+comment:  cn
+comment:  tou
+comment:  com
+comment:  agua
+comment:  na
+comment:  boca
+comment:  gt
+comment:  mole
+comment:  hah
+comment:  russian
+comment:  divinity
+comment:  wwii
+
+
+cluster  2 :
+comment:  mom
+comment:  grandma
+comment:  mom
+comment:  mom
+comment:  mom
+
+
+cluster  3 :
+comment:  uggg
+comment:  parece
+comment:  delicia
+comment:  nicee
+comment:  yoo
+comment:  wowww
+comment:  droolin
+
+
+cluster  4 :
+comment:  nice
+comment:  good
+comment:  great
+comment:  like
+comment:  good
+comment:  like
+comment:  like
+comment:  love
+comment:  stuff
+comment:  like
+comment:  oh
+comment:  lot
+
+
+cluster  5 :
+CAPTION: plate
+CAPTION: fork
+comment:  cherry
+comment:  wreath
+comment:  creme
+comment:  walnut
+comment:  peppermint
+comment:  chip
+comment:  spritz
+plate 	0.22724415
+fork 	0.19057892
+
+
+cluster  6 :
+comment:  christma
+comment:  pastell
+comment:  ponche
+comment:  divinty
+comment:  thanksgiv
+comment:  delicius
+
+
+cluster  7 :
+comment:  mince
+comment:  yam
+comment:  yam
+comment:  yam
+comment:  tamale
+
+
+cluster  8 :
+comment:  sweet
+comment:  potato
+comment:  treat
+comment:  food
+comment:  food
+comment:  fruit
+comment:  homemade
+comment:  christmas
+comment:  fruit
+comment:  meal
+comment:  tasty
+comment:  drink
+comment:  shake
+comment:  homemade
+comment:  carrot
+comment:  tea
+comment:  cookbook
+
+
+cluster  9 :
+CAPTION: piece
+comment:  live
+comment:  cost
+comment:  test
+comment:  minute
+comment:  man
+comment:  ball
+comment:  woman
+comment:  course
+piece 	0.28776377
+
+100091697767366769792.5796214032578548898
+a bowl of cereal and a banana on a table 
+
+matrix comment dim (100, 100)
+
+
+cluster  0 :
+comment:  noww
+comment:  cocholate
+comment:  casew
+comment:  makn
+comment:  hungray
+comment:  oooooooooh
+comment:  notaste
+
+
+cluster  1 :
+CAPTION: bowl
+CAPTION: cereal
+CAPTION: banana
+comment:  milk
+comment:  coffee
+comment:  lover
+comment:  nut
+comment:  milk
+comment:  coffee
+comment:  lover
+comment:  ice
+bowl 	0.366892
+cereal 	0.43776292
+banana 	0.4547228
+
+
+cluster  2 :
+comment:  god
+comment:  jeez
+comment:  ppl
+comment:  wow
+comment:  ooooh
+comment:  oh
+comment:  wow
+comment:  wow
+comment:  drool
+comment:  gimme
+
+
+cluster  3 :
+comment:  carmel
+comment:  almond
+comment:  raisin
+comment:  hazelnut
+comment:  creme
+comment:  truffle
+comment:  raisin
+comment:  choco
+comment:  mousse
+comment:  chocolat
+comment:  truffle
+comment:  praline
+comment:  choc
+comment:  choc
+comment:  creme
+comment:  rum
+comment:  chewy
+
+
+cluster  4 :
+comment:  yummy
+comment:  delicious
+comment:  yum
+comment:  delicous
+comment:  yum
+comment:  mmmmm
+comment:  yum
+comment:  yum
+comment:  mmm
+comment:  delicious
+comment:  yummy
+
+
+cluster  5 :
+comment:  want
+comment:  look
+comment:  look
+comment:  like
+comment:  want
+comment:  want
+comment:  look
+comment:  good
+comment:  think
+comment:  love
+comment:  love
+comment:  look
+comment:  like
+
+
+cluster  6 :
+comment:  gt
+comment:  lt
+comment:  gt
+comment:  lt
+comment:  au
+comment:  lala
+
+
+cluster  7 :
+comment:  black
+comment:  dark
+comment:  dark
+comment:  dark
+comment:  white
+comment:  white
+
+
+cluster  8 :
+CAPTION: table
+comment:  start
+comment:  open
+comment:  fill
+comment:  dig
+comment:  fall
+comment:  baby
+comment:  ball
+comment:  center
+comment:  preferably
+comment:  center
+table 	0.28094107
+
+
+cluster  9 :
+comment:  chocolate
+comment:  chocolate
+comment:  chocolate
+comment:  chocolate
+comment:  vanilla
+comment:  chocolate
+comment:  chocolate
+comment:  chocolate
+comment:  caramel
+comment:  caramel
+comment:  caramel
+comment:  cream
+
+100091697767366769792.5833725906095582354
+two bowls of food on a table 
+
+matrix comment dim (89, 89)
+
+
+cluster  0 :
+comment:  look
+comment:  look
+comment:  look
+comment:  great
+comment:  like
+comment:  look
+comment:  good
+comment:  like
+comment:  find
+comment:  good
+comment:  like
+comment:  look
+comment:  try
+comment:  want
+comment:  like
+comment:  look
+comment:  look
+comment:  try
+
+
+cluster  1 :
+CAPTION: bowl
+comment:  bowl
+comment:  fry
+comment:  rice
+comment:  fry
+comment:  rice
+comment:  shrimp
+comment:  pork
+comment:  loin
+comment:  chicken
+comment:  vegetarian
+comment:  tofu
+comment:  shrimp
+bowl 	0.466346755624
+
+
+cluster  2 :
+comment:  lb
+comment:  yummmmmmm
+comment:  laaazzzziiiizzzz
+comment:  hhhaaaooocceeee
+comment:  waw
+comment:  yummyy
+comment:  plzzz
+comment:  freshieer
+comment:  cubed
+comment:  jo
+comment:  loveeeet
+comment:  yummer
+
+
+cluster  3 :
+comment:  yummy
+comment:  mmm
+comment:  yummy
+comment:  yummy
+comment:  delicious
+comment:  yummy
+comment:  delicious
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yum
+
+
+cluster  4 :
+comment:  hmmm
+comment:  wow
+comment:  hardly
+comment:  amazing
+comment:  tonight
+comment:  oh
+comment:  yeah
+comment:  wanna
+comment:  wow
+comment:  love
+comment:  love
+comment:  kid
+comment:  fave
+comment:  amazing
+comment:  love
+comment:  love
+
+
+cluster  5 :
+CAPTION: table
+comment:  list
+comment:  chinese
+comment:  plan
+comment:  use
+comment:  breast
+comment:  sister
+comment:  season
+comment:  trader
+comment:  ant
+table 	0.2286976
+
+
+cluster  6 :
+comment:  ping
+comment:  ping
+comment:  ping
+
+
+cluster  7 :
+CAPTION: food
+comment:  food
+comment:  healthy
+comment:  dinner
+comment:  eat
+comment:  eat
+comment:  eat
+comment:  eat
+food 	0.720874249935
+
+100091697767366769792.5835565891960413762
+a white plate topped with a sandwich and a salad 
+
+matrix comment dim (65, 65)
+
+
+cluster  0 :
+comment:  delicios
+comment:  wowo
+comment:  delic
+comment:  oky
+comment:  mukha
+comment:  nga
+comment:  syang
+comment:  masarap
+comment:  enak
+comment:  tuh
+comment:  abis
+comment:  makanan
+
+
+cluster  1 :
+comment:  pretty
+comment:  good
+comment:  like
+comment:  like
+comment:  good
+comment:  good
+comment:  great
+comment:  like
+comment:  good
+comment:  good
+comment:  like
+comment:  definitely
+
+
+cluster  2 :
+CAPTION: sandwich
+CAPTION: salad
+comment:  mmm
+comment:  fruit
+comment:  tart
+comment:  food
+comment:  yummy
+comment:  delicious
+comment:  delicious
+comment:  yummy
+comment:  yum
+comment:  yum
+comment:  delicious
+comment:  taste
+comment:  yummy
+sandwich 	0.51244557
+salad 	0.5869013
+
+
+cluster  3 :
+CAPTION: plate
+comment:  nd
+comment:  spicyyyyyyyyy
+comment:  superbowl
+comment:  mmmmn
+comment:  hayhow
+comment:  mantap
+comment:  tu
+comment:  dynamite
+comment:  keeper
+comment:  slammin
+comment:  dynamite
+plate 	0.0714322937949
+
+
+cluster  4 :
+CAPTION: white
+comment:  today
+comment:  pic
+comment:  oh
+comment:  yeah
+comment:  hmmmm
+comment:  hmm
+comment:  oh
+comment:  tongue
+white 	0.24956524
+
+
+cluster  5 :
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+
+100091697767366769792.5815991136804978210
+a group of people standing in a room 
+
+not enught word in comment
+
+100091697767366769792.5808066569984416738
+a tray of food with a fork and knife 
+
+matrix comment dim (104, 104)
+
+
+cluster  0 :
+comment:  look
+comment:  good
+comment:  look
+comment:  amazing
+comment:  nice
+comment:  look
+comment:  good
+comment:  tell
+comment:  like
+comment:  want
+comment:  like
+comment:  look
+comment:  good
+comment:  totally
+comment:  good
+
+
+cluster  1 :
+CAPTION: tray
+comment:  france
+comment:  ce
+comment:  petit
+comment:  en
+comment:  cu
+comment:  maid
+tray 	0.12578602
+
+
+cluster  2 :
+comment:  crumble
+comment:  tart
+comment:  tart
+comment:  pie
+comment:  pie
+comment:  crisp
+comment:  pie
+comment:  tart
+comment:  puff
+comment:  pastry
+comment:  flour
+comment:  butter
+comment:  recipe
+comment:  tart
+comment:  puff
+comment:  pastry
+comment:  pie
+comment:  tart
+comment:  recipe
+
+
+cluster  3 :
+comment:  smothly
+comment:  sausnya
+comment:  wkwkwkkw
+comment:  stargoingslow
+comment:  deliciousim
+comment:  deliciouz
+comment:  yummyyyyyyyyyyyyy
+comment:  placinta
+comment:  probablem
+comment:  wkwkkw
+comment:  deliciouz
+comment:  mantap
+
+
+cluster  4 :
+CAPTION: food
+CAPTION: fork
+CAPTION: knife
+comment:  link
+comment:  send
+comment:  work
+comment:  kill
+comment:  likely
+comment:  serve
+comment:  use
+comment:  hand
+comment:  etc
+comment:  world
+comment:  choose
+comment:  plus
+comment:  mere
+comment:  tonight
+comment:  depend
+comment:  mood
+food 	0.30708012
+fork 	0.17082183
+knife 	0.1915652
+
+
+cluster  5 :
+comment:  cutt
+comment:  ribu
+comment:  dapet
+comment:  ajh
+comment:  jeffery
+comment:  quelque
+comment:  hmmmmmmmmm
+comment:  hwt
+comment:  wani
+comment:  piro
+
+
+cluster  6 :
+comment:  kalau
+comment:  baru
+comment:  dawson
+comment:  cia
+comment:  boleh
+comment:  mas
+comment:  hmmmmmm
+
+
+cluster  7 :
+comment:  don
+comment:  wht
+comment:  tht
+comment:  tht
+comment:  ohh
+comment:  wow
+
+
+cluster  8 :
+comment:  yummy
+comment:  tempting
+comment:  yummy
+comment:  mmmmm
+comment:  yummy
+comment:  yummy
+comment:  yummy
+
+
+cluster  9 :
+comment:  apple
+comment:  apple
+comment:  apple
+comment:  apple
+comment:  apple
+comment:  apple
+
+100091697767366769792.5827366509955426242
+a plate with a sandwich and french fries 
+
+matrix comment dim (86, 86)
+
+
+cluster  0 :
+comment:  mmmmm
+comment:  yum
+comment:  mmm
+comment:  omg
+comment:  wow
+comment:  mmm
+
+
+cluster  1 :
+CAPTION: plate
+CAPTION: french
+CAPTION: fry
+comment:  starve
+comment:  match
+comment:  girl
+comment:  don
+comment:  american
+comment:  network
+comment:  ball
+comment:  special
+comment:  talent
+comment:  pay
+comment:  order
+comment:  high
+comment:  level
+comment:  fare
+comment:  bomb
+plate 	0.20091268
+french 	0.22179069
+fry 	0.16795696
+
+
+cluster  2 :
+comment:  nggawene
+comment:  lapeerrrr
+comment:  beneran
+comment:  laper
+comment:  gmbar
+comment:  boyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyys
+comment:  wiiisssss
+comment:  natabo
+comment:  nyummiiiiiii
+comment:  hem
+comment:  slider
+comment:  etymology
+comment:  justly
+comment:  slider
+comment:  sedapnya
+comment:  hungrry
+
+
+cluster  3 :
+comment:  great
+comment:  idea
+comment:  love
+comment:  like
+comment:  perfect
+comment:  good
+comment:  look
+comment:  good
+comment:  need
+comment:  look
+comment:  people
+comment:  nice
+comment:  nice
+comment:  like
+comment:  love
+comment:  like
+comment:  look
+comment:  good
+comment:  look
+comment:  love
+
+
+cluster  4 :
+CAPTION: sandwich
+comment:  food
+comment:  yummy
+comment:  hungry
+comment:  hungry
+comment:  hungry
+comment:  burger
+comment:  food
+comment:  food
+comment:  delicious
+comment:  yummy
+comment:  yummy
+comment:  delicious
+sandwich 	0.53959566
+
+
+cluster  5 :
+comment:  piye
+comment:  cman
+comment:  doang
+
+
+cluster  6 :
+comment:  ini
+comment:  nya
+comment:  mna
+comment:  enak
+comment:  mcm
+
+
+cluster  7 :
+comment:  gd
+comment:  hahahahahaha
+comment:  loh
+comment:  toooooo
+comment:  malaysia
+comment:  quiero
+comment:  uno
+comment:  yummi
+comment:  ahahahaha
+
+100091697767366769792.5814746925271717378
+a kitchen with a lot of different types of appliances 
+
+matrix comment dim (16, 16)
+number of cluster <2, not enough words in the comment
+
+100091697767366769792.5833014689535527714
+a bowl of cereal and a banana on a table 
+
+matrix comment dim (141, 141)
+
+
+cluster  0 :
+CAPTION: table
+comment:  photo
+comment:  superb
+comment:  rat
+comment:  desert
+comment:  day
+comment:  eve
+comment:  family
+comment:  house
+comment:  guest
+table 	0.2258816
+
+
+cluster  1 :
+comment:  sweet
+comment:  yummy
+comment:  delicious
+comment:  yummy
+comment:  tasty
+comment:  yummy
+comment:  delicious
+comment:  yummy
+comment:  yummy
+comment:  tasty
+comment:  delicious
+comment:  delicious
+comment:  yummy
+comment:  yummy
+
+
+cluster  2 :
+comment:  want
+comment:  good
+comment:  like
+comment:  sure
+comment:  good
+comment:  want
+comment:  right
+comment:  nice
+comment:  like
+comment:  try
+comment:  love
+comment:  like
+comment:  great
+comment:  simply
+comment:  good
+comment:  good
+comment:  right
+comment:  love
+comment:  amazing
+
+
+cluster  3 :
+comment:  donne
+comment:  vraiment
+comment:  envie
+comment:  de
+comment:  manger
+comment:  que
+
+
+cluster  4 :
+comment:  sooo
+comment:  mommy
+comment:  wow
+comment:  wow
+comment:  hahaha
+comment:  oh
+comment:  hmm
+comment:  sooo
+comment:  ya
+comment:  ahhh
+comment:  thank
+comment:  hmmm
+comment:  oh
+comment:  yeah
+comment:  sooooo
+comment:  yeah
+
+
+cluster  5 :
+CAPTION: banana
+comment:  chocolate
+comment:  pudding
+comment:  banana
+comment:  pudding
+comment:  chocolate
+comment:  cake
+comment:  cream
+comment:  chocolate
+comment:  chocolate
+comment:  chocolate
+comment:  cake
+comment:  chocolate
+comment:  chocolate
+comment:  cream
+banana 	0.643081017903
+
+
+cluster  6 :
+comment:  betol
+comment:  betol
+comment:  betol
+
+
+cluster  7 :
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+
+
+cluster  8 :
+comment:  wah
+comment:  kaya
+comment:  nya
+comment:  tuh
+comment:  sa
+comment:  baba
+comment:  xd
+comment:  rico
+comment:  neh
+comment:  tu
+comment:  michelle
+
+
+cluster  9 :
+comment:  mmmmmm
+comment:  mmmmm
+comment:  oooh
+comment:  drool
+comment:  yum
+comment:  mmmmmm
+comment:  mmmmm
+
+
+cluster  10 :
+comment:  ngileeerrr
+comment:  yummmmmmmmmy
+comment:  yameeeee
+comment:  mm
+comment:  mm
+comment:  hellogud
+comment:  facina
+comment:  slruuuppppp
+comment:  yummmmmy
+comment:  maknyooosss
+comment:  mantapp
+comment:  enagh
+
+
+cluster  11 :
+comment:  dark
+comment:  eat
+comment:  taste
+comment:  favorite
+comment:  hungry
+comment:  eat
+comment:  fresh
+comment:  eat
+comment:  favorite
+
+
+cluster  12 :
+CAPTION: bowl
+CAPTION: cereal
+comment:  brownie
+comment:  whip
+comment:  berry
+comment:  raspberry
+comment:  torte
+comment:  fudge
+comment:  brownie
+comment:  ice
+bowl 	0.33914727
+cereal 	0.36706665
+
+
+cluster  13 :
+comment:  enak
+comment:  emmmm
+comment:  kyk
+comment:  yummi
+
+100091697767366769792.5841105132895150978
+a group of people standing in front of a bus 
+
+matrix comment dim (65, 65)
+
+
+cluster  0 :
+CAPTION: people
+comment:  wish
+comment:  think
+comment:  guy
+comment:  believe
+comment:  think
+comment:  bad
+comment:  way
+comment:  better
+comment:  love
+comment:  agree
+comment:  mean
+comment:  like
+comment:  like
+comment:  people
+comment:  time
+comment:  way
+people 	0.616442384198
+
+
+cluster  1 :
+CAPTION: group
+CAPTION: stand
+comment:  watch
+comment:  switch
+comment:  team
+comment:  eliminate
+comment:  choice
+comment:  eye
+comment:  fill
+comment:  plate
+comment:  fill
+comment:  skip
+comment:  technically
+group 	0.20888852
+stand 	0.34506342
+
+
+cluster  2 :
+comment:  jimmy
+comment:  rachael
+comment:  jimmy
+comment:  richard
+comment:  griffin
+comment:  jennifer
+comment:  kathy
+comment:  griffin
+comment:  linda
+
+
+cluster  3 :
+CAPTION: bus
+comment:  winner
+comment:  shoulda
+comment:  finale
+comment:  hateful
+comment:  hideous
+comment:  embarrassment
+comment:  ugh
+comment:  finale
+comment:  amateur
+bus 	0.11445953
+
+
+cluster  4 :
+comment:  daa
+comment:  supid
+comment:  richardsi
+comment:  hine
+comment:  rvg
+comment:  hine
+comment:  carnie
+comment:  carnie
+comment:  lykei
+comment:  anason
+comment:  millerthey
+
+
+cluster  5 :
+comment:  cook
+comment:  raw
+comment:  shrimp
+comment:  raw
+comment:  chicken
+comment:  eat
+comment:  shrimp
+comment:  raw
+comment:  food
+
+100091697767366769792.5839323234480497362
+a plate of food on a table 
+
+matrix comment dim (41, 41)
+
+
+cluster  0 :
+CAPTION: food
+comment:  yummy
+comment:  delicious
+comment:  dish
+comment:  food
+comment:  spicy
+comment:  delicious
+comment:  hot
+comment:  spicy
+comment:  dish
+comment:  yum
+comment:  chili
+comment:  chili
+comment:  pie
+food 	0.5113788889
+
+
+cluster  1 :
+comment:  que
+comment:  coisa
+comment:  boa
+comment:  para
+comment:  engorda
+comment:  licieux
+comment:  yummmmyyy
+comment:  bangladesh
+comment:  fr
+
+
+cluster  2 :
+comment:  look
+comment:  try
+comment:  nice
+comment:  want
+comment:  great
+comment:  right
+comment:  like
+comment:  look
+comment:  good
+comment:  super
+
+
+cluster  3 :
+CAPTION: plate
+CAPTION: table
+comment:  air
+comment:  isn
+comment:  ah
+comment:  man
+comment:  plz
+comment:  hungry
+comment:  tomorrow
+comment:  blow
+comment:  party
+plate 	0.1582379
+table 	0.18635206
+
+100091697767366769792.5831174671341022050
+a close up of a piece of cake on a plate 
+
+matrix comment dim (253, 253)
+
+
+cluster  0 :
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+
+
+cluster  1 :
+comment:  valentine
+comment:  valentine
+comment:  valentine
+
+
+cluster  2 :
+comment:  tasty
+comment:  delicious
+comment:  delicious
+comment:  delicious
+comment:  delicious
+comment:  delicious
+comment:  delicious
+
+
+cluster  3 :
+comment:  yulieth
+comment:  foronda
+comment:  dikasik
+comment:  capcake
+comment:  proi
+comment:  uuuummmmm
+comment:  chocoberry
+comment:  deliciuzzz
+comment:  monther
+comment:  yumyyyy
+comment:  scrumpcious
+comment:  coberry
+comment:  coberry
+comment:  tlook
+comment:  luvberry
+comment:  chocomuff
+comment:  nedit
+comment:  respe
+
+
+cluster  4 :
+comment:  adorable
+comment:  baby
+comment:  god
+comment:  crap
+comment:  hello
+comment:  lil
+
+
+cluster  5 :
+comment:  wanna
+comment:  wow
+comment:  omg
+comment:  oh
+comment:  wow
+comment:  omg
+comment:  soooo
+comment:  wow
+comment:  luv
+comment:  soooo
+comment:  hmmm
+comment:  omg
+comment:  soooo
+comment:  wanna
+comment:  wow
+comment:  hey
+comment:  sooo
+
+
+cluster  6 :
+comment:  cupcake
+comment:  cupcake
+comment:  cupcake
+comment:  cupcake
+comment:  cupcake
+comment:  cupcake
+comment:  cupcake
+comment:  cupcake
+comment:  cupcake
+comment:  cupcake
+comment:  muffin
+comment:  cupcake
+comment:  cupcake
+comment:  cupcake
+comment:  cupcake
+
+
+cluster  7 :
+comment:  ssooooo
+comment:  aku
+comment:  mau
+comment:  kl
+comment:  manis
+comment:  banget
+comment:  yummmmy
+comment:  enak
+comment:  yaaa
+
+
+cluster  8 :
+comment:  try
+comment:  like
+comment:  try
+comment:  surprise
+comment:  like
+comment:  like
+comment:  like
+comment:  thing
+comment:  let
+comment:  want
+comment:  surprise
+comment:  like
+comment:  want
+comment:  sort
+comment:  like
+comment:  kind
+comment:  want
+comment:  bit
+comment:  surprise
+comment:  like
+
+
+cluster  9 :
+comment:  cover
+comment:  double
+comment:  load
+comment:  network
+comment:  basis
+comment:  regular
+comment:  consumption
+
+
+cluster  10 :
+CAPTION: cake
+comment:  chocolate
+comment:  chocolate
+comment:  cake
+comment:  chocolate
+comment:  chocolate
+comment:  cake
+comment:  cake
+comment:  chocolate
+comment:  chocolate
+comment:  chocolate
+cake 	0.829181838036
+
+
+cluster  11 :
+comment:  heart
+comment:  heart
+comment:  heart
+comment:  heart
+comment:  heart
+comment:  heart
+comment:  heart
+comment:  heart
+
+
+cluster  12 :
+comment:  yum
+comment:  yum
+comment:  delish
+comment:  yum
+comment:  yum
+comment:  yum
+
+
+cluster  13 :
+comment:  speechless
+comment:  hi
+comment:  suprise
+comment:  hmmmmm
+comment:  aww
+comment:  bang
+comment:  sweetheart
+
+
+cluster  14 :
+CAPTION: plate
+comment:  water
+comment:  paradise
+comment:  twin
+comment:  flame
+comment:  decadence
+comment:  treasure
+comment:  holy
+plate 	0.17679729
+
+
+cluster  15 :
+comment:  sweet
+comment:  sweet
+comment:  sweet
+comment:  sweet
+comment:  sweet
+
+
+cluster  16 :
+comment:  strawberry
+comment:  strawberry
+comment:  strawberry
+comment:  strawberry
+comment:  strawberry
+comment:  strawberry
+comment:  strawberry
+comment:  strawberry
+comment:  strawberry
+comment:  strawberry
+comment:  strawberry
+
+
+cluster  17 :
+comment:  delight
+comment:  calorie
+comment:  berry
+comment:  delight
+comment:  heavenly
+comment:  dish
+comment:  cup
+
+
+cluster  18 :
+comment:  mouth
+comment:  eat
+comment:  hungry
+comment:  treat
+comment:  food
+comment:  bite
+comment:  eat
+comment:  eat
+comment:  hungry
+comment:  treat
+
+
+cluster  19 :
+comment:  awesome
+comment:  cute
+comment:  cool
+comment:  fantastic
+comment:  love
+comment:  lovely
+comment:  wonderful
+comment:  awesome
+comment:  love
+comment:  nice
+
+
+cluster  20 :
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+
+
+cluster  21 :
+comment:  lt
+comment:  ww
+comment:  rt
+comment:  lt
+
+
+cluster  22 :
+comment:  choc
+comment:  coco
+comment:  choco
+comment:  yummie
+comment:  choco
+
+
+cluster  23 :
+comment:  good
+comment:  good
+comment:  good
+comment:  great
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+
+
+cluster  24 :
+CAPTION: close
+CAPTION: piece
+comment:  home
+comment:  beat
+comment:  ill
+comment:  cut
+comment:  hide
+comment:  day
+comment:  day
+comment:  inside
+comment:  hide
+comment:  house
+comment:  picture
+comment:  stomach
+comment:  picture
+comment:  course
+comment:  deserve
+close 	0.37867004
+piece 	0.3201106
+
+100091697767366769792.5830834684235597554
+a slice of pizza sitting on top of a white plate 
+
+matrix comment dim (90, 90)
+
+
+cluster  0 :
+CAPTION: slice
+CAPTION: pizza
+comment:  veggie
+comment:  chili
+comment:  zucchini
+comment:  mushroom
+comment:  beef
+comment:  cheese
+comment:  lasagna
+comment:  spinach
+comment:  mushroom
+comment:  lasagne
+comment:  lasagna
+comment:  veggie
+comment:  lasagna
+comment:  vegetarian
+comment:  cooking
+comment:  dish
+comment:  roti
+comment:  rice
+comment:  lasagna
+slice 	0.42608413
+pizza 	0.55469835
+
+
+cluster  1 :
+CAPTION: white
+CAPTION: plate
+comment:  dunk
+comment:  ground
+comment:  second
+comment:  sound
+comment:  order
+comment:  year
+comment:  skill
+comment:  combine
+comment:  link
+comment:  tempt
+comment:  twice
+comment:  month
+comment:  send
+comment:  link
+white 	0.19939624
+plate 	0.20192932
+
+
+cluster  2 :
+comment:  good
+comment:  stuff
+comment:  like
+comment:  good
+comment:  love
+comment:  nice
+comment:  awesome
+comment:  amazing
+comment:  love
+comment:  good
+comment:  good
+comment:  love
+comment:  good
+
+
+cluster  3 :
+comment:  maaauuu
+comment:  yumyyyyy
+comment:  encanta
+comment:  la
+comment:  gastronom
+comment:  wao
+comment:  aleast
+comment:  yammiiii
+
+
+cluster  4 :
+comment:  yummy
+comment:  delicious
+comment:  delicious
+comment:  yummy
+comment:  dinner
+comment:  eat
+comment:  recipe
+comment:  delicious
+comment:  delicious
+comment:  yummy
+
+
+cluster  5 :
+CAPTION: sit
+comment:  agree
+comment:  pick
+comment:  post
+comment:  work
+comment:  try
+comment:  hand
+comment:  try
+comment:  right
+sit 	0.46498907
+
+
+cluster  6 :
+comment:  tonight
+comment:  wife
+comment:  tonight
+comment:  wild
+comment:  mom
+comment:  sister
+comment:  christmas
+
+
+cluster  7 :
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+
+
+cluster  8 :
+comment:  yum
+comment:  yum
+comment:  yum
+comment:  hmmmm
+
+100091697767366769792.5829628524980189922
+a plate of food and a drink on a table 
+
+matrix comment dim (24, 24)
+
+
+cluster  0 :
+CAPTION: plate
+CAPTION: food
+CAPTION: drink
+CAPTION: table
+comment:  dish
+comment:  yummy
+comment:  snack
+comment:  incendiary
+comment:  hot
+comment:  spinach
+comment:  artichoke
+comment:  dip
+comment:  pita
+comment:  chip
+comment:  spicy
+comment:  yummy
+comment:  ranch
+comment:  tzaziki
+comment:  sauce
+plate 	0.27688995
+food 	0.3508501
+drink 	0.3072942
+table 	0.18411504
+
+
+cluster  1 :
+comment:  like
+comment:  look
+comment:  good
+comment:  like
+comment:  ya
+comment:  like
+comment:  think
+comment:  somewhat
+comment:  like
+
+100091697767366769792.5828236914979069234
+a glass of wine sitting on top of a table 
+
+matrix comment dim (37, 37)
+
+
+cluster  0 :
+CAPTION: sit
+CAPTION: table
+comment:  like
+comment:  straight
+comment:  thank
+comment:  time
+comment:  aware
+comment:  cheap
+comment:  change
+comment:  lol
+comment:  use
+comment:  love
+comment:  right
+comment:  hit
+comment:  live
+comment:  cheer
+comment:  great
+comment:  new
+comment:  year
+comment:  everybody
+comment:  want
+sit 	0.38441712
+table 	0.24802703
+
+
+cluster  1 :
+CAPTION: glass
+CAPTION: wine
+comment:  swirly
+comment:  lemon
+comment:  champagne
+comment:  martini
+comment:  kettle
+comment:  citron
+comment:  swirly
+comment:  lemon
+glass 	0.33837736
+wine 	0.3234504
+
+
+cluster  2 :
+comment:  gasoline
+comment:  giadas
+comment:  sgroppino
+comment:  asti
+comment:  alton
+comment:  concorde
+comment:  royale
+comment:  thanksgiv
+comment:  doc
+comment:  dao
+
+100091697767366769792.5824806954845442834
+a white plate topped with a meat and broccoli 
+
+matrix comment dim (116, 116)
+
+
+cluster  0 :
+comment:  yum
+comment:  hmmmm
+comment:  mmmm
+comment:  yum
+comment:  mmm
+comment:  mmmm
+comment:  hmmm
+comment:  gimme
+
+
+cluster  1 :
+comment:  lezat
+comment:  mantaaaaaaap
+comment:  waoooo
+comment:  yummmmi
+comment:  yummyyyy
+comment:  woooowwww
+comment:  yummmmmmyyy
+comment:  broccolinie
+comment:  menggoyang
+comment:  lidah
+comment:  hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+comment:  nyummi
+comment:  sarappp
+comment:  waaaaoooooooo
+comment:  klihatan
+comment:  muwa
+comment:  roooh
+comment:  jossssss
+
+
+cluster  2 :
+comment:  good
+comment:  great
+comment:  great
+comment:  amazing
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+
+
+cluster  3 :
+CAPTION: white
+CAPTION: plate
+comment:  ve
+comment:  use
+comment:  involve
+comment:  season
+comment:  marry
+comment:  imaginable
+comment:  hop
+comment:  tough
+comment:  duo
+comment:  beat
+comment:  ray
+comment:  head
+white 	0.22792383
+plate 	0.1695646
+
+
+cluster  4 :
+CAPTION: meat
+comment:  meat
+comment:  cook
+comment:  food
+comment:  pasta
+comment:  recipe
+comment:  pasta
+comment:  grill
+comment:  chicken
+comment:  salt
+comment:  cook
+comment:  meat
+comment:  dish
+comment:  recipe
+meat 	0.643956966125
+
+
+cluster  5 :
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  think
+comment:  find
+comment:  right
+comment:  like
+comment:  look
+comment:  like
+
+
+cluster  6 :
+CAPTION: broccoli
+comment:  macaroni
+comment:  penne
+comment:  pesto
+comment:  penne
+comment:  pancetta
+broccoli 	0.6192382
+
+
+cluster  7 :
+comment:  incredible
+comment:  yes
+comment:  mom
+comment:  love
+comment:  fav
+comment:  girl
+comment:  love
+comment:  thank
+comment:  awesome
+comment:  pic
+comment:  love
+comment:  wow
+comment:  goodness
+
+
+cluster  8 :
+comment:  bgt
+comment:  wooooooow
+comment:  mmmmmmmmmmm
+comment:  yummi
+comment:  nyam
+comment:  nyam
+comment:  peppa
+comment:  mell
+comment:  melisa
+comment:  rachael
+comment:  ajay
+comment:  gupta
+comment:  enak
+comment:  tuch
+comment:  yap
+comment:  ra
+
+
+cluster  9 :
+comment:  muaw
+comment:  muaw
+comment:  muaw
+comment:  muaw
+
+
+cluster  10 :
+comment:  yummy
+comment:  tasty
+comment:  delicious
+comment:  delicious
+comment:  yummy
+comment:  delicious
+
+100091697767366769792.5837873463806646530
+a bowl of food with a spoon on a table 
+
+matrix comment dim (26, 26)
+
+
+cluster  0 :
+CAPTION: bowl
+CAPTION: food
+CAPTION: spoon
+CAPTION: table
+comment:  like
+comment:  white
+comment:  bowl
+comment:  love
+comment:  nice
+comment:  food
+comment:  love
+comment:  beautiful
+comment:  dish
+comment:  vote
+comment:  good
+comment:  hungry
+comment:  list
+comment:  ingredient
+comment:  use
+comment:  love
+bowl 	0.325262767263
+food 	0.408417693339
+spoon 	0.28199798
+table 	0.27463102
+
+
+cluster  1 :
+comment:  enakk
+comment:  bngtt
+comment:  tuhh
+comment:  nao
+comment:  sei
+comment:  fazer
+comment:  yummi
+comment:  rs
+comment:  wao
+comment:  mi
+
+100091697767366769792.5840716408899972290
+a plate of food on a table 
+
+matrix comment dim (78, 78)
+
+
+cluster  0 :
+comment:  es
+comment:  eso
+comment:  alguien
+comment:  puede
+comment:  decir
+comment:  jeje
+comment:  cj
+comment:  la
+
+
+cluster  1 :
+comment:  don
+comment:  network
+comment:  inner
+comment:  definition
+comment:  porn
+comment:  superbowl
+comment:  football
+comment:  porn
+comment:  james
+comment:  football
+comment:  porn
+comment:  wing
+comment:  football
+comment:  porn
+comment:  watch
+comment:  puppy
+
+
+cluster  2 :
+CAPTION: food
+comment:  peanut
+comment:  butter
+comment:  bread
+comment:  chilli
+comment:  delicious
+comment:  yummy
+comment:  pork
+comment:  food
+comment:  recipe
+comment:  food
+comment:  food
+comment:  snack
+comment:  food
+comment:  bread
+comment:  yummy
+comment:  food
+comment:  pizza
+comment:  chicken
+comment:  yummy
+comment:  food
+comment:  bowl
+comment:  corn
+comment:  bread
+comment:  feast
+food 	0.647044366846
+
+
+cluster  3 :
+CAPTION: plate
+CAPTION: table
+comment:  forget
+comment:  excuse
+comment:  pull
+comment:  compliment
+comment:  warm
+comment:  look
+comment:  interesting
+comment:  particular
+comment:  instance
+comment:  love
+comment:  try
+comment:  great
+comment:  instead
+comment:  wait
+plate 	0.23790096
+table 	0.2939588
+
+
+cluster  4 :
+comment:  heheehe
+comment:  xfa
+comment:  gmbh
+comment:  zie
+comment:  lazie
+
+
+cluster  5 :
+comment:  yum
+comment:  yum
+comment:  yum
+comment:  yum
+comment:  yum
+comment:  yummm
+comment:  yum
+
+
+cluster  6 :
+comment:  burp
+comment:  burp
+comment:  burp
+comment:  peanutbutter
+
+100091697767366769792.5830370627625484066
+a plate of food with meat and broccoli 
+
+matrix comment dim (63, 63)
+
+
+cluster  0 :
+CAPTION: plate
+comment:  realy
+comment:  nyc
+comment:  nd
+comment:  mini
+comment:  gna
+comment:  shot
+comment:  smoke
+comment:  xmas
+comment:  kill
+comment:  fir
+comment:  min
+comment:  hmmmmm
+comment:  ping
+comment:  ping
+comment:  differnt
+plate 	0.10614963
+
+
+cluster  1 :
+CAPTION: food
+comment:  yummy
+comment:  healthy
+comment:  yummy
+comment:  lovely
+comment:  yummy
+comment:  yum
+comment:  super
+comment:  healthy
+comment:  delicious
+comment:  yummy
+food 	0.48695135
+
+
+cluster  2 :
+comment:  que
+comment:  buenos
+comment:  nutritivos
+comment:  defnatly
+comment:  spinatch
+comment:  huuuuuuuuh
+comment:  lazzziiisssssss
+comment:  houce
+comment:  tasteeeee
+
+
+cluster  3 :
+comment:  look
+comment:  interesting
+comment:  look
+comment:  good
+comment:  look
+comment:  try
+comment:  try
+comment:  like
+comment:  maybe
+comment:  look
+comment:  great
+comment:  try
+comment:  look
+comment:  good
+comment:  try
+comment:  like
+comment:  look
+comment:  good
+comment:  love
+comment:  look
+comment:  good
+
+
+cluster  4 :
+CAPTION: meat
+CAPTION: broccoli
+comment:  asparagus
+comment:  salmon
+comment:  salmon
+comment:  salmon
+meat 	0.5627856
+broccoli 	0.5889509
+
+
+cluster  5 :
+comment:  yummmmm
+comment:  brocoli
+comment:  canape
+comment:  sause
+
+100091697767366769792.5836308054422229346
+a plate of food with a sandwich and fries 
+
+matrix comment dim (25, 25)
+
+
+cluster  0 :
+CAPTION: plate
+CAPTION: sandwich
+CAPTION: fry
+comment:  yum
+comment:  que
+comment:  comida
+comment:  deliciosa
+comment:  yum
+comment:  enak
+comment:  kale
+comment:  makn
+plate 	0.0704623777419
+sandwich 	0.216391420923
+fry 	0.169616728788
+
+
+cluster  1 :
+CAPTION: food
+comment:  hungry
+comment:  thank
+comment:  sound
+comment:  wonderful
+comment:  look
+comment:  good
+comment:  right
+comment:  like
+comment:  thing
+comment:  look
+comment:  good
+comment:  try
+comment:  today
+comment:  nice
+comment:  ill
+comment:  tonight
+comment:  nice
+food 	0.3568925
+
+100091697767366769792.5830788101495563138
+a close up of a pizza on a plate 
+
+matrix comment dim (93, 93)
+
+
+cluster  0 :
+CAPTION: pizza
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  recipe
+comment:  yummy
+comment:  yummy
+comment:  tasty
+comment:  delicious
+comment:  yummy
+comment:  delicious
+comment:  delicious
+comment:  eat
+pizza 	0.572397
+
+
+cluster  1 :
+CAPTION: close
+CAPTION: plate
+comment:  milk
+comment:  morning
+comment:  safari
+comment:  western
+comment:  oasis
+comment:  communicate
+comment:  road
+comment:  adventure
+comment:  large
+comment:  desert
+comment:  oasis
+comment:  man
+comment:  beast
+comment:  information
+comment:  difficult
+comment:  combo
+comment:  milk
+close 	0.28458878
+plate 	0.17011344
+
+
+cluster  2 :
+comment:  sahara
+comment:  facebook
+comment:  yahoo
+comment:  com
+comment:  egypt
+comment:  ti
+comment:  bien
+comment:  rico
+comment:  que
+comment:  rico
+comment:  gusta
+comment:  boom
+
+
+cluster  3 :
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+
+
+cluster  4 :
+comment:  waoooooo
+comment:  bahariya
+comment:  jaky
+comment:  bahariya
+comment:  ngiler
+comment:  ntar
+comment:  yemmmy
+comment:  yammiiiiiii
+
+
+cluster  5 :
+comment:  oh
+comment:  yeh
+comment:  gd
+comment:  kaya
+comment:  ah
+comment:  hehehe
+comment:  ummm
+comment:  uhhh
+comment:  wan
+
+
+cluster  6 :
+comment:  fun
+comment:  fun
+comment:  good
+comment:  wonderful
+comment:  good
+comment:  good
+comment:  thank
+comment:  try
+comment:  good
+comment:  fantastic
+comment:  thank
+comment:  love
+comment:  good
+
+
+cluster  7 :
+comment:  nya
+comment:  enak
+comment:  tuh
+comment:  wahhhhhh
+comment:  sampe
+comment:  beli
+comment:  pulang
+comment:  kerja
+
+
+cluster  8 :
+comment:  mmm
+comment:  tastey
+comment:  gummy
+comment:  yummmy
+comment:  yum
+comment:  yumm
+
+100091697767366769792.5830717020007263922
+a man and woman standing in front of a wall 
+
+matrix comment dim (56, 56)
+
+
+cluster  0 :
+comment:  nigeria
+comment:  rachel
+comment:  gg
+comment:  prolong
+comment:  agony
+comment:  facepalm
+comment:  derivative
+comment:  derivative
+
+
+cluster  1 :
+CAPTION: man
+comment:  guy
+comment:  big
+comment:  maybe
+comment:  ok
+comment:  wanna
+comment:  someday
+comment:  oh
+comment:  crap
+comment:  lucky
+comment:  try
+comment:  find
+comment:  think
+comment:  guy
+comment:  feel
+comment:  belive
+comment:  lose
+man 	0.44090876
+
+
+cluster  2 :
+CAPTION: woman
+CAPTION: stand
+CAPTION: wall
+comment:  fan
+comment:  new
+comment:  cast
+comment:  dress
+comment:  cook
+comment:  marry
+comment:  marry
+comment:  folk
+comment:  link
+comment:  video
+comment:  late
+comment:  night
+comment:  snack
+comment:  win
+comment:  cook
+comment:  cooking
+comment:  team
+comment:  minute
+comment:  win
+woman 	0.28380984
+stand 	0.29653493
+wall 	0.1927639
+
+
+cluster  3 :
+comment:  awesome
+comment:  love
+comment:  love
+comment:  great
+comment:  luv
+comment:  love
+comment:  love
+comment:  love
+comment:  awesome
+
+
+cluster  4 :
+comment:  coolio
+comment:  rachael
+comment:  pbj
+comment:  racheal
+
+100091697767366769792.5823327876998837938
+a pizza sitting on top of a metal pan 
+
+matrix comment dim (84, 84)
+
+
+cluster  0 :
+CAPTION: sit
+comment:  need
+comment:  good
+comment:  definitely
+comment:  want
+comment:  good
+comment:  wonderful
+comment:  exactly
+comment:  absolutely
+comment:  bet
+comment:  great
+comment:  think
+comment:  good
+comment:  like
+comment:  wish
+comment:  right
+comment:  yes
+comment:  correct
+comment:  add
+comment:  good
+sit 	0.43511868
+
+
+cluster  1 :
+comment:  ada
+comment:  ngga
+comment:  creame
+comment:  thoose
+comment:  barbosa
+comment:  hmf
+comment:  passa
+comment:  receita
+comment:  qie
+comment:  gao
+
+
+cluster  2 :
+comment:  yummy
+comment:  delicious
+comment:  delicious
+comment:  delicious
+comment:  delicious
+comment:  yummy
+comment:  tasty
+comment:  tasty
+
+
+cluster  3 :
+comment:  yah
+comment:  ohh
+comment:  sooo
+comment:  heheheh
+comment:  huh
+comment:  ya
+
+
+cluster  4 :
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+
+
+cluster  5 :
+comment:  yummie
+comment:  brownie
+comment:  sinfully
+comment:  decadent
+comment:  yum
+comment:  yum
+comment:  yum
+
+
+cluster  6 :
+CAPTION: metal
+comment:  oooooohhhhhh
+comment:  ichhh
+comment:  oncom
+comment:  thesis
+comment:  cristito
+comment:  yammmmy
+comment:  deliscioso
+comment:  mantaapppp
+comment:  njam
+comment:  njam
+metal 	0.00649509727955
+
+
+cluster  7 :
+CAPTION: pizza
+CAPTION: pan
+comment:  drool
+comment:  eat
+comment:  ice
+comment:  coffee
+comment:  crave
+comment:  cookie
+comment:  colourful
+comment:  food
+comment:  cook
+comment:  reach
+comment:  bacon
+comment:  chinese
+pizza 	0.41818342
+pan 	0.3086261
+
+100091697767366769792.5839740576903809202
+a pizza sitting on top of a white plate 
+
+matrix comment dim (53, 53)
+
+
+cluster  0 :
+comment:  yumm
+comment:  yumm
+comment:  yum
+comment:  ummmm
+comment:  yummy
+comment:  yum
+comment:  yummy
+comment:  mmm
+comment:  yum
+comment:  yummy
+
+
+cluster  1 :
+comment:  dei
+comment:  lezzzzzzzzzzat
+comment:  hemmm
+comment:  wann
+comment:  nom
+comment:  press
+comment:  reset
+comment:  button
+comment:  network
+comment:  mamamia
+
+
+cluster  2 :
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+
+
+cluster  3 :
+comment:  awesome
+comment:  good
+comment:  nice
+comment:  like
+comment:  great
+comment:  idea
+comment:  way
+comment:  good
+comment:  time
+comment:  pretty
+comment:  damn
+comment:  good
+comment:  great
+
+
+cluster  4 :
+CAPTION: pizza
+CAPTION: sit
+CAPTION: white
+CAPTION: plate
+comment:  hungry
+comment:  invite
+comment:  pizza
+comment:  heaven
+comment:  supper
+comment:  bowl
+comment:  party
+comment:  eat
+comment:  indulge
+comment:  diet
+comment:  food
+comment:  pizza
+comment:  hungry
+pizza 	0.496452876008
+sit 	0.38622716
+white 	0.23298693
+plate 	0.24348328
+
+100091697767366769792.5788811504781537746
+a plate of food with meat and vegetables 
+
+matrix comment dim (680, 680)
+
+
+cluster  0 :
+comment:  soo
+comment:  oh
+comment:  yea
+comment:  oh
+comment:  sunday
+comment:  sunday
+comment:  lol
+comment:  sorry
+comment:  english
+comment:  esp
+comment:  esp
+comment:  esp
+comment:  porn
+
+
+cluster  1 :
+comment:  obras
+comment:  obras
+comment:  obras
+comment:  obras
+comment:  obras
+comment:  obra
+comment:  obras
+comment:  obras
+comment:  obras
+comment:  obras
+comment:  obras
+comment:  obras
+comment:  obras
+
+
+cluster  2 :
+comment:  como
+comment:  que
+comment:  que
+comment:  que
+comment:  que
+comment:  que
+comment:  que
+comment:  como
+comment:  como
+comment:  que
+comment:  como
+comment:  como
+comment:  que
+comment:  que
+comment:  que
+comment:  como
+comment:  que
+comment:  que
+comment:  que
+comment:  que
+comment:  que
+
+
+cluster  3 :
+comment:  kkkkkkkkkkkkk
+comment:  gostoso
+comment:  saberia
+comment:  moth
+comment:  nelita
+comment:  alho
+comment:  antibiotico
+comment:  nelita
+comment:  hfsyhiaug
+comment:  cuuuuuuuuuu
+comment:  alho
+comment:  alho
+comment:  vanpiraaaaaaaaaa
+comment:  kkkkkkkkkkkkkkkkkkkkkkkkk
+comment:  parese
+comment:  treis
+comment:  atrai
+comment:  prediletos
+comment:  nyum
+comment:  credoooooo
+comment:  alho
+comment:  onlyspeak
+comment:  algu
+comment:  faltarem
+comment:  aquecei
+comment:  fartai
+comment:  necess
+comment:  algu
+comment:  mostrarei
+comment:  tremem
+comment:  justificado
+comment:  oferecendo
+comment:  cooperava
+comment:  completada
+comment:  cumpriu
+comment:  justi
+comment:  justificado
+comment:  meretriz
+comment:  justificada
+comment:  recebido
+comment:  mensageiro
+comment:  arvorar
+comment:  julgado
+comment:  severamente
+comment:  algu
+comment:  refrear
+comment:  freio
+comment:  cavalos
+comment:  obede
+comment:  governamo
+comment:  agitado
+comment:  impetuosos
+comment:  governado
+comment:  gloriar
+comment:  considerai
+comment:  incendiar
+comment:  iniq
+comment:  inflamada
+comment:  incendeia
+comment:  selvagen
+comment:  pteis
+comment:  peix
+comment:  domam
+comment:  domada
+comment:  domar
+comment:  irrequieto
+comment:  bendizemo
+comment:  amaldi
+comment:  oamos
+comment:  homen
+comment:  semelhan
+comment:  maldi
+comment:  porventura
+comment:  bica
+comment:  amargosa
+comment:  azeitonas
+comment:  videira
+comment:  salobra
+comment:  repassadas
+comment:  contendas
+comment:  glorieis
+comment:  mintais
+comment:  terrena
+comment:  houver
+comment:  contenda
+comment:  perturba
+comment:  primeiramente
+comment:  condescendente
+comment:  conciliadora
+comment:  miseric
+comment:  rdia
+comment:  parcialidade
+comment:  fingimento
+comment:  justi
+comment:  semeia
+comment:  praticam
+comment:  nojenta
+comment:  boooommmm
+
+
+cluster  4 :
+comment:  brasileiro
+comment:  pouco
+comment:  deu
+comment:  deve
+comment:  gosto
+comment:  dizer
+comment:  mostra
+comment:  homem
+comment:  nosso
+comment:  filho
+comment:  conta
+comment:  homem
+comment:  feito
+comment:  homem
+comment:  coisas
+comment:  chama
+comment:  nossa
+comment:  homem
+comment:  nosso
+comment:  seja
+comment:  gosto
+comment:  verdade
+comment:  vem
+comment:  vem
+
+
+cluster  5 :
+comment:  del
+comment:  de
+comment:  de
+comment:  de
+comment:  de
+comment:  de
+comment:  de
+comment:  de
+comment:  de
+comment:  de
+comment:  de
+comment:  de
+comment:  de
+comment:  de
+comment:  de
+comment:  de
+comment:  de
+comment:  de
+comment:  de
+comment:  de
+comment:  de
+comment:  de
+comment:  de
+comment:  de
+comment:  de
+
+
+cluster  6 :
+comment:  frango
+comment:  frango
+comment:  frango
+comment:  vampiro
+comment:  alimento
+comment:  morta
+comment:  abra
+comment:  abra
+comment:  creu
+comment:  morta
+comment:  haja
+comment:  cair
+comment:  membro
+comment:  floresta
+comment:  membro
+comment:  cheia
+comment:  veneno
+comment:  amargo
+comment:  cheia
+comment:  frutos
+comment:  comi
+comment:  huevo
+
+
+cluster  7 :
+comment:  comment
+comment:  prefer
+comment:  try
+comment:  excited
+comment:  bus
+comment:  network
+comment:  understand
+comment:  talk
+comment:  tend
+comment:  awhile
+comment:  check
+comment:  use
+comment:  send
+comment:  talk
+
+
+cluster  8 :
+comment:  esta
+comment:  poder
+comment:  paz
+comment:  mas
+comment:  mas
+comment:  amigo
+comment:  porque
+comment:  todo
+comment:  este
+comment:  todo
+comment:  todo
+comment:  grande
+comment:  mas
+comment:  grande
+comment:  mundo
+comment:  todo
+comment:  vida
+comment:  todas
+comment:  sido
+comment:  mas
+comment:  esta
+comment:  mas
+comment:  toda
+comment:  paz
+comment:  paz
+comment:  pero
+comment:  hoy
+
+
+cluster  9 :
+comment:  pescado
+comment:  americana
+comment:  nuno
+comment:  ribeiro
+comment:  humm
+comment:  hummm
+comment:  delic
+comment:  salv
+comment:  nios
+comment:  escritura
+comment:  tido
+comment:  gn
+comment:  raab
+comment:  pomo
+comment:  leme
+comment:  aves
+comment:  fero
+comment:  procede
+comment:  figueira
+comment:  figo
+comment:  ura
+comment:  cora
+comment:  diab
+comment:  lica
+comment:  yummmm
+comment:  peda
+comment:  inho
+comment:  papas
+comment:  frita
+comment:  frito
+
+
+cluster  10 :
+comment:  melhor
+comment:  muito
+comment:  fazer
+comment:  pode
+comment:  muito
+comment:  assim
+comment:  tenho
+comment:  minha
+comment:  faz
+comment:  bem
+comment:  assim
+comment:  mesmo
+comment:  assim
+comment:  assim
+comment:  assim
+comment:  pode
+comment:  pode
+comment:  pode
+comment:  assim
+comment:  pode
+comment:  mesmo
+comment:  pode
+comment:  quem
+comment:  depois
+comment:  coisa
+
+
+cluster  11 :
+comment:  os
+comment:  os
+comment:  ver
+comment:  os
+comment:  os
+comment:  os
+comment:  dos
+comment:  os
+comment:  os
+comment:  os
+comment:  os
+comment:  os
+
+
+cluster  12 :
+CAPTION: vegetable
+comment:  cilantro
+comment:  yummy
+comment:  garlic
+comment:  delish
+comment:  bacon
+comment:  roast
+comment:  garlic
+comment:  clove
+comment:  cook
+comment:  cook
+comment:  roasted
+comment:  garlic
+comment:  cook
+comment:  pasta
+comment:  yummy
+comment:  chicken
+vegetable 	0.5396117
+
+
+cluster  13 :
+comment:  voc
+comment:  informe
+comment:  fome
+comment:  lhe
+comment:  lhe
+comment:  lhe
+comment:  lhe
+comment:  vede
+comment:  modo
+comment:  boca
+comment:  vede
+comment:  boca
+comment:  modo
+comment:  ci
+comment:  ci
+comment:  pura
+comment:  bons
+
+
+cluster  14 :
+comment:  al
+comment:  usa
+comment:  mi
+comment:  rio
+comment:  com
+comment:  era
+comment:  alma
+comment:  com
+comment:  inferno
+comment:  mar
+comment:  com
+comment:  com
+comment:  com
+comment:  alto
+comment:  ali
+comment:  rico
+comment:  sin
+comment:  rico
+
+
+cluster  15 :
+comment:  brasileira
+comment:  pegar
+comment:  naum
+comment:  prazer
+comment:  tiver
+comment:  acaso
+comment:  algum
+comment:  tiver
+comment:  mesma
+comment:  pelas
+comment:  minhas
+comment:  pelas
+comment:  suas
+comment:  elas
+comment:  chamado
+comment:  pelas
+comment:  somente
+comment:  caminho
+comment:  muitos
+comment:  muitos
+comment:  palavra
+comment:  perfeito
+comment:  capaz
+comment:  embora
+comment:  vontade
+comment:  pequena
+comment:  idade
+comment:  nossos
+comment:  sendo
+comment:  nenhum
+comment:  senhor
+comment:  mesma
+comment:  mesma
+comment:  acaso
+comment:  verdadeira
+comment:  inteligente
+comment:  suas
+comment:  aqueles
+
+
+cluster  16 :
+comment:  um
+comment:  um
+comment:  um
+comment:  da
+comment:  um
+comment:  um
+comment:  um
+comment:  um
+comment:  um
+comment:  da
+comment:  um
+comment:  um
+comment:  um
+comment:  da
+comment:  um
+
+
+cluster  17 :
+comment:  tamb
+comment:  tamb
+comment:  tamb
+comment:  tamb
+comment:  tamb
+comment:  tamb
+comment:  tamb
+comment:  tamb
+
+
+cluster  18 :
+comment:  bom
+comment:  sou
+comment:  sao
+comment:  sou
+comment:  nome
+comment:  tua
+comment:  deus
+comment:  pai
+comment:  diz
+comment:  deus
+comment:  isto
+comment:  deus
+comment:  ela
+comment:  outro
+comment:  ela
+comment:  pai
+comment:  ela
+comment:  deus
+comment:  bom
+comment:  nem
+comment:  nem
+
+
+cluster  19 :
+comment:  ou
+comment:  ou
+comment:  vos
+comment:  vos
+comment:  est
+comment:  entre
+comment:  nos
+comment:  grandes
+comment:  est
+comment:  entre
+comment:  mal
+comment:  ou
+comment:  vos
+comment:  contra
+comment:  qui
+
+
+cluster  20 :
+comment:  se
+comment:  se
+comment:  lo
+comment:  se
+comment:  se
+comment:  si
+comment:  tu
+comment:  te
+comment:  se
+comment:  se
+comment:  se
+comment:  se
+comment:  se
+comment:  se
+comment:  se
+comment:  con
+comment:  es
+
+
+cluster  21 :
+comment:  yam
+comment:  fig
+comment:  washington
+comment:  tagalog
+comment:  isaac
+comment:  altar
+comment:  conv
+comment:  pac
+comment:  mmmmm
+comment:  philippine
+
+
+cluster  22 :
+comment:  irm
+comment:  irm
+comment:  irm
+comment:  irm
+comment:  irm
+comment:  irm
+
+
+cluster  23 :
+comment:  sabedoria
+comment:  sabedoria
+comment:  sabedoria
+comment:  sabedoria
+comment:  sabedoria
+
+
+cluster  24 :
+comment:  ngua
+comment:  ngua
+comment:  ngua
+comment:  ngua
+comment:  ngua
+
+
+cluster  25 :
+comment:  cia
+comment:  ril
+comment:  cie
+comment:  cie
+comment:  humana
+comment:  mort
+comment:  gua
+comment:  gua
+comment:  gua
+comment:  gua
+comment:  humana
+comment:  cie
+comment:  cio
+comment:  sal
+
+
+cluster  26 :
+CAPTION: plate
+CAPTION: food
+CAPTION: meat
+comment:  water
+comment:  lover
+comment:  meal
+comment:  raw
+comment:  delicious
+comment:  delicious
+comment:  food
+comment:  food
+comment:  food
+comment:  recipe
+comment:  restaurant
+comment:  cooking
+plate 	0.29038194
+food 	0.671596514682
+meat 	0.5439528
+
+
+cluster  27 :
+comment:  interessante
+comment:  delicia
+comment:  delicia
+comment:  delicia
+comment:  comida
+comment:  peixe
+comment:  meus
+comment:  corpo
+comment:  sair
+comment:  corpo
+comment:  morto
+comment:  pecado
+comment:  meus
+comment:  mestre
+comment:  corpo
+comment:  corpo
+comment:  vento
+comment:  pequeno
+comment:  piloto
+comment:  pequeno
+comment:  fogo
+comment:  corpo
+comment:  curso
+comment:  meus
+comment:  fonte
+comment:  doce
+comment:  meus
+comment:  fonte
+comment:  doce
+comment:  cima
+comment:  fica
+
+
+cluster  28 :
+comment:  para
+comment:  sobre
+comment:  por
+comment:  por
+comment:  por
+comment:  por
+comment:  para
+comment:  por
+comment:  por
+comment:  por
+comment:  por
+comment:  por
+comment:  para
+
+
+cluster  29 :
+comment:  parece
+comment:  uma
+comment:  uma
+comment:  uma
+comment:  meu
+comment:  tem
+comment:  uma
+comment:  foi
+comment:  seu
+comment:  foi
+comment:  foi
+comment:  pela
+comment:  foi
+comment:  pela
+comment:  mais
+comment:  seu
+comment:  quando
+comment:  seu
+comment:  uma
+comment:  uma
+comment:  pelo
+comment:  pela
+comment:  uma
+comment:  uma
+comment:  uma
+comment:  pela
+comment:  uma
+comment:  onde
+
+
+cluster  30 :
+comment:  st
+comment:  ide
+comment:  der
+comment:  dir
+comment:  cr
+comment:  dem
+comment:  cr
+comment:  mos
+comment:  lan
+comment:  bio
+comment:  iphone
+
+
+cluster  31 :
+comment:  good
+comment:  thank
+comment:  good
+comment:  look
+comment:  want
+comment:  know
+comment:  look
+comment:  great
+comment:  look
+comment:  great
+comment:  love
+comment:  nice
+comment:  nice
+comment:  look
+comment:  good
+comment:  love
+comment:  like
+
+
+cluster  32 :
+comment:  provar
+comment:  aproveitar
+comment:  roupas
+comment:  cotidiano
+comment:  disser
+comment:  aproveitar
+comment:  quere
+comment:  sabeis
+comment:  seremos
+comment:  pontos
+comment:  navio
+comment:  sejam
+comment:  contamina
+comment:  feras
+comment:  feitos
+comment:  dentre
+comment:  mostre
+comment:  proceder
+comment:  fruto
+comment:  aceito
+
+
+cluster  33 :
+comment:  eu
+comment:  ter
+comment:  dia
+comment:  sem
+comment:  eu
+comment:  sem
+comment:  eu
+comment:  sem
+comment:  ter
+comment:  ter
+comment:  sem
+comment:  sem
+comment:  na
+comment:  dar
+comment:  dar
+comment:  dar
+comment:  sem
+comment:  na
+comment:  eu
+
+100091697767366769792.5824897114923304674
+a man and a woman sitting at a table 
+
+not enught word in comment
+
+100091697767366769792.5805821513605338546
+a woman is sitting in a chair with a cell phone 
+
+matrix comment dim (70, 70)
+
+
+cluster  0 :
+comment:  sorry
+comment:  bad
+comment:  kinda
+comment:  way
+comment:  come
+comment:  like
+comment:  think
+comment:  terrible
+comment:  turn
+comment:  kid
+comment:  wish
+comment:  life
+comment:  bad
+comment:  talk
+
+
+cluster  1 :
+comment:  mi
+comment:  linda
+comment:  ina
+comment:  int
+comment:  lt
+comment:  ina
+
+
+cluster  2 :
+comment:  food
+comment:  chef
+comment:  cook
+comment:  recipe
+comment:  food
+comment:  salt
+comment:  dish
+comment:  food
+comment:  roasted
+comment:  chicken
+comment:  food
+comment:  cookbook
+comment:  cook
+comment:  recipe
+
+
+cluster  3 :
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  great
+comment:  awesome
+comment:  love
+comment:  amazing
+comment:  love
+comment:  amazing
+
+
+cluster  4 :
+CAPTION: chair
+CAPTION: cell
+CAPTION: phone
+comment:  network
+comment:  scientist
+comment:  measure
+comment:  angle
+comment:  depressed
+comment:  foundation
+comment:  phony
+comment:  network
+chair 	0.15054843
+cell 	0.22486418
+phone 	0.18443736
+
+
+cluster  5 :
+CAPTION: woman
+CAPTION: sit
+comment:  bear
+comment:  watch
+comment:  wow
+comment:  use
+comment:  add
+comment:  camera
+comment:  super
+comment:  close
+comment:  shot
+comment:  cold
+comment:  rainy
+comment:  outside
+comment:  trick
+comment:  human
+comment:  lady
+woman 	0.32832697
+sit 	0.3441621
+
+
+cluster  6 :
+comment:  preferida
+comment:  sra
+
+100091697767366769792.5835210254613785778
+a bowl of food with a spoon on a table 
+
+matrix comment dim (93, 93)
+
+
+cluster  0 :
+comment:  hop
+comment:  someday
+comment:  hey
+comment:  dis
+comment:  plz
+comment:  wow
+comment:  wow
+
+
+cluster  1 :
+comment:  hay
+comment:  que
+comment:  sm
+comment:  gar
+comment:  gi
+comment:  un
+comment:  gi
+comment:  enogh
+comment:  meee
+comment:  mmmmmm
+comment:  india
+comment:  krishna
+
+
+cluster  2 :
+CAPTION: bowl
+CAPTION: spoon
+comment:  bison
+comment:  rabbit
+comment:  goat
+comment:  venison
+comment:  beef
+comment:  chili
+comment:  deer
+comment:  chili
+comment:  chilli
+bowl 	0.31872055
+spoon 	0.32600227
+
+
+cluster  3 :
+comment:  good
+comment:  good
+comment:  good
+comment:  kind
+comment:  good
+comment:  good
+comment:  good
+
+
+cluster  4 :
+CAPTION: table
+comment:  course
+comment:  real
+comment:  write
+comment:  help
+comment:  link
+comment:  check
+comment:  use
+comment:  ground
+comment:  use
+comment:  dose
+comment:  click
+comment:  page
+table 	0.2654139
+
+
+cluster  5 :
+comment:  thesya
+comment:  aidina
+comment:  chickenmoretime
+comment:  tuuu
+comment:  izskat
+comment:  vesel
+comment:  tambah
+comment:  laper
+comment:  hungrey
+comment:  enakkk
+comment:  culturejoin
+comment:  radhe
+comment:  loversclick
+
+
+cluster  6 :
+comment:  wowwww
+comment:  delicia
+comment:  pasti
+comment:  enak
+comment:  jadi
+comment:  enak
+comment:  tuh
+comment:  yummmmy
+
+
+cluster  7 :
+CAPTION: food
+comment:  chicken
+comment:  yummy
+comment:  cook
+comment:  cook
+comment:  homemade
+comment:  dish
+comment:  recipe
+comment:  recipe
+comment:  delicious
+comment:  meat
+comment:  dish
+comment:  chicken
+comment:  delicious
+food 	0.5619055
+
+
+cluster  8 :
+comment:  look
+comment:  look
+comment:  need
+comment:  want
+comment:  love
+comment:  want
+comment:  look
+comment:  look
+comment:  look
+comment:  like
+comment:  like
+comment:  look
+
+100091697767366769792.5839276724013242370
+a slice of pizza on a white plate 
+
+matrix comment dim (100, 100)
+
+
+cluster  0 :
+comment:  try
+comment:  want
+comment:  right
+comment:  like
+comment:  need
+comment:  want
+comment:  want
+comment:  try
+comment:  want
+comment:  idea
+comment:  bad
+
+
+cluster  1 :
+CAPTION: plate
+comment:  manger
+comment:  ow
+comment:  dam
+comment:  superbowl
+comment:  rachel
+plate 	0.1063028
+
+
+cluster  2 :
+comment:  delicious
+comment:  tasty
+comment:  delicious
+comment:  yummy
+comment:  sweet
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  delicious
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  delicious
+comment:  yummy
+comment:  yummy
+comment:  yummy
+
+
+cluster  3 :
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+
+
+cluster  4 :
+comment:  aimerai
+comment:  emmmmmm
+comment:  yammmmmm
+comment:  yummeh
+comment:  wooww
+comment:  sedappp
+comment:  ssssssoooooooo
+comment:  ggggoooooooodddd
+
+
+cluster  5 :
+comment:  wow
+comment:  nice
+comment:  good
+comment:  good
+comment:  happy
+comment:  wow
+comment:  lovely
+comment:  good
+comment:  amazing
+comment:  perfect
+comment:  perfect
+comment:  wow
+comment:  awesome
+comment:  nice
+comment:  absolutely
+comment:  good
+comment:  great
+comment:  amazing
+comment:  definitely
+comment:  good
+
+
+cluster  6 :
+comment:  mmmm
+comment:  yum
+comment:  mmmm
+comment:  yum
+comment:  yum
+
+
+cluster  7 :
+CAPTION: slice
+CAPTION: pizza
+comment:  mama
+comment:  spicy
+comment:  sloppy
+comment:  dish
+comment:  eat
+comment:  breakfast
+comment:  eat
+comment:  meal
+slice 	0.3506971
+pizza 	0.48268107
+
+
+cluster  8 :
+comment:  yumyum
+comment:  yahhhh
+comment:  delicioso
+
+
+cluster  9 :
+CAPTION: white
+comment:  new
+comment:  problem
+comment:  home
+comment:  huge
+comment:  later
+white 	0.26651323
+
+100091697767366769792.5818248571262732802
+a plate of food and a cup of coffee 
+
+matrix comment dim (63, 63)
+
+
+cluster  0 :
+CAPTION: plate
+comment:  beedi
+comment:  lag
+comment:  hai
+comment:  baguuss
+comment:  diesh
+comment:  flu
+comment:  pronto
+comment:  shelby
+comment:  donk
+comment:  dyummmy
+plate 	0.0441412374377
+
+
+cluster  1 :
+comment:  yes
+comment:  freaking
+comment:  kid
+comment:  hahaha
+comment:  freak
+comment:  kid
+comment:  wow
+comment:  explode
+comment:  problem
+comment:  sorry
+comment:  day
+
+
+cluster  2 :
+CAPTION: food
+CAPTION: cup
+CAPTION: coffee
+comment:  food
+comment:  delicious
+comment:  delicious
+comment:  chicken
+comment:  soup
+comment:  drink
+comment:  hot
+comment:  taste
+comment:  cinnamon
+comment:  drink
+comment:  cold
+comment:  delicious
+food 	0.572189765672
+cup 	0.44083908
+coffee 	0.5221085
+
+
+cluster  3 :
+comment:  miam
+comment:  miam
+comment:  rahi
+comment:  kayu
+comment:  manis
+comment:  seger
+comment:  atole
+comment:  throath
+comment:  mau
+
+
+cluster  4 :
+comment:  sewer
+comment:  sewer
+comment:  sewer
+
+
+cluster  5 :
+comment:  like
+comment:  actually
+comment:  look
+comment:  like
+comment:  simply
+comment:  love
+comment:  mind
+comment:  perfect
+comment:  like
+comment:  try
+comment:  good
+comment:  look
+comment:  like
+comment:  come
+comment:  look
+comment:  good
+comment:  love
+comment:  great
+
+100091697767366769792.5822995409809596994
+a bowl of food with a spoon in it 
+
+matrix comment dim (38, 38)
+
+
+cluster  0 :
+CAPTION: bowl
+CAPTION: food
+CAPTION: spoon
+comment:  tasty
+comment:  yum
+comment:  bath
+comment:  rice
+comment:  fresh
+comment:  coriander
+comment:  leaf
+comment:  tomato
+comment:  pulse
+comment:  rice
+bowl 	0.38518077
+food 	0.38531953
+spoon 	0.37048882
+
+
+cluster  1 :
+comment:  cx
+comment:  nicole
+comment:  ini
+comment:  nasi
+comment:  apa
+comment:  kelhatannya
+comment:  enak
+comment:  hhhmm
+comment:  nasi
+comment:  ayam
+comment:  indonesia
+comment:  yuummy
+comment:  bisbilla
+comment:  papad
+
+
+cluster  2 :
+comment:  wow
+comment:  wonderfull
+comment:  enjoy
+comment:  life
+comment:  look
+comment:  like
+comment:  simply
+comment:  hmm
+comment:  look
+comment:  like
+comment:  piece
+comment:  etc
+comment:  look
+comment:  wonderfull
+
+100091697767366769792.5817498641962137842
+a group of people sitting on a bench with their cell phones 
+
+matrix comment dim (43, 43)
+
+
+cluster  0 :
+comment:  nascar
+comment:  amanda
+comment:  portland
+comment:  elimenat
+
+
+cluster  1 :
+CAPTION: people
+CAPTION: sit
+comment:  miss
+comment:  tell
+comment:  guy
+comment:  need
+comment:  like
+comment:  meet
+comment:  nice
+comment:  believe
+comment:  think
+comment:  time
+comment:  look
+comment:  good
+comment:  hate
+comment:  follow
+comment:  think
+comment:  good
+comment:  luck
+comment:  believe
+comment:  stay
+comment:  hope
+comment:  care
+comment:  learn
+comment:  experience
+people 	0.53528816
+sit 	0.4435181
+
+
+cluster  2 :
+comment:  freitag
+comment:  faulkner
+comment:  faulkner
+comment:  appleman
+comment:  faulkner
+
+
+cluster  3 :
+CAPTION: group
+CAPTION: bench
+CAPTION: cell
+CAPTION: phone
+comment:  sponsor
+comment:  feast
+comment:  woman
+comment:  eliminate
+comment:  winner
+comment:  prediction
+comment:  intense
+comment:  episode
+comment:  competitive
+comment:  talent
+comment:  winning
+group 	0.21537776
+bench 	0.14206725
+cell 	0.12615833
+phone 	0.13418145
+
+100091697767366769792.5831070791937056386
+a plate of food that includes meat and vegetables 
+
+matrix comment dim (99, 99)
+
+
+cluster  0 :
+CAPTION: plate
+CAPTION: food
+CAPTION: meat
+CAPTION: vegetable
+comment:  homemade
+comment:  chicken
+comment:  food
+comment:  taste
+comment:  chicken
+comment:  tender
+comment:  pasta
+comment:  sauce
+comment:  deliciously
+comment:  recipe
+comment:  chicken
+comment:  diet
+comment:  ingredient
+plate 	0.2995535
+food 	0.535158727031
+meat 	0.57423455
+vegetable 	0.5295587
+
+
+cluster  1 :
+CAPTION: include
+comment:  dhat
+comment:  wenaknya
+comment:  yummyy
+comment:  ngon
+comment:  saaaddaaapppp
+comment:  thid
+comment:  yammmmmmmmmy
+comment:  nyumm
+comment:  nyummm
+comment:  nyumm
+comment:  yummyy
+comment:  masiram
+comment:  branco
+comment:  parese
+comment:  seviche
+comment:  peruano
+include 	-0.0709303021431
+
+
+cluster  2 :
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+
+
+cluster  3 :
+comment:  muy
+comment:  bien
+comment:  nom
+comment:  nom
+comment:  nom
+comment:  que
+comment:  del
+comment:  cia
+comment:  el
+
+
+cluster  4 :
+comment:  finger
+comment:  try
+comment:  wish
+comment:  picture
+comment:  stop
+comment:  try
+comment:  night
+comment:  like
+comment:  finger
+comment:  let
+comment:  hard
+
+
+cluster  5 :
+comment:  hungry
+comment:  hungry
+comment:  eat
+comment:  eat
+comment:  eat
+comment:  eat
+comment:  eat
+comment:  hungry
+
+
+cluster  6 :
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  amazing
+comment:  great
+comment:  awesome
+comment:  amazing
+
+
+cluster  7 :
+comment:  sooo
+comment:  luv
+comment:  drool
+comment:  wow
+comment:  dat
+comment:  lol
+comment:  mmmmm
+comment:  yah
+comment:  hahaha
+comment:  mum
+comment:  mum
+
+
+cluster  8 :
+comment:  yummy
+comment:  yummy
+comment:  yum
+comment:  tasty
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yum
+comment:  yum
+comment:  yum
+comment:  yum
+
+100091697767366769792.5802896387005956034
+a slice of pizza sitting on top of a white plate 
+
+matrix comment dim (255, 255)
+
+
+cluster  0 :
+CAPTION: sit
+comment:  feel
+comment:  like
+comment:  look
+comment:  good
+comment:  guess
+comment:  worth
+comment:  try
+comment:  look
+comment:  great
+comment:  people
+comment:  idea
+comment:  look
+comment:  like
+comment:  look
+comment:  good
+comment:  think
+comment:  amazing
+comment:  look
+sit 	0.45261648
+
+
+cluster  1 :
+comment:  ser
+comment:  lo
+comment:  nada
+comment:  te
+comment:  lo
+comment:  nada
+
+
+cluster  2 :
+comment:  cuanta
+comment:  hambre
+comment:  publicidad
+comment:  asco
+comment:  envidia
+comment:  jajajajajajajaja
+comment:  dejar
+comment:  hambre
+comment:  hambre
+comment:  hambre
+comment:  pinta
+comment:  cuantas
+
+
+cluster  3 :
+comment:  ssssssssssssssssssssss
+comment:  ricoooooooooooo
+comment:  acompa
+comment:  antojan
+comment:  jijiji
+comment:  ooowww
+comment:  deliciaus
+comment:  licieux
+comment:  yiiiicoooo
+comment:  penetraci
+comment:  fectos
+comment:  apoyemo
+comment:  wooowwww
+comment:  mm
+comment:  intestino
+comment:  riickoo
+comment:  tambuena
+comment:  wewewewewwewew
+comment:  podr
+comment:  almuercito
+comment:  conzco
+comment:  intestino
+comment:  todita
+comment:  eeeemmmmm
+comment:  exquisitos
+comment:  buana
+comment:  paladare
+comment:  exquisito
+comment:  maldosos
+comment:  antojen
+comment:  ekisita
+comment:  ricoo
+comment:  hambreeeeee
+comment:  aconsejo
+comment:  adecaer
+comment:  almuerso
+comment:  yummmmmy
+comment:  yammmiiiii
+comment:  uyyyyyyy
+comment:  siiii
+
+
+cluster  4 :
+comment:  mmmmm
+comment:  mmmmmm
+comment:  mmmmm
+comment:  mmmmm
+comment:  mmmm
+comment:  mmm
+comment:  mmmmm
+comment:  mmmmm
+comment:  mmm
+
+
+cluster  5 :
+comment:  gente
+comment:  estos
+comment:  menos
+comment:  hoy
+comment:  viendo
+comment:  imagen
+comment:  falta
+comment:  comida
+comment:  queda
+
+
+cluster  6 :
+comment:  una
+comment:  por
+comment:  es
+comment:  una
+comment:  un
+comment:  los
+comment:  si
+comment:  un
+comment:  se
+comment:  para
+comment:  con
+comment:  para
+comment:  para
+comment:  un
+comment:  se
+comment:  se
+comment:  se
+
+
+cluster  7 :
+comment:  rica
+comment:  rico
+comment:  rico
+comment:  rico
+comment:  rico
+comment:  rico
+comment:  rico
+comment:  rico
+
+
+cluster  8 :
+comment:  yom
+comment:  yom
+comment:  neos
+comment:  garfield
+comment:  yami
+comment:  ambre
+comment:  yomi
+
+
+cluster  9 :
+comment:  que
+comment:  que
+comment:  que
+comment:  que
+comment:  que
+comment:  que
+comment:  que
+comment:  como
+comment:  como
+comment:  que
+comment:  que
+comment:  que
+comment:  que
+comment:  que
+comment:  que
+comment:  que
+comment:  que
+
+
+cluster  10 :
+CAPTION: pizza
+comment:  yummy
+comment:  lovely
+comment:  eat
+comment:  yummy
+comment:  taste
+comment:  hungry
+comment:  delicious
+comment:  delicious
+pizza 	0.49970692
+
+
+cluster  11 :
+comment:  hi
+comment:  ve
+comment:  ve
+comment:  ve
+
+
+cluster  12 :
+CAPTION: white
+CAPTION: plate
+comment:  cultural
+comment:  starve
+comment:  paint
+comment:  lantern
+comment:  bomb
+comment:  unfair
+comment:  office
+comment:  share
+white 	0.22373582
+plate 	0.14479469
+
+
+cluster  13 :
+comment:  mmmmmmmmmmmmm
+comment:  wowww
+comment:  yummmmm
+comment:  yummmm
+comment:  yummm
+comment:  recepie
+comment:  delicios
+comment:  hummmm
+
+
+cluster  14 :
+comment:  delicia
+comment:  deliciosa
+comment:  delicia
+comment:  delicia
+comment:  delicia
+comment:  delicia
+comment:  delicia
+
+
+cluster  15 :
+comment:  de
+comment:  en
+comment:  de
+comment:  en
+comment:  de
+comment:  est
+comment:  est
+
+
+cluster  16 :
+comment:  esta
+comment:  muy
+comment:  pero
+comment:  buena
+comment:  mucho
+comment:  muy
+comment:  buena
+comment:  muy
+comment:  bien
+
+
+cluster  17 :
+comment:  ensalada
+comment:  maldad
+comment:  riko
+comment:  riko
+comment:  trampa
+comment:  mortales
+comment:  idiomas
+comment:  provecho
+comment:  asqueroso
+comment:  adonde
+comment:  riko
+comment:  calorias
+
+
+cluster  18 :
+comment:  dia
+comment:  mi
+comment:  va
+comment:  va
+comment:  da
+comment:  mal
+comment:  mi
+
+
+cluster  19 :
+comment:  horrible
+comment:  retard
+
+
+cluster  20 :
+CAPTION: slice
+comment:  lasagna
+comment:  sandwich
+comment:  leftover
+comment:  lasagna
+comment:  yam
+comment:  yam
+slice 	0.425041
+
+
+cluster  21 :
+comment:  hay
+comment:  yo
+comment:  yo
+comment:  yo
+comment:  ay
+comment:  comer
+comment:  mama
+
+
+cluster  22 :
+comment:  ada
+comment:  lt
+comment:  frm
+comment:  itz
+comment:  robert
+comment:  jack
+
+
+cluster  23 :
+comment:  jejeje
+comment:  buen
+comment:  parece
+comment:  quiero
+comment:  jajaja
+comment:  parece
+comment:  quiero
+comment:  eso
+comment:  tengo
+comment:  tengo
+comment:  jeje
+comment:  asi
+comment:  eso
+comment:  tiene
+comment:  jeje
+
+
+cluster  24 :
+comment:  la
+comment:  la
+comment:  la
+comment:  la
+comment:  la
+comment:  la
+
+100091697767366769792.5804319463597755330
+a man in a suit and tie is holding a camera 
+
+matrix comment dim (59, 59)
+
+
+cluster  0 :
+CAPTION: suit
+CAPTION: tie
+CAPTION: camera
+comment:  count
+comment:  straighten
+comment:  glass
+comment:  hire
+comment:  camera
+comment:  operator
+comment:  wardrobe
+comment:  stat
+comment:  lens
+comment:  usage
+comment:  high
+comment:  gravity
+comment:  camera
+suit 	0.22966172
+tie 	0.18567687
+camera 	0.371344291247
+
+
+cluster  1 :
+comment:  cough
+comment:  cough
+comment:  dang
+comment:  hair
+comment:  tom
+comment:  cheese
+comment:  monkey
+comment:  brown
+comment:  father
+comment:  lean
+comment:  dirty
+comment:  ginger
+comment:  cook
+comment:  wine
+
+
+cluster  2 :
+comment:  alton
+comment:  anita
+comment:  christel
+comment:  douse
+comment:  booger
+comment:  yam
+
+
+cluster  3 :
+comment:  hola
+comment:  salam
+comment:  salut
+comment:  quoi
+comment:  neuf
+comment:  moi
+comment:  est
+comment:  la
+
+
+cluster  4 :
+CAPTION: man
+CAPTION: hold
+comment:  lose
+comment:  look
+comment:  ok
+comment:  sorry
+comment:  man
+comment:  help
+comment:  like
+comment:  come
+comment:  thing
+comment:  lol
+comment:  little
+comment:  swear
+comment:  way
+comment:  look
+comment:  good
+comment:  think
+comment:  man
+comment:  funny
+man 	0.513700094488
+hold 	0.41412058
+
+100091697767366769792.5831446774374847602
+two hot dogs with mustard and ketchup on a plate 
+
+matrix comment dim (121, 121)
+
+
+cluster  0 :
+comment:  turmoil
+comment:  dolme
+comment:  emmmmm
+comment:  yummiiiii
+comment:  kwkwkkw
+comment:  arequipe
+comment:  olivero
+comment:  eemmmm
+
+
+cluster  1 :
+comment:  look
+comment:  like
+comment:  prefer
+comment:  cute
+comment:  look
+comment:  look
+comment:  look
+comment:  love
+comment:  favorite
+comment:  favorite
+comment:  little
+comment:  look
+comment:  lovely
+comment:  want
+comment:  try
+
+
+cluster  2 :
+CAPTION: mustard
+CAPTION: ketchup
+comment:  tomato
+comment:  onion
+comment:  zucchini
+comment:  chile
+comment:  pepper
+comment:  pepper
+comment:  pepper
+comment:  pepper
+mustard 	0.6768997
+ketchup 	0.589171
+
+
+cluster  3 :
+comment:  salad
+comment:  yummy
+comment:  yummy
+comment:  recipe
+comment:  delicious
+comment:  pizza
+comment:  delicious
+comment:  yummy
+comment:  eat
+comment:  delicious
+comment:  delicious
+
+
+cluster  4 :
+comment:  mmm
+comment:  ahhh
+comment:  wanna
+comment:  oh
+comment:  mmmm
+comment:  wanna
+comment:  umm
+comment:  hmmm
+comment:  soooo
+
+
+cluster  5 :
+comment:  uhhhh
+comment:  char
+comment:  ala
+comment:  tuh
+comment:  woot
+comment:  san
+comment:  francisco
+comment:  ala
+comment:  korea
+comment:  que
+comment:  rico
+comment:  april
+
+
+cluster  6 :
+comment:  good
+comment:  stuff
+comment:  nice
+comment:  good
+comment:  good
+comment:  stuff
+comment:  pretty
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  nice
+comment:  stuff
+
+
+cluster  7 :
+comment:  makanan
+comment:  mna
+comment:  zahra
+comment:  dari
+comment:  negara
+comment:  gw
+comment:  pppp
+comment:  yummi
+
+
+cluster  8 :
+comment:  relleno
+comment:  pasilla
+comment:  rocoto
+comment:  relleno
+
+
+cluster  9 :
+CAPTION: hot
+CAPTION: plate
+comment:  variation
+comment:  grain
+comment:  wild
+comment:  extra
+comment:  lean
+comment:  healthy
+comment:  prepare
+comment:  mouth
+comment:  watering
+comment:  oily
+hot 	0.3166322
+plate 	0.24856119
+
+
+cluster  10 :
+CAPTION: dog
+comment:  ill
+comment:  country
+comment:  course
+comment:  usually
+comment:  print
+comment:  comment
+comment:  old
+comment:  day
+comment:  work
+comment:  boy
+comment:  haven
+comment:  hat
+dog 	0.30865034
+
+
+cluster  11 :
+comment:  peel
+comment:  cup
+comment:  mixture
+comment:  rice
+comment:  beef
+comment:  green
+comment:  bell
+comment:  dish
+comment:  jasmine
+comment:  bell
+comment:  red
+
+100091697767366769792.5806998509211453090
+a piece of cake on a plate with a fork 
+
+matrix comment dim (57, 57)
+
+
+cluster  0 :
+CAPTION: cake
+comment:  pie
+comment:  yum
+comment:  hungry
+comment:  delicious
+comment:  hmm
+comment:  delicious
+comment:  hungry
+comment:  mmm
+comment:  soooo
+comment:  cream
+comment:  yummy
+comment:  ohh
+comment:  eat
+comment:  hungry
+comment:  pie
+cake 	0.47372106
+
+
+cluster  1 :
+comment:  nice
+comment:  good
+comment:  feel
+comment:  good
+comment:  good
+comment:  nice
+comment:  need
+comment:  yeah
+comment:  good
+comment:  good
+comment:  love
+comment:  nice
+comment:  confused
+comment:  read
+comment:  stuff
+comment:  lot
+comment:  realize
+comment:  like
+
+
+cluster  2 :
+comment:  gz
+comment:  piture
+comment:  nyamanna
+comment:  mm
+comment:  deluio
+comment:  yummmy
+comment:  maknyo
+comment:  mmmmmmm
+comment:  yoyo
+comment:  yolo
+
+
+cluster  3 :
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+
+
+cluster  4 :
+CAPTION: piece
+CAPTION: plate
+CAPTION: fork
+comment:  ice
+comment:  thanksgiving
+comment:  late
+comment:  canadian
+comment:  canada
+piece 	0.16605279
+plate 	0.19605342
+fork 	0.13660778
+
+100091697767366769792.5838120172526661042
+a piece of cake on a plate with a fork 
+
+matrix comment dim (758, 758)
+
+
+cluster  0 :
+comment:  soooooooo
+comment:  hi
+comment:  ooo
+comment:  heehee
+comment:  cud
+comment:  heehee
+comment:  joe
+comment:  dat
+comment:  lov
+comment:  dat
+comment:  yo
+comment:  xx
+comment:  dat
+comment:  sooooooooo
+comment:  plz
+comment:  knw
+comment:  makin
+comment:  hv
+comment:  thay
+comment:  um
+comment:  nd
+comment:  awww
+comment:  woo
+
+
+cluster  1 :
+comment:  sweet
+comment:  taste
+comment:  sweet
+comment:  tempting
+comment:  taste
+comment:  sweet
+comment:  tempting
+comment:  taste
+comment:  sweet
+
+
+cluster  2 :
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+
+
+cluster  3 :
+comment:  wish
+comment:  know
+comment:  try
+comment:  wish
+comment:  wish
+comment:  wish
+comment:  want
+comment:  want
+comment:  wish
+comment:  want
+comment:  want
+comment:  want
+comment:  try
+comment:  need
+comment:  wish
+comment:  know
+comment:  want
+comment:  know
+comment:  want
+comment:  want
+comment:  everybody
+comment:  tell
+comment:  believe
+comment:  let
+comment:  wish
+comment:  want
+comment:  wish
+comment:  want
+comment:  need
+comment:  know
+comment:  come
+comment:  want
+comment:  want
+
+
+cluster  4 :
+comment:  delisous
+comment:  xppp
+comment:  calunsag
+comment:  hchh
+comment:  sssssooooo
+comment:  thix
+comment:  emmmp
+comment:  yummmmoooo
+comment:  hummmmmm
+comment:  mhhmm
+comment:  browniesssssss
+comment:  ymmmm
+comment:  gimmmeee
+comment:  buhm
+comment:  brownnie
+comment:  yumiful
+comment:  neone
+comment:  chuyen
+comment:  oooom
+comment:  riqu
+comment:  sabirpiya
+comment:  yumylicious
+comment:  hungryy
+comment:  mustttttt
+comment:  nottttttt
+comment:  intoooo
+comment:  kitchennnnn
+comment:  vanthang
+comment:  delious
+comment:  tiep
+comment:  hunry
+comment:  yyyyyuuuummm
+comment:  fezor
+comment:  hungrey
+comment:  chocolote
+comment:  doi
+comment:  vhj
+comment:  thiet
+comment:  yummyt
+comment:  hjhj
+comment:  ymmmyaiiii
+comment:  tastylet
+
+
+cluster  5 :
+comment:  mmmm
+comment:  yum
+comment:  yum
+comment:  yum
+comment:  yum
+comment:  yum
+comment:  yum
+comment:  delish
+comment:  yum
+comment:  yum
+comment:  yum
+comment:  yum
+comment:  mmmm
+comment:  yum
+comment:  yum
+comment:  yum
+comment:  mmmm
+comment:  yum
+comment:  yum
+comment:  mmmmm
+comment:  yum
+comment:  yum
+comment:  mmm
+comment:  yum
+comment:  yum
+comment:  yum
+comment:  yum
+comment:  delish
+comment:  delish
+comment:  yum
+comment:  yum
+
+
+cluster  6 :
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  nice
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  nice
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  great
+comment:  great
+comment:  good
+comment:  great
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  nice
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  nice
+comment:  good
+comment:  good
+comment:  nice
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+
+
+cluster  7 :
+comment:  summit
+comment:  shouldn
+comment:  mart
+comment:  temp
+comment:  la
+comment:  ban
+comment:  ipad
+comment:  con
+comment:  cam
+comment:  hay
+comment:  rat
+comment:  doc
+comment:  hay
+
+
+cluster  8 :
+comment:  butter
+comment:  recipe
+comment:  bake
+comment:  bake
+comment:  strawberry
+comment:  recipe
+comment:  recipe
+comment:  recipe
+comment:  cream
+comment:  milk
+
+
+cluster  9 :
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+
+
+cluster  10 :
+comment:  wow
+comment:  tht
+comment:  omg
+comment:  tht
+comment:  tht
+comment:  soooo
+comment:  ahh
+comment:  omg
+comment:  omg
+comment:  hmmm
+comment:  wow
+comment:  omg
+comment:  soo
+comment:  wow
+comment:  ahh
+comment:  hmmm
+comment:  soo
+comment:  tht
+comment:  dang
+comment:  wow
+comment:  omg
+comment:  sooooooo
+comment:  ah
+comment:  omg
+comment:  soooo
+comment:  hmmm
+
+
+cluster  11 :
+comment:  hungry
+comment:  hungry
+comment:  hungry
+comment:  hungry
+comment:  hungry
+comment:  hungry
+comment:  hungry
+comment:  hungry
+comment:  hungry
+comment:  hungry
+comment:  hungry
+comment:  hungry
+comment:  hungry
+comment:  hungry
+
+
+cluster  12 :
+comment:  choclate
+comment:  choco
+comment:  choc
+
+
+cluster  13 :
+comment:  wal
+comment:  tra
+comment:  cld
+comment:  rummy
+comment:  ik
+comment:  num
+comment:  num
+comment:  ce
+comment:  qua
+comment:  lt
+comment:  qua
+comment:  qu
+comment:  lu
+comment:  tum
+comment:  theo
+comment:  nao
+comment:  bung
+
+
+cluster  14 :
+comment:  yummmm
+comment:  yumm
+comment:  yumm
+comment:  delcious
+comment:  yumm
+comment:  yummmy
+comment:  yumm
+comment:  delicous
+comment:  yummm
+comment:  mmmmmm
+comment:  yummmy
+comment:  delicous
+comment:  mmmmmmmm
+comment:  yummmm
+
+
+cluster  15 :
+comment:  bronie
+comment:  zagat
+comment:  ngon
+comment:  woulf
+comment:  hmp
+comment:  manca
+comment:  ngon
+comment:  ngon
+comment:  simo
+comment:  cafecito
+comment:  tuy
+comment:  bych
+comment:  dala
+comment:  mank
+comment:  nhu
+comment:  ngon
+comment:  ngon
+
+
+cluster  16 :
+comment:  bomb
+comment:  weakness
+comment:  weak
+comment:  brighten
+comment:  porn
+comment:  sudden
+comment:  finger
+comment:  shut
+comment:  wife
+comment:  asleep
+comment:  double
+comment:  count
+comment:  afternoon
+comment:  suspiciously
+comment:  weed
+
+
+cluster  17 :
+CAPTION: plate
+CAPTION: fork
+comment:  ingredient
+comment:  ingredient
+comment:  addictive
+comment:  batter
+comment:  ingredient
+comment:  lush
+comment:  gluten
+comment:  cup
+comment:  pound
+comment:  calorie
+comment:  ice
+comment:  crust
+comment:  crust
+comment:  donut
+comment:  sprinkle
+comment:  cherry
+plate 	0.2597868
+fork 	0.21764553
+
+
+cluster  18 :
+comment:  eat
+comment:  eat
+comment:  eat
+comment:  eat
+comment:  eat
+comment:  eat
+comment:  eat
+comment:  eat
+comment:  eat
+comment:  eat
+comment:  eat
+comment:  eat
+comment:  eat
+comment:  eat
+comment:  eat
+comment:  eat
+
+
+cluster  19 :
+comment:  oh
+comment:  oh
+comment:  alot
+comment:  hey
+comment:  wait
+comment:  yes
+comment:  oh
+comment:  lol
+comment:  wait
+comment:  lol
+comment:  ok
+comment:  wanna
+comment:  yes
+comment:  yes
+comment:  wanna
+comment:  oh
+comment:  lol
+comment:  kinda
+comment:  lol
+comment:  oh
+
+
+cluster  20 :
+comment:  happy
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  totally
+comment:  love
+
+
+cluster  21 :
+comment:  omigosh
+comment:  chessy
+comment:  omnomnom
+comment:  yummmmy
+comment:  yammy
+comment:  delicios
+comment:  kiding
+comment:  goooo
+comment:  nowww
+comment:  yumyum
+comment:  sarap
+comment:  yammy
+comment:  hungy
+comment:  yumi
+
+
+cluster  22 :
+comment:  delicious
+comment:  delicious
+comment:  delicious
+comment:  delicious
+comment:  delicious
+comment:  delicious
+comment:  delicious
+comment:  delicious
+comment:  tasty
+comment:  scrumptious
+comment:  delicious
+comment:  tasty
+comment:  scrumptious
+comment:  delicious
+comment:  delicious
+comment:  tasty
+comment:  delicious
+comment:  tasty
+comment:  delicious
+comment:  delicious
+comment:  delicious
+comment:  scrumptious
+comment:  delicious
+comment:  delicious
+comment:  delicious
+comment:  delicious
+
+
+cluster  23 :
+comment:  ng
+comment:  bi
+comment:  ti
+comment:  ng
+comment:  thi
+comment:  co
+comment:  ma
+comment:  marie
+comment:  wa
+comment:  gt
+comment:  wa
+comment:  wa
+comment:  un
+comment:  tak
+comment:  si
+comment:  va
+comment:  se
+comment:  fred
+comment:  wa
+comment:  wa
+
+
+cluster  24 :
+comment:  freak
+comment:  ill
+comment:  bet
+comment:  jealous
+comment:  grab
+comment:  god
+comment:  dark
+comment:  heaven
+comment:  hello
+comment:  thank
+comment:  nasty
+comment:  ill
+comment:  tomorrow
+comment:  grab
+comment:  man
+comment:  girl
+comment:  friend
+comment:  hate
+comment:  heaven
+comment:  heaven
+comment:  picture
+
+
+cluster  25 :
+comment:  paula
+comment:  deen
+comment:  nom
+comment:  nom
+comment:  nom
+comment:  nom
+comment:  nom
+comment:  nom
+
+
+cluster  26 :
+comment:  woow
+comment:  xd
+comment:  noooo
+comment:  luk
+comment:  loook
+comment:  woow
+comment:  o_o
+comment:  gooooood
+comment:  wooow
+comment:  aahh
+comment:  woow
+comment:  woow
+
+
+cluster  27 :
+comment:  like
+comment:  thing
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  definitely
+comment:  think
+comment:  like
+comment:  little
+comment:  bad
+comment:  way
+comment:  like
+comment:  little
+comment:  like
+comment:  like
+comment:  bad
+comment:  like
+comment:  think
+comment:  like
+comment:  sure
+
+
+cluster  28 :
+comment:  gooey
+comment:  brownie
+comment:  brownie
+comment:  brownie
+comment:  brownie
+comment:  brownie
+comment:  brownie
+comment:  brownie
+comment:  brownie
+comment:  brownie
+comment:  brownie
+comment:  brownie
+comment:  brownie
+comment:  brownie
+
+
+cluster  29 :
+CAPTION: cake
+comment:  chocolate
+comment:  chocolate
+comment:  chocolate
+comment:  chocolate
+comment:  cake
+comment:  chocolate
+comment:  cake
+comment:  cake
+comment:  cake
+comment:  chocolate
+comment:  chocolate
+comment:  chocolate
+comment:  chocolate
+comment:  chocolate
+comment:  cake
+comment:  chocolate
+comment:  cake
+comment:  chocolate
+comment:  chocolate
+comment:  cake
+comment:  cake
+comment:  chocolate
+cake 	0.844710761851
+
+
+cluster  30 :
+comment:  naughty
+comment:  drool
+comment:  gasp
+comment:  mouth
+comment:  lick
+comment:  drool
+comment:  lick
+comment:  doggy
+comment:  poo
+comment:  drool
+comment:  xxx
+comment:  whip
+
+
+cluster  31 :
+CAPTION: piece
+comment:  use
+comment:  sell
+comment:  buy
+comment:  today
+comment:  free
+comment:  send
+comment:  write
+comment:  teach
+comment:  buy
+comment:  today
+comment:  use
+comment:  today
+comment:  watch
+comment:  comfort
+comment:  home
+piece 	0.29309466
+
+
+cluster  32 :
+comment:  food
+comment:  food
+comment:  food
+comment:  food
+comment:  breakfast
+comment:  cook
+comment:  breakfast
+comment:  treat
+comment:  food
+comment:  food
+
+
+cluster  33 :
+comment:  wonderful
+comment:  awesome
+comment:  awesome
+comment:  wonderful
+comment:  lovely
+comment:  awesome
+comment:  wonderful
+comment:  beautiful
+comment:  favorite
+comment:  awesome
+comment:  amazingly
+comment:  amazing
+comment:  favorite
+
+
+cluster  34 :
+comment:  kh
+comment:  anh
+comment:  thao
+comment:  cau
+comment:  cua
+comment:  nguyen
+comment:  minh
+comment:  muon
+comment:  ria
+comment:  ght
+
+
+cluster  35 :
+comment:  happen
+comment:  right
+comment:  point
+comment:  day
+comment:  day
+comment:  stop
+comment:  bit
+comment:  day
+comment:  right
+comment:  stop
+comment:  instead
+comment:  leave
+comment:  work
+comment:  right
+comment:  stop
+comment:  time
+comment:  hand
+comment:  right
+comment:  reason
+comment:  right
+comment:  time
+comment:  right
+comment:  time
+
+
+cluster  36 :
+comment:  computer
+comment:  screen
+comment:  network
+comment:  network
+comment:  gain
+comment:  computer
+comment:  square
+comment:  screen
+comment:  bank
+comment:  transport
+comment:  include
+comment:  channel
+
+100091697767366769792.5838165319606408098
+a bowl of food with a spoon in it 
+
+matrix comment dim (129, 129)
+
+
+cluster  0 :
+CAPTION: food
+comment:  eat
+comment:  eat
+comment:  recipe
+comment:  cook
+comment:  tasty
+comment:  recipe
+comment:  recipe
+food 	0.60501844
+
+
+cluster  1 :
+comment:  barbacoa
+comment:  orang
+comment:  sandie
+comment:  kaki
+comment:  ovo
+comment:  crni
+comment:  luka
+comment:  perot
+comment:  jadi
+comment:  pha
+comment:  thu
+comment:  rita
+
+
+cluster  2 :
+comment:  anymore
+comment:  know
+comment:  people
+comment:  yes
+comment:  like
+comment:  like
+comment:  look
+comment:  good
+comment:  reason
+comment:  look
+comment:  try
+comment:  great
+comment:  pretty
+comment:  love
+comment:  look
+comment:  great
+comment:  like
+comment:  forget
+comment:  fact
+comment:  look
+comment:  good
+comment:  good
+comment:  know
+
+
+cluster  3 :
+CAPTION: bowl
+CAPTION: spoon
+comment:  prepare
+comment:  gas
+comment:  wood
+comment:  charcoal
+comment:  smoke
+comment:  dry
+comment:  rub
+comment:  heat
+comment:  shred
+bowl 	0.30330226
+spoon 	0.28063202
+
+
+cluster  4 :
+comment:  pork
+comment:  pork
+comment:  meat
+comment:  pork
+comment:  pork
+comment:  pork
+comment:  meat
+comment:  pork
+comment:  pork
+comment:  meat
+comment:  beef
+comment:  chicken
+comment:  pork
+comment:  beef
+
+
+cluster  5 :
+comment:  clear
+comment:  word
+comment:  suggestion
+comment:  use
+comment:  suggest
+comment:  refer
+comment:  correct
+comment:  correct
+comment:  correct
+comment:  correct
+
+
+cluster  6 :
+comment:  rob
+comment:  duke
+comment:  hehehehe
+comment:  harris
+comment:  rob
+comment:  duke
+comment:  ooh
+comment:  rob
+comment:  pierce
+
+
+cluster  7 :
+comment:  noodle
+comment:  bbq
+comment:  grill
+comment:  oven
+comment:  bbq
+comment:  delish
+comment:  chipotle
+comment:  bbq
+comment:  bbq
+comment:  bbq
+
+
+cluster  8 :
+comment:  tired
+comment:  game
+comment:  thank
+comment:  nasty
+comment:  friend
+comment:  kid
+comment:  hate
+comment:  old
+comment:  school
+comment:  don
+comment:  amazing
+comment:  hey
+
+
+cluster  9 :
+comment:  masakan
+comment:  kuburan
+comment:  waduhhh
+comment:  lapar
+comment:  neeee
+comment:  masakan
+
+
+cluster  10 :
+comment:  indicate
+comment:  political
+comment:  correctness
+comment:  expression
+comment:  politically
+comment:  politically
+
+
+cluster  11 :
+comment:  usually
+comment:  half
+comment:  plenty
+comment:  easy
+comment:  instead
+comment:  pull
+comment:  pull
+comment:  literally
+comment:  rarely
+comment:  pull
+comment:  pull
+
+100091697767366769792.5813015901336766034
+a plate of food that includes meat and broccoli 
+
+matrix comment dim (126, 126)
+
+
+cluster  0 :
+comment:  christmas
+comment:  holly
+comment:  christmas
+comment:  snowman
+comment:  holly
+comment:  christmas
+comment:  christmas
+comment:  christmas
+comment:  reindeer
+
+
+cluster  1 :
+CAPTION: plate
+comment:  ball
+comment:  roll
+comment:  ball
+comment:  roll
+comment:  ball
+comment:  ball
+comment:  ball
+plate 	0.43670225
+
+
+cluster  2 :
+comment:  apaan
+comment:  croqeumbouche
+comment:  zeppoli
+comment:  crocumbuche
+comment:  croconboiche
+comment:  everpuff
+comment:  croconbouche
+comment:  profiterol
+comment:  crouque
+
+
+cluster  3 :
+comment:  bon
+comment:  bon
+comment:  bon
+comment:  bon
+comment:  bon
+comment:  bon
+
+
+cluster  4 :
+CAPTION: include
+comment:  win
+comment:  er
+comment:  effing
+comment:  auto
+comment:  correct
+comment:  ton
+comment:  mas
+comment:  en
+comment:  cover
+comment:  hahaha
+include 	0.062470883
+
+
+cluster  5 :
+comment:  tree
+comment:  tree
+comment:  tree
+comment:  tree
+comment:  tree
+comment:  tree
+
+
+cluster  6 :
+comment:  snow
+comment:  snow
+comment:  mountain
+comment:  snow
+comment:  mountain
+comment:  snowy
+comment:  snowy
+comment:  mountain
+comment:  snow
+
+
+cluster  7 :
+comment:  look
+comment:  exactly
+comment:  like
+comment:  cute
+comment:  let
+comment:  know
+comment:  look
+comment:  fantastic
+comment:  oh
+comment:  wow
+comment:  amazing
+comment:  fun
+comment:  look
+comment:  good
+comment:  miss
+comment:  great
+comment:  nice
+
+
+cluster  8 :
+comment:  matterhorn
+comment:  nih
+comment:  kek
+comment:  tokay
+comment:  dominick
+comment:  holli
+comment:  herbed
+comment:  feliz
+comment:  navi
+comment:  treee
+comment:  yummmmmm
+comment:  bouche
+comment:  apa
+comment:  ini
+
+
+cluster  9 :
+comment:  bush
+comment:  climb
+comment:  hill
+comment:  rocky
+comment:  tower
+comment:  drift
+comment:  magic
+comment:  mount
+comment:  tower
+comment:  luxury
+comment:  rough
+comment:  pyramid
+
+
+cluster  10 :
+comment:  bally
+comment:  carl
+comment:  anderson
+comment:  scat
+comment:  bally
+comment:  golly
+comment:  molly
+comment:  buddha
+
+
+cluster  11 :
+CAPTION: food
+CAPTION: meat
+CAPTION: broccoli
+comment:  eat
+comment:  crock
+comment:  cream
+comment:  puff
+comment:  eat
+comment:  food
+comment:  heavenly
+comment:  treat
+comment:  rice
+comment:  dough
+comment:  yummy
+comment:  puff
+comment:  bread
+comment:  cream
+comment:  puff
+comment:  yum
+comment:  yum
+comment:  yum
+comment:  sweet
+food 	0.445738601841
+meat 	0.4633487
+broccoli 	0.41271883
+
+100091697767366769792.5821482693937353538
+a piece of bread is on a cutting board 
+
+matrix comment dim (68, 68)
+
+
+cluster  0 :
+comment:  fot
+comment:  miam
+comment:  ea
+comment:  flintstone
+comment:  enak
+comment:  baget
+comment:  tuh
+comment:  phia
+comment:  salam
+comment:  kenal
+comment:  ami
+comment:  ami
+comment:  mnami
+comment:  enak
+comment:  bnget
+
+
+cluster  1 :
+comment:  hey
+comment:  wow
+comment:  hi
+comment:  xmas
+comment:  lol
+comment:  sexy
+comment:  lol
+comment:  drool
+
+
+cluster  2 :
+CAPTION: bread
+comment:  eat
+comment:  delicious
+comment:  delicious
+comment:  yummy
+comment:  taste
+comment:  food
+comment:  delicous
+comment:  turkey
+comment:  delicious
+comment:  meat
+comment:  yummy
+bread 	0.5736354
+
+
+cluster  3 :
+comment:  yum
+comment:  yum
+comment:  yum
+comment:  yum
+comment:  yum
+comment:  yum
+comment:  yum
+comment:  yum
+
+
+cluster  4 :
+CAPTION: piece
+CAPTION: cutting
+CAPTION: board
+comment:  page
+comment:  brother
+comment:  rack
+comment:  downright
+comment:  network
+comment:  portion
+comment:  day
+comment:  lifetime
+comment:  particular
+comment:  type
+comment:  medium
+comment:  rare
+piece 	0.30566707
+cutting 	0.24151368
+board 	0.22658317
+
+
+cluster  5 :
+comment:  look
+comment:  good
+comment:  look
+comment:  good
+comment:  look
+comment:  wait
+comment:  look
+comment:  wonder
+comment:  like
+comment:  look
+comment:  think
+comment:  look
+comment:  try
+comment:  want
+
+100091697767366769792.5838534557439395618
+a plate of food with meat and vegetables 
+
+matrix comment dim (160, 160)
+
+
+cluster  0 :
+comment:  pinta
+comment:  dieta
+comment:  probado
+comment:  alg
+comment:  pengen
+comment:  favorita
+comment:  ghassan
+comment:  sabroso
+comment:  buono
+comment:  guez
+comment:  receta
+
+
+cluster  1 :
+comment:  great
+comment:  totally
+comment:  perfect
+comment:  right
+comment:  favorite
+comment:  love
+comment:  good
+comment:  good
+comment:  good
+
+
+cluster  2 :
+comment:  buena
+comment:  tiene
+comment:  fuera
+comment:  gusta
+comment:  comida
+comment:  esa
+comment:  eso
+
+
+cluster  3 :
+comment:  notell
+comment:  delious
+comment:  uhnnn
+comment:  jijijiii
+comment:  parmesano
+comment:  berenjena
+comment:  tendr
+comment:  intentarlo
+comment:  beatutiful
+comment:  strand
+comment:  zulkifi
+comment:  ricipe
+comment:  mantap
+comment:  kayanya
+comment:  yoconda
+comment:  rodr
+comment:  enviame
+comment:  yammm
+comment:  tragone
+
+
+cluster  4 :
+CAPTION: vegetable
+comment:  eggplant
+comment:  parmesan
+comment:  chickpea
+comment:  pinch
+vegetable 	0.46476626
+
+
+cluster  5 :
+CAPTION: food
+CAPTION: meat
+comment:  chicken
+comment:  dish
+comment:  cheesy
+comment:  cheese
+comment:  hungry
+comment:  eat
+comment:  lunch
+comment:  hungry
+comment:  lunch
+food 	0.5466331
+meat 	0.5414369
+
+
+cluster  6 :
+comment:  chan
+comment:  ve
+comment:  mi
+comment:  ve
+comment:  fa
+
+
+cluster  7 :
+comment:  delicious
+comment:  recipe
+comment:  delicious
+comment:  yummy
+comment:  delicious
+comment:  yum
+comment:  recipe
+comment:  yummy
+comment:  recipe
+comment:  delicious
+comment:  yummy
+comment:  yummy
+comment:  recipe
+comment:  delicious
+comment:  delicious
+
+
+cluster  8 :
+comment:  angelica
+comment:  pollo
+comment:  jadi
+comment:  hahahha
+comment:  loook
+comment:  ahmad
+comment:  mmmmmmmmmmmm
+comment:  yummmy
+comment:  wiil
+comment:  cristina
+comment:  perez
+comment:  whatev
+comment:  yumyum
+
+
+cluster  9 :
+comment:  send
+comment:  email
+comment:  address
+comment:  send
+comment:  send
+comment:  send
+
+
+cluster  10 :
+CAPTION: plate
+comment:  week
+comment:  meet
+comment:  lighten
+comment:  mid
+comment:  east
+comment:  alley
+comment:  shot
+comment:  plate
+comment:  home
+comment:  add
+comment:  day
+comment:  yesterday
+plate 	0.256675689792
+
+
+cluster  11 :
+comment:  don
+comment:  hmm
+comment:  mmm
+comment:  fav
+comment:  ohh
+comment:  don
+comment:  super
+comment:  haha
+comment:  ummm
+
+
+cluster  12 :
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+
+
+cluster  13 :
+comment:  que
+comment:  mas
+comment:  si
+comment:  por
+comment:  la
+comment:  el
+comment:  pero
+comment:  lo
+comment:  con
+comment:  que
+comment:  se
+comment:  de
+comment:  por
+comment:  que
+comment:  es
+
+
+cluster  14 :
+comment:  like
+comment:  anybody
+comment:  yes
+comment:  thing
+comment:  maybe
+comment:  sorry
+comment:  know
+comment:  want
+comment:  wish
+comment:  tell
+comment:  think
+comment:  maybe
+comment:  okay
+comment:  wait
+comment:  like
+
+
+cluster  15 :
+comment:  dam
+comment:  gt
+comment:  gt
+
+100091697767366769792.5829947613036760386
+a pizza sitting on top of a white plate 
+
+matrix comment dim (92, 92)
+
+
+cluster  0 :
+CAPTION: sit
+CAPTION: white
+comment:  depend
+comment:  mood
+comment:  winter
+comment:  hate
+comment:  boy
+comment:  soon
+comment:  special
+comment:  post
+comment:  funny
+sit 	0.33697397
+white 	0.26400825
+
+
+cluster  1 :
+CAPTION: pizza
+comment:  homemade
+comment:  beef
+comment:  stew
+comment:  cheddar
+comment:  mash
+comment:  potato
+comment:  homemade
+comment:  chili
+comment:  creamy
+comment:  potato
+comment:  bake
+comment:  roast
+comment:  chicken
+comment:  veggie
+comment:  dessert
+comment:  bread
+comment:  butter
+comment:  pudding
+comment:  chili
+comment:  vegetable
+comment:  dish
+comment:  dish
+comment:  beef
+comment:  curry
+comment:  bread
+comment:  oven
+comment:  chili
+pizza 	0.5303532
+
+
+cluster  2 :
+comment:  muuuuum
+comment:  lookss
+comment:  makkkk
+comment:  nyuuussss
+comment:  niaannn
+comment:  brrrooooowwwwwww
+comment:  deligous
+comment:  nyummmmyyyyy
+comment:  garma
+
+
+cluster  3 :
+comment:  delicious
+comment:  food
+comment:  cold
+comment:  hot
+comment:  delicious
+comment:  taste
+comment:  hot
+comment:  food
+comment:  yummy
+comment:  warm
+comment:  coffee
+comment:  hot
+
+
+cluster  4 :
+comment:  pip
+comment:  buat
+comment:  makan
+comment:  malam
+comment:  yummmy
+comment:  muh
+comment:  pani
+comment:  aa
+comment:  gya
+comment:  nihari
+
+
+cluster  5 :
+comment:  nice
+comment:  favorite
+comment:  look
+comment:  want
+comment:  look
+comment:  like
+comment:  look
+comment:  good
+comment:  like
+comment:  way
+comment:  look
+comment:  definitely
+comment:  try
+
+
+cluster  6 :
+comment:  yum
+comment:  yum
+comment:  yum
+comment:  yum
+
+
+cluster  7 :
+comment:  dumpling
+comment:  garam
+comment:  naan
+comment:  cuppa
+
+
+cluster  8 :
+CAPTION: plate
+comment:  contain
+comment:  translation
+comment:  clay
+comment:  pour
+plate 	0.20888269
+
+100091697767366769792.5836354476811749346
+a hot dog with mustard and ketchup on a plate 
+
+matrix comment dim (49, 49)
+
+
+cluster  0 :
+CAPTION: hot
+CAPTION: dog
+CAPTION: plate
+comment:  win
+comment:  fo
+comment:  spell
+comment:  tip
+comment:  soooooo
+comment:  wow
+comment:  chinese
+comment:  write
+comment:  english
+hot 	0.2623648
+dog 	0.23202522
+plate 	0.1697224
+
+
+cluster  1 :
+comment:  nyam
+comment:  nyam
+comment:  siomay
+comment:  jakir
+comment:  dauwa
+comment:  emmmm
+comment:  nthing
+comment:  nw
+comment:  nyamiiii
+comment:  dimsum
+
+
+cluster  2 :
+comment:  hey
+comment:  great
+comment:  thank
+comment:  favorite
+comment:  place
+comment:  right
+comment:  like
+comment:  look
+comment:  good
+comment:  look
+comment:  love
+comment:  love
+comment:  look
+comment:  good
+comment:  nice
+comment:  feeling
+comment:  love
+comment:  thank
+comment:  like
+comment:  favorite
+
+
+cluster  3 :
+CAPTION: mustard
+CAPTION: ketchup
+comment:  meal
+comment:  dumpling
+comment:  yummy
+comment:  yum
+comment:  yum
+comment:  delicious
+comment:  food
+comment:  dumpling
+comment:  food
+comment:  dish
+mustard 	0.3561238
+ketchup 	0.38932985
+
+100091697767366769792.5840877414093110322
+a man and woman standing in front of a bus 
+
+matrix comment dim (28, 28)
+
+
+cluster  0 :
+CAPTION: bus
+comment:  biz
+comment:  ve
+comment:  tonia
+comment:  addison
+comment:  hall
+comment:  complimentary
+bus 	0.13581337
+
+
+cluster  1 :
+CAPTION: man
+CAPTION: woman
+CAPTION: stand
+comment:  encourage
+comment:  rock
+comment:  love
+comment:  watch
+comment:  guy
+comment:  awesome
+comment:  love
+comment:  good
+comment:  personality
+comment:  food
+comment:  notice
+comment:  wear
+comment:  cute
+comment:  stuff
+comment:  someday
+comment:  like
+comment:  happen
+comment:  favorite
+comment:  people
+comment:  wow
+comment:  outfit
+comment:  like
+man 	0.39191893
+woman 	0.3409993
+stand 	0.37485254
+
+100091697767366769792.5835983293161539634
+a plate of food with a fork on a table 
+
+matrix comment dim (39, 39)
+
+
+cluster  0 :
+CAPTION: plate
+CAPTION: fork
+CAPTION: table
+comment:  nicewhat
+comment:  lempeng
+comment:  ke
+comment:  ye
+comment:  mmmmm
+comment:  east
+comment:  yummmy
+comment:  hm
+comment:  quesadilla
+comment:  roti
+comment:  cane
+comment:  supervision
+comment:  ad
+comment:  rico
+plate 	0.0951368909861
+fork 	0.0951159460736
+table 	0.0711985788574
+
+
+cluster  1 :
+comment:  hahaha
+comment:  want
+comment:  middle
+comment:  goodness
+comment:  look
+comment:  good
+comment:  want
+comment:  like
+comment:  yes
+comment:  life
+comment:  hard
+comment:  help
+comment:  prepare
+
+
+cluster  2 :
+CAPTION: food
+comment:  yummy
+comment:  hungry
+comment:  yummy
+comment:  hungry
+comment:  hungry
+comment:  delicious
+comment:  hungry
+comment:  delicious
+comment:  hungry
+comment:  tasty
+comment:  hungry
+comment:  tasty
+food 	0.5518516
+
+100091697767366769792.5823698866867800866
+a plate with a sandwich and a salad 
+
+matrix comment dim (89, 89)
+
+
+cluster  0 :
+comment:  cud
+comment:  jst
+comment:  lick
+comment:  ohh
+comment:  mas
+comment:  mann
+comment:  tho
+comment:  ash
+comment:  wednesday
+comment:  je
+
+
+cluster  1 :
+CAPTION: plate
+comment:  screen
+comment:  family
+comment:  total
+comment:  delight
+comment:  share
+comment:  secret
+comment:  ideal
+comment:  new
+comment:  year
+plate 	0.17839104
+
+
+cluster  2 :
+comment:  yummy
+comment:  tasty
+comment:  yum
+comment:  yummy
+comment:  delicious
+comment:  yum
+comment:  yum
+comment:  delicious
+comment:  yummy
+comment:  delicious
+
+
+cluster  3 :
+comment:  mmmmmh
+comment:  hungrey
+comment:  yummmm
+comment:  dhat
+comment:  shid
+comment:  mmmmmmmm
+comment:  tako
+comment:  dobro
+comment:  kot
+comment:  izgleda
+
+
+cluster  4 :
+comment:  hope
+comment:  look
+comment:  like
+comment:  think
+comment:  want
+comment:  idea
+comment:  look
+comment:  love
+comment:  excited
+comment:  want
+comment:  want
+comment:  look
+comment:  ok
+comment:  look
+comment:  ready
+comment:  thank
+comment:  know
+
+
+cluster  5 :
+comment:  christmas
+comment:  easter
+comment:  christmas
+comment:  christmas
+comment:  easter
+comment:  christmas
+comment:  christmas
+comment:  merry
+comment:  christmas
+
+
+cluster  6 :
+CAPTION: sandwich
+CAPTION: salad
+comment:  ham
+comment:  cook
+comment:  cook
+comment:  turkey
+comment:  eat
+comment:  ham
+comment:  recipe
+comment:  cooking
+comment:  eat
+comment:  meat
+comment:  fish
+comment:  seafood
+comment:  eat
+comment:  recipe
+comment:  food
+sandwich 	0.52322835
+salad 	0.5922012
+
+
+cluster  7 :
+comment:  enjoy
+comment:  good
+comment:  good
+comment:  great
+comment:  good
+comment:  good
+comment:  great
+comment:  great
+comment:  happy
+
+100091697767366769792.5835689514531295970
+a man and a woman standing in front of a plate of food 
+
+matrix comment dim (35, 35)
+
+
+cluster  0 :
+CAPTION: man
+comment:  wow
+comment:  guy
+comment:  fantastic
+comment:  wow
+comment:  love
+comment:  know
+comment:  kinda
+comment:  love
+comment:  guy
+comment:  hi
+comment:  mean
+comment:  love
+comment:  miss
+comment:  tonight
+comment:  hopefully
+comment:  tonight
+man 	0.44115666
+
+
+cluster  1 :
+CAPTION: woman
+CAPTION: stand
+CAPTION: plate
+CAPTION: food
+comment:  hero
+comment:  personality
+comment:  tip
+comment:  scale
+comment:  tough
+comment:  head
+comment:  strong
+comment:  personality
+comment:  subject
+comment:  team
+comment:  understand
+comment:  meaning
+woman 	0.3087997
+stand 	0.3493483
+plate 	0.1966396
+food 	0.24857539
+
+
+cluster  2 :
+comment:  ftw
+comment:  rachel
+comment:  rachael
+comment:  brian
+comment:  willis
+comment:  saturday
+comment:  rerun
+
+100091697767366769792.5829365679696734898
+a group of people standing in a room 
+
+matrix comment dim (87, 87)
+
+
+cluster  0 :
+CAPTION: group
+CAPTION: room
+comment:  field
+comment:  opportunity
+comment:  create
+comment:  spending
+comment:  wide
+comment:  receiver
+comment:  myriad
+comment:  potential
+comment:  view
+comment:  counting
+comment:  rose
+comment:  competitor
+comment:  enlightening
+comment:  experience
+comment:  culture
+comment:  island
+comment:  player
+group 	0.24468349
+room 	0.2436608
+
+
+cluster  1 :
+comment:  pittsburgh
+comment:  steeler
+comment:  hines
+comment:  kathy
+comment:  rachael
+comment:  guam
+comment:  usa
+comment:  tlc
+comment:  gilbert
+
+
+cluster  2 :
+CAPTION: people
+CAPTION: stand
+comment:  nice
+comment:  simply
+comment:  absolutely
+comment:  miss
+comment:  enjoy
+comment:  love
+comment:  time
+comment:  favorite
+comment:  nice
+comment:  hand
+comment:  start
+comment:  love
+comment:  like
+comment:  fun
+comment:  sure
+comment:  forever
+comment:  great
+comment:  hear
+comment:  husband
+comment:  favorite
+comment:  interesting
+people 	0.46408436
+stand 	0.40860218
+
+
+cluster  3 :
+comment:  hine
+comment:  hine
+comment:  hine
+comment:  hine
+comment:  hine
+
+
+cluster  4 :
+comment:  cook
+comment:  kitchen
+comment:  cooking
+comment:  stir
+comment:  pot
+comment:  cook
+comment:  dish
+comment:  dish
+comment:  chilli
+comment:  cook
+comment:  cook
+
+
+cluster  5 :
+comment:  lol
+comment:  joke
+comment:  funny
+comment:  lol
+comment:  yes
+comment:  guy
+comment:  guy
+comment:  hilarious
+comment:  yes
+comment:  lolz
+comment:  guy
+
+
+cluster  6 :
+comment:  ward
+comment:  ward
+comment:  ward
+comment:  ward
+comment:  ward
+
+
+cluster  7 :
+comment:  amit
+comment:  gihar
+comment:  vs
+comment:  chamorro
+comment:  kadon
+comment:  pika
+comment:  faryal
+comment:  giy
+
+100091697767366769792.5812535342582582338
+a plate of food with a fork and a spoon 
+
+matrix comment dim (94, 94)
+
+
+cluster  0 :
+comment:  amazing
+comment:  enjoy
+comment:  love
+comment:  friend
+comment:  love
+comment:  wait
+comment:  favorite
+comment:  excited
+comment:  favorite
+comment:  hate
+comment:  hungry
+comment:  hungry
+comment:  love
+comment:  nice
+comment:  mate
+
+
+cluster  1 :
+CAPTION: spoon
+comment:  bacon
+comment:  mash
+comment:  potato
+comment:  turkey
+comment:  sour
+comment:  cream
+comment:  bacon
+comment:  mash
+comment:  potato
+comment:  sour
+comment:  cream
+comment:  potato
+comment:  roast
+comment:  garlic
+comment:  bacon
+comment:  cream
+comment:  milk
+comment:  mash
+spoon 	0.47332048
+
+
+cluster  2 :
+comment:  wao
+comment:  yaa
+comment:  yummmm
+comment:  awessome
+comment:  nooo
+
+
+cluster  3 :
+comment:  need
+comment:  good
+comment:  look
+comment:  rest
+comment:  learn
+comment:  look
+comment:  good
+comment:  thing
+comment:  bit
+comment:  reason
+comment:  stuff
+comment:  special
+comment:  use
+comment:  look
+comment:  good
+comment:  look
+comment:  little
+comment:  bit
+comment:  course
+comment:  mention
+comment:  bit
+comment:  course
+comment:  use
+comment:  instead
+comment:  like
+
+
+cluster  4 :
+comment:  hmnnnnnnn
+comment:  yummmmmy
+comment:  dilicious
+comment:  thanksgiv
+comment:  boteto
+comment:  njam
+comment:  njam
+
+
+cluster  5 :
+comment:  yum
+comment:  yum
+comment:  yummy
+comment:  yum
+comment:  delish
+
+
+cluster  6 :
+CAPTION: plate
+CAPTION: food
+CAPTION: fork
+comment:  um
+comment:  thanksgiving
+comment:  thanksgiving
+comment:  thursday
+comment:  holiday
+comment:  carbs
+comment:  smash
+comment:  scratch
+plate 	0.17364898
+food 	0.28822738
+fork 	0.17586741
+
+
+cluster  7 :
+comment:  oh
+comment:  oh
+comment:  oh
+comment:  yeah
+comment:  wow
+comment:  oh
+
+
+cluster  8 :
+comment:  dill
+comment:  fennel
+comment:  rosemary
+comment:  chive
+comment:  dill
+
+100091697767366769792.5794708718894722082
+a bowl of food with a spoon in it 
+
+matrix comment dim (63, 63)
+
+
+cluster  0 :
+CAPTION: bowl
+CAPTION: spoon
+comment:  pie
+comment:  spice
+comment:  cider
+comment:  recipe
+comment:  pie
+comment:  peach
+comment:  cider
+comment:  drink
+comment:  cider
+comment:  homemade
+comment:  pork
+comment:  chop
+comment:  spiced
+comment:  red
+comment:  wine
+bowl 	0.38861856
+spoon 	0.40722343
+
+
+cluster  1 :
+comment:  apple
+comment:  apple
+comment:  apple
+comment:  apple
+comment:  apple
+comment:  apple
+comment:  apple
+comment:  apple
+comment:  apple
+comment:  apple
+comment:  apple
+comment:  apple
+comment:  apple
+comment:  apple
+comment:  apple
+
+
+cluster  2 :
+comment:  crumble
+comment:  cobbler
+comment:  carmelized
+comment:  taffy
+comment:  poach
+
+
+cluster  3 :
+comment:  crisp
+comment:  crisp
+comment:  crisp
+comment:  crisp
+comment:  crisp
+
+
+cluster  4 :
+comment:  link
+comment:  applesit
+comment:  fashion
+
+
+cluster  5 :
+CAPTION: food
+comment:  chilly
+comment:  fall
+comment:  evening
+comment:  try
+comment:  time
+comment:  day
+comment:  doctor
+comment:  away
+comment:  course
+comment:  look
+comment:  good
+comment:  love
+comment:  eat
+comment:  soooo
+comment:  good
+comment:  like
+comment:  definitely
+comment:  beat
+comment:  prepare
+comment:  similar
+food 	0.36201575
+
+100091697767366769792.5840380027595532690
+a plate of food with meat and vegetables 
+
+matrix comment dim (135, 135)
+
+
+cluster  0 :
+comment:  time
+comment:  help
+comment:  away
+comment:  course
+comment:  serve
+comment:  variety
+comment:  serve
+comment:  trouble
+
+
+cluster  1 :
+CAPTION: meat
+comment:  spicy
+comment:  spicy
+comment:  crispy
+comment:  homemade
+comment:  sauce
+comment:  fresh
+comment:  homemade
+comment:  bread
+comment:  sauce
+comment:  homemade
+comment:  cheese
+comment:  salad
+comment:  appetizer
+comment:  spicy
+comment:  spicy
+comment:  spicy
+meat 	0.5473447
+
+
+cluster  2 :
+comment:  masak
+comment:  aeerr
+comment:  donne
+comment:  dredge
+comment:  mouthwater
+comment:  healthyer
+comment:  lt
+comment:  pengen
+comment:  om
+
+
+cluster  3 :
+comment:  tasty
+comment:  tasty
+comment:  yummy
+comment:  tasty
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  sweet
+comment:  yummy
+
+
+cluster  4 :
+comment:  tit
+comment:  lookin
+comment:  saucy
+comment:  buffalo
+comment:  french
+comment:  mouth
+comment:  lol
+comment:  rub
+comment:  toss
+comment:  dress
+comment:  finger
+comment:  lick
+
+
+cluster  5 :
+comment:  wing
+comment:  wing
+comment:  wing
+comment:  wing
+comment:  wing
+comment:  wing
+
+
+cluster  6 :
+comment:  yum
+comment:  yum
+comment:  yum
+comment:  yum
+comment:  yum
+comment:  yum
+comment:  yum
+comment:  yum
+comment:  yum
+comment:  mmmmm
+
+
+cluster  7 :
+comment:  omg
+comment:  ohh
+comment:  nom
+comment:  nom
+
+
+cluster  8 :
+CAPTION: food
+comment:  eat
+comment:  hungry
+comment:  crave
+comment:  hot
+comment:  healthy
+comment:  food
+comment:  eat
+comment:  food
+comment:  hungry
+food 	0.649063769314
+
+
+cluster  9 :
+comment:  app
+comment:  currently
+comment:  count
+comment:  cover
+comment:  season
+comment:  dub
+comment:  non
+comment:  non
+comment:  version
+
+
+cluster  10 :
+CAPTION: plate
+comment:  mild
+comment:  water
+comment:  dry
+comment:  spray
+comment:  light
+comment:  mist
+comment:  oil
+comment:  blue
+comment:  heavy
+comment:  light
+plate 	0.2992142
+
+
+cluster  11 :
+CAPTION: vegetable
+comment:  bbq
+comment:  fry
+comment:  fry
+comment:  loaf
+comment:  sauced
+comment:  flour
+comment:  olive
+comment:  bake
+comment:  veg
+comment:  veg
+comment:  veg
+comment:  sauced
+vegetable 	0.5263701
+
+
+cluster  12 :
+comment:  look
+comment:  amazing
+comment:  look
+comment:  picture
+comment:  think
+comment:  like
+comment:  try
+comment:  like
+comment:  good
+comment:  favorite
+comment:  look
+comment:  good
+comment:  love
+comment:  look
+comment:  great
+comment:  look
+comment:  good
+comment:  nice
+
+100091697767366769792.5814846926868520802
+a close up of a piece of cake on a plate 
+
+matrix comment dim (84, 84)
+
+
+cluster  0 :
+comment:  wow
+comment:  oh
+comment:  fave
+comment:  hav
+comment:  tht
+comment:  bye
+comment:  awsome
+comment:  kidding
+
+
+cluster  1 :
+comment:  heyyyy
+comment:  oooo
+comment:  hhhmmm
+comment:  courious
+comment:  mmmmmmmmm
+comment:  iove
+comment:  ikr
+comment:  yammy
+
+
+cluster  2 :
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+
+
+cluster  3 :
+CAPTION: cake
+comment:  sweet
+comment:  delish
+comment:  delicious
+comment:  recipe
+comment:  delish
+comment:  yum
+comment:  candy
+comment:  sweet
+comment:  yummy
+comment:  yummy
+comment:  yummy
+comment:  delicious
+comment:  taste
+comment:  food
+comment:  tasty
+comment:  yummy
+cake 	0.5798287
+
+
+cluster  4 :
+comment:  good
+comment:  nice
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  amazing
+comment:  good
+comment:  awesome
+
+
+cluster  5 :
+comment:  yummmmmyyyyyyyyy
+comment:  yuummy
+comment:  peppernint
+comment:  reblog
+comment:  network
+comment:  noapologie
+comment:  christma
+comment:  lt
+
+
+cluster  6 :
+CAPTION: plate
+comment:  peppermint
+comment:  bark
+comment:  ice
+comment:  cream
+comment:  tote
+comment:  cook
+comment:  ve
+comment:  bark
+comment:  festive
+plate 	0.20464912
+
+
+cluster  7 :
+CAPTION: close
+CAPTION: piece
+comment:  want
+comment:  interesting
+comment:  want
+comment:  like
+comment:  think
+comment:  try
+comment:  hear
+comment:  easy
+comment:  like
+comment:  old
+comment:  stand
+comment:  beautiful
+comment:  cool
+close 	0.44621563
+piece 	0.38254362
+
+100091697767366769792.5828515230578249890
+a bowl of soup with carrots and a spoon 
+
+matrix comment dim (48, 48)
+
+
+cluster  0 :
+CAPTION: soup
+CAPTION: carrot
+comment:  yum
+comment:  sweet
+comment:  yummy
+comment:  fruit
+comment:  salad
+comment:  delicious
+comment:  yum
+comment:  yum
+comment:  yummy
+comment:  delicious
+comment:  yumm
+comment:  delicious
+comment:  yummy
+comment:  delicious
+comment:  yummy
+soup 	0.5797276
+carrot 	0.5029852
+
+
+cluster  1 :
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+
+
+cluster  2 :
+CAPTION: spoon
+comment:  hmmmso
+comment:  pomegranate
+comment:  ikr
+comment:  hhhmmmmm
+comment:  que
+comment:  delicia
+spoon 	0.0446161481086
+
+
+cluster  3 :
+CAPTION: bowl
+comment:  nice
+comment:  colorful
+comment:  good
+comment:  love
+comment:  addition
+comment:  need
+comment:  holiday
+comment:  like
+comment:  sister
+comment:  absolutely
+comment:  great
+comment:  perfect
+comment:  sooo
+comment:  like
+comment:  feel
+comment:  good
+comment:  nice
+comment:  wonderful
+bowl 	0.24891056
+
+100091697767366769792.5827479396879137682
+a man and a woman standing in front of a mirror 
+
+matrix comment dim (107, 107)
+
+
+cluster  0 :
+CAPTION: man
+comment:  amazing
+comment:  funny
+comment:  definately
+comment:  watch
+comment:  omg
+comment:  hi
+comment:  friend
+comment:  friend
+comment:  luck
+man 	0.39752746
+
+
+cluster  1 :
+comment:  alex
+comment:  alex
+comment:  alex
+comment:  alex
+comment:  alex
+comment:  alex
+comment:  alex
+comment:  alex
+comment:  alex
+comment:  alex
+comment:  alex
+comment:  alex
+comment:  alex
+comment:  alex
+comment:  alex
+
+
+cluster  2 :
+comment:  chef
+comment:  chef
+comment:  chef
+comment:  chef
+comment:  chef
+comment:  chef
+comment:  chef
+comment:  cook
+comment:  chef
+comment:  chef
+comment:  chef
+comment:  chef
+comment:  chef
+
+
+cluster  3 :
+comment:  come
+comment:  pick
+comment:  far
+comment:  look
+comment:  like
+comment:  seriously
+comment:  know
+comment:  anymore
+comment:  heck
+comment:  sure
+comment:  hope
+comment:  like
+comment:  think
+comment:  come
+comment:  look
+comment:  like
+comment:  know
+comment:  mean
+comment:  remember
+comment:  find
+comment:  come
+comment:  look
+comment:  way
+comment:  look
+comment:  good
+comment:  good
+comment:  yes
+
+
+cluster  4 :
+comment:  iron
+comment:  iron
+comment:  iron
+comment:  iron
+comment:  iron
+
+
+cluster  5 :
+comment:  battle
+comment:  decision
+comment:  tough
+comment:  battle
+comment:  lose
+comment:  competition
+comment:  tough
+comment:  battle
+
+
+cluster  6 :
+CAPTION: mirror
+comment:  horn
+comment:  horn
+comment:  rabbit
+comment:  ear
+mirror 	0.27803355
+
+
+cluster  7 :
+comment:  solidify
+comment:  faulkner
+comment:  network
+comment:  amzing
+comment:  namedalex
+comment:  judy
+
+
+cluster  8 :
+comment:  win
+comment:  win
+comment:  win
+comment:  win
+comment:  win
+comment:  win
+
+
+cluster  9 :
+CAPTION: woman
+CAPTION: stand
+comment:  course
+comment:  creative
+comment:  food
+comment:  shot
+comment:  photographer
+comment:  fix
+comment:  chief
+comment:  respect
+comment:  woman
+comment:  white
+comment:  head
+comment:  dead
+comment:  knife
+comment:  head
+woman 	0.379465922713
+stand 	0.3424659
+
+100091697767366769792.5840436418347726418
+a plate with a sandwich and a salad 
+
+matrix comment dim (66, 66)
+
+
+cluster  0 :
+comment:  hungry
+comment:  hungry
+comment:  hungry
+comment:  hungry
+
+
+cluster  1 :
+CAPTION: plate
+comment:  healthy
+comment:  fill
+comment:  figure
+comment:  add
+comment:  new
+comment:  stomach
+comment:  ultimately
+comment:  smoke
+comment:  blunt
+comment:  new
+comment:  work
+comment:  figure
+comment:  pass
+plate 	0.22765061
+
+
+cluster  2 :
+comment:  hi
+comment:  mama
+comment:  okay
+comment:  friend
+comment:  lol
+comment:  yea
+comment:  hi
+comment:  sooo
+comment:  boyfriend
+comment:  friend
+comment:  wow
+comment:  wow
+comment:  omg
+
+
+cluster  3 :
+comment:  nom
+comment:  nom
+comment:  nom
+comment:  sooooooooo
+comment:  growl
+comment:  delicia
+comment:  niceee
+comment:  dellish
+comment:  corona
+
+
+cluster  4 :
+comment:  kind
+comment:  come
+comment:  look
+comment:  good
+comment:  look
+comment:  look
+comment:  cool
+comment:  want
+comment:  look
+comment:  good
+comment:  want
+comment:  look
+comment:  good
+comment:  great
+comment:  want
+
+
+cluster  5 :
+CAPTION: sandwich
+CAPTION: salad
+comment:  sandwich
+comment:  yummy
+comment:  delicious
+comment:  yummy
+comment:  delish
+comment:  yum
+comment:  tasty
+comment:  lunch
+comment:  sandwich
+comment:  yummy
+comment:  delicious
+comment:  sandwich
+sandwich 	0.674698926508
+salad 	0.6502115
+
+100091697767366769792.5812223064814377394
+a table topped with lots of different types of food 
+
+matrix comment dim (83, 83)
+
+
+cluster  0 :
+comment:  festive
+comment:  thanksgiving
+comment:  thanksgiving
+comment:  dinner
+comment:  saturday
+comment:  valentine
+
+
+cluster  1 :
+CAPTION: table
+CAPTION: type
+comment:  hi
+comment:  sue
+comment:  cousin
+comment:  year
+comment:  size
+comment:  hour
+comment:  skip
+comment:  size
+comment:  cover
+comment:  size
+comment:  network
+comment:  india
+comment:  lay
+comment:  layer
+comment:  fixing
+comment:  roll
+comment:  host
+comment:  host
+comment:  event
+table 	0.25230265
+type 	0.25366387
+
+
+cluster  2 :
+comment:  tableware
+comment:  foodnetwork
+comment:  emeril
+comment:  brained
+comment:  joyce
+comment:  welcomin
+
+
+cluster  3 :
+CAPTION: lot
+comment:  lovely
+comment:  small
+comment:  lot
+comment:  long
+comment:  thank
+comment:  cool
+comment:  pretty
+comment:  kind
+comment:  nice
+comment:  day
+comment:  day
+comment:  good
+lot 	0.56675007691
+
+
+cluster  4 :
+CAPTION: different
+comment:  question
+comment:  follow
+comment:  people
+comment:  use
+comment:  help
+comment:  help
+comment:  help
+comment:  want
+comment:  know
+comment:  look
+comment:  want
+different 	0.50015587
+
+
+cluster  5 :
+CAPTION: food
+comment:  recipe
+comment:  recipe
+comment:  pound
+comment:  pound
+comment:  cup
+comment:  sugar
+comment:  salt
+comment:  recipe
+comment:  breast
+comment:  butter
+comment:  food
+comment:  leftover
+comment:  sandwich
+comment:  homemade
+comment:  cranberry
+food 	0.462204432487
+
+
+cluster  6 :
+comment:  roasted
+comment:  roast
+comment:  roast
+comment:  roast
+comment:  roast
+comment:  sauce
+comment:  crispy
+
+
+cluster  7 :
+comment:  turkey
+comment:  turkey
+comment:  turkey
+comment:  turkey
+comment:  turkey
+comment:  turkey
+comment:  turkey
