@@ -13,12 +13,13 @@ from sklearn.manifold import MDS
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.metrics.pairwise import pairwise_distances_argmin_min
 from sklearn.metrics.pairwise import pairwise_distances
+from sklearn.decomposition import PCA
 from sklearn.manifold import TSNE
 from sklearn.metrics import  pairwise 
 from scipy.spatial import distance
 from scipy.sparse import vstack
 nlp = spacy.load('en_core_web_lg')
-jfile = json.load(open('output/comm_cap_100091697767366769792.json'))
+jfile = json.load(open('output/comm_cap_100300281975626912157.json'))
 from pandas import *
 
 #workaround beacuse in this model they have no stop words
@@ -152,10 +153,15 @@ def plot_cluster(matrix_comment,labels,predicted_label, centers,img_id, matrix_c
 		dim reduction on the whole matrix in a 2D as we're plotting points in a two-dimensional plane
 		t-sne used to apply dim reduction
 	"""
-	tsne_model = TSNE(n_components=2, perplexity=30.0, learning_rate=400.0, metric='euclidean', random_state=1)
+	pca = PCA(n_components=2)
+	
+	#tsne_model = TSNE(n_components=2, perplexity=30.0, learning_rate=400.0, metric='euclidean', random_state=1)
 	#tsne_model = MDS(n_components=2, metric='euclidean', random_state=1)
 	dense_mat= plot_matrix.toarray()
-	plot_matrix_embedded =tsne_model.fit_transform(dense_mat)
+	#plot_matrix_embedded =tsne_model.fit_transform(dense_mat)
+	plot_matrix_embedded=pca.fit_transform(dense_mat)
+	#print "pca.singular_values_"
+	#print  pca.singular_values_
 	
 	"""
 	-->3) Start plotting all the component of the matrix and put correct range
@@ -197,7 +203,7 @@ def plot_cluster(matrix_comment,labels,predicted_label, centers,img_id, matrix_c
 		median=statistics.median(dist_comm_cent)
 		ax.scatter(scatter_cent_x[l],scatter_cent_y[l], c = cdict[l], s=100, alpha=0.8)
 		circle = Circle((scatter_cent_x[l],scatter_cent_y[l]), median, color = cdict[l], alpha=0.3)
-		ax.add_artist(circle)
+		#ax.add_artist(circle)
 	ax.legend(loc='center left', bbox_to_anchor=(1, 0.5))
 	#plot CENTROIDS
 	plt.scatter(scatter_cent_x,scatter_cent_y, color='black', s=100, alpha=0.7)
@@ -209,7 +215,7 @@ def plot_cluster(matrix_comment,labels,predicted_label, centers,img_id, matrix_c
 		plt.text(scatter_cap_x[i],scatter_cap_y[i], caption_list[i], color=cdict[c], size=14)
 	
 	plt.savefig('median_'+str(img_id) + '.pdf', bbox_inches='tight')
-	#plt.show()
+	plt.show()
 
 if __name__ == "__main__":
 	
@@ -290,14 +296,14 @@ if __name__ == "__main__":
 				median_dist = []
 				for cluster in range(nclusters):
 					cap_sim=[]
-					#print "\n"
-					#print "cluster ",cluster,":"
+					print "\n"
+					print "cluster ",cluster,":"
 					for j, caption in enumerate(caption_list):
 				
 						predicted_cluster = predicted_label[j] 
 						if (cluster==predicted_cluster):
 							#print "caption:", caption," - cluster:", predicted_label[j] , " - distance: ", min(dist_caption[j])
-							#print "CAPTION:", caption #," - cluster:", predicted_label[j] , " - distance: ", min(dist_caption[j])
+							print "CAPTION:", caption #," - cluster:", predicted_label[j] , " - distance: ", min(dist_caption[j])
 							cap_sim.append(caption)
 					dist = []
 					dist_intern=0
@@ -312,7 +318,7 @@ if __name__ == "__main__":
 						
 							if (counter==sent):
 								#print "comment: ",sent," : ", text, " - distance: ", dist_comment[sent][cluster]
-								#print "comment: ", text
+								print "comment: ", text
 								#print matrix_comm[sent]
 								dist_intern=dist_comment[sent][cluster]
 								dist.append(dist_intern)
@@ -335,16 +341,16 @@ if __name__ == "__main__":
 							#print comm_sim_matrix
 							#print "mean", np.mean(comm_sim_matrix)
 							#print " "
-					#print "dist totale:", (dist), count
+					print "dist totale:", (dist), count
 					#avg = (dist/count)
 					median=statistics.median(dist)
 					median_dist.append(median)
-					#print "median-->", median
+					print "median-->", median
 					#print ""
 				#print "median dist", median_dist
 				#print "euclideian distance caption-centroid"
 				#print dist_caption
-				"""
+				
 				for i, caption in enumerate(dist_caption):
 					#print "caption", i ,caption
 					#print "median dist"
@@ -360,7 +366,7 @@ if __name__ == "__main__":
 						
 				closest, _ = pairwise_distances_argmin_min(centers, matrix_caption)
 
-				
+				"""
 				#comment word near to the centroid
 				order_centroids=centers.argsort()[:, ::-1]
 				print "------------------------5word-> TOPIC OUTPUT-------------------------------" 
@@ -378,7 +384,7 @@ if __name__ == "__main__":
 							counter+=1
 				"""
 		
-				#plot_cluster(matrix_comment, labels,predicted_label, centers, img_id, matrix_caption, caption_clean) 
+				plot_cluster(matrix_comment, labels,predicted_label, centers, img_id, matrix_caption, caption_clean) 
 			else:
 				print "number of cluster <2, not enough words in the comment"
 			#print "--------------------------------------------------
