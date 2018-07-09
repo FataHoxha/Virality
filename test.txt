@@ -1,0 +1,733 @@
+
+100300281975626912157.6044813752948330402
+a man in a suit and tie standing next to a woman 
+
+matrix comment dim (267, 267)
+
+
+cluster  0 :
+comment:  effect
+comment:  product
+comment:  contemporary
+comment:  new
+comment:  commercial
+comment:  public
+comment:  degree
+comment:  general
+comment:  public
+comment:  basic
+comment:  universal
+comment:  creation
+comment:  computer
+comment:  research
+comment:  energy
+comment:  philosophy
+comment:  role
+comment:  create
+comment:  commercial
+dist totale: [1.1512831727955704, 1.1481020552080576, 1.4531910714235683, 1.4027679843899024, 1.2625391825895658, 1.1676805362097762, 1.372108922502681, 1.0172135619149316, 1.1676805362097762, 1.1519620655709772, 1.3531979267908154, 1.058696213083409, 1.3656217374340547, 1.0421011292937878, 1.091694434472866, 1.4249940607824716, 1.194548189054721, 1.3454078106104106, 1.2625391825895658] 19
+median--> 1.19454818905
+
+
+cluster  1 :
+comment:  screw
+comment:  butterfly
+comment:  relish
+comment:  rhyme
+comment:  verse
+comment:  nod
+comment:  sincerity
+comment:  cheese
+comment:  square
+comment:  square
+comment:  tongue
+comment:  witch
+comment:  wild
+dist totale: [1.2614212685969555, 1.2389596906567288, 1.2234214991483243, 1.2772212938963885, 1.263654132415895, 1.2847337855329688, 1.6207240306638047, 1.0641734805697713, 1.6576430903899873, 1.6576430903899873, 1.0644757330679528, 1.1679788266864268, 1.3279016348802637] 13
+median--> 1.26365413242
+
+
+cluster  2 :
+comment:  thing
+comment:  mean
+comment:  like
+comment:  wonder
+comment:  idea
+comment:  bother
+comment:  wrong
+comment:  seriously
+comment:  probably
+comment:  mean
+comment:  yes
+comment:  like
+comment:  believe
+dist totale: [0.832216575584901, 0.6918579970726152, 0.8443414180026698, 0.6357829159249981, 1.005589952983254, 1.1167186902303665, 0.7033168910812536, 0.7860017081324431, 0.8892811131997028, 0.6918579970726152, 1.1263530989042703, 0.8443414180026698, 0.9101294877221224] 13
+median--> 0.844341418003
+
+
+cluster  3 :
+comment:  desde
+comment:  poder
+comment:  simples
+comment:  sorriso
+comment:  maior
+comment:  quem
+comment:  acha
+comment:  voce
+comment:  genio
+comment:  ging
+dist totale: [1.1579208720145135, 0.8328794237435335, 1.253895035188544, 1.25245819631521, 1.0683138736101454, 0.7626216553256183, 0.9584714739850975, 1.180636813588916, 1.0550623304130962, 1.5436119568537738] 10
+median--> 1.11311737281
+
+
+cluster  4 :
+comment:  don
+comment:  kiss
+comment:  nd
+comment:  sir
+comment:  wit
+comment:  luv
+comment:  hi
+dist totale: [1.283369317872298, 1.2032297395666143, 1.3203771987701827, 1.0524113253556997, 1.2170778948608025, 1.272916028270624, 0.9966746861879706] 7
+median--> 1.21707789486
+
+
+cluster  5 :
+comment:  exitoooo
+comment:  uilliam
+comment:  kutecher
+comment:  jegouzo
+comment:  voneman
+comment:  duperow
+comment:  bcc
+comment:  vandenbout
+comment:  loveyour
+comment:  lculo
+comment:  rsrsrsr
+comment:  encantasssssssss
+comment:  whatz
+dist totale: [0.9651279465579198, 0.9651279465579198, 0.9651279465579198, 0.9651279465579198, 0.9651279465579198, 0.9651279465579198, 1.4601237155472193, 0.9651279465579198, 0.9651279465579198, 0.9651279465579198, 0.9651279465579198, 0.9651279465579198, 0.9651279465579198] 13
+median--> 0.965127946558
+
+
+cluster  6 :
+comment:  ashton
+comment:  ashton
+comment:  ashton
+comment:  ashton
+comment:  ashton
+comment:  kutcher
+comment:  ashton
+comment:  ashton
+comment:  kutcher
+dist totale: [0.2654718107033573, 0.2654718107033573, 0.2654718107033573, 0.2654718107033573, 0.2654718107033573, 0.9291513374617751, 0.2654718107033573, 0.2654718107033573, 0.9291513374617751] 9
+median--> 0.265471810703
+
+
+cluster  7 :
+CAPTION: stand
+CAPTION: woman
+comment:  baby
+comment:  bear
+comment:  day
+comment:  eye
+comment:  trick
+comment:  shoot
+comment:  old
+comment:  stick
+comment:  spot
+comment:  stand
+comment:  half
+comment:  favorite
+comment:  walk
+comment:  stand
+stand 	0.477311347212
+woman 	0.3499871
+dist totale: [1.2641196981980458, 1.1416739258519586, 1.2351507381808118, 1.048795098102239, 1.288356072164948, 1.2240299782021773, 1.080917411864809, 0.9955568238291326, 0.9597135412302958, 1.097023569877141, 1.045618919650981, 1.3316384870706934, 1.084316630915704, 1.097023569877141] 14
+median--> 1.09702356988
+
+
+cluster  8 :
+comment:  didn
+comment:  nonsense
+comment:  polite
+comment:  genius
+comment:  nerd
+comment:  teenage
+comment:  reality
+comment:  reality
+comment:  quote
+dist totale: [1.3729452011032348, 0.9982465852172613, 1.3867765939346266, 1.1734304380724134, 1.5161856072529596, 1.294351388665442, 1.45289633320788, 1.45289633320788, 1.337416635991247] 9
+median--> 1.3729452011
+
+
+cluster  9 :
+comment:  iowa
+comment:  pa
+comment:  puerto
+comment:  rico
+comment:  jane
+comment:  jew
+comment:  einstein
+comment:  edison
+comment:  elizabeth
+comment:  albert
+comment:  einstein
+comment:  einstein
+dist totale: [1.0818707197367339, 1.3965605307097044, 1.1716132378354, 1.296605698864773, 1.2748627938664254, 1.4689597649618635, 1.3318436663229367, 1.2399710688870538, 1.0553950404522119, 0.8646089912358728, 1.3318436663229367, 1.3318436663229367] 12
+median--> 1.28573424637
+
+
+cluster  10 :
+comment:  billion
+comment:  billion
+comment:  ploy
+comment:  miniscule
+comment:  temporal
+comment:  mechanic
+comment:  probe
+comment:  vibration
+comment:  realisation
+comment:  astute
+comment:  root
+comment:  gen
+comment:  gen
+comment:  nexus
+comment:  accord
+comment:  snapshot
+comment:  cell
+comment:  frequency
+comment:  commercialization
+dist totale: [1.6096040973131824, 1.6096040973131824, 1.572491555774744, 1.2223132685532745, 1.4304122334119345, 1.546251088359912, 1.3771325382128108, 1.4198521800570212, 1.3773096445394986, 1.7986512722358325, 1.2985878115332397, 1.7588887187977855, 1.7588887187977855, 1.2819199900056282, 1.1677350475060362, 1.3563787394553057, 1.4367429514582808, 1.3957976364752542, 1.6941984933852852] 19
+median--> 1.43041223341
+
+
+cluster  11 :
+comment:  learn
+comment:  write
+comment:  keeping
+comment:  deal
+comment:  prove
+comment:  today
+comment:  bring
+comment:  talk
+comment:  today
+comment:  use
+comment:  able
+comment:  help
+comment:  job
+comment:  change
+dist totale: [0.8928155642639771, 1.1916199689852933, 0.916450282500554, 0.9238192950270719, 1.1803858854352245, 1.1668079652439685, 1.0420913972506602, 1.145498132136056, 1.1668079652439685, 1.199739657552342, 1.0583844911665041, 0.8485797435057281, 1.2194594817838469, 1.0238552882089467] 14
+median--> 1.10194131165
+
+
+cluster  12 :
+comment:  haha
+comment:  lol
+comment:  hehe
+comment:  hey
+comment:  hehe
+comment:  hahahaha
+comment:  lol
+comment:  ur
+comment:  ur
+dist totale: [0.4809078717343093, 0.7474224089759918, 0.7037569947419737, 0.9297711442528507, 0.7037569947419737, 1.338341025450253, 0.7474224089759918, 1.0058295547838032, 1.0058295547838032] 9
+median--> 0.747422408976
+
+
+cluster  13 :
+comment:  welcome
+comment:  comment
+comment:  post
+comment:  thank
+comment:  thanks
+comment:  invite
+comment:  comment
+comment:  smile
+dist totale: [0.9519467651742209, 0.9820222432822825, 0.9736979392178623, 0.9578800528316326, 0.9837111438109014, 1.2100249509249312, 0.9820222432822825, 1.4559060767790668] 8
+median--> 0.982022243282
+
+
+cluster  14 :
+comment:  lo
+comment:  ha
+comment:  ha
+comment:  ha
+comment:  um
+comment:  um
+comment:  da
+comment:  rofl
+dist totale: [1.2016566941744717, 0.8684580972810702, 0.8684580972810702, 0.8684580972810702, 1.111088134682973, 1.111088134682973, 1.0752158852299172, 1.7607132244097758] 8
+median--> 1.09315200996
+
+
+cluster  15 :
+comment:  nebel
+comment:  renan
+comment:  tabitha
+comment:  assbackwards
+comment:  matematica
+dist totale: [1.0136421337045514, 0.9184005318570708, 1.5636848299738908, 1.1400653679067538, 1.1661539494855346] 5
+median--> 1.14006536791
+
+
+cluster  16 :
+comment:  damn
+comment:  funny
+comment:  love
+comment:  love
+comment:  love
+comment:  crazy
+comment:  funny
+comment:  funny
+comment:  awesome
+comment:  funny
+comment:  cool
+comment:  nice
+comment:  crazy
+dist totale: [1.069394671666604, 0.9361529632849678, 1.152344419949064, 1.152344419949064, 1.152344419949064, 0.8662638707899053, 0.9361529632849678, 0.9361529632849678, 0.8673177803573238, 0.9361529632849678, 0.9187413690877113, 1.102607754710854, 0.8662638707899135] 13
+median--> 0.936152963285
+
+
+cluster  17 :
+comment:  mi
+comment:  de
+comment:  que
+comment:  foto
+comment:  que
+dist totale: [1.1819423228424712, 0.9461528393377167, 0.7809328694963261, 1.1980160923815724, 0.7809328694963261] 5
+median--> 0.946152839338
+
+
+cluster  18 :
+comment:  relativity
+comment:  equation
+comment:  math
+comment:  equation
+comment:  math
+comment:  formula
+comment:  physics
+dist totale: [1.6179617591191897, 0.8030939045531323, 1.2089507982668053, 0.8030939045531323, 1.2089507982668053, 1.1905306142475907, 0.8617115802813777] 7
+median--> 1.19053061425
+
+
+cluster  19 :
+comment:  time
+comment:  little
+comment:  look
+comment:  time
+comment:  way
+comment:  right
+comment:  right
+comment:  time
+comment:  lot
+comment:  good
+comment:  need
+comment:  ask
+comment:  time
+comment:  look
+comment:  want
+comment:  people
+comment:  sure
+comment:  sure
+dist totale: [1.0342128483756514, 1.0424370341259095, 1.003464863516598, 1.0342128483756514, 0.9002898462304542, 0.8107205694678421, 0.8107205694678421, 1.0342128483756514, 0.8934343760802756, 0.9337512796114703, 0.9150904808425304, 1.2118744277394355, 1.0342128483756514, 1.003464863516598, 0.8618335214583901, 1.0065970765414896, 0.9227714258605094, 0.9227714258605094] 18
+median--> 0.968608071564
+
+
+cluster  20 :
+comment:  ve
+comment:  ve
+comment:  ve
+dist totale: [8.429369702178807e-08, 8.429369702178807e-08, 8.429369702178807e-08] 3
+median--> 8.42936970218e-08
+
+
+cluster  21 :
+CAPTION: suit
+CAPTION: tie
+comment:  travel
+comment:  movie
+comment:  ad
+comment:  suit
+comment:  line
+comment:  ago
+comment:  street
+comment:  genuine
+comment:  speed
+comment:  light
+comment:  stylish
+comment:  suit
+comment:  photo
+comment:  master
+comment:  shot
+comment:  app
+comment:  original
+comment:  phone
+comment:  phone
+comment:  match
+suit 	0.32966978699
+tie 	0.2311738
+dist totale: [1.2502184533963054, 1.4260340554669626, 1.3164541477821712, 1.191891920405444, 1.125575681408213, 1.5514653289159201, 1.1991194374692102, 1.369995174461345, 1.3154667189559848, 1.2949442675562888, 1.5866924896525523, 1.191891920405444, 1.3700830894629237, 1.2985887886887342, 1.3737314098310058, 1.4106506612156082, 1.1669854244057083, 1.3349562358538112, 1.3349562358538112, 0.9982750734019165] 20
+median--> 1.31596043337
+
+
+cluster  22 :
+CAPTION: man
+comment:  man
+comment:  man
+comment:  man
+comment:  guy
+man 	0.926697343588
+dist totale: [0.32327695387056254, 0.32327695387056254, 0.32327695387056254, 0.9698308616118306] 4
+median--> 0.323276953871
+
+
+cluster  23 :
+comment:  lenovo
+comment:  spotify
+comment:  iq
+comment:  lenovo
+comment:  aston
+dist totale: [0.8693008852908699, 1.1587328409263762, 1.313522756380475, 0.8693008852908699, 1.2676100901396898] 5
+median--> 1.15873284093
+
+
+cluster  24 :
+comment:  congratulation
+comment:  xoxo
+comment:  lolll
+dist totale: [1.1244941407809754, 1.2984942186668913, 1.6145887809136346] 3
+median--> 1.29849421867
+
+
+cluster  25 :
+comment:  wise
+comment:  sound
+comment:  neat
+comment:  smart
+comment:  smart
+comment:  creative
+comment:  intelligent
+dist totale: [1.021864120628102, 1.0927951013177395, 1.154164281330974, 0.8575936768804403, 0.8575936768804403, 1.1887104397148958, 1.0630437305080527] 7
+median--> 1.06304373051
+caption 0 inside the median of cluster: 22 caption: 0.323276953871 median: 0.323276953871
+caption 1 inside the median of cluster: 21 caption: 1.19189192041 median: 1.31596043337
+caption 2 inside the median of cluster: 1 caption: 1.0604242233 median: 1.26365413242
+caption 2 inside the median of cluster: 21 caption: 0.992356326285 median: 1.31596043337
+caption 3 inside the median of cluster: 7 caption: 1.09702356988 median: 1.09702356988
+
+100300281975626912157.6044282334951484018
+a man in a suit and tie is wearing a tie 
+
+matrix comment dim (199, 199)
+
+
+cluster  0 :
+CAPTION: suit
+CAPTION: tie
+CAPTION: tie
+comment:  helper
+comment:  bend
+comment:  tie
+comment:  shoe
+comment:  circle
+comment:  fly
+comment:  butterfly
+comment:  sting
+comment:  float
+comment:  butterfly
+comment:  sting
+comment:  circle
+comment:  clay
+comment:  wing
+comment:  angel
+comment:  wing
+suit 	0.23120469
+tie 	0.329619296826
+tie 	0.329619296826
+dist totale: [1.4763859738705993, 1.0737353949784365, 1.0170786890177435, 1.025759893240874, 1.1563086022423898, 1.0879754079882424, 1.1321122562556816, 1.359939025277701, 1.1825330494007327, 1.1321122562556816, 1.359939025277701, 1.1563086022423898, 1.210911066696539, 1.1286505228287662, 1.446088471486534, 1.1286505228287647] 16
+median--> 1.14421042925
+
+
+cluster  1 :
+comment:  ask
+comment:  ignore
+comment:  understand
+comment:  true
+comment:  speak
+comment:  hell
+comment:  true
+comment:  true
+comment:  true
+comment:  mean
+comment:  word
+comment:  obvious
+dist totale: [1.1407432021716142, 1.199133161022686, 0.9438155377836231, 0.9341546298597299, 1.0180932592889536, 1.3100953852473725, 0.9341546298597299, 0.9341546298597299, 0.9341546298597299, 0.840631874544672, 1.0609913831020328, 0.855535966874296] 12
+median--> 0.938985083822
+
+
+cluster  2 :
+comment:  iwa
+comment:  ailes
+comment:  certaine
+comment:  allez
+comment:  recevoir
+comment:  leal
+comment:  homem
+comment:  deve
+comment:  imagina
+comment:  ulf
+dist totale: [1.1849391495893173, 1.025077483930975, 1.1686024490719946, 1.2521295747599734, 1.322166164473556, 1.110870269655434, 1.088220704218461, 1.2882642741725858, 0.9358828239814679, 1.4004234266367541] 10
+median--> 1.17677079933
+
+
+cluster  3 :
+comment:  muhammad
+comment:  ali
+comment:  muhammad
+comment:  ali
+comment:  andrea
+comment:  ali
+dist totale: [0.8781454485997437, 0.5948902255826972, 0.8781454485997437, 0.5948902255826972, 1.2460383949893212, 0.5948902255826972] 6
+median--> 0.736517837091
+
+
+cluster  4 :
+comment:  religion
+comment:  communication
+comment:  respond
+comment:  message
+comment:  regard
+comment:  respond
+comment:  previous
+comment:  minimize
+comment:  owe
+comment:  universe
+comment:  disrespect
+comment:  release
+dist totale: [1.2716541925639069, 1.321627204277421, 1.2024588102399407, 1.1445328990283286, 1.1748569322018259, 1.2024588102399407, 1.3491457444743193, 1.47226459168595, 1.2004155973002573, 1.2989964358803185, 1.3864612493192507, 1.4868906124125332] 12
+median--> 1.28532531422
+
+
+cluster  5 :
+comment:  cognizance
+comment:  aliit
+comment:  elavtor
+comment:  pamphlet
+comment:  amenbest
+comment:  beeyour
+comment:  perece
+comment:  byskov
+comment:  vandenbout
+comment:  searcher
+comment:  lenovo
+comment:  flly
+dist totale: [1.3877832751905477, 1.0026963289452249, 1.0026963289452249, 1.3909265245283715, 1.0026963289452249, 1.0026963289452249, 1.0026963289452249, 1.0026963289452249, 1.0026963289452249, 1.3521924658721645, 1.3723208652756196, 1.0026963289452249] 12
+median--> 1.00269632895
+
+
+cluster  6 :
+comment:  great
+comment:  awesome
+comment:  great
+comment:  beautiful
+comment:  cool
+comment:  great
+comment:  great
+comment:  amazing
+comment:  great
+comment:  awesome
+dist totale: [0.6344006365782179, 0.7572138161565408, 0.6344006365782179, 1.3465996627576335, 1.0331792589083053, 0.6344006365782179, 0.6344006365782179, 0.547620003307257, 0.6344006365782179, 0.7572138161565408] 10
+median--> 0.634400636578
+
+
+cluster  7 :
+comment:  te
+comment:  mon
+comment:  je
+comment:  que
+comment:  bien
+comment:  le
+comment:  tre
+comment:  ce
+comment:  que
+comment:  todo
+dist totale: [0.8577792895681172, 0.9301641775188159, 0.7573135088818763, 0.706688892536486, 0.7912302962327624, 0.7610167098626502, 1.1237550015285283, 0.7670190083041182, 0.706688892536486, 1.3324688528376263] 10
+median--> 0.779124652268
+
+
+cluster  8 :
+comment:  parkinson
+comment:  ashton
+comment:  ashton
+comment:  kutcher
+comment:  ashton
+comment:  kutcher
+comment:  ashton
+comment:  kutcher
+dist totale: [1.6423880898613867, 0.5347814345994903, 0.5347814345994903, 0.6167093188150732, 0.5347814345994903, 0.6167093188150732, 0.5347814345994903, 0.6167093188150732] 8
+median--> 0.575745376707
+
+
+cluster  9 :
+comment:  boxer
+comment:  legend
+comment:  fighter
+comment:  sportsman
+comment:  champ
+comment:  champ
+comment:  producer
+dist totale: [0.7679622268403582, 1.132074019064788, 0.9396878657135039, 1.2559825569156535, 0.9167707540465221, 0.9167707540465221, 1.4537403979545283] 7
+median--> 0.939687865714
+
+
+cluster  10 :
+comment:  post
+comment:  comment
+comment:  post
+comment:  post
+comment:  post
+comment:  comment
+comment:  post
+dist totale: [0.3429649593395669, 0.8574123983489048, 0.3429649593395669, 0.3429649593395669, 0.3429649593395669, 0.8574123983489048, 0.3429649593395669] 7
+median--> 0.34296495934
+
+
+cluster  11 :
+CAPTION: wear
+comment:  watch
+comment:  half
+comment:  meet
+comment:  stay
+comment:  shake
+comment:  hand
+comment:  hide
+comment:  smile
+comment:  sign
+comment:  normally
+comment:  hard
+comment:  course
+comment:  year
+comment:  hand
+comment:  hit
+comment:  eye
+comment:  big
+comment:  world
+comment:  world
+comment:  open
+comment:  smart
+comment:  straight
+wear 	0.307301
+dist totale: [0.9251158488897424, 0.8783939886622466, 1.0502224634909283, 1.0608690928332425, 1.2365196452635843, 1.0498270565468322, 1.1662176681215888, 1.2138360221304072, 1.0461591768491438, 1.1565402833854521, 1.0215078419038475, 1.0143878470451468, 1.3734338748154968, 1.0498270565468322, 1.1236700943737772, 0.9597943781995432, 1.1114627203132952, 1.2141333024093763, 1.2141333024093763, 0.9963843282227524, 1.069816985252557, 0.9125655685744705] 22
+median--> 1.05554577816
+
+
+cluster  12 :
+CAPTION: man
+comment:  man
+comment:  man
+comment:  friend
+comment:  man
+comment:  man
+comment:  dead
+comment:  man
+man 	0.872325973851
+dist totale: [0.38396349039336136, 0.38396349039336136, 1.2996110847065272, 0.38396349039336136, 0.38396349039336136, 1.1605523827720612, 0.38396349039336136] 7
+median--> 0.383963490393
+
+
+cluster  13 :
+comment:  handsome
+comment:  hotel
+comment:  hotel
+comment:  famous
+comment:  plus
+dist totale: [1.310888761663168, 0.8994239040514217, 0.8994239040514217, 1.127166128095104, 1.3903245150449592] 5
+median--> 1.1271661281
+
+
+cluster  14 :
+comment:  bro
+comment:  oh
+comment:  gosh
+comment:  ur
+comment:  hello
+comment:  hey
+comment:  thank
+dist totale: [0.8396284683413194, 0.8065992784020737, 0.9399316840786476, 0.7772753673599575, 0.8197347618932949, 0.7514376630207343, 1.2037696914872944] 7
+median--> 0.819734761893
+
+
+cluster  15 :
+comment:  bonne
+comment:  des
+comment:  et
+comment:  suis
+comment:  vous
+comment:  merci
+comment:  vous
+comment:  tes
+comment:  magnifique
+dist totale: [0.66345597208349, 1.179408132549949, 1.250515166409845, 0.6815827270480254, 0.703105215949911, 0.8445339520170371, 0.703105215949911, 0.7482720476057197, 0.9601180690537152] 9
+median--> 0.748272047606
+
+
+cluster  16 :
+comment:  adn
+comment:  adn
+comment:  vega
+comment:  ter
+comment:  sen
+comment:  ele
+comment:  looong
+comment:  det
+dist totale: [1.1719583452566145, 1.1719583452566145, 1.4972688343487528, 1.1090613498995068, 0.9960254296281045, 1.34844380950077, 1.5158415181195914, 0.9815192382546499] 8
+median--> 1.17195834526
+
+
+cluster  17 :
+comment:  right
+comment:  certainly
+comment:  come
+comment:  time
+comment:  remember
+comment:  know
+comment:  look
+comment:  tell
+comment:  look
+comment:  way
+comment:  hope
+comment:  like
+comment:  like
+comment:  able
+comment:  let
+comment:  actually
+comment:  time
+comment:  like
+comment:  like
+comment:  mind
+comment:  let
+comment:  look
+comment:  need
+comment:  good
+dist totale: [0.8049679788236866, 0.9637183528494976, 0.7281413524478488, 1.0632339131378055, 0.7320803113089941, 0.7717530890683896, 0.8644007372691022, 0.8911549383743421, 0.8644007372691022, 0.7279438489419272, 0.8442027173862604, 0.819148820675908, 0.819148820675908, 1.0570231515594102, 0.8437880643472404, 0.6650918770281004, 1.0632339131378055, 0.819148820675908, 0.819148820675908, 0.7149580665013576, 0.8437880643472404, 0.8644007372691022, 0.8670212598712635, 1.0288230224882526] 24
+median--> 0.843788064347
+
+
+cluster  18 :
+comment:  rob
+comment:  christopher
+comment:  david
+comment:  wisconsin
+comment:  elizabeth
+comment:  google
+comment:  superman
+dist totale: [1.1723020411670697, 1.1318889680736761, 0.8853626624158251, 1.1828552638260204, 0.9606859813162684, 1.6980751559591223, 1.0294496537076152] 7
+median--> 1.13188896807
+caption 0 inside the median of cluster: 12 caption: 0.383963490393 median: 0.383963490393
+caption 1 inside the median of cluster: 0 caption: 1.11794883071 median: 1.14421042925
+caption 1 inside the median of cluster: 4 caption: 1.26716827427 median: 1.28532531422
+caption 1 inside the median of cluster: 13 caption: 1.12062077366 median: 1.1271661281
+caption 2 inside the median of cluster: 0 caption: 1.01707868902 median: 1.14421042925
+caption 3 inside the median of cluster: 11 caption: 0.986315227796 median: 1.05554577816
+caption 4 inside the median of cluster: 0 caption: 1.01707868902 median: 1.14421042925
