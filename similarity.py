@@ -19,7 +19,7 @@ from sklearn.metrics import  pairwise
 from scipy.spatial import distance
 from scipy.sparse import vstack
 nlp = spacy.load('en_core_web_lg')
-jfile = json.load(open('output/comm_cap_101373961279443806744.json'))
+jfile = json.load(open('output/comm_cap_100300281975626912157.json'))
 from pandas import *
 
 #workaround beacuse in this model they have no stop words
@@ -125,13 +125,17 @@ def cluster_comments(matrix_comment, nb_of_clusters, matrix_caption):
 	
 
 def plot_cluster(matrix_comment,labels,predicted_label, centers,img_id, matrix_caption, caption, comment):
-	#cdict = {0: 'red', 1: 'blue', 2: 'green', 3:'dodgerblue', 4:'purple',5: 'orchid', 6: 'skyblue', 7: 'pink', 8: 'yellow', 9: 'turquoise', 10: 'violet',11:'orange',12: 'royalblue', 13:'mediumspringgreen', 14:'aqua', 15:'firebrick', 16:'silver', 17:'gold', 18:'bisque', 19:'black', 20:'navy', 21:'teal', 22:'blueviolet', 23:'brown', 24:'burlywood', 25:'cadetblue', 26:'chartreuse', 27:'chocolate', 28:'coral', 29:'cornflowerblue', 30:'tomato', 31:'crimson', 32:'cyan', 33:'darkblue', 34:'darkcyan',35:'darkgoldenrod', 36:'darkgray', 37:'darkgreen', 38:'darkkhaki', 39:'darkmagenta', 40:'darkolivegreen', 41:'darkorange', 42:'darkorchid', 43:'darkred', 44:'darksalmon', 45:'darkseagreen', 46:'darkslateblue', 47:'darkslategray', 48:'darkturquoise', 49:'darkviolet', 50:'deeppink', 51:'deepskyblue', 52:'dimgray', 53:'greenyellow'}
-	cdict= {0:'aliceblue',1:'antiquewhite',2:'aqua',3:'aquamarine',4:'azure',5:'beige',6:'bisque',7:'black',8:'blanchedalmond',9:'blue',10:'blueviolet',11:'brown',12:'burlywood',
+	cdict = {0: 'red', 1: 'blue', 2: 'green', 3:'dodgerblue', 4:'purple',5: 'orchid', 6: 'skyblue', 7: 'pink', 8: 'yellow', 9: 'turquoise', 10: 'violet',11:'orange',12: 'royalblue', 
+				13:'mediumspringgreen', 14:'aqua', 15:'firebrick', 16:'silver', 17:'gold', 18:'bisque', 19:'black', 20:'navy', 21:'teal', 22:'blueviolet', 23:'brown', 24:'burlywood',
+				25:'cadetblue', 26:'chartreuse', 27:'chocolate', 28:'coral', 29:'cornflowerblue', 30:'tomato', 31:'crimson', 32:'cyan', 33:'darkblue', 34:'darkcyan',35:'darkgoldenrod',
+				36:'darkgray', 37:'darkgreen', 38:'darkkhaki', 39:'darkmagenta', 40:'darkolivegreen', 41:'darkorange', 42:'darkorchid', 43:'darkred', 44:'darksalmon', 45:'darkseagreen',
+				46:'darkslateblue', 47:'darkslategray', 48:'darkturquoise', 49:'darkviolet', 50:'deeppink', 51:'deepskyblue', 52:'dimgray', 53:'greenyellow'}
+	"""cdict= {0:'aliceblue',1:'antiquewhite',2:'aqua',3:'aquamarine',4:'azure',5:'beige',6:'bisque',7:'black',8:'blanchedalmond',9:'blue',10:'blueviolet',11:'brown',12:'burlywood',
 			13:'cadetblue',	14:'chartreuse',15:'chocolate',16:'coral',17:'cornflowerblue',18:'cornsilk',19:'crimson',20:'cyan',21:'darkblue',22:'darkcyan',23:'darkgoldenrod',24:'darkgray',
 			25:'darkgreen',26:'darkkhaki',27:'darkmagenta',28:'darkolivegreen',29:'darkorange',30:'darkorchid',31:'darkred',32:'darksalmon',33:'darkseagreen',34:'darkslateblue',
 			35:'darkslategray',36:'darkturquoise',37:'darkviolet',38:'deeppink',39:'deepskyblue',40:'dimgray',41:'dodgerblue',42:'firebrick',43:'floralwhite',44:'forestgreen',
 			45:'fuchsia',46:'gainsboro',47:'ghostwhite',48:'gold',49:'goldenrod',50:'gray',51:'green',52:'greenyellow',53:'honeydew',54:'hotpink',55:'indianred',56:'indigo',57:'ivory',
-			58:'khaki',59:'lavender',60:'lavenderblush',61:'lawngreen',62:'lemonchiffon',63:'lightblue'64:'lightcoral',65:'lightcyan',66:'lightgoldenrodyellow',67:'lightgreen',68:'lightgray',
+			58:'khaki',59:'lavender',60:'lavenderblush',61:'lawngreen',62:'lemonchiffon',63:'lightblue',64:'lightcoral',65:'lightcyan',66:'lightgoldenrodyellow',67:'lightgreen',68:'lightgray',
 			69:'lightpink',70:'lightsalmon',71:'lightseagreen',72:'lightskyblue',73:'lightslategray',74:'lightsteelblue',75:'lightyellow',76:'lime',77:'limegreen',78:'linen',79:'magenta',
 			80:'maroon',81:'mediumaquamarine',82:'mediumblue',83:'mediumorchid',84:'mediumpurple',85:'mediumseagreen',86:'mediumslateblue',87:'mediumspringgreen',88:'mediumturquoise',
 			89:'mediumvioletred',90:'midnightblue',91:'mintcream',92:'mistyrose',93:'moccasin',94:'navajowhite',95:'navy',96:'oldlace',97:'olive',98:'olivedrab',99:'orange',100:'orangered',
@@ -139,6 +143,7 @@ def plot_cluster(matrix_comment,labels,predicted_label, centers,img_id, matrix_c
 			112:'purple',113:'red',114:'rosybrown',115:'royalblue',116:'saddlebrown',117:'salmon',118:'sandybrown',119:'seagreen',120:'seashell',121:'sienna',122:'silver',123:'skyblue',
 			124:'slateblue',125:'slategray',126:'snow',127:'springgreen',128:'steelblue',129:'tan',130:'teal',131:'thistle',132:'tomato',133:'turquoise',134:'violet',135:'wheat',136:'white',
 			137:'whitesmoke',138:'yellow',139:'yellowgreen'}
+	"""
 	"""
 	-->1) Prepare the matrix to be plotted = comment+caption+cluster
 	
@@ -194,6 +199,7 @@ def plot_cluster(matrix_comment,labels,predicted_label, centers,img_id, matrix_c
 
 	#plot COMMENT 
 	fig, ax = plt.subplots()
+	counter_cent = 0
 	for l in np.unique(labels):
 		dist_comm_cent=[]
 		ix = np.where(labels == l)
@@ -201,20 +207,28 @@ def plot_cluster(matrix_comment,labels,predicted_label, centers,img_id, matrix_c
 
 		x_comm=scatter_comm_x[ix]	
 		y_comm=scatter_comm_y[ix]
+		c_x=np.mean(x_comm)
+		c_y=np.mean(y_comm)
+		print "c_x: ", c_x, "c_y: ", c_y
 		for i,j in zip(x_comm, y_comm):
 			x_cent=scatter_cent_x[l]
 			y_cent=scatter_cent_y[l]
-		
+			
 			a = np.array((i, j))
-			b = np.array((x_cent, y_cent))
-		
+			#b = np.array((x_cent, y_cent))
+			
+			#calculate the new centroid
+			
+			b = np.array((c_x, c_y))
 			dist = np.linalg.norm(a-b)
 			dist_comm_cent.append(dist)
-		mean=sum(dist_comm_cent) / float(len(dist_comm_cent))
+		#mean=sum(dist_comm_cent) / float(len(dist_comm_cent))
 		median=statistics.median(dist_comm_cent)
-		ax.scatter(scatter_cent_x[l],scatter_cent_y[l], c = cdict[l], s=60, alpha=0.7)
-		circle = Circle((scatter_cent_x[l],scatter_cent_y[l]), median, color = cdict[l], alpha=0.3)
+		ax.scatter(c_x,c_y, color='black', s=60, alpha=0.7)
+		circle = Circle((c_x, c_y), median, color = cdict[l], alpha=0.3)
 		ax.add_artist(circle)
+		ax.text(c_x,c_y,counter_cent, size=12)
+		counter_cent+=1
 	ax.legend(loc='center left', bbox_to_anchor=(1, 0.5),  title="Cluster color")
 	
 	#plot text comment
@@ -225,11 +239,12 @@ def plot_cluster(matrix_comment,labels,predicted_label, centers,img_id, matrix_c
 	
 	
 	#plot CENTROIDS
-	counter_cent = 0
-	for i,j in zip(scatter_cent_x,scatter_cent_y):
-		plt.scatter(i,j, color='black', s=100, alpha=0.7)
-		plt.text(i,j,counter_cent, size=12)
-		counter_cent+=1
+	#counter_cent = 0
+	#for i,j in zip(scatter_cent_x,scatter_cent_y):
+	
+		#plt.scatter(i,j, color='black', s=100, alpha=0.7)
+		#plt.text(c_x,c_y,counter_cent, size=12)
+		#counter_cent+=1
 	#plot CAPTION with text
 	caption = caption.split()
 	for i, caption in enumerate(caption_list):
@@ -237,7 +252,7 @@ def plot_cluster(matrix_comment,labels,predicted_label, centers,img_id, matrix_c
 		plt.scatter(scatter_cap_x[i],scatter_cap_y[i],  s=110, color=cdict[c], marker='+')
 		plt.text(scatter_cap_x[i],scatter_cap_y[i], caption_list[i], size=14)
 	
-	#plt.savefig('median_'+str(img_id) + '.pdf', bbox_inches='tight')
+	plt.savefig('median_tsne_'+str(img_id) + '.pdf', bbox_inches='tight')
 	plt.show()
 
 if __name__ == "__main__":

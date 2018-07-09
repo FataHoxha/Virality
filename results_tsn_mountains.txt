@@ -1,0 +1,11207 @@
+
+101373961279443806744.5656965061305986450
+a view of a mountain range from a mountain range 
+
+Caption cleaned --->  view mountain range mountain range  
+
+matrix comment dim (328, 328)
+
+
+cluster  0 :
+comment:  christina
+comment:  carey
+comment:  cameron
+comment:  pitty
+comment:  peter
+comment:  congratulation
+comment:  neil
+comment:  juan
+comment:  philip
+comment:  alexis
+comment:  jan
+comment:  christina
+comment:  christine
+comment:  mike
+comment:  joseph
+comment:  carol
+comment:  martin
+comment:  neil
+
+
+cluster  1 :
+comment:  shot
+comment:  shoot
+comment:  shot
+comment:  shot
+comment:  shot
+comment:  shot
+comment:  shoot
+
+
+cluster  2 :
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  glad
+comment:  thank
+comment:  thank
+comment:  glad
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+
+
+cluster  3 :
+comment:  happen
+comment:  lose
+comment:  speak
+comment:  leave
+comment:  stop
+comment:  stop
+
+
+cluster  4 :
+comment:  excellent
+comment:  impressive
+comment:  remarkable
+comment:  impressive
+comment:  terrific
+comment:  superb
+comment:  excellent
+comment:  incredible
+
+
+cluster  5 :
+comment:  oldy
+comment:  camara
+comment:  bello
+comment:  paisaje
+
+
+cluster  6 :
+comment:  wonderful
+comment:  great
+comment:  amazing
+comment:  great
+comment:  good
+comment:  great
+comment:  fantastic
+comment:  great
+comment:  amazing
+comment:  awesome
+comment:  great
+comment:  great
+comment:  awesome
+comment:  nice
+comment:  good
+comment:  wonderful
+comment:  nice
+comment:  wonderful
+comment:  great
+comment:  wonderful
+comment:  fantastic
+comment:  great
+
+
+cluster  7 :
+comment:  yeah
+comment:  yeah
+comment:  guess
+comment:  guess
+comment:  anyways
+comment:  luck
+comment:  guess
+comment:  sorry
+
+
+cluster  8 :
+CAPTION: mountain
+CAPTION: mountain
+comment:  cloud
+comment:  tree
+comment:  earth
+comment:  tree
+comment:  mountain
+comment:  northern
+comment:  near
+comment:  mountain
+comment:  mile
+comment:  hunt
+comment:  weather
+mountain 	0.507643352855
+[[0.33648807 0.42439801 0.40679657 0.42439801 1.         0.52206969
+  0.33788002 1.         0.36409673 0.37711245 0.39083734]]
+mountain 	0.507643352855
+[[0.33648807 0.42439801 0.40679657 0.42439801 1.         0.52206969
+  0.33788002 1.         0.36409673 0.37711245 0.39083734]]
+
+
+cluster  9 :
+comment:  comment
+comment:  comment
+comment:  post
+comment:  comment
+comment:  comment
+comment:  comment
+comment:  comment
+comment:  comment
+comment:  comment
+comment:  comment
+
+
+cluster  10 :
+comment:  photo
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  picture
+comment:  photo
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+
+
+cluster  11 :
+comment:  davorin
+comment:  siguenza
+comment:  silhouetted
+comment:  rooij
+comment:  rrez
+comment:  supershot
+comment:  klimek
+comment:  monod
+comment:  cesari
+comment:  erdtmann
+comment:  richi
+comment:  filmalter
+
+
+cluster  12 :
+comment:  figure
+comment:  book
+comment:  mood
+comment:  progress
+comment:  book
+comment:  touch
+comment:  live
+comment:  bunch
+comment:  grow
+comment:  special
+comment:  add
+comment:  response
+comment:  notice
+comment:  choose
+comment:  mood
+comment:  word
+comment:  person
+
+
+cluster  13 :
+comment:  gorgeous
+comment:  beautiful
+comment:  beautiful
+comment:  lovely
+comment:  beautiful
+comment:  gorgeous
+comment:  beautiful
+comment:  lovely
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  lovely
+
+
+cluster  14 :
+comment:  work
+comment:  experience
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+
+
+cluster  15 :
+comment:  epic
+comment:  journey
+comment:  mystical
+comment:  mysterious
+comment:  atmosphere
+comment:  frightening
+comment:  sublime
+
+
+cluster  16 :
+comment:  obviously
+comment:  need
+comment:  better
+comment:  place
+comment:  like
+comment:  lot
+comment:  like
+comment:  like
+comment:  like
+comment:  bit
+comment:  bring
+comment:  matter
+comment:  lot
+comment:  bad
+comment:  bit
+comment:  kind
+comment:  place
+
+
+cluster  17 :
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+
+
+cluster  18 :
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+
+
+cluster  19 :
+comment:  stunning
+comment:  magnificent
+comment:  splendid
+comment:  stunning
+comment:  scenery
+comment:  stunning
+comment:  stunning
+comment:  breathtaking
+comment:  stunning
+comment:  stunning
+comment:  stunning
+
+
+cluster  20 :
+comment:  appreciate
+comment:  miss
+comment:  love
+comment:  enjoy
+comment:  miss
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  appreciate
+
+
+cluster  21 :
+comment:  rollo
+comment:  athena
+comment:  jos
+comment:  barrow
+comment:  alp
+comment:  rollo
+comment:  luca
+comment:  nora
+comment:  barnsley
+
+
+cluster  22 :
+CAPTION: range
+CAPTION: range
+comment:  balance
+comment:  etc
+comment:  fix
+comment:  option
+comment:  copy
+comment:  separate
+comment:  portfolio
+comment:  increase
+comment:  tag
+comment:  select
+comment:  process
+comment:  row
+range 	0.26760122
+[[0.34650508 0.3268474  0.08460606 0.34732443 0.08679532 0.31267023
+  0.37810302 0.39584616 0.15025169 0.3703993  0.2473437  0.16452217]]
+range 	0.26760122
+[[0.34650508 0.3268474  0.08460606 0.34732443 0.08679532 0.31267023
+  0.37810302 0.39584616 0.15025169 0.3703993  0.2473437  0.16452217]]
+
+
+cluster  23 :
+comment:  sandwich
+comment:  album
+comment:  scrapbook
+comment:  upload
+comment:  album
+comment:  ago
+comment:  composition
+
+
+cluster  24 :
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+
+
+cluster  25 :
+comment:  middle
+comment:  light
+comment:  light
+comment:  spot
+comment:  light
+
+
+cluster  26 :
+comment:  wow
+comment:  wow
+comment:  wow
+comment:  wow
+comment:  wow
+comment:  wow
+comment:  wow
+comment:  wow
+
+
+cluster  27 :
+comment:  jack
+comment:  austerity
+comment:  canadian
+comment:  snowed
+comment:  armor
+comment:  hash
+comment:  tempt
+comment:  delayed
+
+
+cluster  28 :
+comment:  mance
+comment:  fusco
+comment:  guti
+comment:  zoltan
+comment:  babo
+comment:  golan
+comment:  rockie
+comment:  coram
+comment:  dene
+comment:  jarek
+comment:  trinh
+comment:  piet
+
+
+cluster  29 :
+CAPTION: view
+comment:  feature
+comment:  view
+comment:  art
+comment:  original
+comment:  dramatic
+comment:  landscape
+comment:  view
+comment:  photography
+comment:  quality
+comment:  view
+comment:  detail
+comment:  dramatic
+view 	0.506010783215
+[[0.34299681 1.         0.30080792 0.30561858 0.3110753  0.43843272
+  1.         0.32352337 0.28574201 1.         0.45285738 0.3110753 ]]
+
+
+cluster  30 :
+comment:  nicely
+comment:  compliment
+comment:  compliment
+
+
+cluster  31 :
+comment:  day
+comment:  moment
+comment:  surprise
+comment:  day
+comment:  moment
+comment:  imagine
+comment:  shame
+caption 0 inside the median of cluster: 29 caption: 1.29276402482 median: 1.32421339271
+caption 1 inside the median of cluster: 8 caption: 1.2011727847 median: 1.2011727847
+caption 3 inside the median of cluster: 8 caption: 1.2011727847 median: 1.2011727847
+
+101373961279443806744.5981772380401160226
+a large bird is flying over the snow 
+
+Caption cleaned --->  large bird fly snow  
+
+matrix comment dim (2098, 2098)
+
+
+cluster  0 :
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thanks
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thanks
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+
+
+cluster  1 :
+comment:  harvey
+comment:  karl
+comment:  ronald
+comment:  walter
+comment:  walter
+comment:  ronald
+comment:  ronald
+comment:  ronald
+comment:  ronald
+
+
+cluster  2 :
+comment:  effect
+comment:  visual
+comment:  aspect
+comment:  background
+comment:  detail
+comment:  detail
+comment:  quality
+comment:  screen
+comment:  contrast
+comment:  contrast
+comment:  contrast
+comment:  detail
+
+
+cluster  3 :
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+
+
+cluster  4 :
+comment:  welk
+comment:  knap
+comment:  gris
+comment:  woon
+comment:  gris
+comment:  bild
+comment:  wist
+comment:  sach
+
+
+cluster  5 :
+comment:  gittan
+comment:  beheydt
+comment:  verbaasd
+comment:  meesterwerkje
+comment:  ryndak
+comment:  jany
+comment:  viala
+comment:  jany
+comment:  welborn
+comment:  ryndak
+comment:  jany
+comment:  viala
+comment:  jany
+comment:  aballe
+comment:  haferland
+comment:  renay
+comment:  gittan
+comment:  beheydt
+comment:  vermoed
+comment:  gittan
+comment:  douine
+comment:  grzegorz
+comment:  piechowicz
+comment:  grzegorz
+comment:  versaci
+comment:  regamey
+comment:  muraz
+comment:  vielmal
+comment:  kaatje
+comment:  pfjew
+comment:  cairn
+comment:  rienzner
+comment:  hadegda
+comment:  ignatova
+comment:  catharina
+comment:  gaaf
+comment:  bjarte
+comment:  wergedahl
+comment:  bjarte
+comment:  manousos
+comment:  proyou
+comment:  besttopphotographer
+comment:  meesterwerk
+comment:  lefebre
+comment:  soestbergen
+comment:  johnan
+comment:  artistphtographeramateurorprofessional
+comment:  nikolski
+comment:  wooww
+comment:  gittan
+comment:  beheydt
+comment:  rousher
+comment:  besttopphotographer
+comment:  comenjoy
+comment:  versaci
+comment:  tugce
+comment:  tyllinen
+comment:  tanker
+comment:  tanker
+comment:  belgisch
+comment:  pintje
+comment:  graub
+comment:  nden
+comment:  grossartige
+comment:  ausgesucht
+comment:  wowwee
+comment:  tugce
+comment:  grzegorz
+comment:  piechowicz
+comment:  tanker
+comment:  ruig
+comment:  landschap
+comment:  heick
+comment:  nter
+comment:  schurr
+comment:  nter
+comment:  lenzerheide
+comment:  tompkin
+comment:  westerhout
+comment:  nter
+comment:  schurr
+comment:  nter
+comment:  dusseault
+comment:  rivarola
+comment:  landscapephotography
+comment:  landscapephotography
+comment:  seide
+comment:  sairam
+comment:  sundaresan
+comment:  sandidge
+comment:  ondenkbaar
+comment:  menefee
+comment:  anatoliy
+comment:  urbanskiy
+comment:  goodi
+comment:  aarzel
+comment:  hqsp
+comment:  demaret
+comment:  landscapephotography
+comment:  hqsp
+comment:  gittan
+comment:  beheydt
+comment:  redelijk
+comment:  maandje
+comment:  opsluiten
+comment:  fotograferen
+comment:  jaquillard
+comment:  ambrogio
+comment:  bellotti
+comment:  jany
+comment:  viala
+comment:  jany
+comment:  jaquillard
+comment:  allicht
+comment:  smelseizoen
+comment:  aanpassingen
+comment:  garzer
+comment:  regamey
+comment:  ambrogio
+comment:  bellotti
+comment:  ambrogio
+comment:  girolamo
+comment:  cracchiolo
+comment:  girolamo
+comment:  cheminant
+comment:  skreiner
+comment:  tjintjelaar
+comment:  tompkin
+comment:  nikolski
+comment:  catharina
+comment:  versaci
+comment:  louisbourg
+comment:  lacanski
+comment:  turkowski
+comment:  esguerra
+comment:  showyourbestwork
+comment:  artistphtographeramateurorprofessional
+comment:  jany
+comment:  viala
+comment:  voorzichtig
+comment:  shannoon
+comment:  niederer
+comment:  showyourbestwork
+comment:  showyourbestwork
+comment:  gittan
+comment:  beheydt
+comment:  regamey
+comment:  gittan
+comment:  beheydt
+comment:  nogmaal
+comment:  duik
+comment:  ontkomen
+comment:  dolny
+comment:  landsmann
+comment:  yanti
+comment:  siagian
+comment:  davorin
+comment:  davorin
+comment:  exzellente
+comment:  mossbacher
+comment:  zeeeeeker
+comment:  catharina
+
+
+cluster  6 :
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+
+
+cluster  7 :
+comment:  fantastic
+comment:  wonderful
+comment:  amazing
+comment:  amazing
+comment:  amazing
+comment:  amazing
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  amazing
+comment:  wonderful
+comment:  fantastic
+comment:  wonderful
+comment:  wonderful
+comment:  amazing
+comment:  wonderful
+comment:  fantastic
+comment:  amazing
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  amazing
+comment:  fantastic
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+
+
+cluster  8 :
+comment:  forward
+comment:  follow
+comment:  follow
+comment:  pleased
+comment:  today
+comment:  follow
+comment:  follow
+comment:  forward
+comment:  read
+comment:  help
+comment:  read
+comment:  opportunity
+comment:  forward
+comment:  job
+comment:  recommend
+
+
+cluster  9 :
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+
+
+cluster  10 :
+CAPTION: fly
+comment:  door
+comment:  gear
+comment:  butt
+comment:  gear
+comment:  tip
+comment:  ball
+comment:  meat
+comment:  ice
+comment:  tip
+comment:  sharp
+comment:  stretch
+comment:  sharp
+comment:  tip
+comment:  white
+comment:  double
+comment:  door
+comment:  wood
+comment:  bump
+comment:  mark
+comment:  mark
+comment:  tip
+fly 	0.25890929
+[[0.20495372 0.32958707 0.24799418 0.32958707 0.2863572  0.35607436
+  0.21352525 0.2633399  0.2863572  0.2127463  0.311597   0.2127463
+  0.2863572  0.23509705 0.29394186 0.20495372 0.26150334 0.21704334
+  0.19848756 0.19848756 0.2863572 ]]
+
+
+cluster  11 :
+comment:  louis
+comment:  sunday
+comment:  american
+comment:  pakistan
+comment:  heath
+comment:  irish
+comment:  germany
+comment:  irish
+comment:  zen
+comment:  canada
+comment:  potter
+comment:  irish
+
+
+cluster  12 :
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  way
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  thing
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  thing
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  way
+comment:  like
+comment:  way
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+
+
+cluster  13 :
+comment:  fun
+comment:  enjoy
+comment:  fun
+comment:  enjoy
+comment:  fun
+comment:  enjoy
+comment:  pleasure
+comment:  fun
+comment:  enjoy
+comment:  fun
+comment:  pleasure
+comment:  fun
+comment:  pleasure
+comment:  fun
+comment:  enjoy
+
+
+cluster  14 :
+comment:  sujet
+comment:  parfaite
+comment:  clontarf
+comment:  parfaite
+comment:  sujet
+comment:  histoire
+comment:  aksu
+comment:  seite
+comment:  aksu
+comment:  jav
+comment:  guilfoyle
+comment:  dreamtime
+comment:  guilfoyle
+comment:  munford
+comment:  swanepoel
+comment:  mance
+
+
+cluster  15 :
+comment:  echt
+comment:  echt
+comment:  heb
+comment:  ook
+comment:  mooi
+comment:  echt
+comment:  hoor
+comment:  niet
+comment:  deze
+comment:  anders
+comment:  maar
+comment:  ook
+comment:  niet
+comment:  ook
+comment:  dus
+comment:  niet
+comment:  zijn
+comment:  mijn
+comment:  maar
+comment:  heb
+comment:  meer
+comment:  maar
+comment:  hier
+comment:  toch
+comment:  niet
+comment:  goed
+comment:  maar
+comment:  ook
+comment:  niet
+comment:  hoor
+comment:  maar
+comment:  dus
+comment:  maar
+comment:  geen
+comment:  niet
+
+
+cluster  16 :
+comment:  beautiful
+comment:  gorgeous
+comment:  gorgeous
+comment:  lovely
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  lovely
+comment:  gorgeous
+comment:  beautiful
+comment:  gorgeous
+comment:  gorgeous
+comment:  beautiful
+comment:  beautiful
+comment:  lovely
+comment:  gorgeous
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  gorgeous
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  lovely
+comment:  beautiful
+comment:  lovely
+comment:  beautiful
+comment:  beautiful
+comment:  lovely
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  gorgeous
+comment:  lovely
+comment:  beautiful
+comment:  beautiful
+
+
+cluster  17 :
+CAPTION: snow
+comment:  breakfast
+comment:  club
+comment:  winter
+comment:  weather
+comment:  winter
+comment:  winter
+comment:  holiday
+comment:  spring
+comment:  winter
+comment:  vacation
+comment:  breakfast
+comment:  club
+comment:  breakfast
+snow 	0.45435598
+[[0.23013006 0.19845532 0.754684   0.6501446  0.754684   0.754684
+  0.36640763 0.47439542 0.754684   0.30964285 0.23013006 0.19845532
+  0.23013006]]
+
+
+cluster  18 :
+comment:  athena
+comment:  gallup
+comment:  netherland
+comment:  wale
+comment:  schweiz
+comment:  guinness
+comment:  dempsey
+comment:  yasmin
+comment:  schweiz
+comment:  tran
+comment:  yasmin
+comment:  yasmin
+comment:  tran
+comment:  tran
+comment:  singh
+comment:  philippe
+comment:  guinness
+comment:  breton
+comment:  cabot
+comment:  lund
+comment:  dempsey
+
+
+cluster  19 :
+comment:  anna
+comment:  thomas
+comment:  thomas
+comment:  anna
+comment:  michael
+comment:  david
+comment:  tim
+comment:  john
+comment:  john
+comment:  kevin
+comment:  kevin
+comment:  jim
+comment:  jim
+comment:  david
+comment:  david
+comment:  david
+comment:  williams
+comment:  john
+comment:  john
+comment:  tom
+comment:  jerry
+comment:  johnson
+comment:  jerry
+comment:  george
+comment:  george
+comment:  michael
+comment:  michael
+comment:  tom
+comment:  tom
+comment:  steve
+comment:  tom
+comment:  michelle
+comment:  michelle
+comment:  robert
+comment:  michael
+comment:  paul
+comment:  paul
+comment:  david
+comment:  david
+comment:  george
+comment:  brian
+comment:  michael
+comment:  michael
+comment:  johnson
+
+
+cluster  20 :
+comment:  hou
+comment:  tot
+comment:  meg
+comment:  kan
+comment:  lang
+comment:  wll
+comment:  mee
+comment:  doe
+comment:  hou
+comment:  zit
+comment:  kan
+
+
+cluster  21 :
+comment:  nope
+comment:  luv
+comment:  nope
+comment:  hahah
+comment:  sir
+
+
+cluster  22 :
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  awesome
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  awesome
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  awesome
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  awesome
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  awesome
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  cool
+comment:  nice
+comment:  nice
+comment:  cool
+comment:  cool
+comment:  nice
+comment:  cool
+comment:  nice
+comment:  nice
+comment:  nice
+
+
+cluster  23 :
+comment:  photography
+comment:  photographer
+comment:  photography
+comment:  art
+comment:  photography
+comment:  photography
+comment:  photographer
+comment:  artist
+comment:  photographer
+comment:  photographer
+comment:  photography
+comment:  photography
+comment:  photography
+comment:  artist
+comment:  photographer
+comment:  photographer
+comment:  artist
+comment:  photographer
+comment:  artist
+comment:  photographer
+comment:  photographer
+
+
+cluster  24 :
+comment:  event
+comment:  local
+comment:  provide
+comment:  community
+comment:  addition
+comment:  professional
+comment:  local
+comment:  professional
+comment:  benefit
+comment:  professional
+comment:  professional
+comment:  explore
+comment:  local
+
+
+cluster  25 :
+comment:  cloud
+comment:  stream
+comment:  distant
+comment:  square
+comment:  square
+comment:  horizon
+comment:  horizon
+comment:  region
+comment:  horizon
+comment:  square
+comment:  unpredictable
+comment:  historic
+comment:  urban
+comment:  horizon
+
+
+cluster  26 :
+comment:  leave
+comment:  right
+comment:  place
+comment:  day
+comment:  come
+comment:  people
+comment:  come
+comment:  place
+comment:  come
+comment:  day
+comment:  place
+comment:  right
+comment:  day
+comment:  able
+comment:  rest
+comment:  come
+comment:  try
+comment:  day
+comment:  right
+comment:  bring
+comment:  expect
+comment:  come
+comment:  people
+comment:  need
+comment:  need
+comment:  come
+comment:  mind
+comment:  chance
+comment:  mind
+comment:  day
+comment:  right
+comment:  soon
+comment:  day
+comment:  soon
+
+
+cluster  27 :
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+
+
+cluster  28 :
+comment:  magnifique
+comment:  aime
+comment:  les
+comment:  est
+comment:  dir
+comment:  cette
+comment:  est
+comment:  aime
+comment:  les
+comment:  magnifique
+
+
+cluster  29 :
+comment:  komt
+comment:  vind
+comment:  hebt
+comment:  weet
+comment:  vinden
+comment:  eens
+comment:  prachtig
+comment:  prachtig
+comment:  weet
+comment:  zeker
+comment:  helemaal
+comment:  leven
+comment:  zonder
+comment:  mij
+comment:  zeker
+comment:  jij
+comment:  zal
+comment:  graag
+comment:  zeker
+comment:  zeker
+comment:  eens
+comment:  zou
+comment:  zeker
+comment:  gaan
+comment:  staan
+comment:  hebben
+comment:  eens
+comment:  veel
+comment:  gaat
+comment:  eens
+comment:  inderdaad
+comment:  altijd
+comment:  eens
+comment:  jullie
+
+
+cluster  30 :
+comment:  yep
+comment:  everytime
+comment:  wow
+comment:  lol
+comment:  wow
+comment:  hey
+comment:  yep
+comment:  hehe
+comment:  wow
+comment:  yep
+comment:  btw
+comment:  wow
+comment:  hey
+comment:  yep
+comment:  lol
+comment:  yep
+comment:  lol
+comment:  wow
+comment:  wow
+comment:  hey
+comment:  lol
+
+
+cluster  31 :
+comment:  mountain
+comment:  sunrise
+comment:  coast
+comment:  sea
+comment:  storm
+comment:  sand
+comment:  south
+comment:  beach
+comment:  east
+comment:  coast
+comment:  coast
+comment:  south
+comment:  shore
+comment:  park
+comment:  east
+comment:  coast
+
+
+cluster  32 :
+comment:  page
+comment:  page
+comment:  page
+comment:  page
+comment:  page
+comment:  message
+comment:  link
+comment:  page
+comment:  site
+comment:  preview
+comment:  list
+
+
+cluster  33 :
+comment:  git
+comment:  mania
+comment:  hardship
+comment:  freight
+comment:  www
+comment:  com
+comment:  shield
+comment:  hardship
+comment:  www
+comment:  vitamin
+comment:  heel
+comment:  mania
+comment:  min
+comment:  bribe
+comment:  harden
+comment:  min
+comment:  heel
+comment:  arrest
+comment:  www
+comment:  com
+comment:  pipeline
+
+
+cluster  34 :
+comment:  inspiring
+comment:  superb
+comment:  excellent
+comment:  excellent
+comment:  perfect
+comment:  superb
+comment:  perfect
+comment:  excellent
+comment:  excellent
+comment:  nicely
+comment:  outstanding
+comment:  perfect
+comment:  superb
+comment:  excellent
+comment:  terrific
+comment:  perfect
+comment:  neat
+comment:  marvelous
+comment:  excellent
+comment:  superb
+
+
+cluster  35 :
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  sharing
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+
+
+cluster  36 :
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+
+
+cluster  37 :
+comment:  photo
+comment:  picture
+comment:  photo
+comment:  pic
+comment:  photo
+comment:  photo
+comment:  photo
+comment:  photo
+comment:  photograph
+comment:  photo
+comment:  picture
+comment:  photo
+comment:  photo
+comment:  photo
+comment:  photo
+comment:  photo
+comment:  photo
+comment:  picture
+comment:  photo
+
+
+cluster  38 :
+comment:  change
+comment:  plan
+comment:  change
+comment:  notice
+comment:  fit
+comment:  sit
+comment:  hold
+comment:  hold
+comment:  fit
+comment:  change
+comment:  harder
+comment:  change
+comment:  normal
+comment:  use
+comment:  open
+comment:  hold
+comment:  plan
+
+
+cluster  39 :
+comment:  mcclure
+comment:  dermot
+comment:  jansen
+comment:  dunne
+comment:  nikola
+comment:  mikko
+comment:  mikko
+comment:  hilbert
+comment:  philipp
+comment:  marquardt
+comment:  shahzad
+comment:  dubi
+comment:  philipp
+comment:  hallie
+comment:  hilbert
+comment:  didier
+comment:  didier
+comment:  hallie
+comment:  forsyth
+comment:  dubi
+comment:  mady
+comment:  wirth
+comment:  nikola
+comment:  koontz
+comment:  wirth
+comment:  amal
+comment:  christa
+comment:  britta
+comment:  vitor
+comment:  ferreira
+comment:  vitor
+comment:  fitzpatrick
+comment:  anette
+comment:  koontz
+
+
+cluster  40 :
+comment:  refreshing
+comment:  refreshing
+comment:  rich
+comment:  theme
+comment:  theme
+comment:  theme
+comment:  warm
+comment:  rich
+comment:  theme
+comment:  excitement
+comment:  atmosphere
+comment:  theme
+comment:  magical
+comment:  mood
+
+
+cluster  41 :
+comment:  post
+comment:  post
+comment:  excited
+comment:  friend
+comment:  friend
+comment:  sister
+comment:  friend
+comment:  sister
+comment:  friend
+comment:  excited
+comment:  post
+comment:  friend
+comment:  dear
+
+
+cluster  42 :
+comment:  patient
+comment:  timing
+comment:  feeding
+comment:  shift
+comment:  currently
+comment:  interpret
+comment:  replacement
+comment:  connection
+comment:  constant
+comment:  debate
+comment:  version
+comment:  feed
+comment:  host
+comment:  dual
+comment:  chain
+comment:  input
+comment:  memory
+comment:  strike
+comment:  input
+comment:  uncover
+
+
+cluster  43 :
+comment:  gedachten
+comment:  resultaat
+comment:  enkel
+comment:  gelijk
+comment:  vragen
+comment:  geweest
+comment:  namelijk
+comment:  klaar
+comment:  meerdere
+comment:  verkeerd
+comment:  naast
+comment:  ervaren
+comment:  helpen
+comment:  vragen
+comment:  haast
+comment:  ermee
+comment:  aantal
+comment:  dingen
+comment:  zullen
+comment:  sneller
+comment:  lukt
+comment:  visie
+comment:  elkaar
+comment:  krijgen
+comment:  meeste
+comment:  inmiddels
+comment:  klaar
+comment:  nodig
+comment:  binnenkort
+comment:  mezelf
+comment:  sneeuw
+comment:  valt
+comment:  gebruiken
+comment:  werken
+comment:  werkt
+comment:  enkel
+comment:  gebruiken
+comment:  algemene
+comment:  visie
+comment:  drukken
+comment:  mezelf
+comment:  grens
+comment:  binnenkort
+comment:  verkeerd
+
+
+cluster  44 :
+comment:  week
+comment:  later
+comment:  year
+comment:  year
+comment:  year
+comment:  year
+comment:  beginning
+comment:  year
+comment:  year
+comment:  late
+comment:  beginning
+comment:  week
+comment:  year
+comment:  year
+comment:  second
+comment:  late
+comment:  week
+
+
+cluster  45 :
+comment:  nuance
+comment:  exclamation
+comment:  nuance
+comment:  crispy
+comment:  wistful
+comment:  fascinate
+comment:  shudder
+comment:  fascination
+comment:  mystical
+
+
+cluster  46 :
+comment:  ben
+comment:  april
+comment:  ben
+comment:  ben
+comment:  ben
+comment:  van
+comment:  april
+comment:  foto
+comment:  april
+comment:  ben
+comment:  van
+comment:  van
+
+
+cluster  47 :
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+
+
+cluster  48 :
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+
+
+cluster  49 :
+comment:  shot
+comment:  shot
+comment:  shoot
+comment:  shoot
+comment:  shoot
+comment:  shoot
+comment:  shot
+comment:  shot
+comment:  shot
+comment:  shot
+comment:  shot
+comment:  shot
+comment:  shoot
+comment:  shot
+comment:  shot
+comment:  shot
+comment:  shooting
+comment:  shooting
+
+
+cluster  50 :
+comment:  yes
+comment:  stupid
+comment:  yes
+comment:  yes
+comment:  sorry
+comment:  yes
+comment:  yes
+comment:  yes
+comment:  yes
+comment:  sorry
+comment:  yes
+comment:  yes
+
+
+cluster  51 :
+comment:  carey
+comment:  hudson
+comment:  marie
+comment:  russell
+comment:  hudson
+comment:  hudson
+comment:  betty
+comment:  carmen
+comment:  victor
+comment:  victor
+comment:  davidson
+comment:  simpson
+comment:  andreas
+comment:  nina
+comment:  ana
+comment:  elizabeth
+comment:  hudson
+
+
+cluster  52 :
+comment:  marina
+comment:  eagle
+comment:  creek
+comment:  eagle
+comment:  dot
+comment:  marina
+comment:  captain
+comment:  captain
+comment:  march
+comment:  swiss
+comment:  scout
+comment:  marina
+comment:  cove
+comment:  cape
+comment:  scout
+comment:  swiss
+
+
+cluster  53 :
+comment:  meet
+comment:  meet
+comment:  meet
+comment:  meet
+comment:  tomorrow
+comment:  meet
+comment:  meet
+comment:  meet
+comment:  meet
+comment:  tomorrow
+comment:  meet
+comment:  tomorrow
+comment:  meet
+comment:  meet
+comment:  meet
+
+
+cluster  54 :
+comment:  dat
+comment:  dat
+comment:  stil
+comment:  wat
+comment:  dat
+comment:  dat
+comment:  wat
+comment:  wat
+comment:  wat
+comment:  dat
+comment:  wat
+
+
+cluster  55 :
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  appreciate
+comment:  happy
+comment:  glad
+comment:  happy
+comment:  glad
+comment:  glad
+comment:  hope
+comment:  glad
+comment:  glad
+comment:  hope
+comment:  glad
+comment:  appreciate
+comment:  glad
+comment:  glad
+
+
+cluster  56 :
+comment:  exposure
+comment:  population
+comment:  exposure
+comment:  exposure
+comment:  dramatically
+comment:  exposure
+comment:  exposure
+comment:  processing
+comment:  exposure
+
+
+cluster  57 :
+comment:  new
+comment:  new
+comment:  new
+comment:  story
+comment:  new
+
+
+cluster  58 :
+comment:  nearby
+comment:  ship
+comment:  ship
+comment:  anchor
+comment:  destination
+comment:  anchor
+comment:  ship
+comment:  ship
+comment:  near
+
+
+cluster  59 :
+comment:  dank
+comment:  dank
+comment:  liitle
+comment:  dank
+comment:  dank
+comment:  crackin
+comment:  steed
+comment:  dank
+comment:  dank
+
+
+cluster  60 :
+comment:  subject
+comment:  general
+comment:  present
+comment:  overall
+comment:  naturally
+comment:  tend
+comment:  process
+comment:  despite
+comment:  reasonable
+comment:  result
+comment:  seemingly
+comment:  regard
+comment:  result
+comment:  depend
+comment:  appeal
+comment:  result
+comment:  process
+comment:  regard
+
+
+cluster  61 :
+comment:  stunning
+comment:  beauty
+comment:  stunning
+comment:  beautifully
+comment:  stunning
+comment:  scenery
+comment:  stunning
+comment:  magnificent
+comment:  beauty
+comment:  beauty
+comment:  beauty
+comment:  beauty
+
+
+cluster  62 :
+comment:  btp
+comment:  btp
+comment:  btp
+comment:  btp
+comment:  btp
+comment:  btp
+comment:  btp
+
+
+cluster  63 :
+comment:  switzerland
+comment:  nova
+comment:  scotia
+comment:  cornwall
+comment:  costa
+comment:  nova
+comment:  scotia
+comment:  seascape
+comment:  seascape
+comment:  cornwall
+comment:  nova
+comment:  scotia
+comment:  costa
+comment:  highland
+comment:  halifax
+comment:  switzerland
+comment:  seascape
+
+
+cluster  64 :
+comment:  chantal
+comment:  gemma
+comment:  gemma
+comment:  rowe
+comment:  dominique
+comment:  levi
+comment:  suzie
+comment:  dominique
+comment:  dominique
+comment:  louisa
+comment:  louisa
+comment:  dominique
+comment:  gemma
+comment:  elena
+comment:  orr
+comment:  fletcher
+
+
+cluster  65 :
+comment:  het
+comment:  het
+comment:  dit
+comment:  een
+comment:  als
+comment:  nog
+comment:  als
+comment:  een
+comment:  een
+comment:  voor
+comment:  dit
+comment:  het
+comment:  het
+comment:  een
+comment:  nog
+comment:  voor
+comment:  als
+comment:  het
+comment:  nog
+comment:  voor
+comment:  voor
+comment:  het
+comment:  aan
+
+
+cluster  66 :
+comment:  meen
+comment:  danke
+comment:  danke
+comment:  keren
+comment:  aamir
+comment:  kamal
+comment:  kamal
+comment:  yesss
+
+
+cluster  67 :
+comment:  absolutely
+comment:  kind
+comment:  definitely
+comment:  mention
+comment:  definitely
+comment:  lot
+comment:  definitely
+comment:  lot
+comment:  obviously
+comment:  definitely
+comment:  certainly
+comment:  interesting
+comment:  lot
+comment:  kind
+comment:  especially
+comment:  probably
+comment:  mention
+comment:  lot
+comment:  definitely
+comment:  kind
+comment:  certainly
+comment:  definitely
+
+
+cluster  68 :
+comment:  composition
+comment:  interpretation
+comment:  clarity
+comment:  composition
+comment:  composition
+comment:  composition
+comment:  composition
+comment:  composition
+comment:  composition
+comment:  composition
+
+
+cluster  69 :
+comment:  kurt
+comment:  kurt
+comment:  shawn
+comment:  shawn
+comment:  shawn
+comment:  shawn
+comment:  cindy
+comment:  stephen
+comment:  stephen
+comment:  shawn
+comment:  shawn
+comment:  ian
+comment:  ian
+comment:  nancy
+comment:  rebecca
+comment:  andrea
+comment:  ron
+comment:  nathan
+comment:  nathan
+comment:  joan
+comment:  joel
+comment:  anthony
+comment:  nathan
+comment:  nathan
+comment:  nancy
+comment:  shawn
+comment:  jonathan
+
+
+cluster  70 :
+comment:  check
+comment:  add
+comment:  extra
+comment:  add
+comment:  add
+comment:  check
+comment:  extra
+comment:  check
+comment:  add
+
+
+cluster  71 :
+comment:  beloved
+comment:  word
+comment:  recognise
+comment:  healthy
+comment:  poor
+comment:  disappoint
+comment:  nervous
+comment:  firstly
+comment:  confident
+comment:  feedback
+comment:  peace
+comment:  word
+comment:  cheer
+comment:  heart
+comment:  treat
+comment:  inspire
+comment:  heart
+comment:  feedback
+comment:  word
+comment:  talent
+comment:  humor
+comment:  cheer
+comment:  feedback
+
+
+cluster  72 :
+comment:  bit
+comment:  long
+comment:  bit
+comment:  past
+comment:  point
+comment:  hard
+comment:  short
+comment:  course
+comment:  long
+comment:  course
+comment:  big
+comment:  long
+comment:  short
+comment:  worth
+comment:  usual
+comment:  long
+comment:  spend
+comment:  pick
+comment:  bit
+comment:  fine
+comment:  long
+comment:  end
+comment:  bit
+comment:  spend
+comment:  course
+comment:  worth
+
+
+cluster  73 :
+comment:  nik
+comment:  markus
+comment:  enzo
+comment:  ros
+comment:  enzo
+comment:  andi
+comment:  nik
+comment:  enrique
+comment:  nik
+comment:  enzo
+comment:  ros
+comment:  nik
+comment:  markus
+comment:  markus
+
+
+cluster  74 :
+comment:  wait
+comment:  think
+comment:  want
+comment:  let
+comment:  know
+comment:  sure
+comment:  hear
+comment:  want
+comment:  want
+comment:  think
+comment:  know
+comment:  let
+comment:  know
+comment:  sure
+comment:  want
+comment:  want
+comment:  want
+comment:  sure
+comment:  hear
+comment:  know
+comment:  maybe
+comment:  hear
+comment:  know
+comment:  hopefully
+comment:  know
+comment:  sure
+comment:  wonder
+comment:  know
+comment:  think
+comment:  let
+comment:  sure
+comment:  wish
+comment:  tell
+comment:  imagine
+comment:  know
+comment:  think
+comment:  hear
+comment:  know
+
+
+cluster  75 :
+comment:  xxx
+comment:  amateur
+comment:  amateur
+comment:  amateur
+comment:  amateur
+
+
+cluster  76 :
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+
+
+cluster  77 :
+comment:  beaucoup
+comment:  beaucoup
+comment:  merci
+comment:  beaucoup
+comment:  ooooh
+comment:  pitty
+comment:  merci
+comment:  beaucoup
+
+
+cluster  78 :
+comment:  life
+comment:  world
+comment:  world
+comment:  dream
+comment:  world
+comment:  live
+comment:  country
+comment:  live
+comment:  world
+comment:  world
+comment:  country
+
+
+cluster  79 :
+comment:  sound
+comment:  sound
+comment:  sound
+comment:  sound
+comment:  sound
+comment:  sound
+comment:  sound
+comment:  sound
+comment:  sound
+
+
+cluster  80 :
+comment:  wel
+comment:  wel
+comment:  wel
+comment:  wel
+comment:  wel
+comment:  wel
+comment:  wel
+comment:  wel
+
+
+cluster  81 :
+comment:  landscape
+comment:  landscape
+comment:  landscape
+comment:  landscape
+comment:  landscape
+comment:  landscape
+comment:  landscape
+comment:  landscape
+comment:  landscape
+
+
+cluster  82 :
+comment:  evening
+comment:  trip
+comment:  weekend
+comment:  journey
+comment:  trip
+comment:  trip
+comment:  trip
+comment:  trip
+comment:  trip
+comment:  weekend
+comment:  trip
+
+
+cluster  83 :
+comment:  touch
+comment:  spot
+comment:  scene
+comment:  clean
+comment:  old
+comment:  eye
+comment:  eye
+comment:  face
+comment:  finish
+comment:  scene
+comment:  piece
+comment:  spot
+comment:  touch
+comment:  spot
+comment:  minute
+comment:  minute
+comment:  young
+comment:  deep
+comment:  walk
+
+
+cluster  84 :
+comment:  coastline
+comment:  coastline
+comment:  coastline
+comment:  southwest
+comment:  coastal
+comment:  fortress
+comment:  coastline
+
+
+cluster  85 :
+comment:  capture
+comment:  capture
+comment:  photographic
+comment:  capture
+comment:  camera
+comment:  capture
+comment:  capture
+comment:  capture
+
+
+cluster  86 :
+comment:  view
+comment:  location
+comment:  highlight
+comment:  view
+comment:  view
+comment:  location
+comment:  highlight
+comment:  view
+comment:  view
+comment:  location
+
+
+cluster  87 :
+comment:  visit
+comment:  honor
+comment:  attend
+comment:  visit
+comment:  visit
+comment:  visit
+comment:  visit
+
+
+cluster  88 :
+comment:  journal
+comment:  editor
+comment:  editor
+comment:  editor
+
+
+cluster  89 :
+comment:  time
+comment:  time
+comment:  time
+comment:  time
+comment:  time
+comment:  time
+comment:  time
+comment:  time
+comment:  time
+comment:  time
+comment:  time
+comment:  time
+comment:  time
+
+
+cluster  90 :
+comment:  car
+comment:  fish
+comment:  fishing
+comment:  boat
+comment:  boat
+comment:  boat
+comment:  bike
+comment:  bike
+comment:  boat
+comment:  boat
+comment:  water
+comment:  boat
+comment:  trail
+comment:  boat
+comment:  road
+
+
+cluster  91 :
+comment:  ireland
+comment:  scotland
+comment:  sydney
+comment:  ireland
+comment:  ireland
+comment:  ireland
+comment:  ireland
+comment:  ireland
+comment:  wales
+comment:  ireland
+comment:  ireland
+comment:  ireland
+comment:  ireland
+comment:  ireland
+comment:  ireland
+comment:  ireland
+comment:  ireland
+
+
+cluster  92 :
+CAPTION: bird
+comment:  rock
+comment:  bird
+comment:  hop
+comment:  sky
+comment:  rock
+comment:  sun
+comment:  folk
+comment:  rock
+comment:  grand
+comment:  wild
+bird 	0.394407336414
+[[0.29253873 1.         0.23074567 0.46241456 0.29253873 0.36660144
+  0.28103727 0.29253873 0.19088207 0.53477615]]
+
+
+cluster  93 :
+comment:  manual
+comment:  bonus
+comment:  die
+comment:  dump
+comment:  ton
+comment:  punishment
+comment:  nap
+comment:  ticket
+comment:  die
+comment:  bonus
+comment:  comp
+comment:  bill
+comment:  bill
+comment:  pro
+
+
+cluster  94 :
+comment:  category
+comment:  select
+comment:  select
+comment:  include
+comment:  select
+comment:  select
+
+
+cluster  95 :
+comment:  marilou
+comment:  marilou
+comment:  wilfried
+comment:  focuss
+comment:  turkije
+comment:  graaf
+comment:  lundgren
+comment:  fhat
+comment:  weimer
+comment:  rodolfo
+comment:  pelaez
+comment:  weimer
+comment:  annick
+comment:  catharine
+comment:  annick
+comment:  annick
+comment:  graaf
+comment:  giorgi
+comment:  gunderson
+comment:  rogge
+comment:  kamil
+comment:  dalibor
+comment:  graaf
+
+
+cluster  96 :
+comment:  study
+comment:  hire
+comment:  worldwide
+comment:  weekly
+comment:  daily
+comment:  daily
+comment:  workshop
+comment:  daily
+comment:  daily
+comment:  travel
+comment:  thousand
+comment:  travel
+comment:  abroad
+comment:  national
+comment:  national
+comment:  yearly
+comment:  workshop
+
+
+cluster  97 :
+comment:  welcome
+comment:  welcome
+comment:  welcome
+comment:  invite
+comment:  welcome
+comment:  welcome
+comment:  welcome
+comment:  welcome
+comment:  welcome
+comment:  invite
+
+
+cluster  98 :
+comment:  dreamy
+comment:  raw
+comment:  tone
+comment:  gem
+comment:  dreamy
+comment:  spoiled
+comment:  spoiled
+comment:  soft
+comment:  smell
+comment:  grey
+comment:  raw
+comment:  chocolate
+comment:  pure
+comment:  soothing
+comment:  pure
+
+
+cluster  99 :
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+
+
+cluster  100 :
+comment:  monochrome
+comment:  monochrome
+comment:  tonality
+comment:  thumbnail
+comment:  monochrome
+comment:  monochrome
+
+
+cluster  101 :
+CAPTION: large
+comment:  cover
+comment:  cheaper
+comment:  level
+comment:  line
+comment:  large
+comment:  size
+comment:  direction
+comment:  line
+comment:  large
+comment:  size
+comment:  plus
+comment:  expensive
+comment:  type
+comment:  heavy
+comment:  cover
+comment:  line
+comment:  match
+comment:  range
+comment:  driving
+comment:  left
+large 	0.423894845694
+[[0.32658795 0.31795603 0.32413504 0.26733193 1.         0.61187637
+  0.24663885 0.26733193 1.         0.61187637 0.41450772 0.42566881
+  0.3626022  0.51448548 0.32658795 0.26733193 0.1924811  0.41306299
+  0.24521109 0.3422232 ]]
+
+
+cluster  102 :
+comment:  shelly
+comment:  andrews
+comment:  margaret
+comment:  margaret
+comment:  patricia
+comment:  patricia
+comment:  deborah
+comment:  margaret
+comment:  peggy
+comment:  shelly
+comment:  shelly
+comment:  margaret
+comment:  margaret
+
+
+cluster  103 :
+comment:  familiar
+comment:  clear
+comment:  choice
+comment:  small
+comment:  choice
+comment:  equally
+comment:  choice
+comment:  true
+comment:  simply
+comment:  special
+comment:  easy
+comment:  unusual
+comment:  easy
+comment:  highly
+comment:  different
+caption 1 inside the median of cluster: 92 caption: 1.97963849147 median: 2.14773386555
+caption 2 inside the median of cluster: 10 caption: 2.19357730696 median: 2.57617896904
+
+101373961279443806744.5661395120446335522
+a man flying through the air while riding a snowboard 
+
+Caption cleaned --->  man fly air rid snowboard  
+
+matrix comment dim (275, 275)
+
+
+cluster  0 :
+comment:  gagnon
+comment:  baig
+comment:  thanh
+comment:  nhan
+comment:  linke
+comment:  gagnon
+comment:  anas
+comment:  swanepoel
+comment:  christoph
+comment:  beve
+comment:  maciej
+comment:  gola
+comment:  morte
+comment:  trinh
+
+
+cluster  1 :
+comment:  atmosphere
+comment:  capture
+comment:  refreshing
+comment:  view
+comment:  hide
+comment:  view
+comment:  image
+comment:  cold
+comment:  warm
+comment:  image
+comment:  shot
+comment:  effect
+comment:  shot
+comment:  touch
+comment:  eye
+
+
+cluster  2 :
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  glad
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  glad
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+
+
+cluster  3 :
+comment:  barnes
+comment:  francis
+comment:  paul
+comment:  carey
+comment:  peter
+comment:  francis
+comment:  carol
+comment:  neil
+comment:  daniel
+comment:  clark
+comment:  melissa
+comment:  richard
+comment:  carol
+comment:  richard
+comment:  murphy
+comment:  robin
+comment:  victor
+comment:  joseph
+
+
+cluster  4 :
+comment:  wait
+comment:  lol
+comment:  guess
+comment:  miss
+comment:  friend
+comment:  wow
+comment:  lol
+comment:  yes
+comment:  hug
+
+
+cluster  5 :
+comment:  mountain
+comment:  mountain
+comment:  mountain
+comment:  mountain
+comment:  mountain
+comment:  island
+comment:  mountainous
+comment:  mountain
+comment:  mountain
+
+
+cluster  6 :
+comment:  wonderful
+comment:  wonderful
+comment:  nice
+comment:  fantastic
+comment:  nice
+comment:  fantastic
+comment:  amazing
+comment:  wonderful
+comment:  nice
+comment:  nice
+comment:  cool
+comment:  nice
+
+
+cluster  7 :
+CAPTION: rid
+comment:  outstanding
+comment:  buy
+comment:  drama
+comment:  hour
+comment:  win
+comment:  sell
+comment:  subject
+comment:  regularly
+comment:  late
+rid 	0.22960308
+[[0.09072141 0.35673535 0.11414193 0.15148841 0.23543604 0.3652479
+  0.1963808  0.32628998 0.22998607]]
+
+
+cluster  8 :
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+
+
+cluster  9 :
+CAPTION: air
+comment:  fog
+comment:  nearby
+comment:  cloud
+comment:  twin
+comment:  peak
+comment:  silhouette
+comment:  fog
+comment:  illuminate
+comment:  cloud
+comment:  peak
+air 	0.300062
+[[0.43964386 0.27759922 0.31663293 0.32474545 0.27251032 0.1786738
+  0.43964386 0.16202705 0.31663293 0.27251032]]
+
+
+cluster  10 :
+comment:  beautiful
+comment:  gorgeous
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  stunning
+comment:  beautiful
+
+
+cluster  11 :
+CAPTION: snowboard
+comment:  fantasyland
+comment:  elf
+comment:  silhouetted
+comment:  mountian
+comment:  silhouetted
+comment:  alps
+comment:  oakley
+snowboard 	0.19149162
+[[0.06640232 0.17217626 0.02091401 0.32657197 0.02091401 0.38310993
+  0.3503528 ]]
+
+
+cluster  12 :
+comment:  plenty
+comment:  time
+comment:  right
+comment:  place
+comment:  true
+comment:  soon
+comment:  lot
+comment:  hard
+comment:  believe
+comment:  excellent
+comment:  work
+comment:  totally
+comment:  stuff
+comment:  work
+comment:  plenty
+comment:  work
+comment:  try
+comment:  reason
+
+
+cluster  13 :
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  henrik
+comment:  johan
+comment:  johan
+comment:  johan
+
+
+cluster  14 :
+comment:  color
+comment:  colour
+comment:  colour
+comment:  color
+comment:  color
+comment:  colour
+comment:  color
+comment:  color
+comment:  color
+
+
+cluster  15 :
+comment:  azamali
+comment:  rooij
+comment:  camara
+comment:  sochanowski
+comment:  ewert
+comment:  agaisnt
+comment:  markiewicz
+comment:  bezrukov
+
+
+cluster  16 :
+comment:  happy
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  appreciate
+comment:  love
+comment:  appreciate
+comment:  hope
+
+
+cluster  17 :
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+
+
+cluster  18 :
+comment:  cesar
+comment:  alamo
+comment:  russ
+comment:  nguyen
+comment:  athena
+comment:  simone
+comment:  nora
+comment:  ahmad
+comment:  andersen
+comment:  danke
+comment:  nora
+comment:  francesco
+comment:  clarke
+
+
+cluster  19 :
+comment:  scenery
+comment:  sunset
+comment:  scenery
+comment:  scenery
+comment:  dramatic
+comment:  landscape
+comment:  scenery
+comment:  landscape
+
+
+cluster  20 :
+comment:  share
+comment:  share
+comment:  share
+comment:  feedback
+comment:  check
+comment:  special
+comment:  future
+comment:  stop
+comment:  check
+comment:  respond
+
+
+cluster  21 :
+comment:  blue
+comment:  blue
+comment:  golden
+comment:  brown
+comment:  sky
+comment:  blue
+comment:  sky
+comment:  sky
+
+
+cluster  22 :
+comment:  sale
+comment:  balance
+comment:  composition
+comment:  comp
+comment:  composition
+comment:  portfolio
+comment:  notification
+
+
+cluster  23 :
+comment:  possible
+comment:  use
+comment:  different
+comment:  different
+comment:  different
+comment:  different
+
+
+cluster  24 :
+comment:  comment
+comment:  hah
+comment:  comment
+comment:  comment
+comment:  comment
+
+
+cluster  25 :
+CAPTION: man
+CAPTION: fly
+comment:  house
+comment:  house
+comment:  live
+comment:  home
+comment:  heaven
+comment:  coffee
+comment:  land
+comment:  live
+man 	0.37841386
+[[0.41997597 0.41997597 0.37519798 0.36302042 0.46196115 0.250718
+  0.3612635  0.37519798]]
+fly 	0.27664438
+[[0.2335109  0.2335109  0.30589023 0.26855972 0.3513876  0.17260052
+  0.3418049  0.30589023]]
+
+
+cluster  26 :
+comment:  light
+comment:  light
+comment:  lighting
+comment:  light
+comment:  light
+comment:  light
+caption 1 inside the median of cluster: 1 caption: 1.27385856694 median: 1.28113702832
+caption 2 inside the median of cluster: 9 caption: 1.1494723057 median: 1.24392682648
+caption 3 inside the median of cluster: 7 caption: 1.1571143608 median: 1.24631507959
+caption 4 inside the median of cluster: 11 caption: 1.39244505788 median: 1.54316013666
+
+101373961279443806744.5685298298113387666
+a large body of water with a bird on it 
+
+Caption cleaned --->  large body water bird  
+
+matrix comment dim (1367, 1367)
+
+
+cluster  0 :
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+comment:  lens
+
+
+cluster  1 :
+comment:  blue
+comment:  cross
+comment:  mark
+comment:  circle
+comment:  circle
+comment:  circle
+comment:  cross
+comment:  circle
+comment:  cross
+comment:  cross
+comment:  cross
+
+
+cluster  2 :
+comment:  gerard
+comment:  athena
+comment:  laurent
+comment:  gemma
+comment:  gemma
+comment:  kermit
+comment:  nora
+comment:  superbe
+comment:  athena
+comment:  gemma
+comment:  kermit
+comment:  kermit
+comment:  kermit
+comment:  aston
+comment:  unrepeatable
+comment:  ballard
+
+
+cluster  3 :
+comment:  way
+comment:  right
+comment:  exactly
+comment:  better
+comment:  way
+comment:  right
+comment:  right
+comment:  better
+comment:  right
+comment:  way
+comment:  right
+comment:  right
+
+
+cluster  4 :
+comment:  moment
+comment:  come
+comment:  finally
+comment:  soon
+comment:  moment
+comment:  come
+comment:  soon
+comment:  come
+comment:  soon
+comment:  soon
+comment:  come
+
+
+cluster  5 :
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+
+
+cluster  6 :
+comment:  notificationsso
+comment:  charnley
+comment:  krietsch
+comment:  oshaughnessy
+comment:  haferland
+comment:  clingan
+comment:  rousher
+comment:  spenner
+comment:  markiewicz
+comment:  vignett
+comment:  rnstr
+comment:  pechmann
+comment:  esseboom
+comment:  vignett
+comment:  gospodarou
+comment:  hicker
+comment:  autsch
+comment:  naturemonday
+comment:  tjintjelaar
+comment:  tomaszewicz
+comment:  setiawan
+comment:  schitterend
+comment:  pvk
+comment:  markiewicz
+comment:  mcgibbon
+comment:  nothey
+comment:  autsch
+comment:  naturemonday
+comment:  haferland
+comment:  dric
+comment:  leblond
+comment:  marumi
+comment:  rosamunde
+comment:  outsch
+comment:  allround
+comment:  krietsch
+comment:  markiewicz
+comment:  hochban
+comment:  levano
+comment:  rooij
+comment:  spenner
+comment:  vignett
+comment:  vignett
+comment:  heliopan
+comment:  tarskov
+comment:  weinreich
+comment:  skreiner
+comment:  heliopan
+comment:  rousset
+comment:  marumi
+comment:  heliopan
+comment:  publicacione
+comment:  gozada
+comment:  contemplarla
+comment:  felicitaci
+comment:  redwillow
+comment:  ewert
+comment:  davorin
+comment:  mirrormonday
+comment:  castremanne
+comment:  meynoush
+comment:  badeh
+comment:  parast
+
+
+cluster  7 :
+comment:  wonderful
+comment:  wonderful
+comment:  fantastic
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  amazing
+comment:  fantastic
+comment:  wonderful
+
+
+cluster  8 :
+comment:  elizabeth
+comment:  alan
+comment:  neil
+comment:  simon
+comment:  robert
+comment:  anna
+comment:  charles
+comment:  simon
+comment:  charles
+comment:  charles
+comment:  carol
+comment:  richard
+comment:  tony
+comment:  williams
+comment:  simon
+comment:  simon
+comment:  charles
+comment:  charles
+comment:  sarah
+comment:  simon
+comment:  moore
+comment:  martin
+comment:  robert
+comment:  simon
+comment:  sam
+comment:  eric
+comment:  lisa
+comment:  daniel
+comment:  eric
+comment:  richard
+
+
+cluster  9 :
+comment:  torsten
+comment:  wilfried
+comment:  christof
+comment:  maciej
+comment:  lavoie
+comment:  christof
+comment:  pawel
+comment:  wijaya
+comment:  maciej
+comment:  wilfried
+comment:  swisscom
+comment:  chism
+comment:  dhg
+comment:  christof
+comment:  torsten
+comment:  maciej
+comment:  christof
+comment:  rute
+comment:  gagnon
+comment:  andrey
+comment:  myrna
+comment:  carsten
+comment:  kopp
+comment:  christof
+comment:  mckeown
+comment:  gagnon
+
+
+cluster  10 :
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+
+
+cluster  11 :
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+
+
+cluster  12 :
+comment:  floor
+comment:  travel
+comment:  floor
+comment:  ship
+comment:  gear
+comment:  insurance
+comment:  center
+comment:  bag
+comment:  prime
+comment:  cover
+comment:  mid
+comment:  gear
+comment:  pet
+comment:  pet
+comment:  double
+comment:  near
+comment:  air
+comment:  air
+
+
+cluster  13 :
+comment:  use
+comment:  use
+comment:  use
+comment:  use
+comment:  use
+comment:  use
+comment:  use
+comment:  use
+comment:  use
+comment:  use
+comment:  use
+comment:  use
+comment:  use
+comment:  use
+
+
+cluster  14 :
+comment:  fix
+comment:  fix
+comment:  fix
+comment:  fix
+comment:  fix
+comment:  broken
+comment:  fix
+comment:  fix
+comment:  fix
+comment:  fix
+comment:  fix
+comment:  fix
+comment:  fix
+comment:  fix
+comment:  fix
+comment:  fix
+comment:  fix
+comment:  fix
+comment:  fix
+comment:  fix
+comment:  fix
+comment:  fix
+comment:  fix
+comment:  fix
+comment:  fix
+
+
+cluster  15 :
+CAPTION: large
+CAPTION: body
+comment:  high
+comment:  body
+comment:  wide
+comment:  safe
+comment:  high
+comment:  fit
+comment:  fully
+comment:  set
+comment:  fit
+comment:  light
+comment:  small
+comment:  set
+comment:  relatively
+comment:  clean
+comment:  piece
+comment:  low
+comment:  fresh
+comment:  low
+large 	0.44385034
+[[0.46026728 0.32158017 0.56473285 0.34512198 0.46026728 0.3770763
+  0.4559815  0.39100623 0.3770763  0.3879898  0.8343904  0.39100623
+  0.5547404  0.39840615 0.40780687 0.41393557 0.43398482 0.41393557]]
+body 	0.392492161857
+[[0.35221416 1.         0.33744803 0.33810264 0.35221416 0.44095346
+  0.38994989 0.32299414 0.44095346 0.45015153 0.34247097 0.32299414
+  0.31478986 0.36007753 0.34791556 0.32628992 0.29904953 0.32628992]]
+
+
+cluster  16 :
+comment:  hope
+comment:  hope
+comment:  hope
+comment:  hope
+comment:  hope
+comment:  hope
+comment:  hope
+comment:  hope
+comment:  hope
+comment:  hope
+comment:  hope
+comment:  hope
+comment:  hope
+comment:  hope
+comment:  happy
+comment:  glad
+comment:  hope
+comment:  hope
+comment:  hope
+comment:  hope
+comment:  hope
+comment:  glad
+comment:  hope
+comment:  hope
+comment:  wish
+comment:  hope
+comment:  glad
+comment:  hope
+comment:  hope
+comment:  hope
+comment:  hope
+comment:  hope
+comment:  glad
+comment:  hope
+comment:  hope
+comment:  hope
+
+
+cluster  17 :
+comment:  news
+comment:  hit
+comment:  weekend
+comment:  news
+comment:  yesterday
+comment:  lesson
+comment:  world
+comment:  win
+comment:  home
+comment:  story
+comment:  home
+comment:  favourite
+comment:  play
+comment:  history
+comment:  favorite
+comment:  weekend
+comment:  weekend
+comment:  summer
+comment:  walk
+comment:  lesson
+comment:  news
+comment:  quote
+comment:  holiday
+comment:  visit
+comment:  live
+comment:  lesson
+comment:  news
+comment:  earlier
+comment:  year
+
+
+cluster  18 :
+comment:  image
+comment:  capture
+comment:  detail
+comment:  image
+comment:  image
+comment:  detail
+comment:  reflection
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  capture
+comment:  view
+comment:  detail
+comment:  reflection
+comment:  color
+
+
+cluster  19 :
+comment:  apologize
+comment:  sad
+comment:  pity
+comment:  comment
+comment:  comment
+comment:  don
+comment:  btw
+comment:  pity
+comment:  goodness
+comment:  super
+comment:  crazy
+comment:  sad
+comment:  sad
+comment:  sad
+comment:  guy
+comment:  wow
+comment:  haha
+comment:  joy
+comment:  don
+comment:  mate
+comment:  cry
+comment:  stupid
+comment:  god
+comment:  freak
+
+
+cluster  20 :
+comment:  sale
+comment:  button
+comment:  slot
+comment:  backpack
+comment:  tumble
+comment:  comp
+comment:  supplement
+comment:  barrel
+comment:  version
+comment:  max
+comment:  review
+comment:  com
+comment:  slot
+comment:  mile
+comment:  slot
+comment:  kit
+comment:  notification
+
+
+cluster  21 :
+comment:  look
+comment:  pretty
+comment:  especially
+comment:  totally
+comment:  look
+comment:  little
+comment:  little
+comment:  definitely
+comment:  lot
+comment:  absolutely
+comment:  perfect
+comment:  interesting
+comment:  lot
+comment:  look
+comment:  certainly
+comment:  look
+comment:  absolutely
+comment:  absolutely
+comment:  definitely
+comment:  look
+
+
+cluster  22 :
+comment:  agree
+comment:  hear
+comment:  remind
+comment:  hear
+comment:  hear
+comment:  hear
+comment:  hear
+comment:  hear
+comment:  hear
+comment:  honest
+comment:  hear
+
+
+cluster  23 :
+comment:  sen
+comment:  vist
+comment:  meg
+comment:  hashtag
+comment:  dank
+comment:  wel
+comment:  vist
+comment:  usd
+comment:  lupe
+comment:  les
+comment:  usd
+comment:  klutz
+comment:  sus
+comment:  una
+
+
+cluster  24 :
+comment:  cpl
+comment:  cpl
+comment:  cpl
+comment:  cpl
+comment:  cpl
+comment:  cpl
+comment:  cpl
+comment:  cpl
+comment:  cpl
+comment:  cpl
+comment:  cpl
+comment:  cpl
+comment:  cpl
+comment:  cpl
+comment:  cpl
+
+
+cluster  25 :
+comment:  dunne
+comment:  eustace
+comment:  dunne
+comment:  therese
+comment:  rolf
+comment:  dunne
+comment:  hendrick
+comment:  patrice
+comment:  dunne
+comment:  wirth
+comment:  patrice
+comment:  dunne
+comment:  dunne
+comment:  dunne
+comment:  beverley
+comment:  dunne
+comment:  francesco
+comment:  sinead
+comment:  dunne
+
+
+cluster  26 :
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+
+
+cluster  27 :
+comment:  shot
+comment:  shot
+comment:  shot
+comment:  shoot
+comment:  scene
+comment:  shot
+comment:  shot
+comment:  shot
+comment:  shot
+comment:  shot
+comment:  scene
+comment:  scene
+comment:  shot
+comment:  shoot
+comment:  shot
+comment:  shot
+comment:  shot
+comment:  shoot
+comment:  shot
+comment:  scene
+comment:  shoot
+
+
+cluster  28 :
+comment:  repair
+comment:  repair
+comment:  repair
+comment:  replacement
+comment:  repair
+comment:  repair
+comment:  repair
+comment:  repair
+comment:  repair
+comment:  repairing
+
+
+cluster  29 :
+comment:  expensive
+comment:  order
+comment:  buy
+comment:  save
+comment:  sell
+comment:  pay
+comment:  expensive
+comment:  sell
+comment:  cost
+comment:  buy
+comment:  sell
+comment:  pay
+comment:  cost
+comment:  buy
+comment:  cost
+comment:  cost
+comment:  buy
+comment:  price
+comment:  cost
+
+
+cluster  30 :
+comment:  tough
+comment:  decent
+comment:  bit
+comment:  bit
+comment:  usual
+comment:  bunch
+comment:  bunch
+comment:  careful
+comment:  bit
+comment:  taste
+comment:  sound
+comment:  awful
+comment:  bit
+comment:  poor
+comment:  stick
+comment:  usual
+comment:  bit
+comment:  bit
+comment:  bit
+comment:  bunch
+comment:  fine
+comment:  bit
+comment:  fine
+
+
+cluster  31 :
+comment:  lenght
+comment:  camara
+comment:  polarizer
+comment:  slr
+comment:  dropper
+comment:  tamron
+comment:  slighty
+comment:  polarizer
+comment:  vignetting
+comment:  polarizer
+comment:  pano
+comment:  fixable
+comment:  fixable
+comment:  fixable
+comment:  vignetting
+comment:  nikon
+
+
+cluster  32 :
+comment:  john
+comment:  james
+comment:  john
+comment:  john
+comment:  lee
+comment:  john
+comment:  john
+comment:  john
+comment:  lee
+comment:  lee
+comment:  john
+comment:  lee
+comment:  john
+comment:  peter
+comment:  lee
+comment:  john
+comment:  john
+comment:  john
+
+
+cluster  33 :
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+
+
+cluster  34 :
+comment:  drop
+comment:  drop
+comment:  drop
+comment:  drop
+comment:  drop
+comment:  drop
+comment:  drop
+comment:  drop
+comment:  drop
+comment:  drop
+comment:  drop
+comment:  dropping
+comment:  drop
+comment:  drop
+comment:  drop
+comment:  drop
+
+
+cluster  35 :
+comment:  case
+comment:  intact
+comment:  modify
+comment:  case
+comment:  investment
+comment:  search
+comment:  replace
+comment:  subsequently
+comment:  damage
+comment:  service
+comment:  current
+comment:  include
+comment:  currently
+comment:  range
+comment:  significant
+comment:  replace
+comment:  adapt
+comment:  solution
+comment:  practical
+comment:  ideally
+comment:  broad
+comment:  range
+comment:  convenient
+comment:  include
+comment:  organize
+comment:  regularly
+comment:  description
+comment:  base
+comment:  damage
+comment:  alternative
+comment:  test
+comment:  system
+
+
+cluster  36 :
+comment:  wonder
+comment:  think
+comment:  think
+comment:  hopefully
+comment:  yes
+comment:  thing
+comment:  thing
+comment:  think
+comment:  maybe
+comment:  yes
+comment:  yes
+comment:  thought
+comment:  hopefully
+comment:  think
+comment:  guess
+comment:  hopefully
+comment:  guess
+comment:  yes
+comment:  think
+comment:  imagine
+comment:  thing
+comment:  yes
+comment:  guess
+comment:  remember
+comment:  maybe
+comment:  yes
+comment:  hopefully
+comment:  yes
+
+
+cluster  37 :
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  stunning
+comment:  superb
+comment:  sweet
+comment:  lovely
+comment:  lovely
+comment:  beautiful
+comment:  stunning
+comment:  gorgeous
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  sweet
+comment:  wonderfully
+comment:  lovely
+comment:  beautiful
+comment:  lovely
+comment:  stunning
+comment:  beautiful
+
+
+cluster  38 :
+comment:  work
+comment:  work
+comment:  try
+comment:  bring
+comment:  possible
+comment:  decide
+comment:  need
+comment:  need
+comment:  able
+comment:  need
+comment:  need
+comment:  work
+comment:  work
+comment:  find
+comment:  work
+comment:  find
+comment:  find
+comment:  work
+comment:  bring
+comment:  find
+comment:  able
+comment:  important
+comment:  need
+comment:  work
+comment:  find
+comment:  help
+comment:  need
+
+
+cluster  39 :
+comment:  moss
+comment:  kirby
+comment:  costa
+comment:  davidson
+comment:  charlotte
+comment:  costa
+comment:  louis
+comment:  norway
+comment:  switzerland
+comment:  switzerland
+comment:  alps
+comment:  swiss
+comment:  costa
+comment:  hampton
+comment:  alps
+comment:  norway
+comment:  netherlands
+comment:  alps
+comment:  dan
+
+
+cluster  40 :
+comment:  pic
+comment:  photograph
+comment:  pic
+comment:  picture
+comment:  photo
+comment:  photo
+comment:  photo
+comment:  photographer
+comment:  photo
+comment:  photo
+comment:  photo
+comment:  photo
+comment:  photo
+comment:  photo
+
+
+cluster  41 :
+comment:  setup
+comment:  setup
+comment:  setup
+comment:  setup
+comment:  setup
+comment:  setup
+comment:  setup
+comment:  setup
+comment:  handy
+comment:  load
+comment:  setup
+
+
+cluster  42 :
+comment:  sumit
+comment:  copp
+comment:  prio
+comment:  uwa
+comment:  lupica
+comment:  lupica
+comment:  lupica
+comment:  maru
+comment:  clavier
+comment:  nps
+comment:  herbst
+comment:  aprile
+comment:  lupica
+comment:  welkom
+comment:  swanepoel
+comment:  maggy
+comment:  elke
+comment:  dene
+comment:  chf
+comment:  maru
+comment:  clavier
+comment:  gola
+comment:  todas
+comment:  impresionante
+comment:  poder
+comment:  ohara
+comment:  mance
+comment:  swanepoel
+
+
+cluster  43 :
+comment:  great
+comment:  good
+comment:  good
+comment:  great
+comment:  good
+comment:  great
+comment:  good
+comment:  great
+comment:  great
+comment:  good
+comment:  good
+comment:  good
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  good
+comment:  great
+comment:  good
+comment:  good
+comment:  great
+comment:  great
+comment:  good
+comment:  great
+
+
+cluster  44 :
+comment:  time
+comment:  hard
+comment:  big
+comment:  close
+comment:  pick
+comment:  real
+comment:  close
+comment:  life
+comment:  rest
+comment:  big
+comment:  long
+comment:  time
+comment:  time
+comment:  away
+comment:  break
+comment:  turn
+comment:  end
+comment:  close
+comment:  long
+comment:  time
+comment:  day
+comment:  half
+comment:  ready
+comment:  half
+comment:  day
+comment:  break
+comment:  stop
+comment:  hand
+comment:  break
+comment:  day
+comment:  point
+
+
+cluster  45 :
+comment:  longer
+comment:  change
+comment:  properly
+comment:  easily
+comment:  correct
+comment:  problem
+comment:  create
+comment:  problem
+comment:  easily
+comment:  attempt
+comment:  quickly
+comment:  similar
+comment:  choice
+comment:  eventually
+comment:  different
+comment:  difficult
+comment:  easily
+comment:  easily
+comment:  easily
+comment:  completely
+comment:  choice
+comment:  easily
+comment:  exact
+comment:  certain
+comment:  quickly
+comment:  longer
+comment:  different
+
+
+cluster  46 :
+comment:  clear
+comment:  clear
+comment:  focus
+comment:  clear
+comment:  clear
+comment:  clear
+comment:  clear
+comment:  perspective
+comment:  perspective
+comment:  perspective
+comment:  clear
+comment:  clear
+
+
+cluster  47 :
+comment:  mirror
+comment:  glass
+comment:  glass
+comment:  focal
+comment:  camera
+comment:  angle
+comment:  camera
+comment:  camera
+comment:  glass
+comment:  camera
+comment:  depth
+comment:  frame
+comment:  focal
+comment:  frame
+comment:  frame
+comment:  depth
+comment:  angle
+
+
+cluster  48 :
+comment:  share
+comment:  positive
+comment:  meet
+comment:  send
+comment:  today
+comment:  learn
+comment:  share
+comment:  share
+comment:  share
+comment:  describe
+comment:  convince
+comment:  read
+comment:  link
+comment:  interested
+comment:  check
+comment:  learn
+comment:  learn
+comment:  job
+comment:  learn
+comment:  add
+comment:  join
+comment:  share
+comment:  share
+
+
+cluster  49 :
+comment:  holder
+comment:  holder
+comment:  holder
+comment:  holder
+comment:  holder
+comment:  holder
+comment:  holder
+
+
+cluster  50 :
+comment:  miss
+comment:  miss
+comment:  sorry
+comment:  sorry
+comment:  yeah
+comment:  sorry
+comment:  sorry
+comment:  sorry
+comment:  sorry
+comment:  sorry
+comment:  sorry
+comment:  luck
+comment:  luck
+comment:  sorry
+comment:  luck
+comment:  sorry
+
+
+cluster  51 :
+comment:  finger
+comment:  finger
+comment:  screw
+comment:  finger
+comment:  finger
+comment:  finger
+comment:  thin
+comment:  thin
+comment:  punch
+
+
+cluster  52 :
+comment:  stuff
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  stuff
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+
+
+cluster  53 :
+comment:  altitude
+comment:  foreground
+comment:  foreground
+comment:  foreground
+comment:  foreground
+comment:  vantage
+
+
+cluster  54 :
+comment:  monday
+comment:  yup
+comment:  bummer
+comment:  ouch
+comment:  ouch
+comment:  ahh
+comment:  ouch
+comment:  ouch
+
+
+cluster  55 :
+comment:  weak
+comment:  splash
+comment:  wave
+comment:  inevitable
+comment:  weak
+comment:  bubble
+comment:  universe
+comment:  bubble
+comment:  universe
+comment:  hop
+comment:  ebay
+comment:  cloud
+comment:  crack
+comment:  ebay
+comment:  mediocre
+comment:  slim
+comment:  frog
+comment:  crash
+comment:  bounce
+comment:  magic
+comment:  funky
+comment:  crop
+comment:  crop
+comment:  slim
+comment:  slim
+
+
+cluster  56 :
+comment:  processing
+comment:  adapter
+comment:  filter
+comment:  canon
+comment:  macro
+comment:  filter
+comment:  filter
+comment:  filter
+comment:  filter
+comment:  zoom
+comment:  canon
+
+
+cluster  57 :
+comment:  compose
+comment:  clarity
+comment:  purity
+comment:  purity
+comment:  transparency
+comment:  clarity
+comment:  sparkly
+comment:  composition
+comment:  transparency
+comment:  expansive
+comment:  transparency
+
+
+cluster  58 :
+comment:  worry
+comment:  understand
+comment:  mistake
+comment:  hurt
+comment:  understand
+comment:  worry
+comment:  worry
+comment:  happen
+comment:  doubt
+comment:  bother
+comment:  reason
+comment:  worry
+comment:  afraid
+comment:  bad
+comment:  worry
+comment:  happen
+comment:  bad
+comment:  believe
+comment:  happen
+
+
+cluster  59 :
+comment:  carey
+comment:  edwards
+comment:  dane
+comment:  patricia
+comment:  joanna
+comment:  julia
+comment:  joel
+comment:  kurt
+comment:  harvey
+comment:  diaz
+comment:  stuart
+comment:  nathan
+comment:  morris
+comment:  carey
+comment:  meyer
+comment:  kerry
+comment:  murphy
+comment:  kurt
+comment:  harvey
+comment:  francis
+comment:  kerry
+comment:  murphy
+comment:  murphy
+comment:  francis
+
+
+cluster  60 :
+comment:  feel
+comment:  feel
+comment:  feel
+comment:  feel
+comment:  feel
+comment:  feel
+comment:  feel
+comment:  feel
+comment:  feel
+comment:  feel
+comment:  feel
+
+
+cluster  61 :
+CAPTION: bird
+comment:  sky
+comment:  rock
+comment:  landscape
+comment:  lake
+comment:  stone
+comment:  stone
+comment:  christmas
+comment:  rock
+comment:  mountain
+comment:  mountain
+comment:  landscape
+comment:  haven
+comment:  rock
+comment:  breathtaking
+comment:  mountain
+comment:  landscape
+comment:  scenery
+comment:  scenery
+comment:  magnificent
+comment:  sky
+bird 	0.348559
+[[0.46241456 0.29253873 0.33892992 0.40884158 0.30822882 0.30822882
+  0.35463932 0.29253873 0.38840982 0.38840982 0.33892992 0.33352515
+  0.29253873 0.2371852  0.38840982 0.33892992 0.34844798 0.34844798
+  0.33917052 0.46241456]]
+
+
+cluster  62 :
+comment:  sure
+comment:  know
+comment:  know
+comment:  know
+comment:  sure
+comment:  know
+comment:  want
+comment:  sure
+comment:  sure
+comment:  want
+comment:  sure
+comment:  sure
+comment:  want
+comment:  know
+comment:  want
+comment:  know
+
+
+cluster  63 :
+CAPTION: water
+comment:  water
+comment:  water
+comment:  water
+comment:  water
+comment:  water
+comment:  water
+comment:  water
+comment:  water
+comment:  water
+comment:  water
+water 	1.0
+[[1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]]
+
+
+cluster  64 :
+comment:  nice
+comment:  cool
+comment:  nice
+comment:  nice
+comment:  awesome
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  cool
+comment:  nice
+comment:  cool
+comment:  nice
+comment:  awesome
+
+
+cluster  65 :
+comment:  special
+comment:  new
+comment:  new
+comment:  new
+comment:  new
+comment:  new
+comment:  special
+comment:  new
+comment:  new
+comment:  new
+
+
+cluster  66 :
+comment:  dear
+comment:  welcome
+comment:  welcome
+comment:  friend
+comment:  post
+comment:  post
+comment:  friend
+comment:  dear
+comment:  friend
+comment:  friend
+
+
+cluster  67 :
+comment:  calmly
+comment:  zillion
+comment:  heartache
+comment:  sympathize
+comment:  emotionally
+comment:  grad
+comment:  sickly
+comment:  accident
+comment:  misery
+comment:  son
+comment:  gut
+caption 0 inside the median of cluster: 15 caption: 1.87813573763 median: 2.21813761055
+caption 1 inside the median of cluster: 15 caption: 2.04366431257 median: 2.21813761055
+caption 2 inside the median of cluster: 63 caption: 0.0 median: 0.0
+caption 3 inside the median of cluster: 55 caption: 2.2727260798 median: 2.51922716221
+caption 3 inside the median of cluster: 61 caption: 1.89804690275 median: 2.33728820046
+
+101373961279443806744.5953594622689343650
+a mountain with a mountain in the background 
+
+Caption cleaned --->  mountain mountain background  
+
+matrix comment dim (1889, 1889)
+
+
+cluster  0 :
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+
+
+cluster  1 :
+comment:  brakoniecki
+comment:  konstantino
+comment:  arvanitopoulo
+comment:  bouriat
+comment:  chombart
+comment:  fotogeniek
+comment:  aballe
+comment:  turkowski
+comment:  vrii
+comment:  ryndak
+comment:  freezinga
+comment:  filatov
+comment:  engadin
+comment:  grzegorz
+comment:  burszta
+comment:  salmela
+comment:  westhoff
+comment:  delcour
+comment:  witam
+comment:  wraz
+comment:  zimow
+comment:  dnia
+comment:  nieg
+comment:  grzegorz
+comment:  piechowicz
+comment:  turkowski
+comment:  aballe
+comment:  proost
+comment:  belgisch
+comment:  landschap
+comment:  czekaj
+comment:  szale
+comment:  stwa
+comment:  spacer
+comment:  stoku
+comment:  rskiej
+comment:  prze
+comment:  wunderbare
+comment:  peijnenburgawesome
+comment:  taconn
+comment:  belgi
+comment:  matthia
+comment:  haeussler
+comment:  schitterend
+comment:  plessky
+comment:  delcour
+comment:  landscapephotography
+comment:  derborence
+comment:  unconverted
+comment:  taconn
+comment:  showyourbestwork
+comment:  brittarogge
+comment:  landsmann
+comment:  magnificien
+comment:  haferland
+comment:  teleconverter
+comment:  jany
+comment:  viala
+comment:  jany
+comment:  landscapephotography
+comment:  jaquillard
+comment:  parlow
+comment:  engaine
+comment:  bjarte
+comment:  wergedahl
+comment:  bjarte
+comment:  markiewicz
+comment:  naghmeh
+comment:  khadembashi
+comment:  mountainscape
+comment:  nochtan
+comment:  versta
+comment:  proost
+comment:  geruchten
+comment:  fahnestock
+comment:  esguerra
+comment:  bartimus
+comment:  rousher
+comment:  proyou
+comment:  besttopphotographer
+comment:  mutita
+comment:  edibleart
+comment:  graan
+comment:  wondeerful
+comment:  pabroquez
+comment:  rimovska
+comment:  delavigne
+comment:  adne
+comment:  zdj
+comment:  przyrodzie
+comment:  krajobrazu
+comment:  zrobi
+comment:  kuj
+comment:  ejsoboty
+comment:  ycz
+comment:  larch
+comment:  daugaard
+comment:  dusseault
+comment:  konstantino
+comment:  arvanitopoulos
+comment:  anatoliy
+comment:  urbanskiy
+comment:  garzer
+comment:  landscapephotography
+comment:  rikard
+comment:  lindby
+comment:  coulta
+comment:  jaquillard
+comment:  sairam
+comment:  sundaresan
+comment:  sairam
+comment:  dorst
+comment:  palmpke
+comment:  kratje
+comment:  meegenoman
+comment:  jorunn
+comment:  gudlaugsdottir
+comment:  jorunn
+comment:  engadine
+comment:  magnefique
+comment:  spenner
+comment:  westerhout
+comment:  manousos
+comment:  fahm
+comment:  besttopphotographer
+comment:  versaci
+comment:  nter
+comment:  schurr
+comment:  hartog
+comment:  thumbail
+comment:  hebenstreit
+comment:  vielmal
+comment:  belgi
+comment:  beautifuil
+comment:  showyourbestwork
+comment:  sharign
+comment:  feistauer
+comment:  cairn
+comment:  nikolski
+comment:  showyourbestwork
+comment:  soestbergen
+comment:  grzegorz
+comment:  piechowicz
+comment:  landscapephotography
+comment:  europeanphotography
+comment:  bedanktwel
+comment:  dolny
+comment:  gittan
+comment:  beheydt
+comment:  mossbacher
+
+
+cluster  2 :
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+
+
+cluster  3 :
+comment:  thierry
+comment:  vitor
+comment:  vitor
+comment:  bertrand
+comment:  bertrand
+comment:  dubois
+comment:  elsa
+comment:  duarte
+comment:  khalid
+comment:  vitor
+comment:  matthias
+comment:  markus
+comment:  forsyth
+comment:  paradis
+comment:  marquardt
+comment:  jansen
+comment:  christa
+comment:  christa
+comment:  britta
+comment:  britta
+comment:  rohan
+comment:  khalid
+comment:  koontz
+comment:  koontz
+comment:  nikola
+comment:  nikola
+comment:  britta
+comment:  duarte
+comment:  anette
+
+
+cluster  4 :
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thanks
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+
+
+cluster  5 :
+comment:  bit
+comment:  bit
+comment:  bit
+comment:  start
+comment:  long
+comment:  fall
+comment:  fall
+comment:  bit
+comment:  sit
+comment:  point
+comment:  long
+comment:  stuck
+comment:  turn
+comment:  catch
+comment:  catch
+comment:  start
+comment:  turn
+comment:  long
+comment:  point
+comment:  bit
+comment:  long
+comment:  end
+comment:  bit
+comment:  bit
+comment:  bit
+comment:  end
+comment:  bit
+comment:  usual
+comment:  end
+comment:  start
+
+
+cluster  6 :
+comment:  carol
+comment:  jean
+comment:  jean
+comment:  williams
+comment:  jean
+comment:  tom
+comment:  johnson
+comment:  tony
+comment:  tony
+comment:  tom
+comment:  tom
+comment:  robin
+comment:  kelly
+comment:  tom
+comment:  tom
+comment:  tom
+comment:  potter
+comment:  tony
+comment:  tony
+
+
+cluster  7 :
+comment:  theme
+comment:  theme
+comment:  theme
+comment:  theme
+comment:  holiday
+comment:  theme
+comment:  theme
+comment:  theme
+comment:  tour
+
+
+cluster  8 :
+comment:  beautiful
+comment:  beautiful
+comment:  lovely
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  lovely
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  lovely
+comment:  lovely
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+
+
+cluster  9 :
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+
+
+cluster  10 :
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+
+
+cluster  11 :
+comment:  hey
+comment:  wow
+comment:  lol
+comment:  wow
+comment:  lol
+comment:  wow
+comment:  hey
+comment:  wanna
+comment:  hmm
+comment:  sorry
+comment:  yep
+comment:  btw
+comment:  hmmm
+comment:  sorry
+
+
+cluster  12 :
+comment:  tree
+comment:  tree
+comment:  tree
+comment:  tree
+comment:  tree
+comment:  tree
+comment:  tree
+comment:  tree
+comment:  tree
+comment:  tree
+comment:  tree
+
+
+cluster  13 :
+comment:  guess
+comment:  hear
+comment:  stuff
+comment:  guess
+comment:  think
+comment:  maybe
+comment:  yes
+comment:  guess
+comment:  think
+comment:  wait
+comment:  think
+comment:  yes
+comment:  think
+comment:  maybe
+comment:  agree
+comment:  anymore
+comment:  maybe
+comment:  yes
+comment:  stuff
+comment:  maybe
+comment:  yes
+
+
+cluster  14 :
+comment:  parada
+comment:  czy
+comment:  munford
+comment:  reynold
+comment:  oraz
+comment:  dzi
+comment:  pety
+comment:  wandern
+comment:  harz
+
+
+cluster  15 :
+comment:  sheila
+comment:  sheila
+comment:  gemma
+comment:  gemma
+comment:  nora
+comment:  nora
+comment:  gemma
+comment:  michel
+comment:  michel
+comment:  renee
+comment:  renee
+comment:  miguel
+comment:  michel
+comment:  polly
+comment:  wong
+comment:  polly
+comment:  shelly
+comment:  shelly
+comment:  phillip
+comment:  elena
+comment:  enrique
+comment:  enrique
+comment:  jeffrey
+comment:  deborah
+comment:  margaret
+comment:  margaret
+comment:  carolyn
+comment:  carolyn
+comment:  deborah
+
+
+cluster  16 :
+comment:  warm
+comment:  quality
+comment:  quality
+comment:  nicely
+comment:  clean
+comment:  fast
+comment:  fresh
+comment:  safe
+comment:  warm
+comment:  fresh
+comment:  room
+comment:  fresh
+comment:  touch
+comment:  fresh
+comment:  quality
+comment:  clean
+comment:  fresh
+
+
+cluster  17 :
+comment:  nou
+comment:  niet
+comment:  echt
+comment:  maar
+comment:  toch
+comment:  een
+comment:  mooi
+comment:  nie
+comment:  goed
+comment:  een
+comment:  heb
+comment:  maar
+comment:  een
+comment:  hoor
+comment:  maar
+comment:  het
+comment:  hoor
+comment:  alle
+comment:  zijn
+comment:  zijn
+comment:  nog
+comment:  maar
+comment:  nie
+comment:  toch
+comment:  een
+comment:  maken
+comment:  uit
+comment:  goed
+comment:  het
+comment:  weer
+comment:  niet
+
+
+cluster  18 :
+comment:  shoot
+comment:  shot
+comment:  shot
+comment:  shot
+comment:  shot
+comment:  shoot
+comment:  shot
+comment:  shot
+comment:  shot
+comment:  shoot
+comment:  shot
+comment:  shot
+comment:  shot
+comment:  shot
+comment:  shot
+comment:  shot
+comment:  shot
+comment:  shoot
+
+
+cluster  19 :
+comment:  remote
+comment:  column
+comment:  desktop
+comment:  version
+comment:  transport
+comment:  convert
+comment:  monitor
+comment:  limit
+comment:  exposure
+comment:  editor
+comment:  select
+comment:  editor
+comment:  select
+comment:  editor
+comment:  mobile
+
+
+cluster  20 :
+comment:  wish
+comment:  happy
+comment:  wish
+comment:  happy
+comment:  appreciate
+comment:  happy
+comment:  hope
+comment:  hope
+comment:  hope
+comment:  hope
+comment:  hope
+comment:  wish
+comment:  happy
+comment:  hope
+comment:  hope
+comment:  happy
+comment:  hope
+comment:  happy
+comment:  happy
+comment:  appreciate
+comment:  wish
+comment:  hope
+
+
+cluster  21 :
+comment:  gracias
+comment:  magnifique
+comment:  superbe
+comment:  tnx
+comment:  merci
+comment:  merci
+comment:  beaucoup
+comment:  merci
+comment:  magnifique
+comment:  amigo
+comment:  merci
+comment:  woow
+comment:  tnx
+comment:  merci
+comment:  danke
+
+
+cluster  22 :
+comment:  sunlight
+comment:  cloud
+comment:  cloud
+comment:  foreground
+comment:  cloud
+comment:  stream
+comment:  peak
+
+
+cluster  23 :
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+
+
+cluster  24 :
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+
+
+cluster  25 :
+comment:  winter
+comment:  autumn
+comment:  winter
+comment:  winter
+comment:  winter
+comment:  winter
+comment:  cold
+comment:  winter
+comment:  winter
+comment:  snow
+comment:  winter
+comment:  weather
+comment:  cold
+comment:  snow
+comment:  snow
+comment:  snow
+comment:  snow
+comment:  snow
+comment:  snow
+comment:  snow
+comment:  winter
+comment:  snow
+comment:  snow
+comment:  snow
+comment:  snow
+comment:  winter
+comment:  snow
+comment:  winter
+comment:  snow
+comment:  cold
+comment:  snow
+
+
+cluster  26 :
+comment:  scenery
+comment:  picturesque
+comment:  sumptuous
+comment:  majestic
+comment:  lush
+comment:  scenery
+comment:  scenery
+comment:  scenery
+comment:  dreamy
+comment:  scenery
+comment:  scenery
+comment:  scenery
+
+
+cluster  27 :
+comment:  photo
+comment:  photo
+comment:  photo
+comment:  photo
+comment:  photo
+comment:  photo
+comment:  photo
+comment:  photo
+comment:  photo
+comment:  photo
+comment:  photo
+comment:  picture
+comment:  photo
+comment:  photo
+comment:  picture
+comment:  photo
+comment:  photo
+comment:  photo
+
+
+cluster  28 :
+comment:  pick
+comment:  effort
+comment:  busy
+comment:  future
+comment:  course
+comment:  stay
+comment:  opportunity
+comment:  choice
+comment:  choice
+comment:  opportunity
+comment:  choice
+comment:  choice
+comment:  deal
+comment:  spend
+comment:  choice
+comment:  fair
+comment:  busy
+
+
+cluster  29 :
+comment:  thumbnail
+comment:  european
+comment:  thumbnail
+comment:  pro
+comment:  www
+comment:  com
+comment:  vista
+comment:  www
+comment:  marina
+comment:  european
+comment:  com
+comment:  african
+
+
+cluster  30 :
+comment:  fantastic
+comment:  fantastic
+comment:  amazing
+comment:  amazing
+comment:  fantastic
+comment:  fantastic
+comment:  amazing
+comment:  amazing
+comment:  fantastic
+comment:  fantastic
+comment:  fantastic
+comment:  fantastic
+comment:  amazing
+
+
+cluster  31 :
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+
+
+cluster  32 :
+comment:  sen
+comment:  dank
+comment:  por
+comment:  loooooong
+comment:  ain
+comment:  vos
+comment:  dank
+comment:  oui
+comment:  est
+comment:  hopfully
+comment:  shin
+comment:  mcuh
+comment:  vos
+comment:  roo
+comment:  alps
+comment:  lightroom
+
+
+cluster  33 :
+comment:  upload
+comment:  upload
+comment:  upload
+comment:  facebook
+comment:  upload
+comment:  upload
+
+
+cluster  34 :
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  kind
+comment:  like
+comment:  like
+comment:  especially
+comment:  like
+comment:  like
+comment:  like
+comment:  thing
+comment:  like
+comment:  thing
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  better
+comment:  especially
+comment:  better
+comment:  like
+comment:  kind
+comment:  thing
+comment:  like
+
+
+cluster  35 :
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+
+
+cluster  36 :
+comment:  sell
+comment:  weight
+comment:  demanding
+comment:  venture
+comment:  reward
+comment:  circumstance
+comment:  outcome
+comment:  compare
+comment:  likewise
+comment:  timing
+comment:  enter
+comment:  period
+comment:  include
+comment:  condition
+comment:  issue
+comment:  contribution
+comment:  include
+comment:  case
+comment:  condition
+comment:  aim
+comment:  group
+comment:  solve
+comment:  plus
+comment:  second
+comment:  power
+comment:  fully
+comment:  daily
+comment:  daily
+comment:  support
+comment:  introduction
+comment:  final
+comment:  return
+comment:  frequent
+comment:  term
+comment:  battle
+comment:  daily
+comment:  daily
+comment:  case
+comment:  process
+comment:  contribution
+comment:  business
+comment:  issue
+
+
+cluster  37 :
+comment:  reason
+comment:  actually
+comment:  people
+comment:  actually
+comment:  need
+comment:  personally
+comment:  people
+comment:  sense
+comment:  need
+comment:  reason
+comment:  mind
+comment:  reason
+comment:  actually
+comment:  wrong
+
+
+cluster  38 :
+comment:  ego
+comment:  kill
+comment:  retire
+comment:  die
+comment:  thingy
+comment:  die
+
+
+cluster  39 :
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+
+
+cluster  40 :
+comment:  spectacular
+comment:  stunning
+comment:  stunning
+comment:  stunning
+comment:  stunning
+comment:  stunning
+comment:  magnificent
+comment:  magnificent
+comment:  spectacular
+comment:  impressive
+comment:  spectacular
+comment:  stunning
+comment:  magnificent
+comment:  wonderfully
+comment:  stunning
+comment:  stunning
+comment:  stunning
+
+
+cluster  41 :
+comment:  volgende
+comment:  gewoon
+comment:  altijd
+comment:  jouw
+comment:  gaan
+comment:  denk
+comment:  welkom
+comment:  iemand
+comment:  heeft
+
+
+cluster  42 :
+comment:  awesome
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  awesome
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  awesome
+comment:  awesome
+comment:  awesome
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+
+
+cluster  43 :
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  miss
+comment:  love
+comment:  love
+comment:  miss
+comment:  miss
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+
+
+cluster  44 :
+comment:  light
+comment:  light
+comment:  light
+comment:  light
+comment:  light
+comment:  light
+comment:  light
+comment:  light
+comment:  light
+comment:  light
+comment:  light
+comment:  light
+
+
+cluster  45 :
+comment:  visit
+comment:  visit
+comment:  visit
+comment:  visit
+comment:  join
+
+
+cluster  46 :
+comment:  colour
+comment:  colour
+comment:  color
+comment:  color
+comment:  color
+comment:  color
+comment:  colour
+comment:  color
+comment:  color
+comment:  colour
+comment:  colour
+
+
+cluster  47 :
+comment:  welcome
+comment:  welcome
+comment:  dear
+comment:  friend
+comment:  luck
+comment:  lucky
+comment:  friend
+comment:  luck
+comment:  friend
+comment:  dear
+comment:  proud
+comment:  friend
+comment:  dear
+comment:  friend
+comment:  friend
+
+
+cluster  48 :
+comment:  capture
+comment:  capture
+comment:  capture
+comment:  capture
+comment:  capture
+comment:  capture
+comment:  capture
+comment:  capture
+comment:  capture
+comment:  capture
+comment:  capture
+comment:  capture
+comment:  capture
+comment:  capture
+
+
+cluster  49 :
+comment:  janusz
+comment:  janusz
+comment:  marilou
+comment:  weimer
+comment:  marilou
+comment:  marilou
+comment:  qadir
+comment:  wilfried
+comment:  annick
+comment:  reynaud
+comment:  nieder
+comment:  giorgi
+comment:  pelaez
+comment:  rogge
+comment:  qadir
+comment:  silke
+comment:  annick
+comment:  dalibor
+comment:  dalibor
+comment:  rogge
+
+
+cluster  50 :
+comment:  paul
+comment:  alex
+comment:  alex
+comment:  george
+comment:  george
+comment:  michael
+comment:  michael
+comment:  david
+comment:  david
+comment:  eric
+comment:  paul
+comment:  paul
+comment:  david
+comment:  david
+comment:  eric
+comment:  eric
+comment:  paul
+comment:  george
+comment:  george
+comment:  jason
+comment:  michael
+comment:  michael
+comment:  jeff
+comment:  peter
+comment:  john
+comment:  daniel
+comment:  michael
+comment:  michael
+comment:  jim
+comment:  jim
+comment:  daniel
+comment:  daniel
+comment:  michelle
+comment:  michelle
+comment:  michael
+
+
+cluster  51 :
+comment:  ferreira
+comment:  mcclure
+comment:  hilbert
+comment:  gruber
+comment:  terrie
+comment:  terrie
+comment:  philipp
+comment:  philipp
+comment:  mady
+comment:  mady
+comment:  hilbert
+comment:  ferreira
+comment:  hilbert
+comment:  almeida
+comment:  vadim
+comment:  catharine
+comment:  gunderson
+comment:  maciej
+comment:  maciej
+comment:  gruber
+comment:  leyla
+comment:  roberson
+comment:  leyla
+comment:  oksana
+comment:  dermot
+comment:  dermot
+comment:  griggs
+comment:  mady
+comment:  hilbert
+comment:  tompkins
+comment:  sofie
+comment:  forsberg
+comment:  sofie
+comment:  lundgren
+comment:  heyward
+comment:  kamil
+
+
+cluster  52 :
+comment:  levi
+comment:  fletcher
+comment:  abdul
+comment:  levi
+comment:  athena
+comment:  benoit
+comment:  kamal
+comment:  kamal
+comment:  dempsey
+comment:  pascal
+comment:  mathis
+comment:  reilly
+comment:  abdul
+comment:  enzo
+comment:  ros
+comment:  kitts
+comment:  bert
+
+
+cluster  53 :
+comment:  review
+comment:  feedback
+comment:  search
+comment:  link
+comment:  site
+comment:  page
+comment:  page
+comment:  preview
+comment:  page
+comment:  page
+comment:  page
+comment:  page
+comment:  page
+comment:  official
+comment:  info
+
+
+cluster  54 :
+comment:  dat
+comment:  wel
+comment:  mmmm
+comment:  wel
+comment:  dat
+comment:  oooh
+comment:  dat
+comment:  wel
+comment:  wel
+comment:  wel
+
+
+cluster  55 :
+comment:  comment
+comment:  blog
+comment:  post
+comment:  comment
+comment:  blog
+comment:  post
+comment:  reply
+comment:  post
+comment:  post
+
+
+cluster  56 :
+CAPTION: background
+comment:  detail
+comment:  view
+comment:  detail
+comment:  detail
+comment:  unique
+comment:  highlight
+comment:  view
+comment:  view
+comment:  location
+comment:  highlight
+comment:  view
+comment:  detail
+comment:  view
+comment:  detail
+background 	0.42326382
+[[0.4912891  0.40044957 0.4912891  0.4912891  0.37252146 0.40631166
+  0.40044957 0.40044957 0.28185496 0.40631166 0.40044957 0.4912891
+  0.40044957 0.4912891 ]]
+
+
+cluster  57 :
+comment:  simpson
+comment:  rosa
+comment:  rosa
+comment:  costa
+comment:  andreas
+comment:  simpson
+comment:  earl
+comment:  costa
+comment:  switzerland
+comment:  heath
+comment:  switzerland
+comment:  foto
+comment:  switzerland
+comment:  singh
+comment:  earl
+comment:  meg
+comment:  meg
+comment:  victoria
+comment:  holland
+comment:  victor
+comment:  berlin
+comment:  foto
+
+
+cluster  58 :
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+
+
+cluster  59 :
+comment:  complain
+comment:  thankfully
+comment:  yesterday
+comment:  sister
+comment:  wife
+comment:  late
+comment:  evening
+comment:  sister
+comment:  yesterday
+
+
+cluster  60 :
+comment:  use
+comment:  result
+comment:  change
+comment:  use
+comment:  eventually
+comment:  difference
+comment:  problem
+comment:  problem
+comment:  certain
+comment:  use
+comment:  different
+comment:  problem
+comment:  use
+comment:  result
+comment:  possible
+comment:  difference
+comment:  hold
+comment:  change
+comment:  begin
+comment:  use
+
+
+cluster  61 :
+comment:  yasmin
+comment:  yasmin
+comment:  yasmin
+comment:  yasmin
+comment:  tran
+comment:  cia
+comment:  tran
+comment:  tran
+comment:  tran
+
+
+cluster  62 :
+comment:  time
+comment:  time
+comment:  time
+comment:  time
+comment:  time
+comment:  day
+comment:  day
+comment:  time
+comment:  day
+comment:  day
+comment:  day
+comment:  day
+
+
+cluster  63 :
+comment:  beauty
+comment:  beauty
+comment:  beauty
+comment:  beauty
+comment:  beauty
+comment:  beauty
+comment:  beauty
+comment:  beauty
+
+
+cluster  64 :
+CAPTION: mountain
+CAPTION: mountain
+comment:  wilderness
+comment:  harvest
+comment:  stormy
+comment:  skiing
+comment:  wilderness
+comment:  outdoor
+comment:  mountain
+comment:  mountain
+comment:  forest
+comment:  pine
+comment:  mountain
+comment:  forest
+comment:  mountain
+comment:  hike
+comment:  mountain
+comment:  paradise
+comment:  south
+mountain 	0.647395926363
+[[0.61992544 0.25885713 0.28572819 0.63956356 0.61992544 0.37967867
+  1.         1.         0.6134215  0.47773457 1.         0.6134215
+  1.         0.55351102 1.         0.47149643 0.4724673 ]]
+mountain 	0.647395926363
+[[0.61992544 0.25885713 0.28572819 0.63956356 0.61992544 0.37967867
+  1.         1.         0.6134215  0.47773457 1.         0.6134215
+  1.         0.55351102 1.         0.47149643 0.4724673 ]]
+
+
+cluster  65 :
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+
+
+cluster  66 :
+comment:  converter
+comment:  converter
+comment:  mania
+comment:  micro
+comment:  workaround
+comment:  notification
+
+
+cluster  67 :
+comment:  swanepoel
+comment:  frei
+comment:  sumit
+comment:  hoep
+comment:  sach
+comment:  dubi
+comment:  paisaje
+comment:  espectacular
+comment:  bia
+comment:  bild
+comment:  interseting
+comment:  pff
+comment:  brrrrr
+comment:  paysage
+comment:  kraken
+comment:  schweiz
+comment:  tiptop
+comment:  etna
+comment:  marla
+comment:  xen
+comment:  hoep
+comment:  sach
+comment:  junge
+comment:  comi
+comment:  anke
+comment:  anke
+
+
+cluster  68 :
+comment:  gentle
+comment:  sight
+comment:  magical
+comment:  absolute
+comment:  deep
+comment:  heart
+comment:  overwhelming
+comment:  convey
+comment:  deeply
+comment:  pure
+comment:  essence
+comment:  grace
+comment:  nature
+comment:  nature
+comment:  mood
+comment:  magical
+
+
+cluster  69 :
+comment:  notice
+comment:  word
+comment:  decide
+comment:  speak
+comment:  check
+comment:  check
+comment:  note
+comment:  forward
+comment:  opinion
+comment:  meet
+comment:  check
+comment:  job
+comment:  excuse
+comment:  stop
+comment:  word
+comment:  follow
+comment:  follow
+comment:  meet
+comment:  read
+comment:  word
+comment:  follow
+comment:  follow
+comment:  clue
+comment:  meet
+comment:  check
+comment:  ahead
+comment:  meet
+comment:  help
+
+
+cluster  70 :
+comment:  foreboding
+comment:  crispness
+comment:  avalanche
+comment:  textural
+comment:  minty
+comment:  snowshoe
+comment:  dusting
+comment:  minty
+comment:  treetops
+comment:  wintery
+
+
+cluster  71 :
+comment:  landscape
+comment:  landscape
+comment:  landscape
+comment:  landscape
+comment:  landscape
+comment:  landscape
+comment:  landscape
+comment:  landscape
+comment:  landscape
+comment:  landscape
+comment:  landscape
+comment:  landscape
+
+
+cluster  72 :
+comment:  btp
+comment:  btp
+comment:  btp
+comment:  btp
+comment:  btp
+comment:  btp
+comment:  btp
+
+
+cluster  73 :
+comment:  shawn
+comment:  nicole
+comment:  nicole
+comment:  anna
+comment:  anna
+comment:  andrea
+comment:  carlos
+comment:  ian
+comment:  fred
+comment:  andrea
+comment:  andrea
+comment:  ralph
+comment:  erin
+comment:  jerry
+comment:  jerry
+comment:  nina
+comment:  anthony
+comment:  nina
+comment:  joan
+comment:  joan
+comment:  sandra
+comment:  carey
+comment:  nicole
+comment:  kurt
+comment:  harvey
+comment:  kurt
+comment:  nancy
+comment:  dylan
+comment:  dylan
+comment:  anna
+comment:  anna
+comment:  russell
+comment:  betty
+comment:  stephen
+comment:  stephen
+comment:  walter
+comment:  carlos
+comment:  ken
+
+
+cluster  74 :
+comment:  sure
+comment:  want
+comment:  know
+comment:  sure
+comment:  want
+comment:  way
+comment:  want
+comment:  want
+comment:  way
+comment:  sure
+comment:  want
+comment:  want
+comment:  way
+
+
+cluster  75 :
+comment:  scene
+comment:  scene
+comment:  scene
+comment:  scene
+comment:  scene
+comment:  scene
+comment:  glimpse
+comment:  scene
+comment:  scene
+
+
+cluster  76 :
+comment:  year
+comment:  year
+comment:  trip
+comment:  week
+comment:  year
+comment:  year
+comment:  month
+comment:  week
+comment:  month
+comment:  week
+comment:  weekend
+comment:  year
+comment:  year
+comment:  later
+comment:  month
+comment:  week
+
+
+cluster  77 :
+comment:  line
+comment:  type
+comment:  size
+comment:  large
+comment:  combination
+comment:  visual
+comment:  area
+comment:  line
+comment:  large
+comment:  size
+comment:  contrast
+comment:  contrast
+comment:  depth
+comment:  contrast
+comment:  water
+comment:  contrast
+comment:  depth
+comment:  space
+comment:  large
+comment:  size
+comment:  screen
+comment:  transform
+comment:  combination
+
+
+cluster  78 :
+comment:  best
+comment:  plenty
+comment:  perfect
+comment:  fine
+comment:  pleasure
+comment:  pleasure
+comment:  enjoy
+comment:  absolutely
+comment:  enjoy
+comment:  interesting
+comment:  perfect
+comment:  truly
+comment:  best
+
+
+cluster  79 :
+comment:  sir
+comment:  don
+comment:  friday
+comment:  don
+comment:  don
+comment:  wat
+
+
+cluster  80 :
+comment:  gray
+comment:  grey
+comment:  grey
+comment:  white
+comment:  glass
+comment:  green
+comment:  grey
+comment:  green
+comment:  wood
+comment:  sun
+comment:  green
+comment:  green
+comment:  white
+
+
+cluster  81 :
+comment:  haven
+comment:  fuzzy
+comment:  fuzzy
+comment:  pop
+comment:  star
+comment:  epic
+comment:  sneak
+comment:  tight
+comment:  hot
+comment:  chocolate
+comment:  breakfast
+comment:  club
+comment:  grand
+comment:  fuzzy
+comment:  cat
+comment:  jump
+comment:  bored
+comment:  annoying
+
+
+cluster  82 :
+comment:  multi
+comment:  shield
+comment:  enthusiast
+comment:  bounty
+comment:  popcorn
+comment:  non
+comment:  honoured
+comment:  pan
+comment:  bore
+comment:  fluff
+comment:  tack
+comment:  heel
+comment:  bend
+
+
+cluster  83 :
+comment:  excellent
+comment:  excellent
+comment:  excellent
+comment:  excellent
+comment:  excellent
+comment:  excellent
+comment:  outstanding
+comment:  excellent
+comment:  superb
+
+
+cluster  84 :
+comment:  photography
+comment:  photography
+comment:  photographer
+comment:  photographer
+comment:  photographer
+comment:  photographer
+
+
+cluster  85 :
+comment:  marvelous
+comment:  gorgeous
+comment:  gorgeous
+comment:  gorgeous
+comment:  gorgeous
+comment:  gorgeous
+comment:  marvelous
+comment:  gorgeous
+comment:  gorgeous
+comment:  gorgeous
+comment:  gorgeous
+comment:  gorgeous
+comment:  gorgeous
+
+
+cluster  86 :
+comment:  layer
+comment:  composition
+comment:  layering
+comment:  composition
+comment:  layer
+comment:  composition
+comment:  composition
+comment:  element
+comment:  composition
+
+
+cluster  87 :
+comment:  van
+comment:  van
+comment:  van
+comment:  van
+
+
+cluster  88 :
+comment:  new
+comment:  new
+comment:  open
+comment:  new
+comment:  new
+comment:  create
+comment:  add
+comment:  old
+comment:  open
+comment:  new
+comment:  add
+comment:  add
+
+
+cluster  89 :
+comment:  dominique
+comment:  dominique
+comment:  dominique
+comment:  dominique
+comment:  dominique
+comment:  mendoza
+comment:  louisa
+comment:  louisa
+comment:  annette
+comment:  dominique
+
+
+cluster  90 :
+comment:  tone
+comment:  harsh
+comment:  sharp
+comment:  mark
+comment:  mark
+comment:  sharp
+comment:  sharp
+comment:  sharp
+
+
+cluster  91 :
+comment:  darn
+comment:  wonderfull
+comment:  adore
+comment:  super
+comment:  yummy
+comment:  super
+
+
+cluster  92 :
+comment:  lijkt
+comment:  verwacht
+comment:  sneeuw
+comment:  woord
+comment:  genoeg
+comment:  eentje
+comment:  sneeuw
+comment:  binnenkort
+comment:  sneeuw
+comment:  krijg
+comment:  praten
+
+
+cluster  93 :
+comment:  try
+comment:  bring
+comment:  feeling
+comment:  soon
+comment:  place
+comment:  find
+comment:  soon
+comment:  come
+comment:  try
+comment:  simply
+comment:  totally
+comment:  right
+comment:  right
+comment:  place
+comment:  lot
+comment:  lot
+comment:  able
+comment:  true
+comment:  place
+comment:  moment
+comment:  able
+comment:  totally
+comment:  try
+comment:  moment
+comment:  simply
+comment:  moment
+comment:  place
+caption 0 inside the median of cluster: 64 caption: 1.86403232806 median: 1.9118160565
+caption 1 inside the median of cluster: 64 caption: 1.86403232806 median: 1.9118160565
+
+101373961279443806744.5662653777222747874
+a view of a cloudy sky in the sky 
+
+Caption cleaned --->  view cloudy sky sky  
+
+matrix comment dim (209, 209)
+
+
+cluster  0 :
+comment:  sure
+comment:  like
+comment:  nice
+comment:  nice
+comment:  like
+comment:  nice
+comment:  look
+comment:  great
+comment:  thought
+comment:  great
+comment:  appreciate
+comment:  good
+comment:  like
+comment:  good
+
+
+cluster  1 :
+comment:  camara
+comment:  wel
+comment:  dandelion
+comment:  photostream
+comment:  dandelion
+comment:  danke
+
+
+cluster  2 :
+CAPTION: view
+comment:  focus
+comment:  focus
+comment:  similar
+comment:  creative
+comment:  detail
+comment:  power
+comment:  present
+comment:  result
+comment:  focus
+comment:  effect
+comment:  detail
+comment:  image
+comment:  drop
+comment:  different
+comment:  approach
+view 	0.35656387
+[[0.36279017 0.36279017 0.3791199  0.22381069 0.45285738 0.2206518
+  0.36038184 0.31842083 0.36279017 0.2803606  0.45285738 0.5343876
+  0.26886722 0.37810048 0.39027166]]
+
+
+cluster  3 :
+comment:  come
+comment:  work
+comment:  ready
+comment:  work
+comment:  tell
+comment:  come
+comment:  stay
+comment:  moment
+comment:  past
+comment:  moment
+comment:  stop
+comment:  try
+comment:  long
+comment:  leave
+comment:  right
+
+
+cluster  4 :
+comment:  lana
+comment:  walker
+comment:  carey
+comment:  carey
+comment:  shane
+comment:  murphy
+comment:  francis
+comment:  kerry
+comment:  murphy
+comment:  christine
+
+
+cluster  5 :
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+
+
+cluster  6 :
+comment:  hope
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  wish
+
+
+cluster  7 :
+comment:  thank
+comment:  thank
+comment:  glad
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+
+
+cluster  8 :
+CAPTION: sky
+CAPTION: sky
+comment:  crisp
+comment:  soft
+comment:  light
+comment:  pure
+comment:  magic
+comment:  light
+comment:  softness
+comment:  magic
+comment:  slightly
+comment:  delicate
+comment:  soft
+comment:  touch
+comment:  frame
+sky 	0.34894705
+[[0.33884302 0.3166578  0.5639269  0.29796132 0.39645338 0.5639269
+  0.18180194 0.39645338 0.29304016 0.30001375 0.3166578  0.29203114
+  0.27854383]]
+sky 	0.34894705
+[[0.33884302 0.3166578  0.5639269  0.29796132 0.39645338 0.5639269
+  0.18180194 0.39645338 0.29304016 0.30001375 0.3166578  0.29203114
+  0.27854383]]
+
+
+cluster  9 :
+comment:  austria
+comment:  doris
+comment:  rudd
+comment:  beverley
+comment:  aston
+comment:  blackwell
+comment:  athena
+comment:  athena
+comment:  fletcher
+comment:  clifton
+comment:  larsen
+
+
+cluster  10 :
+comment:  weinreich
+comment:  skreiner
+comment:  ewert
+comment:  rooij
+comment:  weekendhttp
+comment:  paulscott
+comment:  holsclaw
+comment:  weinreich
+comment:  leighann
+comment:  monod
+comment:  bouzar
+
+
+cluster  11 :
+comment:  shoot
+comment:  shot
+comment:  photo
+comment:  shot
+comment:  shot
+comment:  shoot
+comment:  shot
+
+
+cluster  12 :
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+
+
+cluster  13 :
+comment:  compliment
+comment:  lovely
+comment:  perfect
+comment:  lovely
+comment:  superb
+comment:  perfect
+comment:  fantastic
+comment:  perfect
+comment:  fantastic
+comment:  lovely
+comment:  beautiful
+comment:  perfectly
+
+
+cluster  14 :
+comment:  wow
+comment:  wow
+comment:  wow
+comment:  hah
+
+
+cluster  15 :
+comment:  neil
+comment:  robert
+comment:  daniel
+comment:  peter
+comment:  richard
+comment:  paul
+comment:  scott
+comment:  george
+comment:  stephen
+comment:  paul
+comment:  scott
+comment:  thomas
+
+
+cluster  16 :
+comment:  post
+comment:  month
+comment:  check
+comment:  late
+comment:  meet
+comment:  comment
+comment:  comment
+comment:  share
+comment:  visit
+comment:  today
+comment:  week
+comment:  share
+
+
+cluster  17 :
+comment:  www
+comment:  flickr
+comment:  com
+comment:  star
+comment:  mile
+
+
+cluster  18 :
+CAPTION: cloudy
+comment:  blur
+comment:  macro
+comment:  blur
+comment:  foreground
+comment:  macro
+comment:  sharpness
+cloudy 	0.27052942
+[[0.36012167 0.20856385 0.36012167 0.24496603 0.20856385 0.2408395 ]]
+
+
+cluster  19 :
+comment:  myrna
+comment:  maru
+comment:  clavier
+comment:  eckhart
+comment:  tolle
+comment:  myrna
+comment:  dene
+comment:  gagnon
+comment:  zina
+comment:  schaller
+caption 0 inside the median of cluster: 2 caption: 0.993279113361 median: 1.06318179678
+
+101373961279443806744.5890831574997632594
+a view of a beach with a boat in the background 
+
+Caption cleaned --->  view beach boat background  
+
+matrix comment dim (3308, 3308)
+
+
+cluster  0 :
+comment:  naar
+comment:  voor
+comment:  zijn
+comment:  geen
+comment:  meer
+comment:  veel
+comment:  voor
+comment:  maken
+comment:  veel
+comment:  deze
+comment:  uit
+comment:  uit
+comment:  geen
+
+
+cluster  1 :
+comment:  weekend
+comment:  ride
+comment:  evening
+comment:  night
+comment:  tonight
+comment:  tomorrow
+comment:  tomorrow
+comment:  evening
+comment:  weekend
+comment:  weekend
+comment:  morning
+comment:  walk
+comment:  late
+
+
+cluster  2 :
+comment:  fulltime
+comment:  buisness
+comment:  seeker
+comment:  hadn
+comment:  shouldn
+comment:  wanton
+comment:  hadn
+comment:  perfectionist
+
+
+cluster  3 :
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+comment:  wonderful
+
+
+cluster  4 :
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+comment:  johan
+
+
+cluster  5 :
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+comment:  thank
+
+
+cluster  6 :
+comment:  mutita
+comment:  mutita
+
+
+cluster  7 :
+comment:  line
+comment:  line
+comment:  second
+comment:  power
+comment:  line
+comment:  single
+comment:  second
+comment:  second
+comment:  line
+comment:  value
+comment:  value
+comment:  balance
+comment:  line
+
+
+cluster  8 :
+comment:  sure
+comment:  sure
+comment:  need
+comment:  sure
+comment:  want
+comment:  sure
+comment:  need
+comment:  sure
+comment:  let
+comment:  want
+comment:  let
+comment:  sure
+comment:  want
+comment:  need
+comment:  need
+comment:  sure
+comment:  want
+comment:  want
+comment:  need
+comment:  let
+comment:  want
+comment:  need
+
+
+cluster  9 :
+comment:  eric
+comment:  eric
+comment:  ben
+comment:  randy
+comment:  tim
+comment:  tim
+comment:  sam
+comment:  alex
+comment:  alex
+comment:  johnny
+comment:  ian
+comment:  ian
+comment:  peter
+comment:  daniel
+comment:  sam
+
+
+cluster  10 :
+comment:  hilbert
+comment:  ferreira
+comment:  cattaneo
+comment:  leyla
+comment:  roberson
+comment:  ingo
+comment:  ingo
+comment:  fotograf
+comment:  shama
+comment:  mance
+comment:  hilbert
+comment:  mcclure
+comment:  govinda
+comment:  jeannette
+comment:  kathie
+comment:  mittal
+comment:  maggy
+comment:  maggy
+comment:  hilbert
+comment:  mady
+comment:  dubi
+comment:  gunderson
+comment:  showalter
+comment:  ohara
+comment:  etna
+comment:  dubi
+comment:  didier
+comment:  didier
+comment:  forsberg
+comment:  tompkins
+comment:  pinguin
+comment:  koontz
+comment:  hilbert
+comment:  leyla
+comment:  roberson
+comment:  dubi
+comment:  ohara
+
+
+cluster  11 :
+comment:  screen
+comment:  frame
+comment:  frame
+comment:  lens
+comment:  length
+comment:  frame
+comment:  length
+comment:  lens
+comment:  frame
+comment:  frame
+comment:  size
+comment:  mirror
+comment:  frame
+comment:  frame
+comment:  size
+comment:  angle
+comment:  frame
+comment:  frame
+
+
+cluster  12 :
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+comment:  peijnenburg
+
+
+cluster  13 :
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  gorgeous
+comment:  gorgeous
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  gorgeous
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  gorgeous
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+comment:  gorgeous
+comment:  beautiful
+comment:  beautiful
+comment:  beautiful
+
+
+cluster  14 :
+comment:  worth
+comment:  extra
+comment:  worth
+comment:  extra
+comment:  worth
+comment:  spend
+comment:  deal
+comment:  worth
+comment:  spend
+comment:  worth
+comment:  money
+comment:  lose
+comment:  worth
+comment:  spend
+
+
+cluster  15 :
+comment:  wel
+comment:  mee
+comment:  kan
+comment:  beter
+comment:  wel
+comment:  wel
+comment:  wel
+comment:  wel
+comment:  wel
+comment:  wel
+comment:  wel
+comment:  wel
+comment:  wel
+
+
+cluster  16 :
+comment:  mona
+comment:  mona
+comment:  deborah
+comment:  deborah
+comment:  jeffrey
+comment:  carolyn
+comment:  carolyn
+comment:  mona
+comment:  margaret
+comment:  margaret
+comment:  cohen
+comment:  ronald
+comment:  ronald
+comment:  teresa
+comment:  teresa
+comment:  deborah
+comment:  margaret
+comment:  wong
+comment:  margaret
+comment:  mona
+comment:  mona
+comment:  shelly
+comment:  shelly
+comment:  deborah
+comment:  margaret
+comment:  margaret
+comment:  sheila
+comment:  lori
+comment:  lori
+
+
+cluster  17 :
+comment:  deserve
+comment:  lately
+comment:  amazed
+comment:  dream
+comment:  curious
+comment:  amazed
+comment:  surprise
+comment:  inspiration
+comment:  curious
+comment:  impressed
+comment:  dream
+comment:  pleasure
+comment:  curious
+
+
+cluster  18 :
+comment:  brush
+comment:  stream
+comment:  raw
+comment:  cloud
+comment:  stream
+comment:  medium
+comment:  cloud
+comment:  cloud
+
+
+cluster  19 :
+comment:  gezin
+comment:  tegenwoordig
+comment:  fixen
+comment:  bestanden
+comment:  veranderd
+comment:  verbeteren
+comment:  wellicht
+comment:  automatisch
+comment:  erfolg
+comment:  einzelnen
+comment:  typen
+comment:  ihrem
+comment:  eigenen
+comment:  bestimmen
+comment:  probeer
+comment:  zware
+
+
+cluster  20 :
+comment:  art
+comment:  theme
+comment:  art
+comment:  beauty
+comment:  magical
+comment:  beauty
+comment:  painting
+comment:  theme
+
+
+cluster  21 :
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+comment:  nice
+
+
+cluster  22 :
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+comment:  work
+
+
+cluster  23 :
+comment:  merci
+comment:  beaucoup
+comment:  momento
+comment:  gracias
+comment:  por
+comment:  magnifique
+comment:  gracias
+comment:  nee
+comment:  merci
+comment:  beaucoup
+comment:  merci
+comment:  beaucoup
+comment:  merci
+
+
+cluster  24 :
+comment:  hope
+comment:  happy
+comment:  hope
+comment:  appreciate
+comment:  hope
+comment:  hope
+comment:  hope
+comment:  hope
+comment:  hope
+comment:  hope
+comment:  appreciate
+comment:  hope
+comment:  hope
+comment:  appreciate
+comment:  hope
+comment:  hope
+comment:  wish
+comment:  hope
+comment:  hope
+comment:  hope
+comment:  hope
+comment:  hope
+comment:  hope
+comment:  hope
+comment:  hope
+
+
+cluster  25 :
+comment:  stimulating
+comment:  soothe
+comment:  sauce
+comment:  massage
+comment:  balm
+comment:  beginner
+comment:  silky
+comment:  massage
+
+
+cluster  26 :
+comment:  disappoint
+comment:  sigh
+comment:  sing
+comment:  live
+comment:  live
+comment:  holy
+comment:  baby
+comment:  sister
+comment:  soul
+comment:  sing
+comment:  patience
+comment:  cheer
+comment:  sister
+comment:  ago
+comment:  hug
+comment:  holy
+
+
+cluster  27 :
+comment:  wow
+comment:  wow
+comment:  wow
+comment:  wow
+comment:  wow
+comment:  wonderfull
+comment:  wow
+comment:  wow
+comment:  wow
+comment:  wow
+comment:  wow
+comment:  wow
+comment:  wow
+comment:  wow
+
+
+cluster  28 :
+comment:  color
+comment:  color
+comment:  color
+comment:  color
+comment:  colour
+comment:  color
+comment:  color
+comment:  color
+comment:  color
+comment:  color
+comment:  colour
+comment:  color
+comment:  color
+comment:  color
+comment:  color
+comment:  color
+comment:  colour
+comment:  color
+comment:  colour
+comment:  colour
+comment:  color
+comment:  color
+comment:  color
+comment:  color
+comment:  colour
+comment:  color
+comment:  color
+comment:  color
+comment:  color
+
+
+cluster  29 :
+comment:  try
+comment:  try
+comment:  try
+comment:  try
+comment:  try
+comment:  find
+comment:  try
+comment:  try
+comment:  try
+comment:  try
+comment:  find
+comment:  try
+
+
+cluster  30 :
+comment:  photo
+comment:  picture
+comment:  photo
+comment:  photo
+comment:  photo
+comment:  photo
+comment:  photograph
+comment:  photograph
+comment:  photo
+comment:  photo
+comment:  photo
+comment:  photo
+comment:  photo
+comment:  photo
+comment:  picture
+comment:  photo
+comment:  photo
+comment:  picture
+comment:  photo
+comment:  photo
+comment:  photo
+comment:  photo
+comment:  photograph
+comment:  photo
+comment:  photo
+comment:  photo
+comment:  photograph
+comment:  photo
+comment:  photo
+comment:  photo
+comment:  photo
+comment:  photo
+
+
+cluster  31 :
+comment:  marvelous
+comment:  marvelous
+comment:  wonderfully
+comment:  amazingly
+comment:  warm
+comment:  delicious
+comment:  delightful
+comment:  pleasing
+comment:  brilliant
+comment:  inspiring
+comment:  fantastically
+
+
+cluster  32 :
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+comment:  like
+
+
+cluster  33 :
+comment:  wie
+comment:  alle
+comment:  echt
+comment:  alles
+comment:  hier
+comment:  als
+comment:  wie
+comment:  alles
+comment:  wie
+comment:  hier
+comment:  wie
+comment:  alles
+
+
+cluster  34 :
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+comment:  image
+
+
+cluster  35 :
+comment:  july
+comment:  costa
+comment:  european
+comment:  diego
+comment:  diego
+comment:  chicago
+comment:  nyc
+comment:  australia
+comment:  heath
+comment:  july
+comment:  louis
+comment:  louis
+comment:  european
+comment:  jean
+comment:  victoria
+comment:  victoria
+
+
+cluster  36 :
+comment:  different
+comment:  use
+comment:  allow
+comment:  use
+comment:  use
+comment:  use
+comment:  use
+comment:  use
+comment:  use
+comment:  use
+comment:  use
+comment:  use
+comment:  different
+comment:  use
+comment:  use
+comment:  similar
+
+
+cluster  37 :
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+comment:  great
+
+
+cluster  38 :
+comment:  feedback
+comment:  feedback
+comment:  feedback
+comment:  response
+comment:  explanation
+
+
+cluster  39 :
+comment:  composed
+comment:  composition
+comment:  composition
+comment:  composition
+comment:  composition
+comment:  composition
+comment:  composition
+comment:  composition
+comment:  blending
+comment:  composition
+comment:  composition
+comment:  characteristic
+comment:  composition
+
+
+cluster  40 :
+comment:  technique
+comment:  degree
+comment:  quantity
+comment:  differ
+comment:  interaction
+comment:  lucrative
+comment:  material
+comment:  improvement
+comment:  therapy
+comment:  minor
+comment:  quantity
+comment:  movement
+comment:  technique
+comment:  minor
+comment:  consume
+comment:  gradually
+comment:  weight
+comment:  weight
+comment:  motion
+
+
+cluster  41 :
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+comment:  love
+
+
+cluster  42 :
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+comment:  share
+
+
+cluster  43 :
+comment:  frank
+comment:  don
+comment:  don
+comment:  sunday
+comment:  frank
+comment:  frank
+comment:  frank
+comment:  frank
+comment:  frank
+comment:  frank
+comment:  frank
+comment:  america
+comment:  frank
+comment:  frank
+
+
+cluster  44 :
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+comment:  compliment
+
+
+cluster  45 :
+comment:  processing
+comment:  reduction
+comment:  adjustment
+comment:  correspond
+comment:  temperature
+comment:  portion
+comment:  reduction
+comment:  workflow
+comment:  pipeline
+comment:  filter
+comment:  layer
+comment:  reduction
+comment:  filter
+comment:  reduction
+comment:  temperature
+comment:  temperature
+comment:  sensor
+
+
+cluster  46 :
+comment:  important
+comment:  despite
+comment:  effort
+comment:  course
+comment:  course
+comment:  course
+comment:  keeping
+comment:  difficult
+comment:  attention
+comment:  experience
+comment:  difficult
+comment:  effort
+comment:  effort
+
+
+cluster  47 :
+comment:  dominique
+comment:  bertrand
+comment:  dunne
+comment:  christa
+comment:  christa
+comment:  corrigan
+comment:  tatiana
+comment:  tatiana
+comment:  donnelly
+comment:  tania
+comment:  dominique
+comment:  dominique
+comment:  aidan
+comment:  aidan
+comment:  bertrand
+comment:  mendoza
+comment:  ramos
+comment:  thierry
+comment:  thierry
+comment:  yvette
+comment:  dominique
+comment:  dominique
+comment:  jansen
+comment:  dominique
+comment:  dominique
+comment:  vogel
+comment:  dominique
+comment:  dubois
+comment:  dominique
+comment:  yvette
+comment:  yvette
+
+
+cluster  48 :
+comment:  post
+comment:  post
+comment:  post
+comment:  post
+comment:  post
+comment:  post
+comment:  post
+comment:  blog
+comment:  blog
+comment:  post
+comment:  post
+comment:  post
+
+
+cluster  49 :
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+comment:  glad
+
+
+cluster  50 :
+comment:  lot
+comment:  especially
+comment:  especially
+comment:  lot
+comment:  lot
+comment:  plenty
+comment:  little
+comment:  especially
+comment:  little
+comment:  lot
+comment:  plenty
+comment:  stuff
+comment:  stuff
+comment:  stuff
+comment:  lot
+comment:  lot
+comment:  little
+comment:  lot
+
+
+cluster  51 :
+comment:  shot
+comment:  shoot
+comment:  shot
+comment:  shoot
+comment:  shot
+comment:  shooting
+comment:  shot
+comment:  shot
+comment:  shot
+comment:  shot
+comment:  shot
+comment:  scene
+comment:  shot
+comment:  shoot
+comment:  shot
+comment:  shot
+comment:  scene
+comment:  shot
+comment:  scene
+comment:  shooting
+comment:  shot
+comment:  shot
+comment:  shoot
+comment:  shot
+comment:  shot
+
+
+cluster  52 :
+comment:  wait
+comment:  wait
+comment:  wait
+comment:  wait
+comment:  wait
+comment:  wait
+comment:  wait
+comment:  awhile
+comment:  wait
+comment:  wait
+
+
+cluster  53 :
+comment:  dir
+comment:  dir
+comment:  mit
+comment:  und
+comment:  mit
+comment:  der
+comment:  der
+comment:  ber
+comment:  der
+comment:  und
+comment:  von
+comment:  mal
+comment:  das
+comment:  ist
+comment:  bei
+comment:  uns
+comment:  und
+comment:  mal
+comment:  von
+comment:  von
+comment:  ich
+
+
+cluster  54 :
+comment:  bit
+comment:  bit
+comment:  bit
+comment:  bit
+comment:  bit
+comment:  bit
+comment:  bit
+comment:  bit
+comment:  bit
+comment:  bit
+comment:  bit
+comment:  bit
+comment:  bit
+
+
+cluster  55 :
+comment:  yasmin
+comment:  agua
+comment:  fico
+comment:  renton
+comment:  hoa
+comment:  yasmin
+comment:  yasmin
+comment:  vos
+comment:  athena
+comment:  austria
+comment:  otis
+comment:  redding
+comment:  austria
+comment:  nsa
+comment:  salvador
+
+
+cluster  56 :
+comment:  workshop
+comment:  workshop
+comment:  workshop
+comment:  workshop
+comment:  workshop
+comment:  workshop
+comment:  workshop
+comment:  workshop
+comment:  workshop
+comment:  workshop
+comment:  workshop
+comment:  workshop
+comment:  workshop
+comment:  workshop
+comment:  workshop
+comment:  workshop
+comment:  workshop
+comment:  workshop
+comment:  workshop
+comment:  workshop
+
+
+cluster  57 :
+comment:  bet
+comment:  shit
+comment:  fool
+comment:  blow
+comment:  man
+comment:  man
+comment:  guy
+comment:  shit
+
+
+cluster  58 :
+CAPTION: background
+comment:  eye
+comment:  deep
+comment:  dark
+comment:  dark
+comment:  paint
+comment:  white
+comment:  light
+comment:  paint
+comment:  light
+comment:  deep
+comment:  light
+comment:  white
+comment:  tiny
+comment:  white
+comment:  light
+comment:  dark
+comment:  dark
+comment:  dark
+comment:  deep
+comment:  white
+comment:  light
+comment:  dark
+comment:  dark
+background 	0.413031
+[[0.345197   0.3138937  0.43809634 0.43809634 0.39371213 0.50386715
+  0.40790486 0.39371213 0.40790486 0.3138937  0.40790486 0.50386715
+  0.30374393 0.50386715 0.40790486 0.43809634 0.43809634 0.43809634
+  0.3138937  0.50386715 0.40790486 0.43809634 0.43809634]]
+
+
+cluster  59 :
+comment:  meet
+comment:  meet
+comment:  meet
+comment:  meet
+comment:  meet
+comment:  meet
+comment:  meet
+comment:  meet
+comment:  meet
+comment:  meet
+comment:  meeting
+comment:  meet
+comment:  meet
+comment:  meet
+comment:  meeting
+comment:  meet
+comment:  meet
+comment:  meet
+
+
+cluster  60 :
+comment:  van
+comment:  tot
+comment:  tot
+comment:  van
+comment:  dan
+comment:  dan
+comment:  foto
+comment:  van
+comment:  van
+comment:  tot
+comment:  van
+comment:  van
+comment:  van
+comment:  van
+comment:  van
+comment:  foto
+comment:  van
+comment:  van
+comment:  van
+comment:  van
+
+
+cluster  61 :
+comment:  vakantie
+comment:  alvast
+comment:  wanneer
+comment:  binnenkort
+comment:  laatste
+comment:  vakantie
+comment:  weken
+comment:  meteen
+comment:  vakantie
+comment:  daarna
+comment:  tijd
+comment:  plaatje
+comment:  zetten
+comment:  laatste
+comment:  weken
+comment:  daarna
+comment:  tijdje
+comment:  moeten
+comment:  jaar
+comment:  vond
+comment:  wanneer
+comment:  wanneer
+comment:  vakantie
+comment:  beginnen
+comment:  vakantie
+comment:  tijd
+comment:  gebruiken
+comment:  aantal
+comment:  specifieke
+comment:  dingen
+comment:  hopelijk
+comment:  binnenkort
+comment:  vanaf
+comment:  zouden
+comment:  ervan
+comment:  personen
+comment:  niets
+comment:  gehoord
+comment:  gelezen
+comment:  commentaar
+
+
+cluster  62 :
+CAPTION: beach
+comment:  sublime
+comment:  sunset
+comment:  sunset
+comment:  sunset
+comment:  beach
+comment:  sunset
+comment:  sky
+comment:  hill
+comment:  mountain
+comment:  lake
+comment:  mountain
+comment:  sunset
+comment:  sunset
+beach 	0.547021602209
+[[0.23164609 0.60596269 0.60596269 0.60596269 1.         0.60596269
+  0.37036479 0.471901   0.43343106 0.53473067 0.43343106 0.60596269
+  0.60596269]]
+
+
+cluster  63 :
+comment:  yes
+comment:  yes
+comment:  yes
+comment:  yes
+comment:  agree
+comment:  sorry
+comment:  kinda
+comment:  yes
+comment:  yes
+comment:  agree
+comment:  kinda
+comment:  yes
+comment:  yes
+comment:  agree
+comment:  suppose
+
+
+cluster  64 :
+comment:  scott
+comment:  scott
+comment:  miller
+comment:  lee
+comment:  thomas
+comment:  jerry
+comment:  johnson
+comment:  jerry
+comment:  williams
+comment:  george
+comment:  george
+comment:  robert
+comment:  jerry
+comment:  johnson
+comment:  jerry
+comment:  elizabeth
+comment:  elizabeth
+comment:  robert
+comment:  robert
+comment:  robert
+comment:  scott
+comment:  scott
+comment:  mary
+comment:  mary
+comment:  scott
+comment:  scott
+comment:  scott
+comment:  miller
+
+
+cluster  65 :
+comment:  quiet
+comment:  serene
+comment:  serenity
+comment:  peaceful
+comment:  scenery
+comment:  peaceful
+comment:  peaceful
+comment:  serene
+comment:  peaceful
+comment:  serenity
+comment:  peaceful
+comment:  joyful
+comment:  peaceful
+comment:  calming
+comment:  quiet
+comment:  tranquility
+comment:  peaceful
+comment:  calm
+comment:  peaceful
+comment:  serene
+comment:  peaceful
+
+
+cluster  66 :
+comment:  het
+comment:  het
+comment:  nog
+comment:  een
+comment:  nog
+comment:  het
+comment:  het
+comment:  het
+comment:  ook
+comment:  een
+comment:  ook
+comment:  een
+comment:  het
+comment:  nog
+comment:  nog
+comment:  een
+comment:  ook
+comment:  het
+comment:  het
+comment:  nog
+comment:  een
+comment:  nog
+comment:  nog
+comment:  het
+
+
+cluster  67 :
+comment:  thrill
+comment:  hop
+comment:  chat
+comment:  alley
+comment:  grand
+comment:  google
+comment:  haven
+comment:  honey
+comment:  honey
+comment:  dance
+comment:  chat
+comment:  hat
+comment:  beer
+comment:  haven
+comment:  killer
+
+
+cluster  68 :
+comment:  momma
+comment:  hmmm
+comment:  hah
+comment:  nope
+comment:  momma
+comment:  omg
+comment:  hmm
+comment:  hah
+comment:  omg
+comment:  yup
+comment:  nope
+comment:  hah
+
+
+cluster  69 :
+comment:  online
+comment:  online
+comment:  feed
+comment:  free
+comment:  news
+comment:  online
+comment:  online
+comment:  online
+comment:  feed
+comment:  review
+
+
+cluster  70 :
+comment:  wat
+comment:  wat
+comment:  dat
+comment:  dat
+comment:  dat
+comment:  dat
+comment:  dat
+comment:  wil
+comment:  wil
+comment:  dat
+
+
+cluster  71 :
+comment:  amazing
+comment:  amazing
+comment:  amazing
+comment:  amazing
+comment:  amazing
+comment:  amazing
+comment:  amazing
+comment:  amazing
+comment:  awesome
+comment:  amazing
+comment:  awesome
+comment:  amazing
+comment:  awesome
+comment:  amazing
+comment:  fantastic
+comment:  fantastic
+comment:  awesome
+comment:  amazing
+comment:  awesome
+comment:  awesome
+comment:  amazing
+comment:  fantastic
+comment:  amazing
+comment:  awesome
+comment:  awesome
+comment:  amazing
+comment:  fantastic
+comment:  amazing
+comment:  amazing
+comment:  amazing
+comment:  amazing
+comment:  amazing
+comment:  fantastic
+comment:  amazing
+
+
+cluster  72 :
+comment:  long
+comment:  long
+comment:  long
+comment:  couple
+comment:  long
+comment:  couple
+comment:  long
+comment:  long
+comment:  long
+comment:  life
+comment:  hard
+comment:  life
+comment:  big
+comment:  long
+comment:  hard
+comment:  long
+comment:  long
+comment:  hard
+
+
+cluster  73 :
+comment:  btp
+comment:  btp
+comment:  btp
+comment:  btp
+comment:  btp
+comment:  azaz
+comment:  btp
+comment:  btp
+
+
+cluster  74 :
+comment:  julia
+comment:  julia
+comment:  joan
+comment:  joan
+comment:  andrea
+comment:  andrea
+comment:  sharon
+comment:  joan
+comment:  andrea
+comment:  sandra
+comment:  sandra
+comment:  andrea
+comment:  andrea
+comment:  joan
+comment:  joan
+comment:  joan
+comment:  sharon
+comment:  sharon
+comment:  christine
+comment:  catherine
+comment:  cindy
+
+
+cluster  75 :
+comment:  publish
+comment:  page
+comment:  page
+comment:  information
+comment:  website
+comment:  page
+comment:  page
+comment:  information
+comment:  page
+comment:  page
+comment:  information
+comment:  page
+comment:  page
+comment:  profile
+
+
+cluster  76 :
+comment:  anette
+comment:  anette
+comment:  jemma
+comment:  marquardt
+comment:  nikola
+comment:  nikola
+comment:  anette
+comment:  sinead
+comment:  sinead
+comment:  anette
+comment:  anette
+comment:  nikola
+comment:  nikola
+
+
+cluster  77 :
+comment:  cox
+comment:  walter
+comment:  walter
+comment:  betty
+comment:  betty
+comment:  simpson
+comment:  russell
+comment:  arthur
+comment:  arthur
+comment:  mitchell
+comment:  kerry
+comment:  murphy
+comment:  ralph
+comment:  ralph
+comment:  simpson
+comment:  carey
+comment:  meyer
+comment:  holland
+comment:  harvey
+comment:  mitchell
+comment:  mitchell
+comment:  mitchell
+comment:  harvey
+comment:  stan
+comment:  carey
+
+
+cluster  78 :
+comment:  tjintjelaar
+comment:  suprb
+comment:  delcour
+comment:  sudip
+comment:  ghate
+comment:  soestbergen
+comment:  notell
+comment:  peijnenburgotherwise
+comment:  manousos
+comment:  kieley
+comment:  sandidge
+comment:  grzegorz
+comment:  piechowicz
+comment:  grzegorz
+comment:  zolang
+comment:  gospodarou
+comment:  peijnenburgik
+comment:  zuiden
+comment:  kefeloni
+comment:  griekenland
+comment:  fotograferen
+comment:  pabroquez
+comment:  mossbacher
+comment:  haferland
+comment:  brakoniecki
+comment:  chombart
+comment:  notake
+comment:  fahm
+comment:  spenner
+comment:  rinus
+comment:  verstild
+comment:  niederer
+comment:  kuberan
+comment:  horwath
+comment:  vodnala
+comment:  liboon
+comment:  seide
+comment:  lotsos
+comment:  meckmann
+comment:  irnd
+comment:  parmeeva
+comment:  tyllinen
+comment:  rimovska
+comment:  valesa
+comment:  diamonte
+comment:  valesa
+comment:  qiuet
+comment:  morge
+comment:  prev
+comment:  opkwam
+comment:  zomervakantie
+comment:  hectisch
+comment:  tussenuit
+comment:  wheren
+comment:  naghmeh
+comment:  khadembashi
+comment:  naghmeh
+comment:  filatov
+comment:  atardecer
+comment:  apacibles
+comment:  magn
+comment:  capturado
+comment:  gica
+comment:  iluminaci
+comment:  obsequiarnos
+comment:  sweedon
+comment:  hedenberg
+comment:  sweedon
+comment:  sonnenfeld
+comment:  buidel
+comment:  tasten
+comment:  neijhoft
+comment:  kurumazuki
+comment:  fotograferen
+comment:  ryndak
+comment:  skreinerand
+comment:  davorin
+comment:  parlow
+comment:  wurschd
+comment:  rienzner
+comment:  langzamer
+comment:  grootte
+comment:  groeten
+comment:  rinus
+comment:  kleurenverstuurd
+comment:  vergauwen
+comment:  zzpb
+comment:  esguerra
+comment:  subra
+comment:  subra
+comment:  lakkhana
+comment:  lakkhana
+comment:  kalloo
+comment:  chombart
+comment:  betrand
+comment:  lammert
+comment:  doddema
+comment:  lammert
+comment:  breathtak
+comment:  wildhaber
+comment:  wempe
+comment:  aangenaam
+comment:  mejilla
+comment:  nter
+comment:  schurr
+comment:  tjintjelaar
+comment:  highlightyou
+comment:  besttopphotographer
+comment:  comthank
+comment:  stepanyan
+comment:  daugaard
+comment:  bouriat
+comment:  charnley
+comment:  rinus
+comment:  sahr
+comment:  groeten
+comment:  tjintjelaar
+comment:  peinenburg
+comment:  tyllinen
+comment:  teeffelen
+comment:  gehoopt
+comment:  meegroeit
+comment:  sairam
+comment:  sundaresan
+comment:  anatoliy
+comment:  urbanskiy
+comment:  anytoliy
+comment:  skreiner
+comment:  vergauwen
+comment:  skreiner
+comment:  menefee
+comment:  horwath
+comment:  edibleart
+comment:  jorunn
+comment:  gudlaugsdottir
+comment:  jorunn
+comment:  kolluru
+comment:  venkateshwar
+comment:  haeussler
+comment:  europeanphotography
+comment:  snoy
+comment:  rousher
+comment:  herreman
+comment:  taconn
+comment:  jany
+comment:  viala
+comment:  breathtak
+comment:  sandidge
+comment:  kuberan
+comment:  kaatje
+comment:  nikolski
+comment:  stepanyan
+comment:  landsmann
+comment:  horwath
+comment:  hagadorn
+comment:  demaret
+comment:  grzegorz
+comment:  piechowicz
+comment:  grzegorz
+comment:  gummibooten
+comment:  nachbarn
+comment:  herrscht
+comment:  bliche
+comment:  erfolglosen
+comment:  neulinge
+comment:  jemandem
+comment:  kleinb
+comment:  rgerliche
+comment:  provinzielle
+comment:  mentalit
+comment:  fehlerfreien
+comment:  nnen
+comment:  nnen
+comment:  sumpfrohr
+comment:  komikern
+comment:  chte
+comment:  juckt
+comment:  eiche
+comment:  reibt
+comment:  chaudhury
+comment:  landscapephotography
+comment:  rinus
+comment:  stepanyan
+comment:  mossbacher
+comment:  stepanyan
+comment:  tjintjelaar
+comment:  jaartje
+comment:  zingen
+comment:  tjintjelaar
+comment:  stepanyan
+comment:  preverenge
+comment:  wonderufl
+comment:  muraz
+comment:  muhakeem
+comment:  nurcan
+comment:  besttopphotographer
+comment:  tjintjelaar
+comment:  verenge
+comment:  diggelmann
+comment:  salmela
+comment:  mossbacher
+comment:  teeffelen
+comment:  catharina
+comment:  tjintjelaar
+comment:  commercialize
+comment:  gebruiker
+comment:  nikolski
+comment:  trchnique
+
+
+cluster  79 :
+comment:  die
+comment:  die
+comment:  die
+comment:  die
+comment:  die
+
+
+cluster  80 :
+comment:  jack
+comment:  jack
+comment:  jack
+comment:  jack
+comment:  jack
+comment:  jack
+comment:  jack
+comment:  jack
+comment:  jack
+comment:  jack
+
+
+cluster  81 :
+comment:  anna
+comment:  anna
+comment:  anna
+comment:  linda
+comment:  anna
+comment:  anna
+comment:  nicole
+comment:  nicole
+comment:  anna
+comment:  anna
+comment:  nicole
+comment:  nicole
+comment:  nicole
+comment:  maria
+comment:  maria
+comment:  nicole
+
+
+cluster  82 :
+comment:  check
+comment:  advice
+comment:  check
+comment:  check
+comment:  check
+comment:  check
+comment:  notice
+comment:  read
+comment:  follow
+comment:  follow
+comment:  write
+comment:  check
+comment:  follow
+comment:  notice
+comment:  question
+comment:  write
+comment:  check
+comment:  follow
+comment:  help
+comment:  follow
+comment:  follow
+comment:  help
+
+
+cluster  83 :
+comment:  vier
+comment:  junge
+comment:  besten
+comment:  fahren
+comment:  manche
+comment:  gegen
+comment:  durch
+comment:  arbeit
+comment:  einen
+comment:  schreiben
+comment:  leider
+comment:  solche
+comment:  einen
+comment:  wegen
+comment:  falsch
+comment:  soll
+comment:  sagen
+comment:  anderen
+comment:  sagen
+comment:  daran
+
+
+cluster  84 :
+comment:  time
+comment:  time
+comment:  time
+comment:  time
+comment:  time
+comment:  time
+comment:  time
+comment:  time
+comment:  time
+comment:  time
+comment:  time
+comment:  time
+comment:  time
+comment:  time
+comment:  time
+
+
+cluster  85 :
+comment:  capture
+comment:  capture
+comment:  capture
+comment:  capture
+comment:  capture
+comment:  capture
+
+
+cluster  86 :
+CAPTION: view
+comment:  view
+comment:  location
+comment:  location
+comment:  view
+comment:  highlight
+comment:  highlight
+comment:  view
+comment:  highlight
+comment:  view
+comment:  view
+comment:  view
+comment:  view
+comment:  highlight
+comment:  view
+comment:  location
+view 	0.721736894051
+[[1.         0.42871365 0.42871365 1.         0.38497812 0.38497812
+  1.         0.38497812 1.         1.         1.         1.
+  0.38497812 1.         0.42871365]]
+
+
+cluster  87 :
+comment:  absolutely
+comment:  truly
+comment:  absolutely
+comment:  truly
+comment:  absolutely
+comment:  absolutely
+comment:  totally
+comment:  absolutely
+comment:  absolutely
+comment:  truly
+comment:  totally
+comment:  absolutely
+comment:  totally
+
+
+cluster  88 :
+comment:  dank
+comment:  dank
+comment:  dank
+comment:  dank
+comment:  dank
+comment:  dank
+comment:  dank
+
+
+cluster  89 :
+comment:  combination
+comment:  area
+comment:  area
+comment:  quality
+comment:  high
+comment:  expensive
+comment:  reveal
+comment:  fitting
+comment:  produce
+comment:  popular
+comment:  large
+comment:  vast
+comment:  area
+comment:  alongside
+comment:  produce
+comment:  highly
+comment:  combination
+comment:  high
+comment:  large
+comment:  ample
+
+
+cluster  90 :
+comment:  approach
+comment:  begin
+comment:  provide
+comment:  improve
+comment:  regard
+comment:  depend
+comment:  plan
+comment:  manage
+comment:  personal
+comment:  business
+comment:  recognize
+comment:  skill
+comment:  plan
+comment:  business
+comment:  encouraging
+comment:  teach
+comment:  manage
+comment:  individual
+comment:  recognize
+comment:  whilst
+comment:  explore
+comment:  teach
+comment:  knowledge
+comment:  positive
+comment:  affect
+
+
+cluster  91 :
+comment:  think
+comment:  know
+comment:  think
+comment:  guess
+comment:  thought
+comment:  know
+comment:  know
+comment:  know
+comment:  think
+comment:  maybe
+comment:  know
+comment:  think
+comment:  know
+comment:  know
+comment:  know
+comment:  guess
+comment:  think
+comment:  maybe
+comment:  know
+comment:  think
+comment:  maybe
+comment:  think
+comment:  guess
+comment:  think
+comment:  know
+comment:  know
+comment:  think
+comment:  know
+comment:  think
+comment:  wonder
+comment:  think
+comment:  guess
+comment:  guess
+comment:  think
+comment:  know
+comment:  know
+comment:  guess
+
+
+cluster  92 :
+comment:  stunning
+comment:  exquisite
+comment:  stunning
+comment:  breathtaking
+comment:  stunning
+comment:  stunning
+comment:  stunning
+comment:  breathtaking
+comment:  stunning
+comment:  beautifully
+comment:  magnificent
+comment:  stunning
+comment:  stunning
+comment:  stunning
+comment:  stunning
+comment:  stunning
+comment:  stunning
+comment:  stunning
+comment:  stunning
+comment:  exquisite
+comment:  stunning
+comment:  stunning
+comment:  stunning
+comment:  stunning
+comment:  stunning
+comment:  magnificent
+
+
+cluster  93 :
+comment:  ahead
+comment:  forward
+comment:  forward
+comment:  forward
+comment:  ahead
+comment:  ahead
+comment:  past
+comment:  forward
+
+
+cluster  94 :
+comment:  kumar
+comment:  singh
+comment:  nila
+comment:  kumar
+comment:  sen
+comment:  singh
+comment:  singh
+comment:  jap
+comment:  nat
+comment:  nat
+comment:  andreas
+comment:  meg
+comment:  singh
+comment:  nila
+comment:  nila
+
+
+cluster  95 :
+comment:  cool
+comment:  cool
+comment:  cool
+comment:  cool
+comment:  cool
+comment:  cool
+comment:  sweet
+comment:  cool
+
+
+cluster  96 :
+comment:  hear
+comment:  hear
+comment:  hear
+comment:  hear
+comment:  hear
+comment:  hear
+comment:  hear
+comment:  hear
+comment:  hear
+comment:  hear
+comment:  hear
+comment:  hear
+comment:  hear
+comment:  hear
+comment:  hear
+
+
+cluster  97 :
+CAPTION: boat
+comment:  snow
+comment:  thousand
+comment:  flight
+comment:  handy
+comment:  plus
+comment:  spread
+comment:  water
+comment:  travel
+comment:  flight
+comment:  travel
+comment:  hike
+comment:  water
+comment:  snow
+comment:  weather
+comment:  dangerous
+comment:  water
+comment:  plus
+boat 	0.3276633
+[[0.32737982 0.25030643 0.3563404  0.23137008 0.22175978 0.15757707
+  0.49155334 0.357764   0.3563404  0.357764   0.31084898 0.49155334
+  0.32737982 0.34889796 0.27012768 0.49155334 0.22175978]]
+
+
+cluster  98 :
+comment:  pleased
+comment:  encouragement
+comment:  welcome
+comment:  encouragement
+comment:  welcome
+comment:  welcome
+comment:  welcome
+comment:  welcome
+comment:  welcome
+
+
+cluster  99 :
+comment:  manual
+comment:  execute
+comment:  test
+comment:  tweak
+comment:  version
+comment:  payment
+comment:  load
+comment:  load
+comment:  upgrade
+comment:  hardware
+comment:  hardware
+comment:  upgrade
+comment:  manually
+
+
+cluster  100 :
+comment:  busy
+comment:  busy
+comment:  busy
+comment:  busy
+comment:  busy
+comment:  busy
+comment:  busy
+comment:  busy
+comment:  busy
+comment:  busy
+comment:  busy
+comment:  busy
+
+
+cluster  101 :
+comment:  penguin
+comment:  vista
+comment:  canon
+comment:  goo
+comment:  tan
+comment:  curry
+comment:  photoshop
+comment:  iphone
+comment:  goo
+comment:  dot
+comment:  cam
+comment:  peachy
+comment:  canon
+comment:  photoshop
+comment:  curry
+comment:  hunter
+comment:  photoshop
+comment:  dot
+comment:  chinese
+comment:  promo
+
+
+cluster  102 :
+comment:  kind
+comment:  kind
+comment:  kind
+comment:  definitely
+comment:  kind
+comment:  way
+comment:  way
+comment:  kind
+comment:  kind
+comment:  feel
+comment:  thing
+comment:  kind
+comment:  kind
+comment:  thing
+comment:  thing
+comment:  kind
+comment:  thing
+comment:  way
+comment:  feel
+comment:  better
+comment:  feel
+comment:  kind
+comment:  definitely
+comment:  thing
+comment:  thing
+comment:  definitely
+comment:  thing
+comment:  thing
+comment:  imagine
+comment:  thing
+comment:  way
+comment:  kind
+comment:  way
+comment:  thing
+comment:  thing
+
+
+cluster  103 :
+comment:  lololol
+comment:  wooow
+comment:  wowww
+comment:  youuuu
+comment:  congrat
+comment:  woow
+comment:  wowww
+
+
+cluster  104 :
+comment:  win
+comment:  fix
+comment:  sell
+comment:  sell
+comment:  sell
+comment:  drop
+comment:  drop
+comment:  roll
+comment:  play
+comment:  fix
+comment:  hit
+comment:  hit
+comment:  pay
+
+
+cluster  105 :
+comment:  harz
+comment:  paulin
+comment:  wilfried
+comment:  wilfried
+comment:  janusz
+comment:  munford
+comment:  weimer
+comment:  alycia
+comment:  alycia
+comment:  rodolfo
+comment:  rodolfo
+comment:  dalibor
+comment:  munford
+comment:  varley
+comment:  pelaez
+comment:  bellos
+comment:  nicolai
+comment:  nicolai
+comment:  adcock
+comment:  prout
+comment:  munford
+comment:  ojeda
+comment:  natascha
+comment:  natascha
+comment:  loraine
+comment:  dalibor
+comment:  dalibor
+comment:  mafi
+comment:  lavoie
+comment:  prout
+comment:  prout
+comment:  janusz
+comment:  dalibor
+comment:  neid
+comment:  dalibor
+comment:  dalibor
+comment:  giorgi
+comment:  mckeown
+
+
+cluster  106 :
+comment:  catch
+comment:  spot
+comment:  catch
+comment:  spot
+comment:  spot
+comment:  spot
+comment:  spot
+comment:  spot
+
+
+cluster  107 :
+comment:  vishal
+comment:  vitor
+comment:  vitor
+comment:  kamal
+comment:  satish
+comment:  sumit
+comment:  sumit
+comment:  kamal
+comment:  kamal
+comment:  sina
+comment:  markus
+comment:  markus
+comment:  jamal
+comment:  jamal
+comment:  gaurav
+comment:  gaurav
+comment:  kamal
+comment:  markus
+comment:  markus
+comment:  rohit
+comment:  abdullah
+
+
+cluster  108 :
+comment:  michel
+comment:  michel
+comment:  gemma
+comment:  stefan
+comment:  stefan
+comment:  levi
+comment:  nicola
+comment:  levi
+comment:  enrique
+comment:  enrique
+comment:  monique
+comment:  levi
+comment:  morton
+comment:  raphael
+comment:  raphael
+comment:  amos
+comment:  annette
+comment:  gerard
+comment:  stefan
+comment:  levi
+comment:  monique
+comment:  michel
+comment:  daryl
+comment:  elena
+
+
+cluster  109 :
+comment:  pedagogical
+comment:  subtraction
+comment:  harmoniously
+comment:  tonality
+comment:  gradient
+comment:  prism
+comment:  pixel
+comment:  pixel
+comment:  smoothness
+comment:  wedge
+comment:  subtraction
+
+
+cluster  110 :
+comment:  klinkt
+comment:  goede
+comment:  nooit
+comment:  doet
+comment:  gaat
+comment:  zelf
+comment:  heeft
+comment:  gaan
+comment:  zelf
+comment:  daar
+comment:  prachtig
+comment:  eerste
+comment:  altijd
+comment:  zal
+comment:  inderdaad
+comment:  grappig
+comment:  geven
+comment:  alleen
+comment:  heeft
+comment:  prachtig
+comment:  prachtig
+comment:  keer
+comment:  gaan
+comment:  zeker
+comment:  zal
+comment:  eerste
+comment:  keer
+comment:  iemand
+comment:  zet
+
+
+cluster  111 :
+comment:  geht
+comment:  wir
+comment:  noch
+comment:  nicht
+comment:  nur
+comment:  mehr
+comment:  nur
+comment:  oder
+comment:  einfach
+comment:  nicht
+comment:  englisch
+comment:  dann
+comment:  machen
+comment:  eine
+comment:  auf
+comment:  nicht
+comment:  richtig
+comment:  einfach
+comment:  noch
+comment:  nicht
+comment:  aber
+comment:  sagt
+comment:  doch
+comment:  eine
+comment:  wenn
+comment:  sich
+comment:  eine
+comment:  sau
+
+
+cluster  112 :
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+comment:  good
+
+
+cluster  113 :
+comment:  assistant
+comment:  series
+comment:  rescue
+comment:  editor
+comment:  editor
+comment:  publication
+comment:  series
+comment:  editor
+comment:  winner
+
+
+cluster  114 :
+comment:  woon
+comment:  pluss
+comment:  heve
+comment:  pluss
+comment:  espectacular
+comment:  maravilloso
+comment:  colore
+comment:  peu
+comment:  cela
+comment:  haaaaa
+comment:  hartz
+comment:  pinna
+comment:  sach
+comment:  enthousiastic
+comment:  sog
+comment:  wurst
+comment:  astrophotographer
+
+
+cluster  115 :
+comment:  person
+comment:  situation
+comment:  change
+comment:  normal
+comment:  describe
+comment:  result
+comment:  usually
+comment:  step
+comment:  describe
+comment:  figure
+comment:  assume
+comment:  difference
+comment:  result
+comment:  figure
+comment:  result
+comment:  normal
+
+
+cluster  116 :
+comment:  vip
+comment:  les
+comment:  pdf
+comment:  prima
+comment:  con
+comment:  que
+comment:  les
+comment:  http
+comment:  alias
+comment:  www
+comment:  loli
+comment:  www
+comment:  com
+comment:  vip
+
+
+cluster  117 :
+comment:  impressive
+comment:  outstanding
+comment:  outstanding
+comment:  impressive
+comment:  excellent
+comment:  excellent
+comment:  excellent
+
+
+cluster  118 :
+comment:  danke
+comment:  danke
+comment:  muchas
+comment:  danke
+
+
+cluster  119 :
+comment:  sound
+comment:  sound
+comment:  sound
+comment:  strange
+comment:  sound
+comment:  sound
+
+
+cluster  120 :
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+comment:  pretty
+comment:  look
+comment:  look
+comment:  look
+comment:  look
+
+
+cluster  121 :
+comment:  exposure
+comment:  exposure
+comment:  exposure
+comment:  exposure
+comment:  exposure
+comment:  exposure
+comment:  exposure
+comment:  exposure
+comment:  exposure
+comment:  exposure
+
+
+cluster  122 :
+comment:  landscape
+comment:  backdrop
+comment:  landscape
+comment:  landscape
+comment:  landscape
+
+
+cluster  123 :
+comment:  photographer
+comment:  photographer
+comment:  photographer
+comment:  photographer
+comment:  photographer
+comment:  photographer
+comment:  photographer
+
+
+cluster  124 :
+comment:  joel
+comment:  joel
+comment:  joel
+comment:  joel
+comment:  shawn
+comment:  joel
+comment:  joel
+comment:  kurt
+comment:  kurt
+comment:  doug
+comment:  joel
+comment:  joel
+comment:  joel
+comment:  joel
+comment:  joel
+comment:  joel
+comment:  joel
+
+
+cluster  125 :
+comment:  schedule
+comment:  traveling
+comment:  minute
+comment:  school
+comment:  daily
+comment:  daily
+comment:  daily
+comment:  daily
+comment:  period
+comment:  hour
+comment:  final
+comment:  early
+comment:  daily
+comment:  daily
+
+
+cluster  126 :
+comment:  hot
+comment:  sexy
+comment:  super
+comment:  super
+comment:  super
+comment:  adorable
+
+
+cluster  127 :
+comment:  easy
+comment:  strong
+comment:  completely
+comment:  piece
+comment:  easy
+comment:  real
+comment:  real
+comment:  add
+comment:  choice
+comment:  choice
+comment:  useful
+comment:  add
+comment:  clear
+comment:  real
+comment:  useful
+comment:  create
+comment:  prefer
+comment:  choice
+comment:  add
+comment:  easy
+comment:  simple
+
+
+cluster  128 :
+comment:  chance
+comment:  come
+comment:  come
+comment:  soon
+comment:  come
+comment:  soon
+comment:  soon
+comment:  chance
+comment:  come
+comment:  soon
+comment:  come
+comment:  soon
+comment:  come
+comment:  bring
+comment:  soon
+comment:  finally
+comment:  soon
+comment:  soon
+comment:  bring
+comment:  come
+
+
+cluster  129 :
+comment:  soft
+comment:  soft
+comment:  smooth
+comment:  blend
+comment:  simplicity
+comment:  tone
+comment:  tone
+comment:  tone
+comment:  tone
+comment:  tone
+comment:  blend
+comment:  smooth
+comment:  subtle
+comment:  pure
+comment:  tone
+comment:  hint
+
+
+cluster  130 :
+comment:  join
+comment:  visit
+comment:  celebrate
+comment:  visit
+comment:  visit
+comment:  visit
+comment:  visit
+
+
+cluster  131 :
+comment:  new
+comment:  special
+comment:  special
+comment:  special
+comment:  new
+comment:  special
+comment:  new
+comment:  world
+comment:  new
+comment:  story
+comment:  new
+comment:  story
+
+
+cluster  132 :
+comment:  noise
+comment:  noise
+comment:  noise
+comment:  slower
+comment:  noise
+comment:  noise
+comment:  noise
+
+
+cluster  133 :
+comment:  guru
+comment:  guru
+comment:  cap
+comment:  cap
+comment:  bill
+comment:  gate
+comment:  continent
+comment:  shield
+comment:  dire
+comment:  rust
+comment:  rumor
+comment:  comp
+comment:  bent
+comment:  spec
+comment:  boom
+comment:  auto
+comment:  halt
+comment:  forwards
+comment:  bugger
+
+
+cluster  134 :
+comment:  job
+comment:  job
+comment:  job
+comment:  job
+comment:  job
+comment:  job
+
+
+cluster  135 :
+comment:  comment
+comment:  comment
+comment:  comment
+comment:  comment
+comment:  comment
+comment:  comment
+comment:  reply
+comment:  comment
+comment:  comment
+
+
+cluster  136 :
+comment:  goed
+comment:  weet
+comment:  maar
+comment:  weer
+comment:  weet
+comment:  mijn
+comment:  heb
+comment:  dus
+comment:  maar
+comment:  mijn
+comment:  toch
+comment:  maar
+comment:  kun
+comment:  lekker
+comment:  weer
+comment:  mijn
+comment:  moet
+comment:  idee
+comment:  maar
+comment:  mijn
+comment:  niet
+comment:  dus
+comment:  dus
+comment:  hoor
+comment:  goed
+
+
+cluster  137 :
+comment:  pain
+comment:  tip
+comment:  body
+comment:  earth
+comment:  finger
+comment:  cross
+comment:  mark
+comment:  mark
+comment:  reflection
+comment:  reflection
+comment:  magic
+comment:  mark
+comment:  magic
+comment:  bird
+comment:  circle
+comment:  body
+comment:  magic
+comment:  mood
+comment:  tip
+comment:  pain
+comment:  reflection
+comment:  reflection
+
+
+cluster  138 :
+comment:  consider
+comment:  simply
+comment:  simply
+comment:  simply
+comment:  consider
+comment:  simply
+comment:  simply
+comment:  possible
+
+
+cluster  139 :
+comment:  right
+comment:  certainly
+comment:  mention
+comment:  understand
+comment:  right
+comment:  right
+comment:  certainly
+comment:  people
+comment:  mean
+comment:  matter
+comment:  right
+comment:  exactly
+comment:  mind
+comment:  far
+comment:  people
+comment:  exactly
+comment:  moment
+comment:  mention
+comment:  right
+comment:  mind
+comment:  obvious
+comment:  certainly
+comment:  people
+comment:  doubt
+comment:  sense
+comment:  happen
+comment:  probably
+comment:  mention
+comment:  mean
+comment:  moment
+comment:  mind
+comment:  moment
+comment:  moment
+comment:  right
+comment:  expect
+comment:  probably
+comment:  exactly
+comment:  exactly
+
+
+cluster  140 :
+comment:  away
+comment:  start
+comment:  end
+comment:  rest
+comment:  turn
+comment:  end
+comment:  stop
+comment:  start
+comment:  half
+comment:  stand
+comment:  rest
+comment:  rest
+comment:  place
+comment:  place
+comment:  turn
+comment:  stop
+comment:  start
+comment:  start
+comment:  half
+comment:  point
+comment:  start
+comment:  stop
+comment:  rest
+comment:  sit
+comment:  start
+comment:  stop
+comment:  end
+comment:  start
+
+
+cluster  141 :
+comment:  fine
+comment:  fine
+comment:  perfectly
+comment:  fine
+comment:  nicely
+comment:  fine
+comment:  perfect
+comment:  fine
+comment:  fine
+comment:  fine
+comment:  perfect
+comment:  perfect
+
+
+cluster  142 :
+comment:  paul
+comment:  paul
+comment:  john
+comment:  michael
+comment:  michael
+comment:  chris
+comment:  chris
+comment:  david
+comment:  david
+comment:  david
+comment:  david
+comment:  matt
+comment:  matt
+comment:  david
+comment:  david
+comment:  chris
+comment:  chris
+comment:  michael
+comment:  michael
+comment:  david
+comment:  david
+comment:  michael
+comment:  michael
+comment:  michael
+comment:  michael
+comment:  michael
+comment:  chris
+comment:  tom
+comment:  tom
+
+
+cluster  143 :
+comment:  nguyen
+comment:  enzo
+comment:  ros
+comment:  halen
+comment:  nguyen
+comment:  orr
+comment:  nguyen
+comment:  lund
+comment:  nguyen
+comment:  nguyen
+comment:  nguyen
+comment:  tran
+
+
+cluster  144 :
+comment:  hien
+comment:  hoan
+comment:  renge
+comment:  hien
+comment:  hien
+comment:  hien
+comment:  hien
+comment:  satz
+comment:  hien
+comment:  hien
+
+
+cluster  145 :
+comment:  week
+comment:  month
+comment:  week
+comment:  week
+comment:  later
+comment:  year
+comment:  year
+comment:  week
+comment:  recently
+comment:  month
+comment:  week
+comment:  earlier
+comment:  week
+comment:  week
+
+
+cluster  146 :
+comment:  sir
+comment:  sir
+comment:  sir
+comment:  sir
+comment:  congrats
+
+
+cluster  147 :
+comment:  day
+comment:  day
+comment:  day
+comment:  day
+comment:  day
+comment:  day
+comment:  day
+comment:  day
+
+
+cluster  148 :
+comment:  lovely
+comment:  lovely
+comment:  lovely
+comment:  fabulous
+comment:  lovely
+comment:  lovely
+comment:  lovely
+comment:  lovely
+comment:  lovely
+comment:  lovely
+comment:  lovely
+comment:  lovely
+comment:  lovely
+comment:  lovely
+comment:  lovely
+
+
+cluster  149 :
+comment:  answer
+comment:  talk
+comment:  ask
+comment:  conversation
+comment:  explain
+comment:  talk
+comment:  talk
+comment:  ask
+
+
+cluster  150 :
+comment:  pier
+comment:  dock
+comment:  bay
+comment:  pier
+comment:  pier
+comment:  pier
+comment:  renovate
+comment:  stillness
+comment:  north
+
+
+cluster  151 :
+comment:  exciting
+comment:  enjoy
+comment:  enjoy
+comment:  fun
+comment:  exciting
+comment:  enjoy
+comment:  exciting
+comment:  enjoy
+comment:  fun
+comment:  fun
+comment:  favorite
+comment:  fun
+
+
+cluster  152 :
+comment:  hey
+comment:  hey
+comment:  btw
+comment:  lol
+comment:  hey
+comment:  hey
+comment:  yea
+comment:  hello
+comment:  yeah
+comment:  lol
+comment:  yep
+comment:  hey
+comment:  lol
+comment:  yeah
+comment:  hey
+comment:  lol
+comment:  haha
+
+
+cluster  153 :
+comment:  sharpen
+comment:  compose
+comment:  formidable
+comment:  motive
+comment:  artistry
+comment:  compose
+comment:  compose
+
+
+cluster  154 :
+comment:  select
+comment:  select
+comment:  include
+comment:  select
+
+
+cluster  155 :
+comment:  photography
+comment:  photography
+comment:  photography
+comment:  photography
+comment:  photography
+comment:  photography
+comment:  photography
+comment:  photography
+comment:  photography
+
+
+cluster  156 :
+comment:  word
+comment:  word
+comment:  word
+comment:  word
+comment:  word
+comment:  word
+comment:  word
+comment:  word
+
+
+cluster  157 :
+comment:  luck
+comment:  dear
+comment:  luck
+comment:  luck
+comment:  friend
+comment:  miss
+comment:  miss
+comment:  dear
+comment:  lucky
+comment:  dear
+comment:  friend
+
+
+cluster  158 :
+comment:  desperately
+comment:  disappear
+comment:  urge
+comment:  reject
+comment:  approve
+comment:  expectation
+comment:  frustration
+comment:  sentence
+comment:  patiently
+comment:  downside
+comment:  expectation
+comment:  settle
+comment:  settle
+
+
+cluster  159 :
+comment:  flipper
+comment:  bonito
+comment:  sublimely
+comment:  alps
+comment:  flipper
+comment:  magnificant
+
+
+cluster  160 :
+comment:  camera
+comment:  camera
+comment:  camera
+comment:  video
+comment:  video
+comment:  camera
+comment:  camera
+comment:  camera
+comment:  video
+comment:  camera
+comment:  camera
+
+
+cluster  161 :
+comment:  youssef
+comment:  sascha
+comment:  youssef
+comment:  bakker
+comment:  philipp
+comment:  mikko
+comment:  mikko
+comment:  bakker
+comment:  gruber
+comment:  gruber
+comment:  niklas
+comment:  gruber
+comment:  gruber
+comment:  youssef
+comment:  bakker
+comment:  mikko
+comment:  mikko
+comment:  matthias
+comment:  sofie
+comment:  sofie
+comment:  harte
+comment:  bakker
+comment:  sascha
+comment:  carsten
+comment:  kopp
+comment:  carsten
+comment:  gruber
+comment:  graaf
+
+
+cluster  162 :
+comment:  annoying
+comment:  nowadays
+comment:  lazy
+comment:  complain
+comment:  blame
+comment:  boring
+comment:  annoying
+comment:  annoying
+comment:  annoying
+comment:  annoying
+
+
+cluster  163 :
+comment:  belle
+comment:  bravo
+comment:  tnx
+comment:  bravo
+
+
+cluster  164 :
+comment:  organize
+comment:  event
+comment:  local
+comment:  session
+comment:  board
+comment:  currently
+comment:  ongoing
+comment:  student
+comment:  issue
+comment:  group
+comment:  priority
+comment:  issue
+comment:  social
+comment:  contribution
+comment:  student
+comment:  group
+comment:  department
+caption 0 inside the median of cluster: 86 caption: 1.65776407916 median: 1.65776407916
+caption 1 inside the median of cluster: 62 caption: 2.44618569226 median: 2.44618569226
+caption 2 inside the median of cluster: 97 caption: 2.59363277747 median: 2.9621411179
