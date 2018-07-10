@@ -170,13 +170,13 @@ def plot_cluster(matrix_comment,labels,predicted_label, centers,img_id, matrix_c
 		dim reduction on the whole matrix in a 2D as we're plotting points in a two-dimensional plane
 		t-sne used to apply dim reduction
 	"""
-	#pca_model = PCA(n_components=2)
+	pca_model = PCA(n_components=2)
 	
-	tsne_model = TSNE(n_components=2, perplexity=30.0, learning_rate=400.0, metric='euclidean', random_state=0)
+	#tsne_model = TSNE(n_components=2, perplexity=30.0, learning_rate=400.0, metric='euclidean', random_state=0)
 	#mds_model = MDS(n_components=2, metric='euclidean', random_state=1)
 	dense_mat= plot_matrix.toarray()
-	plot_matrix_embedded =tsne_model.fit_transform(dense_mat)
-	#plot_matrix_embedded=pca_model.fit_transform(dense_mat)
+	#plot_matrix_embedded =tsne_model.fit_transform(dense_mat)
+	plot_matrix_embedded=pca_model.fit_transform(dense_mat)
 
 	
 	"""
@@ -196,6 +196,7 @@ def plot_cluster(matrix_comment,labels,predicted_label, centers,img_id, matrix_c
 	scatter_cent_x= plot_matrix_embedded[cap_range_max:, 0]
 	scatter_cent_y= plot_matrix_embedded[cap_range_max:, 1]
 	
+	
 
 	#plot COMMENT 
 	fig, ax = plt.subplots()
@@ -209,7 +210,6 @@ def plot_cluster(matrix_comment,labels,predicted_label, centers,img_id, matrix_c
 		y_comm=scatter_comm_y[ix]
 		c_x=np.mean(x_comm)
 		c_y=np.mean(y_comm)
-		print "c_x: ", c_x, "c_y: ", c_y
 		for i,j in zip(x_comm, y_comm):
 			x_cent=scatter_cent_x[l]
 			y_cent=scatter_cent_y[l]
@@ -224,8 +224,8 @@ def plot_cluster(matrix_comment,labels,predicted_label, centers,img_id, matrix_c
 			dist_comm_cent.append(dist)
 		#mean=sum(dist_comm_cent) / float(len(dist_comm_cent))
 		median=statistics.median(dist_comm_cent)
-		ax.scatter(c_x,c_y, color='black', s=60, alpha=0.7)
-		circle = Circle((c_x, c_y), median, color = cdict[l], alpha=0.3)
+		ax.scatter(c_x,c_y, color='black', s=30, alpha=0.8)
+		circle = Circle((c_x, c_y), median, color = cdict[l], alpha=0.4)
 		ax.add_artist(circle)
 		ax.text(c_x,c_y,counter_cent, size=12)
 		counter_cent+=1
@@ -249,10 +249,11 @@ def plot_cluster(matrix_comment,labels,predicted_label, centers,img_id, matrix_c
 	caption = caption.split()
 	for i, caption in enumerate(caption_list):
 		c=predicted_label[i]
-		plt.scatter(scatter_cap_x[i],scatter_cap_y[i],  s=110, color=cdict[c], marker='+')
+		plt.scatter(scatter_cap_x[i],scatter_cap_y[i],  s=80, color=cdict[c], marker='+')
 		plt.text(scatter_cap_x[i],scatter_cap_y[i], caption_list[i], size=14)
 	
-	plt.savefig('median_tsne_'+str(img_id) + '.pdf', bbox_inches='tight')
+	plt.savefig('/home/fhoxha/Documents/Virality/results/median_tsne_'+str(img_id) + '.pdf', bbox_inches='tight')
+	#lt.savefig('/home/fhoxha/Documents/Virality/results/median_tsne_'+str(img_id) + '.pdf', format='pdf', dpi=1000, box_inches='tight')
 	plt.show()
 
 if __name__ == "__main__":
@@ -422,7 +423,15 @@ if __name__ == "__main__":
 							counter+=1
 				"""
 		
-				plot_cluster(matrix_comment, labels,predicted_label, centers, img_id, matrix_caption, caption_clean, comment_clean) 
+				#plot_cluster(matrix_comment, labels,predicted_label, centers, img_id, matrix_caption, caption_clean, comment_clean) 
+				#plot TSNE with precomputed centroid
+				plot_cluster_TSNE(matrix_comment, labels,predicted_label, centers, img_id, matrix_caption, caption_clean, comment_clean) 
+				#plot TSNE with computed centroid
+				plot_cluster_TSNE_comp(matrix_comment, labels,predicted_label, centers, img_id, matrix_caption, caption_clean, comment_clean)
+				#plot PCA with precomputed centroid
+				plot_cluster_PCA(matrix_comment, labels,predicted_label, centers, img_id, matrix_caption, caption_clean, comment_clean) 
+				#plot PCA with computed centroid
+				plot_cluster_PCA_comp(matrix_comment, labels,predicted_label, centers, img_id, matrix_caption, caption_clean, comment_clean) 
 			else:
 				print "number of cluster <2, not enough words in the comment"
 			#print "--------------------------------------------------
